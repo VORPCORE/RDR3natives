@@ -1,0 +1,70 @@
+name: Merge natives, validate and create a release
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  run-merge-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install jsonschema
+
+    - name: Run merge.py
+      run: |
+        python merge.py
+
+    - name: Validate JSON
+      uses: docker://orrosenblatt/validate-json-action:latest
+      env:
+        INPUT_SCHEMA: ./schema.json
+        INPUT_JSONS: ./rdr3natives.json
+
+    - name: Commit and push changes
+      if: success()
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add rdr3natives.json
+        git commit -m "Update rdr3natives.json with new data"
+        git push origin HEAD:main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.sha }}
+        release_name: Release ${{ github.sha }}
+        draft: false
+        prerelease: false
+        generate_release_notes: true
+
+    - name: Upload rdr3natives.json to Release
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./rdr3natives.json
+        asset_name: rdr3natives.json
+        asset_content_type: application/json
