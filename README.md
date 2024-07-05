@@ -10,4 +10,4 @@ Since there is no official Cfx documentation and likely never will be, we decide
 
 ### Credits
 - Cfx 
-- alloc8or naive DB
+- alloc8or native DB
