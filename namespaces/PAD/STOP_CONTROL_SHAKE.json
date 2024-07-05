@@ -1,0 +1,16 @@
+{
+    "0x38C16A305E8CDC8D": {
+        "name": "STOP_CONTROL_SHAKE",
+        "comment": "Old name: STOP_PAD_SHAKE",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x38C16A305E8CDC8D",
+        "gta_jhash": ""
+    }
+}

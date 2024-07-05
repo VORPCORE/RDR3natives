@@ -1,0 +1,14 @@
+{
+    "0xCE7690C0A0D1C36D": {
+        "name": "_CLEAR_WEATHER_TYPE_PERSIST_OVERTIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "milliseconds"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

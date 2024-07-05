@@ -1,0 +1,14 @@
+{
+    "0xBD3C4A2ED509205E": {
+        "name": "_HAS_TRAIN_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

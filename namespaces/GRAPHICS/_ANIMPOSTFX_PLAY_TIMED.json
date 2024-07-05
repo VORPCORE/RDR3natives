@@ -1,0 +1,18 @@
+{
+    "0x3A9A281FF71249E9": {
+        "name": "_ANIMPOSTFX_PLAY_TIMED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

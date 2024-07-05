@@ -1,0 +1,20 @@
+{
+    "0x98AF2BB6F62BD588": {
+        "name": "REGISTER_NAMED_RENDERTARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x57D9C12635E25CE3",
+        "gta_jhash": "0xFAE5D6F0"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xAE7E66A61E7C17A5": {
+        "name": "_0xAE7E66A61E7C17A5",
+        "comment": "_SET_TRAIN_*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

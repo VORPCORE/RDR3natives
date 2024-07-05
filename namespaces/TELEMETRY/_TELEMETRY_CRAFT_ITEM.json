@@ -1,0 +1,26 @@
+{
+    "0x78C2E029DB205A3A": {
+        "name": "_TELEMETRY_CRAFT_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "quantity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

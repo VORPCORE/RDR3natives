@@ -1,0 +1,9 @@
+{
+    "0xBB51299166B844F3": {
+        "name": "NETWORK_AUTO_SESSION_FINISH_INSTANCE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

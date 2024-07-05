@@ -1,0 +1,30 @@
+{
+    "0xE8A8378BF651079C": {
+        "name": "_GET_ENTITY_MASK_LAYERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float*",
+                "name": "layer0"
+            },
+            {
+                "type": "float*",
+                "name": "layer1"
+            },
+            {
+                "type": "float*",
+                "name": "layer2"
+            },
+            {
+                "type": "float*",
+                "name": "layer3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

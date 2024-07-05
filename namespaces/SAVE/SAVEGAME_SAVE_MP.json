@@ -1,0 +1,14 @@
+{
+    "0x1840F3B30ED0105F": {
+        "name": "SAVEGAME_SAVE_MP",
+        "comment": "See SAVEGAME_SAVE_SP",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "savegameType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

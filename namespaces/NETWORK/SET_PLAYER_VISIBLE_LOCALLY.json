@@ -1,0 +1,20 @@
+{
+    "0xFAA10F1FAFB11AF2": {
+        "name": "SET_PLAYER_VISIBLE_LOCALLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xFAA10F1FAFB11AF2",
+        "gta_jhash": "0xBA2BB4B4"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xF7EA250B9A919E03": {
+        "name": "_REQUEST_MOTION_TYPE_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "nameHash"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x0D0AE5081F88CFE1": {
+        "name": "_0x0D0AE5081F88CFE1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

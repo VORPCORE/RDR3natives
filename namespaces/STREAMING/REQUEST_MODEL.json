@@ -1,0 +1,20 @@
+{
+    "0xFA28FE3A6246FC30": {
+        "name": "REQUEST_MODEL",
+        "comment": "Request a model to be loaded into memory.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x963D27A58DF860AC",
+        "gta_jhash": "0xFFF1B500"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x0C827D175F1292F4": {
+        "name": "_DATABINDING_ADD_DATA_CONTAINER_FROM_PATH",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

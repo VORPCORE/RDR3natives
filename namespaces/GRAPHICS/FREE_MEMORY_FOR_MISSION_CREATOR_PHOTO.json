@@ -1,0 +1,11 @@
+{
+    "0x7DFF8F94937D2659": {
+        "name": "FREE_MEMORY_FOR_MISSION_CREATOR_PHOTO",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0A46AF8A78DC5E0A",
+        "gta_jhash": "0x9E553002"
+    }
+}

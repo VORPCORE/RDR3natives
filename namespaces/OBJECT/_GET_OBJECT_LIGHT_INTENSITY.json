@@ -1,0 +1,14 @@
+{
+    "0x3397CD4E0353DFBA": {
+        "name": "_GET_OBJECT_LIGHT_INTENSITY",
+        "comment": "Returns float value to be used with _SET_LIGHT_INTENSITY_FOR_OBJECT",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

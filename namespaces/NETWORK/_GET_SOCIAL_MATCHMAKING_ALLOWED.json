@@ -1,0 +1,9 @@
+{
+    "0xD0541EF28E9C4783": {
+        "name": "_GET_SOCIAL_MATCHMAKING_ALLOWED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x818C6CA9B659E8EC": {
+        "name": "_CLOSE_UIAPP",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "appName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

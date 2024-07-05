@@ -1,0 +1,28 @@
+{
+    "0x3B3CAD6166916D87": {
+        "name": "PRELOAD_SCRIPT_CONVERSATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "convoRoot"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "clone"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3B3CAD6166916D87",
+        "gta_jhash": "0xDDF5C579"
+    }
+}

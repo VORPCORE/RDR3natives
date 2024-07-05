@@ -1,0 +1,16 @@
+{
+    "0xB464EB6A40C7975B": {
+        "name": "GET_PLAYER_TEAM",
+        "comment": "Gets the player's team.\nReturns -1 in singleplayer.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x37039302F4E0A008",
+        "gta_jhash": "0x9873E404"
+    }
+}

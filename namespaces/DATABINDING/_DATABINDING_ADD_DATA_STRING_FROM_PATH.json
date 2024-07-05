@@ -1,0 +1,22 @@
+{
+    "0xA381DE86EE170C4A": {
+        "name": "_DATABINDING_ADD_DATA_STRING_FROM_PATH",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

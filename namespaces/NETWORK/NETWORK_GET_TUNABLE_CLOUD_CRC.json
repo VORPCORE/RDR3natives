@@ -1,0 +1,11 @@
+{
+    "0x10BD227A753B0D84": {
+        "name": "NETWORK_GET_TUNABLE_CLOUD_CRC",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1436",
+        "gta_hash": "0x10BD227A753B0D84",
+        "gta_jhash": "0x231CFD12"
+    }
+}

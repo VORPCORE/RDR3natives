@@ -1,0 +1,26 @@
+{
+    "0x9D21B185ABC2DBC5": {
+        "name": "_0x9D21B185ABC2DBC5",
+        "comment": "p2: 0\np3: -1\nReturns databindingEntryId to be used with 0x75CFAC49301E134E (p0)",
+        "params": [
+            {
+                "type": "Any",
+                "name": "data"
+            },
+            {
+                "type": "const char*",
+                "name": "stats"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

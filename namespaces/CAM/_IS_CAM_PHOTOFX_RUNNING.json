@@ -1,0 +1,9 @@
+{
+    "0xA14D5FE82BCB1D9E": {
+        "name": "_IS_CAM_PHOTOFX_RUNNING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

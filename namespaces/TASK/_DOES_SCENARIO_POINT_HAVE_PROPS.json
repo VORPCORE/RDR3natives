@@ -1,0 +1,14 @@
+{
+    "0xEA31F199A73801D3": {
+        "name": "_DOES_SCENARIO_POINT_HAVE_PROPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

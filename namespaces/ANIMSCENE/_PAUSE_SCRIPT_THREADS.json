@@ -1,0 +1,14 @@
+{
+    "0x37C1257849DEF24A": {
+        "name": "_PAUSE_SCRIPT_THREADS",
+        "comment": "Pauses all script threads except the one that called it.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

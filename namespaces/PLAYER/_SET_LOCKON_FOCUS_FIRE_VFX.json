@@ -1,0 +1,18 @@
+{
+    "0x5F8E0303C229C84B": {
+        "name": "_SET_LOCKON_FOCUS_FIRE_VFX",
+        "comment": "Focus Fire VFX start for player: p1 = focusfire",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x9BEE018A63FFFAD9": {
+        "name": "_TELEMETRY_SET_IS_FLOW",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

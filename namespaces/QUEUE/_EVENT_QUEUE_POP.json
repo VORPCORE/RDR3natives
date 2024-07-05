@@ -1,0 +1,14 @@
+{
+    "0xD87DF294B049211D": {
+        "name": "_EVENT_QUEUE_POP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

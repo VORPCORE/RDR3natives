@@ -1,0 +1,18 @@
+{
+    "0xCB690F680A3EA971": {
+        "name": "IS_PED_ARMED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

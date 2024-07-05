@@ -1,0 +1,20 @@
+{
+    "0xB5EC6BDAEBCA454C": {
+        "name": "SET_PLAYER_NOISE_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDB89EF50FF25FCE9",
+        "gta_jhash": "0x15786DD1"
+    }
+}

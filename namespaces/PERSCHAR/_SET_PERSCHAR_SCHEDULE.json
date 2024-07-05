@@ -1,0 +1,18 @@
+{
+    "0x187D65F3AEC5D679": {
+        "name": "_SET_PERSCHAR_SCHEDULE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "persCharHash"
+            },
+            {
+                "type": "const char*",
+                "name": "schedule"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

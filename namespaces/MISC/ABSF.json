@@ -1,0 +1,16 @@
+{
+    "0x134549B388167CBF": {
+        "name": "ABSF",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x73D57CFFDD12C355",
+        "gta_jhash": "0xAF6F6E0B"
+    }
+}

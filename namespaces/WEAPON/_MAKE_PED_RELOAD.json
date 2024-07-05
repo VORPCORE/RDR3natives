@@ -1,0 +1,14 @@
+{
+    "0x79E1E511FF7EFB13": {
+        "name": "_MAKE_PED_RELOAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x23083260DEC3A551": {
+        "name": "ADD_PATROL_ROUTE_LINK",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "node1"
+            },
+            {
+                "type": "int",
+                "name": "node2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x23083260DEC3A551",
+        "gta_jhash": "0xD8761BB3"
+    }
+}

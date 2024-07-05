@@ -1,0 +1,14 @@
+{
+    "0x725D52F21A5E9E07": {
+        "name": "COMPENDIUM_GANG_MEMBER_KILLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

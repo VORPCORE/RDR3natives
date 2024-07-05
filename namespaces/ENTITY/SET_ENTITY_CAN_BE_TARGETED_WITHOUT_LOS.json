@@ -1,0 +1,20 @@
+{
+    "0x6D09F32E284D0FB7": {
+        "name": "SET_ENTITY_CAN_BE_TARGETED_WITHOUT_LOS",
+        "comment": "Sets whether the entity can be targeted without being in line-of-sight.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD3997889736FD899",
+        "gta_jhash": "0x3B13797C"
+    }
+}

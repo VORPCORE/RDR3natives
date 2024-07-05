@@ -1,0 +1,14 @@
+{
+    "0x79C2BEC82CFD7F7F": {
+        "name": "_IS_ROPE_BROKEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

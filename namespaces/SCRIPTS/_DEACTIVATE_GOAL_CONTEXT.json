@@ -1,0 +1,14 @@
+{
+    "0x50B72A754EE64A71": {
+        "name": "_DEACTIVATE_GOAL_CONTEXT",
+        "comment": "goalContext: see _ACTIVATE_GOAL_CONTEXT",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "goalContext"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

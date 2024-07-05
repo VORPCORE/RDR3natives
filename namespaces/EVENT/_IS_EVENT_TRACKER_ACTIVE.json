@@ -1,0 +1,18 @@
+{
+    "0x797B3D4D92E56094": {
+        "name": "_IS_EVENT_TRACKER_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "eventName"
+            },
+            {
+                "type": "Hash",
+                "name": "shockingEvent"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

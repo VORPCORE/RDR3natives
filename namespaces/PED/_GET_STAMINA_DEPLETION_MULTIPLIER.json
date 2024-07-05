@@ -1,0 +1,14 @@
+{
+    "0x825F6DD559A0895B": {
+        "name": "_GET_STAMINA_DEPLETION_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

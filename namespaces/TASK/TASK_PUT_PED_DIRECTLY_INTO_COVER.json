@@ -1,0 +1,64 @@
+{
+    "0x4172393E6BE1FECE": {
+        "name": "TASK_PUT_PED_DIRECTLY_INTO_COVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "timeout"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            },
+            {
+                "type": "ScrHandle",
+                "name": "coverpoint"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            },
+            {
+                "type": "Any",
+                "name": "p12"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4172393E6BE1FECE",
+        "gta_jhash": "0xC9F00E68"
+    }
+}

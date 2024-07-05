@@ -1,0 +1,16 @@
+{
+    "0x55123D5A7D9D3C42": {
+        "name": "WATER_OVERRIDE_SET_SHOREWAVEAMPLITUDE",
+        "comment": "Only used in smuggler2 script",
+        "params": [
+            {
+                "type": "float",
+                "name": "amplitude"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB8F87EAD7533B176",
+        "gta_jhash": "0x625181DC"
+    }
+}

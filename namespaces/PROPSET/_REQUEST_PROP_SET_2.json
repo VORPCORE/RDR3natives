@@ -1,0 +1,14 @@
+{
+    "0xE72F591958F3ACAB": {
+        "name": "_REQUEST_PROP_SET_2",
+        "comment": "Same as _REQUEST_PROP_SET",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

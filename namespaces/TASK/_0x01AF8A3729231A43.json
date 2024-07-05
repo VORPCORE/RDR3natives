@@ -1,0 +1,14 @@
+{
+    "0x01AF8A3729231A43": {
+        "name": "_0x01AF8A3729231A43",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

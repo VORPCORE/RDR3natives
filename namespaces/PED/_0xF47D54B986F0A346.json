@@ -1,0 +1,18 @@
+{
+    "0xF47D54B986F0A346": {
+        "name": "_0xF47D54B986F0A346",
+        "comment": "Used in Script Function MOONSHINE_BAND_CLIENT_PATRON_UPDATE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "danceIntensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

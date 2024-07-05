@@ -1,0 +1,28 @@
+{
+    "0xF538081986E49E9D": {
+        "name": "SET_FORCE_OBJECT_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF538081986E49E9D",
+        "gta_jhash": "0x3DA41C1A"
+    }
+}

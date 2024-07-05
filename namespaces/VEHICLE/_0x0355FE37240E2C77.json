@@ -1,0 +1,18 @@
+{
+    "0x0355FE37240E2C77": {
+        "name": "_0x0355FE37240E2C77",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

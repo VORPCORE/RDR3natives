@@ -1,0 +1,22 @@
+{
+    "0x37BB86A751148A6A": {
+        "name": "_DATABINDING_ADD_DATA_BOOL_FROM_PATH",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

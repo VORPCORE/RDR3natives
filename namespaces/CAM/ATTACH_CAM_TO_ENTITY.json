@@ -1,0 +1,36 @@
+{
+    "0xFDC0DF7F6FB0A592": {
+        "name": "ATTACH_CAM_TO_ENTITY",
+        "comment": "Last param determines if its relative to the Entity",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            },
+            {
+                "type": "BOOL",
+                "name": "isRelative"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xFEDB7D269E8C60E3",
+        "gta_jhash": "0xAD7C45F6"
+    }
+}

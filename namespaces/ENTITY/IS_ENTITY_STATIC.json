@@ -1,0 +1,16 @@
+{
+    "0x86468ADFA0F6B861": {
+        "name": "IS_ENTITY_STATIC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1218E6886D3D8327",
+        "gta_jhash": "0x928E12E9"
+    }
+}

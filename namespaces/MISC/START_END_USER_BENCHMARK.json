@@ -1,0 +1,11 @@
+{
+    "0x29D1F6DF864A094E": {
+        "name": "START_END_USER_BENCHMARK",
+        "comment": "Begins with START_*. Next character in the name is either D or E.\n\nOld name: _START_BENCHMARK_RECORDING",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x92790862E36C2ADA",
+        "gta_jhash": ""
+    }
+}

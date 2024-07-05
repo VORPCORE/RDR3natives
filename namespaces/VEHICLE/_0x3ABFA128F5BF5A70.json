@@ -1,0 +1,22 @@
+{
+    "0x3ABFA128F5BF5A70": {
+        "name": "_0x3ABFA128F5BF5A70",
+        "comment": "Called together with 0xE6C5E2125EB210C1 in R* Script medium_update",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "trainTrack"
+            },
+            {
+                "type": "int",
+                "name": "junctionIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

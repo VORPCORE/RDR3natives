@@ -1,0 +1,14 @@
+{
+    "0x095C2277FED731DB": {
+        "name": "_0x095C2277FED731DB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

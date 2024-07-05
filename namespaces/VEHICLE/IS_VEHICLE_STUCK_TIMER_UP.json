@@ -1,0 +1,24 @@
+{
+    "0x1ABA9753939503C5": {
+        "name": "IS_VEHICLE_STUCK_TIMER_UP",
+        "comment": "VEH_STUCK_ON_ROOF = 0,\nVEH_STUCK_ON_SIDE,\nVEH_STUCK_HUNG_UP,\nVEH_STUCK_JAMMED",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "stuckType"
+            },
+            {
+                "type": "int",
+                "name": "ms"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x679BE1DAF71DA874",
+        "gta_jhash": "0x2FCF58C1"
+    }
+}

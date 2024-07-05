@@ -1,0 +1,18 @@
+{
+    "0xF49574E2332A8F06": {
+        "name": "_SET_LIGHT_INTENSITY_FOR_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "lightIntensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

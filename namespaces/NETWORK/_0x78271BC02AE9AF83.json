@@ -1,0 +1,14 @@
+{
+    "0x78271BC02AE9AF83": {
+        "name": "_0x78271BC02AE9AF83",
+        "comment": "Note: this native was added in build 1436.31",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1436"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xED591CB17C8BA216": {
+        "name": "_SET_DAMAGE_FAR_DISTANCE_BONUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "farRangeLowerBound"
+            },
+            {
+                "type": "float",
+                "name": "farRangeUpperBound"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

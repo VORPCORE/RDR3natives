@@ -1,0 +1,14 @@
+{
+    "0xE1D356F5A66D0FFA": {
+        "name": "_0xE1D356F5A66D0FFA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "emote"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

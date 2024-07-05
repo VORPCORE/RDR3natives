@@ -1,0 +1,22 @@
+{
+    "0x1D77B47AFA584E90": {
+        "name": "_SPECIAL_ABILITY_START_RESTORE",
+        "comment": "Params: p1 = -1 in R* Scripts",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

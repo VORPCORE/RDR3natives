@@ -1,0 +1,22 @@
+{
+    "0x684C96CC7C66E8EF": {
+        "name": "_UI_PROMPT_ADD_GROUP_LINK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

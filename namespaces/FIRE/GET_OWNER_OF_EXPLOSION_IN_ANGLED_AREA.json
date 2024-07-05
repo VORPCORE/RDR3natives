@@ -1,0 +1,44 @@
+{
+    "0x8002DDAB58594D78": {
+        "name": "GET_OWNER_OF_EXPLOSION_IN_ANGLED_AREA",
+        "comment": "explosionType: see ADD_EXPLOSION",
+        "params": [
+            {
+                "type": "int",
+                "name": "explosionType"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207",
+        "gta_hash": "0x14BA4BA137AF6CEC",
+        "gta_jhash": "0xAEC0D176"
+    }
+}

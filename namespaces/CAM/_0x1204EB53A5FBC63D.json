@@ -1,0 +1,9 @@
+{
+    "0x1204EB53A5FBC63D": {
+        "name": "_0x1204EB53A5FBC63D",
+        "comment": "Used for DUELING_LOCK_CAMERA_CONTROLS_THIS_FRAME: Disabling look/aim controls\n_IS_SC(REEN_)* (?)",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "0x0BCD4091C8EABA42": {
+        "name": "_CREATE_META_PED",
+        "comment": "Only used in SP scripts, for example odriscolls1: BOOLS: true, true, true, false, false",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

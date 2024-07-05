@@ -1,0 +1,16 @@
+{
+    "0x8ABFB70C49CC43E2": {
+        "name": "HAS_OBJECT_BEEN_BROKEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x8ABFB70C49CC43E2",
+        "gta_jhash": "0xFE21F891"
+    }
+}

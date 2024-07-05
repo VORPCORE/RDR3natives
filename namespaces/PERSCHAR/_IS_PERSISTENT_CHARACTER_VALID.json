@@ -1,0 +1,14 @@
+{
+    "0x800DF3FC913355F3": {
+        "name": "_IS_PERSISTENT_CHARACTER_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x8E8A2369F48EC839": {
+        "name": "EVENTS_UI_POP_MESSAGE",
+        "comment": "Old name: _EVENT_MANAGER_POP_EVENT",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

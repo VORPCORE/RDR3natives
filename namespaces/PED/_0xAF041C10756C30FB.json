@@ -1,0 +1,26 @@
+{
+    "0xAF041C10756C30FB": {
+        "name": "_0xAF041C10756C30FB",
+        "comment": "_CLEAR_PED_D*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

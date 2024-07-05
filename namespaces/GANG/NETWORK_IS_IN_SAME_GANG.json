@@ -1,0 +1,18 @@
+{
+    "0x3F59FE6F37869576": {
+        "name": "NETWORK_IS_IN_SAME_GANG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player1"
+            },
+            {
+                "type": "Player",
+                "name": "player2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

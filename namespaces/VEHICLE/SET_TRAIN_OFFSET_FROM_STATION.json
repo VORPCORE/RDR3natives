@@ -1,0 +1,18 @@
+{
+    "0x8EC47DD4300BF063": {
+        "name": "SET_TRAIN_OFFSET_FROM_STATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "float",
+                "name": "offset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

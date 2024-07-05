@@ -1,0 +1,16 @@
+{
+    "0x00A9010CFE1E3533": {
+        "name": "GET_SEQUENCE_PROGRESS",
+        "comment": "returned values:\n0 to 7 = task that's currently in progress, 0 meaning the first one.\n-1 no task sequence in progress.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x00A9010CFE1E3533",
+        "gta_jhash": "0xA3419909"
+    }
+}

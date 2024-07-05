@@ -1,0 +1,18 @@
+{
+    "0xDACE03C65C6666DB": {
+        "name": "_SET_PED_DAMAGED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "damaged"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

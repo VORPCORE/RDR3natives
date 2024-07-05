@@ -1,0 +1,22 @@
+{
+    "0x1D931B7CC0EE3956": {
+        "name": "_0x1D931B7CC0EE3956",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "dictionary"
+            },
+            {
+                "type": "const char*",
+                "name": "shotName"
+            },
+            {
+                "type": "const char*",
+                "name": "cameraName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1436"
+    }
+}

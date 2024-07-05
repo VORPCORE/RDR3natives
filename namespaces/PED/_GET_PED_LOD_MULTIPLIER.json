@@ -1,0 +1,14 @@
+{
+    "0x1B710E6F4AB69341": {
+        "name": "_GET_PED_LOD_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1355"
+    }
+}

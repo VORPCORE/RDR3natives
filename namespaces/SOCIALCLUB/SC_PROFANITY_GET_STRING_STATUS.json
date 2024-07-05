@@ -1,0 +1,16 @@
+{
+    "0x0CF3BFB99EBBE5B1": {
+        "name": "SC_PROFANITY_GET_STRING_STATUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x930DE22F07B1CCE3",
+        "gta_jhash": "0x4D8A6521"
+    }
+}

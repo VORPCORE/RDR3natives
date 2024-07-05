@@ -1,0 +1,20 @@
+{
+    "0x3CB9E8BDE5E76F33": {
+        "name": "SET_CAM_AFFECTS_AIMING",
+        "comment": "Allows you to aim and shoot at the direction the camera is facing.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8C1DC7770C51DC8D",
+        "gta_jhash": "0x0C74F9AF"
+    }
+}

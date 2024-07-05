@@ -1,0 +1,16 @@
+{
+    "0xC024869A53992F34": {
+        "name": "IS_PED_SWIMMING_UNDER_WATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xC024869A53992F34",
+        "gta_jhash": "0x0E8D524F"
+    }
+}

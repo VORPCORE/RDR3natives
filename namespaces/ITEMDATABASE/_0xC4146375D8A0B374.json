@@ -1,0 +1,26 @@
+{
+    "0xC4146375D8A0B374": {
+        "name": "_0xC4146375D8A0B374",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "bundle"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1355"
+    }
+}

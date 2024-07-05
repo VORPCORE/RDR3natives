@@ -1,0 +1,20 @@
+{
+    "0x648EE3E7F38877DD": {
+        "name": "IS_CONTROL_RELEASED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "Hash",
+                "name": "action"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x648EE3E7F38877DD",
+        "gta_jhash": "0x1F91A06E"
+    }
+}

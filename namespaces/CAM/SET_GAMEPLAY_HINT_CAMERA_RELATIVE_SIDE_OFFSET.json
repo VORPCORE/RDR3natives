@@ -1,0 +1,16 @@
+{
+    "0xF86B6F93727C59C9": {
+        "name": "SET_GAMEPLAY_HINT_CAMERA_RELATIVE_SIDE_OFFSET",
+        "comment": "Old name: _SET_GAMEPLAY_HINT_ANIM_OFFSETX",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5D7B620DAE436138",
+        "gta_jhash": "0xFC7464A0"
+    }
+}

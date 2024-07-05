@@ -1,0 +1,14 @@
+{
+    "0x406808610220405B": {
+        "name": "_0x406808610220405B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

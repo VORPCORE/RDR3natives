@@ -1,0 +1,20 @@
+{
+    "0x74583B19FEEAFDA7": {
+        "name": "GET_LAST_PED_IN_VEHICLE_SEAT",
+        "comment": "seatIndex: see CREATE_PED_INSIDE_VEHICLE",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207",
+        "gta_hash": "0x83F969AA1EE2A664",
+        "gta_jhash": "0xF7C6792D"
+    }
+}

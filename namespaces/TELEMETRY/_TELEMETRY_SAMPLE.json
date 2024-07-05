@@ -1,0 +1,30 @@
+{
+    "0x61559675D23D8BD1": {
+        "name": "_TELEMETRY_SAMPLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "transactionId"
+            },
+            {
+                "type": "Any",
+                "name": "animal"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "bSampled"
+            },
+            {
+                "type": "BOOL",
+                "name": "bTranq"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

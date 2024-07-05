@@ -1,0 +1,18 @@
+{
+    "0xF9CFF5BB70E8A2CB": {
+        "name": "_0xF9CFF5BB70E8A2CB",
+        "comment": "_SET_PED_WETNESS*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

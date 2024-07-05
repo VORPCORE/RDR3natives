@@ -1,0 +1,18 @@
+{
+    "0x565C1CE183CB0EAF": {
+        "name": "_UI_PROMPT_SET_ALLOWED_ACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "Hash",
+                "name": "action"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

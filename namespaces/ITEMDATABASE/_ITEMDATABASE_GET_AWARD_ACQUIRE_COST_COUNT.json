@@ -1,0 +1,14 @@
+{
+    "0x12DF9C58201DD19A": {
+        "name": "_ITEMDATABASE_GET_AWARD_ACQUIRE_COST_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "key"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311"
+    }
+}

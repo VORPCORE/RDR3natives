@@ -1,0 +1,28 @@
+{
+    "0x8AE059F47158417E": {
+        "name": "SCRIPT_RACE_INIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "numCheckpoints"
+            },
+            {
+                "type": "int",
+                "name": "numLaps"
+            },
+            {
+                "type": "int",
+                "name": "numPlayers"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0A60017F841A54F2",
+        "gta_jhash": "0x2D33F15A"
+    }
+}

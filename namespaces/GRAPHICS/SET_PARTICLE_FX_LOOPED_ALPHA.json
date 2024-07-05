@@ -1,0 +1,20 @@
+{
+    "0x88786E76234F7054": {
+        "name": "SET_PARTICLE_FX_LOOPED_ALPHA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x726845132380142E",
+        "gta_jhash": "0x5ED49BE1"
+    }
+}

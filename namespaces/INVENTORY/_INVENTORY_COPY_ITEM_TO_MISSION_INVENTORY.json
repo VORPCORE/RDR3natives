@@ -1,0 +1,18 @@
+{
+    "0x3112ADB9D5F3426B": {
+        "name": "_INVENTORY_COPY_ITEM_TO_MISSION_INVENTORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

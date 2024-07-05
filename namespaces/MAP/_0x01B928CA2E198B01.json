@@ -1,0 +1,14 @@
+{
+    "0x01B928CA2E198B01": {
+        "name": "_0x01B928CA2E198B01",
+        "comment": "_CLEAR*",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

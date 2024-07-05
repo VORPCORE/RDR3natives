@@ -1,0 +1,14 @@
+{
+    "0x833D8268D51B4522": {
+        "name": "_NETWORK_SET_GANG_SIZE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "size"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

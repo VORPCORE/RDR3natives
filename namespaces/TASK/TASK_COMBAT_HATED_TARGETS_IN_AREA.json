@@ -1,0 +1,40 @@
+{
+    "0x4CF5F55DAC3280A0": {
+        "name": "TASK_COMBAT_HATED_TARGETS_IN_AREA",
+        "comment": "Despite its name, it only attacks ONE hated target. The one closest to the specified position.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4CF5F55DAC3280A0",
+        "gta_jhash": "0xDF099E18"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x1A51BFE60708E482": {
+        "name": "_IS_PLAYER_FREE_FOCUSING",
+        "comment": "Checks if player is focused on any entity",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

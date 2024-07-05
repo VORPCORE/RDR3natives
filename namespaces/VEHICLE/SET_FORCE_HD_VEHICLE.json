@@ -1,0 +1,20 @@
+{
+    "0x373CB1283308BD7B": {
+        "name": "SET_FORCE_HD_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x97CE68CB032583F0",
+        "gta_jhash": "0xE0FC6A32"
+    }
+}

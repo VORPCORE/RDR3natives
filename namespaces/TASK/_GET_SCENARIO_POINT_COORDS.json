@@ -1,0 +1,18 @@
+{
+    "0xA8452DD321607029": {
+        "name": "_GET_SCENARIO_POINT_COORDS",
+        "comment": "Params: p1 is always true in R* Scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

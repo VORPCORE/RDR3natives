@@ -1,0 +1,22 @@
+{
+    "0x37C13863ABA1B4A3": {
+        "name": "TASK_AMBIENT_ANIMAL_STALK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

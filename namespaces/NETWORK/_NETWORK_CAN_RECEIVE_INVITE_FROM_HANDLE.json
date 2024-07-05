@@ -1,0 +1,14 @@
+{
+    "0xF23D6475640D29EB": {
+        "name": "_NETWORK_CAN_RECEIVE_INVITE_FROM_HANDLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

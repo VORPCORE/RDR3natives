@@ -1,0 +1,28 @@
+{
+    "0xED98E10B0AFCE4B4": {
+        "name": "SET_PED_WAYPOINT_ROUTE_OFFSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207",
+        "gta_hash": "0xED98E10B0AFCE4B4",
+        "gta_jhash": "0xF867F747"
+    }
+}

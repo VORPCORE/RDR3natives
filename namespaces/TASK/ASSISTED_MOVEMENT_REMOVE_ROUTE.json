@@ -1,0 +1,16 @@
+{
+    "0x3548536485DD792B": {
+        "name": "ASSISTED_MOVEMENT_REMOVE_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "route"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3548536485DD792B",
+        "gta_jhash": "0xB3CEC06F"
+    }
+}

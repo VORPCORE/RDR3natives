@@ -1,0 +1,18 @@
+{
+    "0xAF341032E97FB061": {
+        "name": "_SET_PLAYER_TRAMPLE_DAMAGE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

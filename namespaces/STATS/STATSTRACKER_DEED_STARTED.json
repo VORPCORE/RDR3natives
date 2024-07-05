@@ -1,0 +1,18 @@
+{
+    "0xB2A38826E5886E83": {
+        "name": "STATSTRACKER_DEED_STARTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

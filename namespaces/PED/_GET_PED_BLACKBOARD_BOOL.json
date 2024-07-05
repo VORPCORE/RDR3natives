@@ -1,0 +1,18 @@
+{
+    "0x498F2E77982D6945": {
+        "name": "_GET_PED_BLACKBOARD_BOOL",
+        "comment": "Can be used to get a peds foliage active status: variableName = FoliageActive",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "variableName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

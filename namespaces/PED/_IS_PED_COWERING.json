@@ -1,0 +1,14 @@
+{
+    "0xB086C8C0F5701D14": {
+        "name": "_IS_PED_COWERING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

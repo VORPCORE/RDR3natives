@@ -1,0 +1,14 @@
+{
+    "0xA2D5A26208421426": {
+        "name": "_ADD_DISPATCH_SPAWN_BLOCKING_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0xF7C29D7C12C36F03": {
+        "name": "CASCADE_SHADOWS_CLEAR_SHADOW_SAMPLE_TYPE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x27CB772218215325",
+        "gta_jhash": ""
+    }
+}

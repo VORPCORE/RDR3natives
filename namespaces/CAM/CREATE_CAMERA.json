@@ -1,0 +1,20 @@
+{
+    "0x57CDF879EA466C46": {
+        "name": "CREATE_CAMERA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "camHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Cam",
+        "build": "1207",
+        "gta_hash": "0x5E3CF89C6BCCA67D",
+        "gta_jhash": "0x5D6739AE"
+    }
+}

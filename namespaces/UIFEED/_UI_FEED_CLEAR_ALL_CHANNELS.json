@@ -1,0 +1,9 @@
+{
+    "0x6035E8FBCA32AC5E": {
+        "name": "_UI_FEED_CLEAR_ALL_CHANNELS",
+        "comment": "Hides Toast Notifications",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

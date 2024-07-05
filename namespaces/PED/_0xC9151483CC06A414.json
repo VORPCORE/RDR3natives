@@ -1,0 +1,14 @@
+{
+    "0xC9151483CC06A414": {
+        "name": "_0xC9151483CC06A414",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x43AD8FC02B429D33": {
+        "name": "_GET_MAP_ZONE_AT_COORDS",
+        "comment": "Returns name hash, see common:/data/levels/rdr3/mapzones.meta\n\ntype (-1 matches any type):\nclass CMapZone\n{\npublic:\n\tenum class Type\n\t{\n\t\tSTATE,\n\t\tTOWN,\n\t\tLAKE,\n\t\tRIVER,\n\t\tOIL_SPILL,\n\t\tSWAMP,\n\t\tOCEAN,\n\t\tCREEK,\n\t\tPOND,\n\t\tGLACIER,\n\t\tDISTRICT,\n\t\tTEXT_PRINTED,\n\t\tTEXT_WRITTEN\n\t};\n};\n\nhttps://github.com/femga/rdr3_discoveries/tree/master/zones & https://alloc8or.re/rdr3/doc/enums/CMapZone__Type.txt",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

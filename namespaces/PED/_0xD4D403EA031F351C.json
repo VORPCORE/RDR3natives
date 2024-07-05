@@ -1,0 +1,14 @@
+{
+    "0xD4D403EA031F351C": {
+        "name": "_0xD4D403EA031F351C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

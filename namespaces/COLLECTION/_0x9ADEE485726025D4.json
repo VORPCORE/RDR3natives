@@ -1,0 +1,14 @@
+{
+    "0x9ADEE485726025D4": {
+        "name": "_0x9ADEE485726025D4",
+        "comment": "Params: collectableCategory = WEEKLY_COLLECTABLES",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableCategory"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

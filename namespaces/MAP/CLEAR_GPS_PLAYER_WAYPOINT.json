@@ -1,0 +1,11 @@
+{
+    "0x08FDC6F796E350D1": {
+        "name": "CLEAR_GPS_PLAYER_WAYPOINT",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xFF4FB7C8CDFA3DA7",
+        "gta_jhash": "0x0B9C7FC2"
+    }
+}

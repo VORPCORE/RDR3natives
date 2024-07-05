@@ -1,0 +1,18 @@
+{
+    "0xEFB64240F6B17817": {
+        "name": "_SC_FEED_SUBMIT_PRESET_MESSAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "type"
+            },
+            {
+                "type": "int",
+                "name": "subType"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

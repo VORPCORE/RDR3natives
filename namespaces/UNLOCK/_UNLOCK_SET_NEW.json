@@ -1,0 +1,18 @@
+{
+    "0xA6D79C7AEF870A99": {
+        "name": "_UNLOCK_SET_NEW",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "unlockHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

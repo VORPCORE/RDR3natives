@@ -1,0 +1,18 @@
+{
+    "0x63E39F09310F481F": {
+        "name": "_SET_LIGHT_TRANSLUCENCY_FOR_OBJECT",
+        "comment": "Params: value = 0.0 - 586.67 (?)",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0x833E03BAEBADC4B0": {
+        "name": "_MINIGAME_POP_NEXT_EVENT",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x77D65669A05D1A1A": {
+        "name": "DISABLE_FIRST_PERSON_FLASH_EFFECT_THIS_UPDATE",
+        "comment": "nullsub, doesn't do anything",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x59424BD75174C9B1",
+        "gta_jhash": ""
+    }
+}

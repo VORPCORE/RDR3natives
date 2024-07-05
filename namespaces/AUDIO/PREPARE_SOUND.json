@@ -1,0 +1,22 @@
+{
+    "0xE368E8422C860BA7": {
+        "name": "PREPARE_SOUND",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "soundName"
+            },
+            {
+                "type": "const char*",
+                "name": "soundsetName"
+            },
+            {
+                "type": "int",
+                "name": "soundId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

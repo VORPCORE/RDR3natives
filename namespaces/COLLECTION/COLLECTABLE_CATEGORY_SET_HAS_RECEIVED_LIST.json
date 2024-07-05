@@ -1,0 +1,22 @@
+{
+    "0x0B6D275D2F242E17": {
+        "name": "COLLECTABLE_CATEGORY_SET_HAS_RECEIVED_LIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

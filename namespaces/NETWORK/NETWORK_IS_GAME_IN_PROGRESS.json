@@ -1,0 +1,11 @@
+{
+    "0x10FAB35428CCC9D7": {
+        "name": "NETWORK_IS_GAME_IN_PROGRESS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x10FAB35428CCC9D7",
+        "gta_jhash": "0x09B88E3E"
+    }
+}

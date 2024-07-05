@@ -1,0 +1,14 @@
+{
+    "0x3F73AED12A5EF0FF": {
+        "name": "_BOUNTY_REQUEST_SERVED_FULL_JAIL_SENTENCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outRpcGuid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

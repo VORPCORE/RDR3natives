@@ -1,0 +1,20 @@
+{
+    "0xF1898A68E7C15636": {
+        "name": "SET_CAM_SPLINE_PHASE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x242B5874F0A4E052",
+        "gta_jhash": "0xF0AED233"
+    }
+}

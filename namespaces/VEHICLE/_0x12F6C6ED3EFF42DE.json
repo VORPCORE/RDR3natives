@@ -1,0 +1,26 @@
+{
+    "0x12F6C6ED3EFF42DE": {
+        "name": "_0x12F6C6ED3EFF42DE",
+        "comment": "Params: coords = GET_ENTITY_VELOCITY\n_SET_VELOCITY*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

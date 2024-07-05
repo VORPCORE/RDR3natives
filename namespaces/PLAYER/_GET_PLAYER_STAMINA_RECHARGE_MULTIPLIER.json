@@ -1,0 +1,14 @@
+{
+    "0x617D3494AD58200F": {
+        "name": "_GET_PLAYER_STAMINA_RECHARGE_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

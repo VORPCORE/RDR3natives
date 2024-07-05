@@ -1,0 +1,18 @@
+{
+    "0x86922D8C02FB7705": {
+        "name": "CHAL_ADD_GOAL_PROGRESS_FLOAT_BY_SCORE_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

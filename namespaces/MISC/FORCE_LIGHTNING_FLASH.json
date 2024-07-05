@@ -1,0 +1,11 @@
+{
+    "0x369DB5B2510FA080": {
+        "name": "FORCE_LIGHTNING_FLASH",
+        "comment": "creates single lightning+thunder at random position",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF6062E089251C898",
+        "gta_jhash": "0xDF38165E"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x627520389E288A73": {
+        "name": "_GET_ENTITY_ANIM_CURRENT_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

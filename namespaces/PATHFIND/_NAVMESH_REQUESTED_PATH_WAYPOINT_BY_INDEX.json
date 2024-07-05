@@ -1,0 +1,18 @@
+{
+    "0x430F8319AE56C8A9": {
+        "name": "_NAVMESH_REQUESTED_PATH_WAYPOINT_BY_INDEX",
+        "comment": "Returns a vector3 waypoint at the specified index for a path. Use _NAVMESH_REQUESTED_PATH_NUM_WAYPOINTS to get available indexes.",
+        "params": [
+            {
+                "type": "int",
+                "name": "path"
+            },
+            {
+                "type": "int",
+                "name": "waypointIndex"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

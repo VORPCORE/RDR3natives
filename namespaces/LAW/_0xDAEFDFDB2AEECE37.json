@@ -1,0 +1,18 @@
+{
+    "0xDAEFDFDB2AEECE37": {
+        "name": "_0xDAEFDFDB2AEECE37",
+        "comment": "crimeType: see _REPORT_CRIME",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "crimeType"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

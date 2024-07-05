@@ -1,0 +1,14 @@
+{
+    "0xAF530E56505D1BD6": {
+        "name": "_0xAF530E56505D1BD6",
+        "comment": "Hardcoded to return one/true.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

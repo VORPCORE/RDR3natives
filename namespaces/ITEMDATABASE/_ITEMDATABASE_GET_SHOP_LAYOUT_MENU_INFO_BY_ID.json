@@ -1,0 +1,22 @@
+{
+    "0xD66114469978B55B": {
+        "name": "_ITEMDATABASE_GET_SHOP_LAYOUT_MENU_INFO_BY_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "layout"
+            },
+            {
+                "type": "Hash",
+                "name": "menu"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

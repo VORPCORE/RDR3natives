@@ -1,0 +1,20 @@
+{
+    "0xF6F6AFD8D4FB2658": {
+        "name": "IS_ENTITY_UPRIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x5333F526F6AB19AA",
+        "gta_jhash": "0x3BCDF4E1"
+    }
+}

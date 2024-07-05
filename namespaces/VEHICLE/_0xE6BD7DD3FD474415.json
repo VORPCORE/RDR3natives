@@ -1,0 +1,18 @@
+{
+    "0xE6BD7DD3FD474415": {
+        "name": "_0xE6BD7DD3FD474415",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

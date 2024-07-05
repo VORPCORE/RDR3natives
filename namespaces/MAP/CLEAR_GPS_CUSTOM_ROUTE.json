@@ -1,0 +1,11 @@
+{
+    "0x1EAA5674B4D181C5": {
+        "name": "CLEAR_GPS_CUSTOM_ROUTE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE6DE0561D9232A64",
+        "gta_jhash": "0xCF2E3E24"
+    }
+}

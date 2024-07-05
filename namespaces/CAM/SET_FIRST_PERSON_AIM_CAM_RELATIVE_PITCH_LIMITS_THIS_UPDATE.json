@@ -1,0 +1,20 @@
+{
+    "0x715B7F5E8BED32A2": {
+        "name": "SET_FIRST_PERSON_AIM_CAM_RELATIVE_PITCH_LIMITS_THIS_UPDATE",
+        "comment": "Old name: _SET_FIRST_PERSON_CAM_PITCH_RANGE",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBCFC632DB7673BF0",
+        "gta_jhash": "0x76DAC96C"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x0858B86146601BE8": {
+        "name": "STOP_PLAYER_TELEPORT",
+        "comment": "Disables the player's teleportation",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC449EDED9D73009C",
+        "gta_jhash": "0x86AB8DBB"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x815C0074A1BC0D93": {
+        "name": "_0x815C0074A1BC0D93",
+        "comment": "_SET_PED_COMBAT_R - _SET_PED_C*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

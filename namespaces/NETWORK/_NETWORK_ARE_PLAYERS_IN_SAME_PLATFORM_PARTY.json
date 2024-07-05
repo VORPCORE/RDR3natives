@@ -1,0 +1,18 @@
+{
+    "0x11820D1AE80DEA39": {
+        "name": "_NETWORK_ARE_PLAYERS_IN_SAME_PLATFORM_PARTY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle1"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

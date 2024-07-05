@@ -1,0 +1,16 @@
+{
+    "0xCF463D1E9A0AECB1": {
+        "name": "DETACH_PORTABLE_PICKUP_FROM_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "pickupObject"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xCF463D1E9A0AECB1",
+        "gta_jhash": "0x1D094562"
+    }
+}

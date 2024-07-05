@@ -1,0 +1,30 @@
+{
+    "0x39ED303390DDEAC7": {
+        "name": "_SET_PED_INCAPACITATION_MODIFIERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "canBeIncapacitated"
+            },
+            {
+                "type": "int",
+                "name": "threshold"
+            },
+            {
+                "type": "int",
+                "name": "bleedoutTime"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

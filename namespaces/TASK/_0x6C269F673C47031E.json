@@ -1,0 +1,14 @@
+{
+    "0x6C269F673C47031E": {
+        "name": "_0x6C269F673C47031E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

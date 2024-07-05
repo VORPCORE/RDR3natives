@@ -1,0 +1,18 @@
+{
+    "0x33FA048675821DA7": {
+        "name": "_GET_IS_PED_MOTIVATION_STATE_ENABLED",
+        "comment": "motivationState: see _SET_PED_MOTIVATION",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "motivationState"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

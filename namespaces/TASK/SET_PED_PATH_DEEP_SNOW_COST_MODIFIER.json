@@ -1,0 +1,18 @@
+{
+    "0xE8C296B75EACC357": {
+        "name": "SET_PED_PATH_DEEP_SNOW_COST_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

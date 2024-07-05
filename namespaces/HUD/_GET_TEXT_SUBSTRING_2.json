@@ -1,0 +1,18 @@
+{
+    "0xD8402B858F4DDD88": {
+        "name": "_GET_TEXT_SUBSTRING_2",
+        "comment": "Similar to 0x9D7E12EC6A1EE4E5(GET_TEXT_SUBSTRING) but starts at the beginning of the string",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            },
+            {
+                "type": "int",
+                "name": "length"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

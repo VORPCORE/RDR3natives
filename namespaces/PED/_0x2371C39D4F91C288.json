@@ -1,0 +1,14 @@
+{
+    "0x2371C39D4F91C288": {
+        "name": "_0x2371C39D4F91C288",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

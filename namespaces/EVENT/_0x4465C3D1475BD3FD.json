@@ -1,0 +1,14 @@
+{
+    "0x4465C3D1475BD3FD": {
+        "name": "_0x4465C3D1475BD3FD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

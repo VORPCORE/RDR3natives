@@ -1,0 +1,14 @@
+{
+    "0x849791EBBDBA0362": {
+        "name": "_0x849791EBBDBA0362",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x17293C633C8AC019": {
+        "name": "TASK_SET_CROUCH_MOVEMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x82F11E1296996574": {
+        "name": "_0x82F11E1296996574",
+        "comment": "Only used in rcm_gunslinger1_1 R* Script: p0 = 0",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

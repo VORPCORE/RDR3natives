@@ -1,0 +1,26 @@
+{
+    "0x729D54121A5E9E20": {
+        "name": "COMPENDIUM_GET_MAP_DISCOVERABLE_FROM_STAT_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "animalStatItem"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

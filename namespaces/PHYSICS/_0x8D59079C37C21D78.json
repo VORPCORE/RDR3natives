@@ -1,0 +1,18 @@
+{
+    "0x8D59079C37C21D78": {
+        "name": "_0x8D59079C37C21D78",
+        "comment": "_ROPE_SET_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

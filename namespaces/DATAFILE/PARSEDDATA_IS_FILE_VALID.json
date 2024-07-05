@@ -1,0 +1,14 @@
+{
+    "0x7907969497EA92F5": {
+        "name": "PARSEDDATA_IS_FILE_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "fileHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

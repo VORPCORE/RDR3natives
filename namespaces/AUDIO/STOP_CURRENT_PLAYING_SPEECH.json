@@ -1,0 +1,20 @@
+{
+    "0x79D2F0E66F81D90D": {
+        "name": "STOP_CURRENT_PLAYING_SPEECH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7A73D05A607734C7",
+        "gta_jhash": "0x5B7463F4"
+    }
+}

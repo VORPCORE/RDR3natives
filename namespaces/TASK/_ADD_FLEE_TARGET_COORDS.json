@@ -1,0 +1,30 @@
+{
+    "0xE8F1A5B4CED3725A": {
+        "name": "_ADD_FLEE_TARGET_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

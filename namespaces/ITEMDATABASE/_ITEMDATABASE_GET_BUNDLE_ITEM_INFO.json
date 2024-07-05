@@ -1,0 +1,26 @@
+{
+    "0x5D48A77E4B668B57": {
+        "name": "_ITEMDATABASE_GET_BUNDLE_ITEM_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "bundleId"
+            },
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Hash*",
+                "name": "outBundle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

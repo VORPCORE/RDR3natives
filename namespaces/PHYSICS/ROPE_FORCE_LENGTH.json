@@ -1,0 +1,20 @@
+{
+    "0xD009F759A723DB1B": {
+        "name": "ROPE_FORCE_LENGTH",
+        "comment": "Forces a rope to a certain length.",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "float",
+                "name": "length"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD009F759A723DB1B",
+        "gta_jhash": "0xABF3130F"
+    }
+}

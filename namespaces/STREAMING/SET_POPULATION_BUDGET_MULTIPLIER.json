@@ -1,0 +1,14 @@
+{
+    "0x2F9AC754FE179D58": {
+        "name": "SET_POPULATION_BUDGET_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "fBudgetMultiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

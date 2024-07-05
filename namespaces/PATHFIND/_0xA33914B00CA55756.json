@@ -1,0 +1,18 @@
+{
+    "0xA33914B00CA55756": {
+        "name": "_0xA33914B00CA55756",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any*",
+        "build": "1207"
+    }
+}

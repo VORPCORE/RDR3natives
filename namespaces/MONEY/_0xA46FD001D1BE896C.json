@@ -1,0 +1,10 @@
+{
+    "0xA46FD001D1BE896C": {
+        "name": "_0xA46FD001D1BE896C",
+        "comment": "",
+        "params": [],
+        "return_type": "const char*",
+        "build": "1207",
+        "unused": true
+    }
+}

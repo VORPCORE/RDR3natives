@@ -1,0 +1,11 @@
+{
+    "0x02F39BEFE7B88D00": {
+        "name": "IS_SCREEN_FADING_OUT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x797AC7CB535BA28F",
+        "gta_jhash": "0x79275A57"
+    }
+}

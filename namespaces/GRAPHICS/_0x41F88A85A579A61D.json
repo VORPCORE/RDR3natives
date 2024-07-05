@@ -1,0 +1,14 @@
+{
+    "0x41F88A85A579A61D": {
+        "name": "_0x41F88A85A579A61D",
+        "comment": "Used in CREATE_BEZIER_BLOOD_TRAIL_OF_TYPE",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

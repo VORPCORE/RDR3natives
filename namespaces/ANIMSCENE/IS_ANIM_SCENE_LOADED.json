@@ -1,0 +1,22 @@
+{
+    "0x477122B8D05E7968": {
+        "name": "IS_ANIM_SCENE_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

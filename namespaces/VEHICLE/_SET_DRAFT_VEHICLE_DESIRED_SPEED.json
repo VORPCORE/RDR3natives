@@ -1,0 +1,18 @@
+{
+    "0x0C3F0F7F92CA847C": {
+        "name": "_SET_DRAFT_VEHICLE_DESIRED_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

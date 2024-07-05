@@ -1,0 +1,48 @@
+{
+    "0xD43D95C7A869447F": {
+        "name": "TASK_SEEK_COVER_TO_COVER_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD43D95C7A869447F",
+        "gta_jhash": "0x3D026B29"
+    }
+}

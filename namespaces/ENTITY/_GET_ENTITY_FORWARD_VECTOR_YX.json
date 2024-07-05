@@ -1,0 +1,14 @@
+{
+    "0x935A30AA88FB1014": {
+        "name": "_GET_ENTITY_FORWARD_VECTOR_YX",
+        "comment": "Gets the entity's forward vector in YX(Z) eulers. Similar to GET_ENTITY_FORWARD_VECTOR",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

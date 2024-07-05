@@ -1,0 +1,14 @@
+{
+    "0xDC0556D0F484ECAA": {
+        "name": "_0xDC0556D0F484ECAA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

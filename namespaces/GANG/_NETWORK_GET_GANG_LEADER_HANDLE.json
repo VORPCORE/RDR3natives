@@ -1,0 +1,18 @@
+{
+    "0xCE88A261DCBBA0D9": {
+        "name": "_NETWORK_GET_GANG_LEADER_HANDLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "gangId"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

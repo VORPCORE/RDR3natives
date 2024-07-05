@@ -1,0 +1,9 @@
+{
+    "0x0177CF20345F44DD": {
+        "name": "_SHOULD_USE_24_HOUR_CLOCK",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "0x966DE09688A1DE39": {
+        "name": "_0x966DE09688A1DE39",
+        "comment": "_SET_FORMATION_P*",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

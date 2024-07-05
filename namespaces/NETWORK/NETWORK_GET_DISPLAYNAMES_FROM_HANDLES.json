@@ -1,0 +1,24 @@
+{
+    "0x58CC181719256197": {
+        "name": "NETWORK_GET_DISPLAYNAMES_FROM_HANDLES",
+        "comment": "Hardcoded to return zero.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x58CC181719256197",
+        "gta_jhash": ""
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "0xE7FA07624574B79A": {
+        "name": "REACT_LOOK_AT",
+        "comment": "lookIntensity: see SET_PED_SHOULD_PLAY_FLEE_SCENARIO_EXIT\n\nexitAnimation: LOOK_RETURN_GENERIC = 1,\nLOOK_RETURN_DISMISSIVE = 2,\nLOOK_RETURN_RELIEVED = 3",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "int",
+                "name": "lookIntensity"
+            },
+            {
+                "type": "int",
+                "name": "exitAnimation"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed2"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

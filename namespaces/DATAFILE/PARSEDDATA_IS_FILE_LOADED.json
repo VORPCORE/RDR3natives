@@ -1,0 +1,14 @@
+{
+    "0x603AC35FD4602C76": {
+        "name": "PARSEDDATA_IS_FILE_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "fileHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

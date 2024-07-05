@@ -1,0 +1,22 @@
+{
+    "0xD4022C7286B0DFA2": {
+        "name": "_0xD4022C7286B0DFA2",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

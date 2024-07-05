@@ -1,0 +1,48 @@
+{
+    "0xD1F7F32640ADFD12": {
+        "name": "SET_GAMEPLAY_ENTITY_HINT",
+        "comment": "p6 & p7 - possibly length or time",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x189E955A8313E298",
+        "gta_jhash": "0x66C32306"
+    }
+}

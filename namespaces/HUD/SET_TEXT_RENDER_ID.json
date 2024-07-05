@@ -1,0 +1,16 @@
+{
+    "0xE550CDE128D56757": {
+        "name": "SET_TEXT_RENDER_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "renderId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5F15302936E07111",
+        "gta_jhash": "0xC5C3B7F3"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x3FC4C027FD0936F4": {
+        "name": "_STOP_STATUS_EFFECT_PERIODIC_ICON",
+        "comment": "Stops periodic icon.\nstatusEffectType: see 0xA4D3A1C008F250DF",
+        "params": [
+            {
+                "type": "int",
+                "name": "statusEffectType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

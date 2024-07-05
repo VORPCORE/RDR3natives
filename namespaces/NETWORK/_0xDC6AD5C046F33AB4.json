@@ -1,0 +1,18 @@
+{
+    "0xDC6AD5C046F33AB4": {
+        "name": "_0xDC6AD5C046F33AB4",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

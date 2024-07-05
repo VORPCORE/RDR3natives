@@ -1,0 +1,16 @@
+{
+    "0xAF50DA1A3F8B1BA4": {
+        "name": "NETWORK_CAN_ACCESS_MULTIPLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "loadingState"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xAF50DA1A3F8B1BA4",
+        "gta_jhash": "0xA520B982"
+    }
+}

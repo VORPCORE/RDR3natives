@@ -1,0 +1,11 @@
+{
+    "0xD04CFAD1E2B7984A": {
+        "name": "GET_MAX_WANTED_LEVEL",
+        "comment": "Gets the maximum wanted level the player can get.\nRanges from 0 to 5.",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x462E0DB9B137DC5F",
+        "gta_jhash": "0x457F1E44"
+    }
+}

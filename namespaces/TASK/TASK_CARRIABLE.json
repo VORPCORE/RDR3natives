@@ -1,0 +1,30 @@
+{
+    "0xF0B4F759F35CC7F5": {
+        "name": "TASK_CARRIABLE",
+        "comment": "carriableSlot:\n 7 > Back of a horse\n 6 > Right side of a horse\n 5 > Left side of a horse\nflags:\n 512: enables the prompt being the name of the item when using a generic item",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "carryConfig"
+            },
+            {
+                "type": "Ped",
+                "name": "carrier"
+            },
+            {
+                "type": "int",
+                "name": "carriableSlot"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

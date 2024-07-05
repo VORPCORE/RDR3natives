@@ -1,0 +1,44 @@
+{
+    "0x338E7EF52B6095A9": {
+        "name": "TASK_GOTO_ENTITY_OFFSET_XY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "targetRadius"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "moveBlendRatio"
+            },
+            {
+                "type": "int",
+                "name": "offsetFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x338E7EF52B6095A9",
+        "gta_jhash": "0xBC1E3D0A"
+    }
+}

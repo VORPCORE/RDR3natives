@@ -1,0 +1,14 @@
+{
+    "0x04428420A248A354": {
+        "name": "_CLOSE_UIAPP_BY_HASH_IMMEDIATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "appNameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xDF1E5AAC561AFC59": {
+        "name": "GET_VEHICLE_INDEX_FROM_ENTITY_INDEX",
+        "comment": "Simply returns whatever is passed to it (Regardless of whether the handle is valid or not).",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207",
+        "gta_hash": "0x4B53F92932ADFAC0",
+        "gta_jhash": "0xC69CF43D"
+    }
+}

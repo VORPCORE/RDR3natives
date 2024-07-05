@@ -1,0 +1,11 @@
+{
+    "0x8DB296B814EDDA07": {
+        "name": "NETWORK_IS_HOST",
+        "comment": "If you are host, returns true else returns false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x8DB296B814EDDA07",
+        "gta_jhash": "0xE46AC10F"
+    }
+}

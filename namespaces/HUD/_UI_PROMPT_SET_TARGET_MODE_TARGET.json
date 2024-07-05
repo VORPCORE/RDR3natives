@@ -1,0 +1,22 @@
+{
+    "0x5E019C45DD3B6A14": {
+        "name": "_UI_PROMPT_SET_TARGET_MODE_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

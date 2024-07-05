@@ -1,0 +1,38 @@
+{
+    "0xB56D41A694E42E86": {
+        "name": "_ADD_AMBIENT_AVOIDANCE_RESTRICTION",
+        "comment": "flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/PedFilterFlags",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "int",
+                "name": "includeFlags"
+            },
+            {
+                "type": "int",
+                "name": "excludeFlags"
+            },
+            {
+                "type": "Hash",
+                "name": "p3"
+            },
+            {
+                "type": "Hash",
+                "name": "p4"
+            },
+            {
+                "type": "Hash",
+                "name": "p5"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

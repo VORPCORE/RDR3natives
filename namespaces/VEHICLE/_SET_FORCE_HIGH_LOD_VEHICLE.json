@@ -1,0 +1,18 @@
+{
+    "0x1098CDA477890165": {
+        "name": "_SET_FORCE_HIGH_LOD_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

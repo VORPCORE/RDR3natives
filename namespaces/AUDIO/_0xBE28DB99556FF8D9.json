@@ -1,0 +1,14 @@
+{
+    "0xBE28DB99556FF8D9": {
+        "name": "_0xBE28DB99556FF8D9",
+        "comment": "Checks for MOONSHINE_BAND",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

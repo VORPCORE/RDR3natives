@@ -1,0 +1,18 @@
+{
+    "0x535ED4605F89AB6E": {
+        "name": "_SET_PLAYER_HEALTH_RECHARGE_TIME_MODIFIER",
+        "comment": "Setting player's Health recharge time to zero forces immediate health regen",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x32CEDA9A0AB4CEF7": {
+        "name": "_0x32CEDA9A0AB4CEF7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

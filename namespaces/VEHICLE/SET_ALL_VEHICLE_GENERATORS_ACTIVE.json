@@ -1,0 +1,11 @@
+{
+    "0x3D596E6E88A02C24": {
+        "name": "SET_ALL_VEHICLE_GENERATORS_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x34AD89078831A4BC",
+        "gta_jhash": "0xAB1FDD76"
+    }
+}

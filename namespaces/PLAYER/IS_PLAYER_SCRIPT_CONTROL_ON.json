@@ -1,0 +1,16 @@
+{
+    "0xB78350754157C00F": {
+        "name": "IS_PLAYER_SCRIPT_CONTROL_ON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x8A876A65283DD7D7",
+        "gta_jhash": "0x61B00A84"
+    }
+}

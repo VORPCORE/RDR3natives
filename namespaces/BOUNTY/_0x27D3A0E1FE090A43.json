@@ -1,0 +1,14 @@
+{
+    "0x27D3A0E1FE090A43": {
+        "name": "_0x27D3A0E1FE090A43",
+        "comment": "_BOUNTY_IS_* or _BOUNTY_REQUEST_*",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

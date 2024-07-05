@@ -1,0 +1,14 @@
+{
+    "0xC48FE1971C9743FF": {
+        "name": "STAT_ID_IS_VALID",
+        "comment": "struct StatId\n{\n\talignas(8) Hash BaseId;\n\talignas(8) Hash PermutationId;\n}",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

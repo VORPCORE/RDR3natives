@@ -1,0 +1,38 @@
+{
+    "0x3ACCE14DFA6BA8C2": {
+        "name": "_0x3ACCE14DFA6BA8C2",
+        "comment": "Used in R* Script net_fetch (NET_FETCH_UPDATE_RECIPIENT_PROP_ILO_IN_COMBAT) and various SP Scripts\nParams: p1 = 4/5/6, p5 = 40.f/100.f, coords = Player ped\nPerhaps returns some distance (Clearing that the local player is able to use ILO while in combat because they are near the recipient but also near hated peds)\n_GET_NUM_M* - _GET_PEDS_J*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x3B3D11CD9FFCDFC9": {
+        "name": "NETWORK_SET_MISSION_FINISHED",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3B3D11CD9FFCDFC9",
+        "gta_jhash": "0x3083FAD7"
+    }
+}

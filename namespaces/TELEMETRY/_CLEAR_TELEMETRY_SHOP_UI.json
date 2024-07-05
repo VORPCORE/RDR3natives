@@ -1,0 +1,9 @@
+{
+    "0x32D5898C4898CD95": {
+        "name": "_CLEAR_TELEMETRY_SHOP_UI",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

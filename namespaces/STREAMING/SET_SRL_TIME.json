@@ -1,0 +1,16 @@
+{
+    "0x18231AEF458BCFF2": {
+        "name": "SET_SRL_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA74A541C6884E7B8",
+        "gta_jhash": "0x30F8A487"
+    }
+}

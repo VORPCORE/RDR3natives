@@ -1,0 +1,18 @@
+{
+    "0xBAD2A311667A50D7": {
+        "name": "_0xBAD2A311667A50D7",
+        "comment": "_SET_PED_D*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

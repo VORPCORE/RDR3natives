@@ -1,0 +1,32 @@
+{
+    "0x5A353B8E6B1095B5": {
+        "name": "USE_WAYPOINT_RECORDING_AS_ASSISTED_MOVEMENT_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5A353B8E6B1095B5",
+        "gta_jhash": "0x4DFD5FEC"
+    }
+}

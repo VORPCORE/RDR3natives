@@ -1,0 +1,9 @@
+{
+    "0x81DCFD13CF39920E": {
+        "name": "HAS_LETTER_BOX",
+        "comment": "More info: https://en.wikipedia.org/wiki/Letterboxing_(filming)",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "0x14D29BB12D47F68C": {
+        "name": "SET_CONTROL_TRIGGER_SHAKE",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "leftDuration"
+            },
+            {
+                "type": "int",
+                "name": "leftFrequency"
+            },
+            {
+                "type": "int",
+                "name": "rightDuration"
+            },
+            {
+                "type": "int",
+                "name": "rightFrequency"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x14D29BB12D47F68C",
+        "gta_jhash": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x987BE590FB9D41E5": {
+        "name": "_0x987BE590FB9D41E5",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

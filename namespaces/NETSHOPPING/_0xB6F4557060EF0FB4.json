@@ -1,0 +1,18 @@
+{
+    "0xB6F4557060EF0FB4": {
+        "name": "_0xB6F4557060EF0FB4",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

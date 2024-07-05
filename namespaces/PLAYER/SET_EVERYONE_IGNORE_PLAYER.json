@@ -1,0 +1,20 @@
+{
+    "0x34630A768925B852": {
+        "name": "SET_EVERYONE_IGNORE_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8EEDA153AD141BA4",
+        "gta_jhash": "0xC915285E"
+    }
+}

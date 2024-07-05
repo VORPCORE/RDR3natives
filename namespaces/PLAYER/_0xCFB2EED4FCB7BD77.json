@@ -1,0 +1,22 @@
+{
+    "0xCFB2EED4FCB7BD77": {
+        "name": "_0xCFB2EED4FCB7BD77",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

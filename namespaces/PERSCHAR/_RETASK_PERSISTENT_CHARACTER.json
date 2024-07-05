@@ -1,0 +1,14 @@
+{
+    "0x631CD2D77FDC0316": {
+        "name": "_RETASK_PERSISTENT_CHARACTER",
+        "comment": "",
+        "params": [
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

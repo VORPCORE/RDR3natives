@@ -1,0 +1,16 @@
+{
+    "0xA862A2AD321F94B4": {
+        "name": "REQUEST_ANIM_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "animDict"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD3BD40951412FEF6",
+        "gta_jhash": "0xDCA96950"
+    }
+}

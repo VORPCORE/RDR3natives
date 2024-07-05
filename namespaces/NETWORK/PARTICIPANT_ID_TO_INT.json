@@ -1,0 +1,11 @@
+{
+    "0x57A3BDDAD8E5AA0A": {
+        "name": "PARTICIPANT_ID_TO_INT",
+        "comment": "Return the local Participant ID.\n\nThis native is exactly the same as 'PARTICIPANT_ID' native.",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x57A3BDDAD8E5AA0A",
+        "gta_jhash": "0x907498B0"
+    }
+}

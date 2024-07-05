@@ -1,0 +1,16 @@
+{
+    "0x3A815DB3EA088722": {
+        "name": "IS_SCENARIO_TYPE_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scenarioType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x3A815DB3EA088722",
+        "gta_jhash": "0xAE37E969"
+    }
+}

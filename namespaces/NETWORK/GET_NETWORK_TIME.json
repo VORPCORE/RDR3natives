@@ -1,0 +1,11 @@
+{
+    "0x7A5487FE9FAA6B48": {
+        "name": "GET_NETWORK_TIME",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x7A5487FE9FAA6B48",
+        "gta_jhash": "0x998103C2"
+    }
+}

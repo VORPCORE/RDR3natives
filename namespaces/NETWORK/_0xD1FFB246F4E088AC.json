@@ -1,0 +1,14 @@
+{
+    "0xD1FFB246F4E088AC": {
+        "name": "_0xD1FFB246F4E088AC",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

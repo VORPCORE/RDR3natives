@@ -1,0 +1,14 @@
+{
+    "0x4A606C17276E1BCC": {
+        "name": "_INVENTORY_GET_ITEM_EXPIRY_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "itemGUID"
+            }
+        ],
+        "return_type": "int",
+        "build": "1232"
+    }
+}

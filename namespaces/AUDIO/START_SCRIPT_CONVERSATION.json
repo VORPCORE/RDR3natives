@@ -1,0 +1,28 @@
+{
+    "0x6B17C62C9635D2DC": {
+        "name": "START_SCRIPT_CONVERSATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "convoRoot"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "clone"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6B17C62C9635D2DC",
+        "gta_jhash": "0xE5DE7D9D"
+    }
+}

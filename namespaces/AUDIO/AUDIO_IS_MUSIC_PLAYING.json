@@ -1,0 +1,11 @@
+{
+    "0x845FFC3A4FEEFA3E": {
+        "name": "AUDIO_IS_MUSIC_PLAYING",
+        "comment": "Old name: AUDIO_IS_SCRIPTED_MUSIC_PLAYING",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x845FFC3A4FEEFA3E",
+        "gta_jhash": ""
+    }
+}

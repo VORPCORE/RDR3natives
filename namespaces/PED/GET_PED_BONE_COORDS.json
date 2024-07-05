@@ -1,0 +1,32 @@
+{
+    "0x17C07FC640E86B4E": {
+        "name": "GET_PED_BONE_COORDS",
+        "comment": "Gets the position of the specified bone of the specified ped.\n\nped: The ped to get the position of a bone from.\nboneId: The ID of the bone to get the position from. This is NOT the index.\noffsetX: The X-component of the offset to add to the position relative to the bone's rotation.\noffsetY: The Y-component of the offset to add to the position relative to the bone's rotation.\noffsetZ: The Z-component of the offset to add to the position relative to the bone's rotation.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "boneId"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x17C07FC640E86B4E",
+        "gta_jhash": "0x4579CAB1"
+    }
+}

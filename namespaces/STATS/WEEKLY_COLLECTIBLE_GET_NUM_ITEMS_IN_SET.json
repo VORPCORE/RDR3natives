@@ -1,0 +1,18 @@
+{
+    "0x7D675C9DDDB365BE": {
+        "name": "WEEKLY_COLLECTIBLE_GET_NUM_ITEMS_IN_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

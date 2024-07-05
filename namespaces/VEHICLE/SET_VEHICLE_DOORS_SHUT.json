@@ -1,0 +1,20 @@
+{
+    "0xA4FFCD645B11F25A": {
+        "name": "SET_VEHICLE_DOORS_SHUT",
+        "comment": "Closes all doors of a vehicle:",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "closeInstantly"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x781B3D62BB013EF5",
+        "gta_jhash": "0xBB1FF6E7"
+    }
+}

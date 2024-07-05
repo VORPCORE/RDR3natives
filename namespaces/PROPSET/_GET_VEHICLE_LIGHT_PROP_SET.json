@@ -1,0 +1,14 @@
+{
+    "0xA079300AF757FB1A": {
+        "name": "_GET_VEHICLE_LIGHT_PROP_SET",
+        "comment": "Returns PropSet handle to be used with _GET_PROP_SET_MODEL",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "PropSet",
+        "build": "1207"
+    }
+}

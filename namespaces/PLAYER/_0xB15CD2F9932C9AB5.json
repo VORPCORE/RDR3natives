@@ -1,0 +1,14 @@
+{
+    "0xB15CD2F9932C9AB5": {
+        "name": "_0xB15CD2F9932C9AB5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

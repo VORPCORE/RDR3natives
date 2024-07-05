@@ -1,0 +1,14 @@
+{
+    "0x4735E2A4BB83D9DA": {
+        "name": "_GET_PINNED_MAP_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

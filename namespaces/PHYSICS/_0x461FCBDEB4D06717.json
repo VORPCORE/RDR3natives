@@ -1,0 +1,18 @@
+{
+    "0x461FCBDEB4D06717": {
+        "name": "_0x461FCBDEB4D06717",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

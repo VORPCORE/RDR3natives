@@ -1,0 +1,14 @@
+{
+    "0xCACC2F9D994504B7": {
+        "name": "_GET_TASK_MOVE_NETWORK_ID",
+        "comment": "Returns hash of the underlying move network def, see move_networks.xml\nhttps://alloc8or.re/rdr3/doc/misc/move_networks.txt",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

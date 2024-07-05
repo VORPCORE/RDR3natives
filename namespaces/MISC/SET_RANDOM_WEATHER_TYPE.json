@@ -1,0 +1,20 @@
+{
+    "0x6E5A7FBEECAB3C72": {
+        "name": "SET_RANDOM_WEATHER_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8B05F884CF7E8020",
+        "gta_jhash": "0xE7AA1BC9"
+    }
+}

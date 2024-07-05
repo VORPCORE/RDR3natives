@@ -1,0 +1,14 @@
+{
+    "0x20B7F69B40C6B755": {
+        "name": "_IS_BACKGROUND_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

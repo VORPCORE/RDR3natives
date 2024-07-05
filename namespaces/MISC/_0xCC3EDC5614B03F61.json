@@ -1,0 +1,14 @@
+{
+    "0xCC3EDC5614B03F61": {
+        "name": "_0xCC3EDC5614B03F61",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

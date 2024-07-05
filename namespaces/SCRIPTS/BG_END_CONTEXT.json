@@ -1,0 +1,17 @@
+{
+    "0x3ABF7BA1C3E2C8CF": {
+        "name": "BG_END_CONTEXT",
+        "comment": "Deletes the given context from the background scripts context map.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contextName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0xDC2BACD920D0A0DD",
+        "gta_jhash": "0x11F38FB3"
+    }
+}

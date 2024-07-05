@@ -1,0 +1,18 @@
+{
+    "0x4C60C333F9CCA2B6": {
+        "name": "_0x4C60C333F9CCA2B6",
+        "comment": "Params: p1 usually true in R* Scripts\n_SET_DRAFT_VEHICLE_*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

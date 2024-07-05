@@ -1,0 +1,14 @@
+{
+    "0x37B01666BAE8F7EF": {
+        "name": "_0x37B01666BAE8F7EF",
+        "comment": "Seems to return true if entity is burned / scorched\n_GET_ENTITY_*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

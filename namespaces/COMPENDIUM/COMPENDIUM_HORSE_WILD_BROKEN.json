@@ -1,0 +1,14 @@
+{
+    "0x725852D21A2E9E50": {
+        "name": "COMPENDIUM_HORSE_WILD_BROKEN",
+        "comment": "NET_PLAYER_HORSE_PROCESS_EVENT_HORSE_BREAKING",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

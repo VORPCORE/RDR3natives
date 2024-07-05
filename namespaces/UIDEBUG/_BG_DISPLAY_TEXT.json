@@ -1,0 +1,23 @@
+{
+    "0x16794E044C9EFB58": {
+        "name": "_BG_DISPLAY_TEXT",
+        "comment": "Note: you must use VAR_STRING",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355",
+        "unused": true
+    }
+}

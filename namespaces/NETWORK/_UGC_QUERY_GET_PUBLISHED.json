@@ -1,0 +1,18 @@
+{
+    "0x9993F1E11944A3DD": {
+        "name": "_UGC_QUERY_GET_PUBLISHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

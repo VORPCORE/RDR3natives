@@ -1,0 +1,20 @@
+{
+    "0xEBD0A4E935106FE5": {
+        "name": "SET_VEHICLE_TYRES_CAN_BURST",
+        "comment": "Allows you to toggle bulletproof tires.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEB9DC3C7D8596C46",
+        "gta_jhash": "0xA198DB54"
+    }
+}

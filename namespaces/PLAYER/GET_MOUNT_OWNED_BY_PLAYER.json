@@ -1,0 +1,14 @@
+{
+    "0xF49F14462F0AE27C": {
+        "name": "GET_MOUNT_OWNED_BY_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

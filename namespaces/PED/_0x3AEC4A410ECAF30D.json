@@ -1,0 +1,14 @@
+{
+    "0x3AEC4A410ECAF30D": {
+        "name": "_0x3AEC4A410ECAF30D",
+        "comment": "_IS_PED_R*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xCB2CA620C48BC875": {
+        "name": "_IS_VEHICLE_WHEEL_DESTROYED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheel"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

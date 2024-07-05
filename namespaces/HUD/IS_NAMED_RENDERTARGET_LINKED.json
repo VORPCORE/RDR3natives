@@ -1,0 +1,16 @@
+{
+    "0x707032835FF09AE7": {
+        "name": "IS_NAMED_RENDERTARGET_LINKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x113750538FA31298",
+        "gta_jhash": "0x8B52601F"
+    }
+}

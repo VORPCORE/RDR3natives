@@ -1,0 +1,14 @@
+{
+    "0x8F5317729F791D10": {
+        "name": "WEEKLY_COLLECTIBLE_GET_NUM_SETS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

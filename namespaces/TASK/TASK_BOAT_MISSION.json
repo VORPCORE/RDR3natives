@@ -1,0 +1,60 @@
+{
+    "0x15C86013127CE63F": {
+        "name": "TASK_BOAT_MISSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "pedDriver"
+            },
+            {
+                "type": "Vehicle",
+                "name": "boat"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "maxSpeed"
+            },
+            {
+                "type": "int",
+                "name": "drivingStyle"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "Any",
+                "name": "p11"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x15C86013127CE63F",
+        "gta_jhash": "0x5865B031"
+    }
+}

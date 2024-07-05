@@ -1,0 +1,14 @@
+{
+    "0xF8938CF3984092A5": {
+        "name": "_0xF8938CF3984092A5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

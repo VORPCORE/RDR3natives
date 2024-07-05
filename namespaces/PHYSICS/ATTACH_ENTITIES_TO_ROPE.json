@@ -1,0 +1,96 @@
+{
+    "0x3D95EC8B6D940AC3": {
+        "name": "ATTACH_ENTITIES_TO_ROPE",
+        "comment": "Attaches entity 1 to entity 2.\nIf you use a boneName (p12/p13) make sure boneId (p15/p16) is set to -1.",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "float",
+                "name": "ent1X"
+            },
+            {
+                "type": "float",
+                "name": "ent1Y"
+            },
+            {
+                "type": "float",
+                "name": "ent1Z"
+            },
+            {
+                "type": "float",
+                "name": "ent2X"
+            },
+            {
+                "type": "float",
+                "name": "ent2Y"
+            },
+            {
+                "type": "float",
+                "name": "ent2Z"
+            },
+            {
+                "type": "float",
+                "name": "length"
+            },
+            {
+                "type": "int",
+                "name": "alwaysZero1"
+            },
+            {
+                "type": "int",
+                "name": "alwaysZero2"
+            },
+            {
+                "type": "const char*",
+                "name": "boneName1"
+            },
+            {
+                "type": "const char*",
+                "name": "boneName2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p14"
+            },
+            {
+                "type": "int",
+                "name": "boneId1"
+            },
+            {
+                "type": "int",
+                "name": "boneId2"
+            },
+            {
+                "type": "int",
+                "name": "alwaysZero3"
+            },
+            {
+                "type": "int",
+                "name": "alwaysZero4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p19"
+            },
+            {
+                "type": "BOOL",
+                "name": "p20"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3D95EC8B6D940AC3",
+        "gta_jhash": "0x7508668F"
+    }
+}

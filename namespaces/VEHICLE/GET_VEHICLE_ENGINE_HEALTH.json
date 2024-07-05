@@ -1,0 +1,16 @@
+{
+    "0x90DBFFAC43B22081": {
+        "name": "GET_VEHICLE_ENGINE_HEALTH",
+        "comment": "Returns 1000.0 if the function is unable to get the address of the specified vehicle or if it's not a vehicle.\n\nMinimum: -4000\nMaximum: 1000\n\n-4000: Engine is destroyed\n0 and below: Engine catches fire and health rapidly declines\n300: Engine is smoking and losing functionality\n1000: Engine is perfect",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xC45D23BAF168AAB8",
+        "gta_jhash": "0x8880038A"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x5FE444EB67C70AD4": {
+        "name": "_DATABINDING_READ_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "entryId"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

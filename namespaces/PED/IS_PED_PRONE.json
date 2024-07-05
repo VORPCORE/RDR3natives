@@ -1,0 +1,16 @@
+{
+    "0xD6A86331A537A7B9": {
+        "name": "IS_PED_PRONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD6A86331A537A7B9",
+        "gta_jhash": "0x02C2A6C3"
+    }
+}

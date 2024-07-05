@@ -1,0 +1,14 @@
+{
+    "0x087D8F4BC65F68E4": {
+        "name": "_CLEAR_PED_LAST_WEAPON_DAMAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

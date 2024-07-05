@@ -1,0 +1,22 @@
+{
+    "0xA18393089C05E49C": {
+        "name": "NETWORK_TRY_ACCESS_TUNABLE_FLOAT_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "tunableContext"
+            },
+            {
+                "type": "Hash",
+                "name": "tunableName"
+            },
+            {
+                "type": "float",
+                "name": "defaultValue"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

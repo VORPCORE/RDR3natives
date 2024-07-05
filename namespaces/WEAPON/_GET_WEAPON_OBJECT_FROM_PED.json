@@ -1,0 +1,18 @@
+{
+    "0xC6A6789BB405D11C": {
+        "name": "_GET_WEAPON_OBJECT_FROM_PED",
+        "comment": "Detaches the weapon from the ped and actually removes the ped's weapon",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Object",
+        "build": "1207"
+    }
+}

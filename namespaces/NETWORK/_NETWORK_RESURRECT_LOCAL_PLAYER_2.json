@@ -1,0 +1,14 @@
+{
+    "0x4154B7D8C75E5DCF": {
+        "name": "_NETWORK_RESURRECT_LOCAL_PLAYER_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

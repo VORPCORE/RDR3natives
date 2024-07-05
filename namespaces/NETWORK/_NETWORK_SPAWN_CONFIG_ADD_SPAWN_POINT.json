@@ -1,0 +1,26 @@
+{
+    "0xFD1AC0B3858F224C": {
+        "name": "_NETWORK_SPAWN_CONFIG_ADD_SPAWN_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

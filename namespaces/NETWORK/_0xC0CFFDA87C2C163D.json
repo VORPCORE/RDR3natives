@@ -1,0 +1,22 @@
+{
+    "0xC0CFFDA87C2C163D": {
+        "name": "_0xC0CFFDA87C2C163D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

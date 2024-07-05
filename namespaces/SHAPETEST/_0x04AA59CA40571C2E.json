@@ -1,0 +1,18 @@
+{
+    "0x04AA59CA40571C2E": {
+        "name": "_0x04AA59CA40571C2E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

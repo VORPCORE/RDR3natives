@@ -1,0 +1,14 @@
+{
+    "0x3015635426D1B17C": {
+        "name": "_CLOSE_UIAPP_IMMEDIATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "appName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xCE5D0FFE83939AF1": {
+        "name": "_PLAY_SOUND_FRONTEND_WITH_SOUND_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "const char*",
+                "name": "soundSet"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

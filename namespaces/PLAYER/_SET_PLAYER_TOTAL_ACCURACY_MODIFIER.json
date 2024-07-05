@@ -1,0 +1,18 @@
+{
+    "0x967FF5BC0CFE6D26": {
+        "name": "_SET_PLAYER_TOTAL_ACCURACY_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "accuracy"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

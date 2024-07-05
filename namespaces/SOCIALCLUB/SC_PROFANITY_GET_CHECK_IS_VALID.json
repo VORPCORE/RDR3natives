@@ -1,0 +1,16 @@
+{
+    "0x08C8052AF40C4247": {
+        "name": "SC_PROFANITY_GET_CHECK_IS_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1753344C770358AE",
+        "gta_jhash": "0xFFED3676"
+    }
+}

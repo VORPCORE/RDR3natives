@@ -1,0 +1,18 @@
+{
+    "0x22D3A61CE053270C": {
+        "name": "_BOUNTY_REQUEST_POSSE_MEMBER_CLAIM_CHARACTER_BOUNTY_SHARE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outRpcGuid"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

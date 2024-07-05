@@ -1,0 +1,14 @@
+{
+    "0x242EDF85D4E87B65": {
+        "name": "_0x242EDF85D4E87B65",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

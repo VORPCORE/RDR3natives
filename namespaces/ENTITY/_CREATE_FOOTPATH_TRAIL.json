@@ -1,0 +1,58 @@
+{
+    "0x29BA9F78321E5A6C": {
+        "name": "_CREATE_FOOTPATH_TRAIL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "waypointRecord"
+            },
+            {
+                "type": "BOOL",
+                "name": "bUseSnowOffset"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            },
+            {
+                "type": "Any",
+                "name": "p9"
+            },
+            {
+                "type": "Any",
+                "name": "p10"
+            },
+            {
+                "type": "BOOL",
+                "name": "bInit"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x51AC07A44D4F5B8A": {
+        "name": "CAN_KNOCK_PED_OFF_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x51AC07A44D4F5B8A",
+        "gta_jhash": "0xC9D098B3"
+    }
+}

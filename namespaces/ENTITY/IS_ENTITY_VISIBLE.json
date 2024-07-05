@@ -1,0 +1,16 @@
+{
+    "0xFFC96ECB7FA404CA": {
+        "name": "IS_ENTITY_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x47D6F43D77935C75",
+        "gta_jhash": "0x120B4ED5"
+    }
+}

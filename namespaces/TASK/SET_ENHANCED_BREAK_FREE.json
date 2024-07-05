@@ -1,0 +1,22 @@
+{
+    "0x1BF9D36A5EAFFBAE": {
+        "name": "SET_ENHANCED_BREAK_FREE",
+        "comment": "clipset: CLIPSET@MECH_HOGTIE@HUMAN@BREAKOUT_MG@GROUND, CLIPSET@MECH_HOGTIE@HUMAN@BREAKOUT_MG@SHOULDER, CLIPSET@MECH_HOGTIE@HUMAN@BREAKOUT_MG@MOUNT\nclipset can also be 0",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "clipset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xAAA92B631B13F614": {
+        "name": "_NETWORK_REQUEST_CONTROL_OF_ANIM_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

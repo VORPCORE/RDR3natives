@@ -1,0 +1,14 @@
+{
+    "0x6718F40313A2B5A6": {
+        "name": "_GET_SCENARIO_POINT_RADIUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

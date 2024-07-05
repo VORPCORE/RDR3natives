@@ -1,0 +1,18 @@
+{
+    "0x43FF27FC1829C202": {
+        "name": "_IS_TRANSPORT_SEAT_FREE",
+        "comment": "Called together with IS_VEHICLE_SEAT_FREE",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xAA2FADD30F45A9DA": {
+        "name": "GET_ENTITY_COLLISION_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xCCF1E97BEFDAE480",
+        "gta_jhash": "0xE8C0C629"
+    }
+}

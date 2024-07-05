@@ -1,0 +1,16 @@
+{
+    "0x5A34CD9C3C5BEC44": {
+        "name": "UGC_RELEASE_CACHED_DESCRIPTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "description"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x5A34CD9C3C5BEC44",
+        "gta_jhash": "0x346B506C"
+    }
+}

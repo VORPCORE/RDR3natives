@@ -1,0 +1,11 @@
+{
+    "0xBC2C927F5C264960": {
+        "name": "GET_HASH_OF_THIS_SCRIPT_NAME",
+        "comment": "",
+        "params": [],
+        "return_type": "Hash",
+        "build": "1207",
+        "gta_hash": "0x8A1C8B1738FFE87E",
+        "gta_jhash": "0x2BEE1F45"
+    }
+}

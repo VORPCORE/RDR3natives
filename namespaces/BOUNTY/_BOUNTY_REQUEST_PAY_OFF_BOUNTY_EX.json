@@ -1,0 +1,22 @@
+{
+    "0x587BCEC31D64F382": {
+        "name": "_BOUNTY_REQUEST_PAY_OFF_BOUNTY_EX",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outRpcGuid"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "costType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

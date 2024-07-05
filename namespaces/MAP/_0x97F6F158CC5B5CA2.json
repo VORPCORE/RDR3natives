@@ -1,0 +1,18 @@
+{
+    "0x97F6F158CC5B5CA2": {
+        "name": "_0x97F6F158CC5B5CA2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

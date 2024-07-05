@@ -1,0 +1,9 @@
+{
+    "0x15A4461BEB788096": {
+        "name": "_UILOG_GET_CACHED_OBJECTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x893128CDB4B81FBB": {
+        "name": "_UI_FEED_POST_RETICLE_MESSAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

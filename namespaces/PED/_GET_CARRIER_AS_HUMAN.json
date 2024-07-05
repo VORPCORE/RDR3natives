@@ -1,0 +1,14 @@
+{
+    "0x79443D56C8DF45EE": {
+        "name": "_GET_CARRIER_AS_HUMAN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

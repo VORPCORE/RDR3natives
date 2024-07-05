@@ -1,0 +1,18 @@
+{
+    "0xBAE08F00021BFFB2": {
+        "name": "_HORSE_AGITATE",
+        "comment": "_H* - _I*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "mount"
+            },
+            {
+                "type": "BOOL",
+                "name": "kickOffRider"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

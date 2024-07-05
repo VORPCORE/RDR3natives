@@ -1,0 +1,14 @@
+{
+    "0xCBC9A21F6A2A679C": {
+        "name": "FIRE_SINGLE_BULLET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

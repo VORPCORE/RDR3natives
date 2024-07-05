@@ -1,0 +1,20 @@
+{
+    "0xD3852F22AB713A1F": {
+        "name": "ARE_STRINGS_EQUAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string1"
+            },
+            {
+                "type": "const char*",
+                "name": "string2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x0C515FAB3FF9EA92",
+        "gta_jhash": "0x877C0BC5"
+    }
+}

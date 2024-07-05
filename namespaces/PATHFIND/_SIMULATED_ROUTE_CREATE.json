@@ -1,0 +1,38 @@
+{
+    "0xFD5BB35AAB83FD48": {
+        "name": "_SIMULATED_ROUTE_CREATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

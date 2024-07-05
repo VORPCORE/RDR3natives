@@ -1,0 +1,14 @@
+{
+    "0xEF254F1A4C08B7E6": {
+        "name": "_ITEMDATABASE_GET_PRIORITY_ACCESS_AWARD",
+        "comment": "_ITEMDATABASE_GET_* - _ITEMDATABASE_IS_*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "award"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

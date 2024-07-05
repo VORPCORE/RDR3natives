@@ -1,0 +1,16 @@
+{
+    "0xD30765D153EF5C76": {
+        "name": "IS_ITEMSET_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB1B1EA596344DFAB",
+        "gta_jhash": "0xD201FC29"
+    }
+}

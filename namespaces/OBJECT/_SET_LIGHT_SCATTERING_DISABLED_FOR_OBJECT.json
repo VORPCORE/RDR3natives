@@ -1,0 +1,18 @@
+{
+    "0x04D1D4E411CE52D0": {
+        "name": "_SET_LIGHT_SCATTERING_DISABLED_FOR_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "disable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

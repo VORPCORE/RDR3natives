@@ -1,0 +1,14 @@
+{
+    "0x5BF0B9D9A8E227A0": {
+        "name": "_0x5BF0B9D9A8E227A0",
+        "comment": "_IS_PED_B* - _IS_PED_C*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

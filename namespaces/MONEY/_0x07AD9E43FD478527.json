@@ -1,0 +1,19 @@
+{
+    "0x07AD9E43FD478527": {
+        "name": "_0x07AD9E43FD478527",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "0x69D5479982355D8F": {
+        "name": "_UILOG_ADD_ENTRY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Hash",
+                "name": "p5"
+            },
+            {
+                "type": "Hash",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

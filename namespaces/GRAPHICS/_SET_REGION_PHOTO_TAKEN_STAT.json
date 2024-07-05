@@ -1,0 +1,14 @@
+{
+    "0xD1031B83AC093BC7": {
+        "name": "_SET_REGION_PHOTO_TAKEN_STAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

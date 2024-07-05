@@ -1,0 +1,14 @@
+{
+    "0xF9331B3A314EB49D": {
+        "name": "_0xF9331B3A314EB49D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

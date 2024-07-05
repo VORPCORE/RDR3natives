@@ -1,0 +1,9 @@
+{
+    "0x55285F885F662169": {
+        "name": "_PEDSHOT_INIT_CLEANUP_DATA",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

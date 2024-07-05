@@ -1,0 +1,18 @@
+{
+    "0x0552AA3FFC5B87AA": {
+        "name": "BLOCK_PICKUP_PLACEMENT_LIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

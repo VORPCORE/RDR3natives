@@ -1,0 +1,22 @@
+{
+    "0x310CE349E0C0EC4B": {
+        "name": "_0x310CE349E0C0EC4B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

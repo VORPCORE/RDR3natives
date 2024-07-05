@@ -1,0 +1,9 @@
+{
+    "0xF2CBC969C4F090C7": {
+        "name": "NETWORK_SESSION_IS_TRANSITIONING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "0xD2A207EEBDF9889B": {
+        "name": "TASK_GUARD_ASSIGNED_DEFENSIVE_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD2A207EEBDF9889B",
+        "gta_jhash": "0x7AF0133D"
+    }
+}

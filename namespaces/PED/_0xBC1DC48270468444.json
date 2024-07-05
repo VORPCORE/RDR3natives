@@ -1,0 +1,14 @@
+{
+    "0xBC1DC48270468444": {
+        "name": "_0xBC1DC48270468444",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0xD85DFE5C131E4AE9": {
+        "name": "CLEAR_WEATHER_TYPE_PERSIST",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xCCC39339BEF76CF5",
+        "gta_jhash": "0x6AB757D8"
+    }
+}

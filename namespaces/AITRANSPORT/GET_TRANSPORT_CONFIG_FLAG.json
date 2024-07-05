@@ -1,0 +1,22 @@
+{
+    "0xF382C92CCC1CCDBC": {
+        "name": "GET_TRANSPORT_CONFIG_FLAG",
+        "comment": "flagId: see SET_TRANSPORT_CONFIG_FLAG",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "int",
+                "name": "flagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

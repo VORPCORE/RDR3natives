@@ -1,0 +1,18 @@
+{
+    "0xC716EB2BD16370A3": {
+        "name": "TASK_LASSO_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

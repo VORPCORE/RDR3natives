@@ -1,0 +1,14 @@
+{
+    "0x45AB66D02B601FA7": {
+        "name": "_IS_SECONDARY_SPECIAL_ABILITY_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

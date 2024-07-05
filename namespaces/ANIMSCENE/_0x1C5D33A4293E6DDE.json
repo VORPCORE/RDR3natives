@@ -1,0 +1,18 @@
+{
+    "0x1C5D33A4293E6DDE": {
+        "name": "_0x1C5D33A4293E6DDE",
+        "comment": "Used in SP R* Scripts only\n_IS_ANIM_SCENE_P*",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "phaseName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

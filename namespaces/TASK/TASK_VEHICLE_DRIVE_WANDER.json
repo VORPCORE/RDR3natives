@@ -1,0 +1,28 @@
+{
+    "0x480142959D337D00": {
+        "name": "TASK_VEHICLE_DRIVE_WANDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "int",
+                "name": "drivingStyle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x480142959D337D00",
+        "gta_jhash": "0x36EC0EB0"
+    }
+}

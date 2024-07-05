@@ -1,0 +1,50 @@
+{
+    "0xCCDAE6324B6A821C": {
+        "name": "TASK_USE_SCENARIO_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "scenario"
+            },
+            {
+                "type": "const char*",
+                "name": "conditionalAnim"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "Hash",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

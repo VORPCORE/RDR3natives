@@ -1,0 +1,16 @@
+{
+    "0x702B75DC9D3EDE56": {
+        "name": "FORCE_CINEMATIC_RENDERING_THIS_UPDATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA41BCD7213805AAC",
+        "gta_jhash": "0xFBB85E02"
+    }
+}

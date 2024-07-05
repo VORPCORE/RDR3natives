@@ -1,0 +1,26 @@
+{
+    "0x0751D461F06E41CE": {
+        "name": "_MODIFY_PLAYER_UI_PROMPT",
+        "comment": "Params: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePromptType\npromptType is mostly 34 (PP_TRACK_ANIMAL), promptMode = 0 (PP_MODE_BLOCK) in R* Scripts",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "promptType"
+            },
+            {
+                "type": "int",
+                "name": "promptMode"
+            },
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x4592B8B9B0EF5F48": {
+        "name": "_RELEASE_META_PED_OUTFIT_REQUEST",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

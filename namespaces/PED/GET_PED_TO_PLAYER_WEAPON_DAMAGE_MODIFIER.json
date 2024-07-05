@@ -1,0 +1,14 @@
+{
+    "0x936E7CAD0AE2EE14": {
+        "name": "GET_PED_TO_PLAYER_WEAPON_DAMAGE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

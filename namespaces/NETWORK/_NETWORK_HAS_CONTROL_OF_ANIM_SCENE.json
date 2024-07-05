@@ -1,0 +1,14 @@
+{
+    "0x26A5C12FACFF8724": {
+        "name": "_NETWORK_HAS_CONTROL_OF_ANIM_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

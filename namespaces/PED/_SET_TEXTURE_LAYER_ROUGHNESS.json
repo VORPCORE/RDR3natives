@@ -1,0 +1,22 @@
+{
+    "0x057C4F092E2298BE": {
+        "name": "_SET_TEXTURE_LAYER_ROUGHNESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            },
+            {
+                "type": "int",
+                "name": "layerId"
+            },
+            {
+                "type": "float",
+                "name": "texRough"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

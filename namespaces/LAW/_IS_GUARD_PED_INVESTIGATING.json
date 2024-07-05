@@ -1,0 +1,14 @@
+{
+    "0xD743C4293F47AFAD": {
+        "name": "_IS_GUARD_PED_INVESTIGATING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

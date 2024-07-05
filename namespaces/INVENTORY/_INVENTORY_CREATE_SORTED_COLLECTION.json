@@ -1,0 +1,22 @@
+{
+    "0xBB7F968675B34B0C": {
+        "name": "_INVENTORY_CREATE_SORTED_COLLECTION",
+        "comment": "p1: 32\nReturns collectionId",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int*",
+                "name": "size"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311"
+    }
+}

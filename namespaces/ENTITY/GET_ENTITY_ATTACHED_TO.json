@@ -1,0 +1,16 @@
+{
+    "0x56D713888A566481": {
+        "name": "GET_ENTITY_ATTACHED_TO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207",
+        "gta_hash": "0x48C2BED9180FE123",
+        "gta_jhash": "0xFE1589F9"
+    }
+}

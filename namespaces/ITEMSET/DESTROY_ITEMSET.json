@@ -1,0 +1,16 @@
+{
+    "0x712BC69F10549B92": {
+        "name": "DESTROY_ITEMSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDE18220B1C183EDA",
+        "gta_jhash": "0x83CE1A4C"
+    }
+}

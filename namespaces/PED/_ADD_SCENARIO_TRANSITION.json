@@ -1,0 +1,14 @@
+{
+    "0x6D07B371E9439019": {
+        "name": "_ADD_SCENARIO_TRANSITION",
+        "comment": "Forces transition now, called together with 0xD65FDC686A031C83",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

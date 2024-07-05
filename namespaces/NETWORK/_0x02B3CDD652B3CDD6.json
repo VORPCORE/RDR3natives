@@ -1,0 +1,10 @@
+{
+    "0x02B3CDD652B3CDD6": {
+        "name": "_0x02B3CDD652B3CDD6",
+        "comment": "Note: this native was added in build 1311.16\n\nGET_NUM_*",
+        "params": [],
+        "return_type": "int",
+        "build": "1311",
+        "unused": true
+    }
+}

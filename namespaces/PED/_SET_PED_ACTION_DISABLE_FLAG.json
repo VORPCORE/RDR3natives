@@ -1,0 +1,18 @@
+{
+    "0xB8DE69D9473B7593": {
+        "name": "_SET_PED_ACTION_DISABLE_FLAG",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/AI/COMBAT_ACTION_DISABLE_FLAGS",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "actionDisableFlag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

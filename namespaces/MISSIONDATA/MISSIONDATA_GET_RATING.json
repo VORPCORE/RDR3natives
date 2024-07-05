@@ -1,0 +1,14 @@
+{
+    "0x57E798B54C45EE1A": {
+        "name": "MISSIONDATA_GET_RATING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "missionId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

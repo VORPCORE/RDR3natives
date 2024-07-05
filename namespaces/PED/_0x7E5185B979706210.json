@@ -1,0 +1,18 @@
+{
+    "0x7E5185B979706210": {
+        "name": "_0x7E5185B979706210",
+        "comment": "_SET_FORMATION_P*",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

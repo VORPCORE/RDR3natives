@@ -1,0 +1,20 @@
+{
+    "0xCC97B29285B1DC3B": {
+        "name": "SET_ANIMAL_MOOD",
+        "comment": "Not implemented.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animal"
+            },
+            {
+                "type": "int",
+                "name": "mood"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xCC97B29285B1DC3B",
+        "gta_jhash": "0x3EA7C6CB"
+    }
+}

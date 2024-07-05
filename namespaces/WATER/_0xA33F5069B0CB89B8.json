@@ -1,0 +1,9 @@
+{
+    "0xA33F5069B0CB89B8": {
+        "name": "_0xA33F5069B0CB89B8",
+        "comment": "Only used in fishing_core R* Script",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xF162E133B4E7A675": {
+        "name": "GET_PED_GROUP_INDEX",
+        "comment": "Returns the groupId of which the specified ped is a member of.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xF162E133B4E7A675",
+        "gta_jhash": "0x134E0785"
+    }
+}

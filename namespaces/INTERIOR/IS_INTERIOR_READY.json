@@ -1,0 +1,16 @@
+{
+    "0x941560D2D45DBFC8": {
+        "name": "IS_INTERIOR_READY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x6726BDCCC1932F0E",
+        "gta_jhash": "0xE1EF6450"
+    }
+}

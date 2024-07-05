@@ -1,0 +1,16 @@
+{
+    "0x9A5C073ECBDA7EE7": {
+        "name": "GET_ENTITY_FORWARD_Y",
+        "comment": "Gets the Y-component of the entity's forward vector.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x866A4A5FAE349510",
+        "gta_jhash": "0x9E2F917C"
+    }
+}

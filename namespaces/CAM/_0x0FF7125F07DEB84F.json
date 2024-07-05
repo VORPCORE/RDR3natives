@@ -1,0 +1,18 @@
+{
+    "0x0FF7125F07DEB84F": {
+        "name": "_0x0FF7125F07DEB84F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

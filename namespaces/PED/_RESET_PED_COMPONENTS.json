@@ -1,0 +1,14 @@
+{
+    "0x0BFA1BD465CDFEFD": {
+        "name": "_RESET_PED_COMPONENTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x370F57C47F68EBCA": {
+        "name": "_0x370F57C47F68EBCA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

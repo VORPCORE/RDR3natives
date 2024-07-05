@@ -1,0 +1,14 @@
+{
+    "0x96C638784DB4C815": {
+        "name": "_GET_ENTITY_HEALTH_FLOAT",
+        "comment": "Returns (CUR_HEALTH / MAX_HEALTH)",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

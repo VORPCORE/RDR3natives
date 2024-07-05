@@ -1,0 +1,20 @@
+{
+    "0x56E3B78C5408D9F4": {
+        "name": "CLEAR_PED_BLOOD_DAMAGE_BY_ZONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x56E3B78C5408D9F4",
+        "gta_jhash": "0xF210BE69"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x3D9DA5C9EFD20D88": {
+        "name": "_0x3D9DA5C9EFD20D88",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

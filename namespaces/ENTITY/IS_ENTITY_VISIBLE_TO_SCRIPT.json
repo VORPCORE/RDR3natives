@@ -1,0 +1,16 @@
+{
+    "0xF213C724E77F321A": {
+        "name": "IS_ENTITY_VISIBLE_TO_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD796CB5BA8F20E32",
+        "gta_jhash": "0x5D240E9D"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xA0CEFCEA390AAB9B": {
+        "name": "CLEAR_CONTROL_SHAKE_SUPPRESSED_ID",
+        "comment": "Old name: _CLEAR_SUPPRESSED_PAD_RUMBLE",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA0CEFCEA390AAB9B",
+        "gta_jhash": ""
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0xE1EF3C1216AFF2CD": {
+        "name": "CLEAR_PED_TASKS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE1EF3C1216AFF2CD",
+        "gta_jhash": "0xDE3316AB"
+    }
+}

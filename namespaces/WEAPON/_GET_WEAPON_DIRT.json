@@ -1,0 +1,14 @@
+{
+    "0x810E8AE9AFEA7E54": {
+        "name": "_GET_WEAPON_DIRT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

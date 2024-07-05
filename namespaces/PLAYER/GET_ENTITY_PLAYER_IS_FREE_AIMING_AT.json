@@ -1,0 +1,20 @@
+{
+    "0xA6817C110B830EAD": {
+        "name": "GET_ENTITY_PLAYER_IS_FREE_AIMING_AT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity*",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x2975C866E6713290",
+        "gta_jhash": "0x8866D9D0"
+    }
+}

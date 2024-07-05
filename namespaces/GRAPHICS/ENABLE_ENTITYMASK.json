@@ -1,0 +1,9 @@
+{
+    "0xFAAD23DE7A54FC14": {
+        "name": "ENABLE_ENTITYMASK",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

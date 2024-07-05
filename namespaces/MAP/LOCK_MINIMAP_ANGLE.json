@@ -1,0 +1,16 @@
+{
+    "0x0BFD145EF819FB3A": {
+        "name": "LOCK_MINIMAP_ANGLE",
+        "comment": "Locks the minimap to the specified angle in integer degrees.\n\nangle: The angle in whole degrees. If less than 0 or greater than 360, unlocks the angle.",
+        "params": [
+            {
+                "type": "int",
+                "name": "angle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x299FAEBB108AE05B",
+        "gta_jhash": "0xDEC733E4"
+    }
+}

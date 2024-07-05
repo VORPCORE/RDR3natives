@@ -1,0 +1,18 @@
+{
+    "0x263D69767F76059C": {
+        "name": "_0x263D69767F76059C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

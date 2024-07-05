@@ -1,0 +1,18 @@
+{
+    "0xC0BB774787BBF301": {
+        "name": "CHAL_MISSION_IS_GOAL_COMPLETE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "missionHash"
+            },
+            {
+                "type": "Hash",
+                "name": "goalHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

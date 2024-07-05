@@ -1,0 +1,14 @@
+{
+    "0x6843A1AA3A336DFF": {
+        "name": "DETACH_ANIM_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

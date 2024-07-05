@@ -1,0 +1,22 @@
+{
+    "0x302E71C1D9EE75B9": {
+        "name": "_0x302E71C1D9EE75B9",
+        "comment": "statId: see STAT_ID_IS_VALID",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "int*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

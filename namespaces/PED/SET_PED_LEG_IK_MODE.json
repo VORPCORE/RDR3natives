@@ -1,0 +1,20 @@
+{
+    "0xC396F5B86FF9FEBD": {
+        "name": "SET_PED_LEG_IK_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "mode"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC396F5B86FF9FEBD",
+        "gta_jhash": "0xFDDB042E"
+    }
+}

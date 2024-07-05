@@ -1,0 +1,14 @@
+{
+    "0x91A5F9CBEBB9D936": {
+        "name": "_IS_SCENARIO_BLOCKING_AREA_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

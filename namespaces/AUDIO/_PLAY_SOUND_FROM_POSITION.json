@@ -1,0 +1,46 @@
+{
+    "0xCCE219C922737BFA": {
+        "name": "_PLAY_SOUND_FROM_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioName"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "const char*",
+                "name": "audioRef"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

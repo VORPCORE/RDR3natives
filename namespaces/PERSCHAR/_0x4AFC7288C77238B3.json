@@ -1,0 +1,14 @@
+{
+    "0x4AFC7288C77238B3": {
+        "name": "_0x4AFC7288C77238B3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

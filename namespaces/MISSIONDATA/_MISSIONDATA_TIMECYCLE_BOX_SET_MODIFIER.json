@@ -1,0 +1,14 @@
+{
+    "0x25855B1574BF8CD5": {
+        "name": "_MISSIONDATA_TIMECYCLE_BOX_SET_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "timecycleName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

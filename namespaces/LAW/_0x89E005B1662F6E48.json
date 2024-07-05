@@ -1,0 +1,22 @@
+{
+    "0x89E005B1662F6E48": {
+        "name": "_0x89E005B1662F6E48",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

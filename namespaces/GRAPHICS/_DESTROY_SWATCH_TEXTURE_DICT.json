@@ -1,0 +1,9 @@
+{
+    "0xDAD7FB8402651654": {
+        "name": "_DESTROY_SWATCH_TEXTURE_DICT",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

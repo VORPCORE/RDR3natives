@@ -1,0 +1,18 @@
+{
+    "0x8F44EBB3BA8F6D44": {
+        "name": "_0x8F44EBB3BA8F6D44",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

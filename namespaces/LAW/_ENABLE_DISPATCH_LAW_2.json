@@ -1,0 +1,14 @@
+{
+    "0x710448D44A64C213": {
+        "name": "_ENABLE_DISPATCH_LAW_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

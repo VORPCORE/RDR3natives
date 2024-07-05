@@ -1,0 +1,14 @@
+{
+    "0x856CE8FDE2416602": {
+        "name": "_0x856CE8FDE2416602",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

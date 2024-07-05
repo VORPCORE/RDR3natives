@@ -1,0 +1,11 @@
+{
+    "0x535384D6067BA42E": {
+        "name": "IS_PAUSE_MENU_ACTIVE",
+        "comment": "Returns true when either Pause Menu, a Frontend Menu, Online Policies menu or Social Club menu is active.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB0034A223497FFCB",
+        "gta_jhash": "0xD3600591"
+    }
+}

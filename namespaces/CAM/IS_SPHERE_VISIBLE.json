@@ -1,0 +1,28 @@
+{
+    "0x2E941B5FFA2989C6": {
+        "name": "IS_SPHERE_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xE33D59DA70B58FDF",
+        "gta_jhash": "0xDD1329E2"
+    }
+}

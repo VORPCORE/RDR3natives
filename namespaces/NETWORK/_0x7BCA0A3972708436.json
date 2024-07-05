@@ -1,0 +1,18 @@
+{
+    "0x7BCA0A3972708436": {
+        "name": "_0x7BCA0A3972708436",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outData"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

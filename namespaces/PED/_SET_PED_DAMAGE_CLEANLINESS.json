@@ -1,0 +1,18 @@
+{
+    "0x7528720101A807A5": {
+        "name": "_SET_PED_DAMAGE_CLEANLINESS",
+        "comment": "damageCleanliness: see _GET_PED_DAMAGE_CLEANLINESS",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "damageCleanliness"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

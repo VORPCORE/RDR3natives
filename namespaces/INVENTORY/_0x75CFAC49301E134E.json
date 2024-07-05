@@ -1,0 +1,22 @@
+{
+    "0x75CFAC49301E134E": {
+        "name": "_0x75CFAC49301E134E",
+        "comment": "p0: value returned by 0x9D21B185ABC2DBC5",
+        "params": [
+            {
+                "type": "Any",
+                "name": "data"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

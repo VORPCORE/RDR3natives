@@ -1,0 +1,20 @@
+{
+    "0xE73A266DB0CA9042": {
+        "name": "TASK_PAUSE",
+        "comment": "This tasks the ped to do nothing for the specified amount of milliseconds.\nThis is useful if you want to add a delay between tasks when using a sequence task.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "ms"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE73A266DB0CA9042",
+        "gta_jhash": "0x17A64668"
+    }
+}

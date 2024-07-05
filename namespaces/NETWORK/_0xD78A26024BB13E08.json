@@ -1,0 +1,14 @@
+{
+    "0xD78A26024BB13E08": {
+        "name": "_0xD78A26024BB13E08",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

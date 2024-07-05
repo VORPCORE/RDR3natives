@@ -1,0 +1,20 @@
+{
+    "0x044DBAD7A7FA2BE5": {
+        "name": "SET_PORTAL_SETTINGS_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x044DBAD7A7FA2BE5",
+        "gta_jhash": "0x8AD670EC"
+    }
+}

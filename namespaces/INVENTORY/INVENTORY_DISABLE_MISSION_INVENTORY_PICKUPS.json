@@ -1,0 +1,9 @@
+{
+    "0xE1F389F03DC83673": {
+        "name": "INVENTORY_DISABLE_MISSION_INVENTORY_PICKUPS",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

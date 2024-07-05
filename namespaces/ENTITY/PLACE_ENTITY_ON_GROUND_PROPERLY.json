@@ -1,0 +1,18 @@
+{
+    "0x9587913B9E772D29": {
+        "name": "PLACE_ENTITY_ON_GROUND_PROPERLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

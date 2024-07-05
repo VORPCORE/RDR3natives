@@ -1,0 +1,22 @@
+{
+    "0xA6E210FB4283B767": {
+        "name": "_GET_ROWING_OARS",
+        "comment": "Returns handles of boat paddles entities.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Entity*",
+                "name": "left"
+            },
+            {
+                "type": "Entity*",
+                "name": "right"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

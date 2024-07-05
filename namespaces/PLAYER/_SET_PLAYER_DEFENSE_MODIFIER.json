@@ -1,0 +1,22 @@
+{
+    "0x497A6539BB0E8787": {
+        "name": "_SET_PLAYER_DEFENSE_MODIFIER",
+        "comment": "Sets stamina core drains peed using ranged damage scale and melee damage scale",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "weaponDefenseMod"
+            },
+            {
+                "type": "float",
+                "name": "meleeDefenseMod"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x8451E87D3C2B0286": {
+        "name": "GET_INTERIOR_LOCATION_AND_NAMEHASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "Vector3*",
+                "name": "position"
+            },
+            {
+                "type": "Hash*",
+                "name": "nameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

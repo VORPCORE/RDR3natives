@@ -1,0 +1,18 @@
+{
+    "0x2E5B5D1F1453E08E": {
+        "name": "_0x2E5B5D1F1453E08E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

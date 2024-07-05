@@ -1,0 +1,9 @@
+{
+    "0xE9990552DEC71600": {
+        "name": "_UILOG_PRINT_CACHED_OBJECTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

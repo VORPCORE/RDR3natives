@@ -1,0 +1,48 @@
+{
+    "0x4114EAA8A7F7766D": {
+        "name": "GET_NTH_CLOSEST_VEHICLE_NODE_ID_WITH_HEADING",
+        "comment": "Returns the nth closest vehicle node with a heading to a coord",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "nthClosest"
+            },
+            {
+                "type": "float*",
+                "name": "returnHeading"
+            },
+            {
+                "type": "int*",
+                "name": "returnNumLanes"
+            },
+            {
+                "type": "int",
+                "name": "nodeFlags"
+            },
+            {
+                "type": "float",
+                "name": "zMeasureMult"
+            },
+            {
+                "type": "float",
+                "name": "zTolerance"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x6448050E9C2A7207",
+        "gta_jhash": "0xC1AEB88D"
+    }
+}

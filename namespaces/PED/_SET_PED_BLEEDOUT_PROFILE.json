@@ -1,0 +1,18 @@
+{
+    "0x66C047719B0E80E1": {
+        "name": "_SET_PED_BLEEDOUT_PROFILE",
+        "comment": "Bleedout profiles:\nAnimal_FastBleedout\nAnimal_Generic\nHuman_FastBleedout\nHuman_Generic\nHuman_Mission\n\nFor more information, see common/data/ai/peddamageinfo.meta",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "bleedoutProfile"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

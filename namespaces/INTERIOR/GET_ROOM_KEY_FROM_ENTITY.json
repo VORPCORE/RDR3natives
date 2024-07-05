@@ -1,0 +1,16 @@
+{
+    "0x076E46E0EB52AFC6": {
+        "name": "GET_ROOM_KEY_FROM_ENTITY",
+        "comment": "Gets the room hash key from the room that the specified entity is in. Each room in every interior has a unique key. Returns 0 if the entity is outside.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207",
+        "gta_hash": "0x47C2A06D4F5F424B",
+        "gta_jhash": "0xE4ACF8C3"
+    }
+}

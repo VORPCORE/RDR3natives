@@ -1,0 +1,18 @@
+{
+    "0x164CECC59E70DF86": {
+        "name": "_IS_TRACKED_PED_VISIBILITY_PERCENTAGE_NOT_LESS_THAN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "percent"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xE979BB5602AD3402": {
+        "name": "_IS_VEHICLE_DOOR_BROKEN",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x0DF7692B1D9E7BA7": {
+        "name": "SET_ENTITY_ALPHA",
+        "comment": "skin - everything alpha except skin\nSet entity alpha level. Ranging from 0 to 255 but changes occur after every 20 percent (after every 51).",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "alphaLevel"
+            },
+            {
+                "type": "BOOL",
+                "name": "skin"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x44A0870B7E92D7C0",
+        "gta_jhash": "0xAE667CB0"
+    }
+}

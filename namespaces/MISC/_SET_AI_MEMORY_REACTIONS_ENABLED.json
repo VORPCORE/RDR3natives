@@ -1,0 +1,14 @@
+{
+    "0x6AC4AF46A6B8DFB2": {
+        "name": "_SET_AI_MEMORY_REACTIONS_ENABLED",
+        "comment": "Used in CAIConditionAmbientAIMemoryReactionsEnabled",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xB2797619A7C7747B": {
+        "name": "SET_ARTIFICIAL_LIGHTS_STATE",
+        "comment": "Does not affect weapons, particles, fire/explosions, flashlights or the sun.\nWhen set to true, all emissive textures (including ped components that have light effects), street lights, building lights, vehicle lights, etc will all be turned off.\n\nstate: True turns off all artificial light sources in the map: buildings, street lights, car lights, etc. False turns them back on.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1268615ACE24D504",
+        "gta_jhash": "0xAA2A0EAF"
+    }
+}

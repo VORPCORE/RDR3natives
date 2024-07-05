@@ -1,0 +1,32 @@
+{
+    "0xBDA5DF49D080FE4E": {
+        "name": "TASK_PATROL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "patrolRoute"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBDA5DF49D080FE4E",
+        "gta_jhash": "0xB92E5AF6"
+    }
+}

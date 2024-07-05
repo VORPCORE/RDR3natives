@@ -1,0 +1,18 @@
+{
+    "0xA2A51869BDED733B": {
+        "name": "_IS_TEXTURE_IN_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "txdHash"
+            },
+            {
+                "type": "Hash",
+                "name": "dict"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

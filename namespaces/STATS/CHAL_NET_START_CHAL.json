@@ -1,0 +1,14 @@
+{
+    "0x4ABF7E4DB6279E8F": {
+        "name": "CHAL_NET_START_CHAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x6F43C351A5D51E2F": {
+        "name": "_0x6F43C351A5D51E2F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

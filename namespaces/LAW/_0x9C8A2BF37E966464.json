@@ -1,0 +1,18 @@
+{
+    "0x9C8A2BF37E966464": {
+        "name": "_0x9C8A2BF37E966464",
+        "comment": "Only used in act_bankrobbery01 R* Script",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemSet"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

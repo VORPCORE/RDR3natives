@@ -1,0 +1,11 @@
+{
+    "0xA8C44C13419634F2": {
+        "name": "REPLAY_PREVENT_RECORDING_THIS_FRAME",
+        "comment": "nullsub, doesn't do anything\n\nOld name: _STOP_RECORDING_THIS_FRAME",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEB2D525B57F42B40",
+        "gta_jhash": ""
+    }
+}

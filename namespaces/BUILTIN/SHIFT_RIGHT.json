@@ -1,0 +1,20 @@
+{
+    "0x97EF1E5BCE9DC075": {
+        "name": "SHIFT_RIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "bitShift"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x97EF1E5BCE9DC075",
+        "gta_jhash": "0x352633CA"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x0A04A07BC3074EDB": {
+        "name": "_NETWORK_LEAVE_GANG",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "disband"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

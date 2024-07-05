@@ -1,0 +1,14 @@
+{
+    "0x0EEF7A81C17679DB": {
+        "name": "_0x0EEF7A81C17679DB",
+        "comment": "_IS_PED_L* - _IS_PED_M*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

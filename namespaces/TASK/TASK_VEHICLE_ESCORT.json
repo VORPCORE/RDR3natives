@@ -1,0 +1,48 @@
+{
+    "0x0FA6E4B75F302400": {
+        "name": "TASK_VEHICLE_ESCORT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Vehicle",
+                "name": "targetVehicle"
+            },
+            {
+                "type": "int",
+                "name": "mode"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "int",
+                "name": "drivingStyle"
+            },
+            {
+                "type": "float",
+                "name": "minDistance"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "noRoadsDistance"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0FA6E4B75F302400",
+        "gta_jhash": "0x9FDCB250"
+    }
+}

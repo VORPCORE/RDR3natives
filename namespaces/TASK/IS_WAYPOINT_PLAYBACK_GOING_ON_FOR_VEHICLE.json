@@ -1,0 +1,20 @@
+{
+    "0xF5134943EA29868C": {
+        "name": "IS_WAYPOINT_PLAYBACK_GOING_ON_FOR_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF5134943EA29868C",
+        "gta_jhash": "0x80DD15DB"
+    }
+}

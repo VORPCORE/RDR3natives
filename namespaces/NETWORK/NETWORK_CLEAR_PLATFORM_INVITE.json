@@ -1,0 +1,9 @@
+{
+    "0xA4484173759749B1": {
+        "name": "NETWORK_CLEAR_PLATFORM_INVITE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

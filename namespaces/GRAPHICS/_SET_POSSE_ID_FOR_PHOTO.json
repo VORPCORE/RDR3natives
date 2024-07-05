@@ -1,0 +1,14 @@
+{
+    "0x564837D4A9EDE296": {
+        "name": "_SET_POSSE_ID_FOR_PHOTO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "posseId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

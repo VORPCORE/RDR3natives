@@ -1,0 +1,18 @@
+{
+    "0xCBCFFF805F1B4596": {
+        "name": "_SET_ACTIVE_GUN_SPINNING_EQUIP_KIT_EMOTE_TWIRL",
+        "comment": "emote hashes: KIT_EMOTE_TWIRL_GUN, KIT_EMOTE_TWIRL_GUN_LEFT_HOLSTER, KIT_EMOTE_TWIRL_GUN_DUAL, 0 (to unequip)",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "emote"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

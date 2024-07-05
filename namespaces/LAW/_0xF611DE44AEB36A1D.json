@@ -1,0 +1,18 @@
+{
+    "0xF611DE44AEB36A1D": {
+        "name": "_0xF611DE44AEB36A1D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "crimeType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

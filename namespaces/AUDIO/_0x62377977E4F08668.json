@@ -1,0 +1,14 @@
+{
+    "0x62377977E4F08668": {
+        "name": "_0x62377977E4F08668",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "AnimScene",
+        "build": "1436"
+    }
+}

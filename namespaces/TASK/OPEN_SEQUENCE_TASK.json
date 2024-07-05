@@ -1,0 +1,16 @@
+{
+    "0xE8854A4326B9E12B": {
+        "name": "OPEN_SEQUENCE_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "taskSequenceId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE8854A4326B9E12B",
+        "gta_jhash": "0xABA6923E"
+    }
+}

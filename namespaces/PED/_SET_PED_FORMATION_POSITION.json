@@ -1,0 +1,22 @@
+{
+    "0x0E9E95FDEDCC9D35": {
+        "name": "_SET_PED_FORMATION_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "position"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

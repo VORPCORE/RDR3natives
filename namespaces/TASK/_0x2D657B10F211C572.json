@@ -1,0 +1,18 @@
+{
+    "0x2D657B10F211C572": {
+        "name": "_0x2D657B10F211C572",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x71EFA7999AE79408": {
+        "name": "_ITEMDATABASE_CREATE_ITEM_COLLECTION",
+        "comment": "Returns collectionId to be used with 0x8750F69A720C2E41 (p0) and 0xCBB7B6EDFA933ADE (p0)",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "int*",
+                "name": "size"
+            },
+            {
+                "type": "int",
+                "name": "comparisonType"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "0x891804727E0A98B7": {
+        "name": "CREATE_PICKUP_ROTATE",
+        "comment": "flags: see CREATE_PICKUP",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "int",
+                "name": "p12"
+            },
+            {
+                "type": "float",
+                "name": "p13"
+            },
+            {
+                "type": "Any",
+                "name": "p14"
+            }
+        ],
+        "return_type": "Pickup",
+        "build": "1207",
+        "gta_hash": "0x891804727E0A98B7",
+        "gta_jhash": "0xF015BFE2"
+    }
+}

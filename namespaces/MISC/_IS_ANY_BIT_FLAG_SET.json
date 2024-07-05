@@ -1,0 +1,14 @@
+{
+    "0x80E9C316EF84DD81": {
+        "name": "_IS_ANY_BIT_FLAG_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "bitFlags"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

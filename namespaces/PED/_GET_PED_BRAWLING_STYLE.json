@@ -1,0 +1,14 @@
+{
+    "0xEC6B59BE445FEC51": {
+        "name": "_GET_PED_BRAWLING_STYLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

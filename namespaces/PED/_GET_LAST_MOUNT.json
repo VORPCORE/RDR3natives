@@ -1,0 +1,14 @@
+{
+    "0x4C8B59171957BCF7": {
+        "name": "_GET_LAST_MOUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

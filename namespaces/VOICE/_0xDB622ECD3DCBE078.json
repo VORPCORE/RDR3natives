@@ -1,0 +1,15 @@
+{
+    "0xDB622ECD3DCBE078": {
+        "name": "_0xDB622ECD3DCBE078",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207",
+        "unused": true
+    }
+}

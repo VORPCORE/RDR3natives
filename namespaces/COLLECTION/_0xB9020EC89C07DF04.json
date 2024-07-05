@@ -1,0 +1,22 @@
+{
+    "0xB9020EC89C07DF04": {
+        "name": "_0xB9020EC89C07DF04",
+        "comment": "Accepts more hashes than 0xCC644BC1DD655269\nSuch as: CAROLINA_PARAKEETS, DINO_BONES, EGRET_FEATHERS, ...",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableCategory"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

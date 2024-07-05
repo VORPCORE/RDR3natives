@@ -1,0 +1,30 @@
+{
+    "0x3233C4EC0514C7EC": {
+        "name": "_ADD_POP_MULTIPLIER_VOLUME",
+        "comment": "Only used in script function PROCESS_ZONE_CREATION\nReturns Pop multiplier volume ID",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "float",
+                "name": "pedDensity"
+            },
+            {
+                "type": "float",
+                "name": "vehicleDensity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x042F9049EA419E86": {
+        "name": "REMOVE_PTFX_ASSET",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x88C6814073DD4A73",
+        "gta_jhash": "0xC10F178C"
+    }
+}

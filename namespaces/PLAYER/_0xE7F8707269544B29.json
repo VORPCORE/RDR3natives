@@ -1,0 +1,18 @@
+{
+    "0xE7F8707269544B29": {
+        "name": "_0xE7F8707269544B29",
+        "comment": "_IS_PLAYER_A* - _IS_PLAYER_BE*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

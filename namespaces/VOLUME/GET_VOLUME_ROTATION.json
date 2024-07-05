@@ -1,0 +1,14 @@
+{
+    "0x18675BC914891122": {
+        "name": "GET_VOLUME_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

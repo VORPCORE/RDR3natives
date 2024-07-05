@@ -1,0 +1,20 @@
+{
+    "0x629F0A0E952CAE7D": {
+        "name": "SET_VEHICLE_LIGHTS",
+        "comment": "Sets the vehicle's lights state.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x34E710FF01247C5A",
+        "gta_jhash": "0xE8930226"
+    }
+}

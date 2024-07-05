@@ -1,0 +1,10 @@
+{
+    "0x2FB53C631A49BE92": {
+        "name": "NETWORK_GET_PROMOTION_DLG_SEEN_COUNT",
+        "comment": "Hardcoded to return zero.",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "unused": true
+    }
+}

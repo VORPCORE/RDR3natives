@@ -1,0 +1,9 @@
+{
+    "0xD1CE92D1D9BE170A": {
+        "name": "_CASHINVENTORY_INIT_SESSION_IS_FAULTED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

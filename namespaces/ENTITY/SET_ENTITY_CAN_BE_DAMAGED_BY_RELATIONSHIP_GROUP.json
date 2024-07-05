@@ -1,0 +1,24 @@
+{
+    "0x0EF1AFB18649E015": {
+        "name": "SET_ENTITY_CAN_BE_DAMAGED_BY_RELATIONSHIP_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "bCanBeDamaged"
+            },
+            {
+                "type": "Hash",
+                "name": "relGroup"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE22D8FDE858B8119",
+        "gta_jhash": "0x34165B5D"
+    }
+}

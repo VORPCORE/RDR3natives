@@ -1,0 +1,30 @@
+{
+    "0xA0774E388CE4A679": {
+        "name": "_GIVE_PED_SCENARIO_PROP_DYNAMIC",
+        "comment": "Only used in SP R* Script rcm_jack2",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

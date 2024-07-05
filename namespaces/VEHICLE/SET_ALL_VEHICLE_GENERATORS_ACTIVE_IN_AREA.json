@@ -1,0 +1,44 @@
+{
+    "0xBBB134FB9D50C0CC": {
+        "name": "SET_ALL_VEHICLE_GENERATORS_ACTIVE_IN_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC12321827687FE4D",
+        "gta_jhash": "0xB4E0E69A"
+    }
+}

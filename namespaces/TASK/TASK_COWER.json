@@ -1,0 +1,28 @@
+{
+    "0x3EB1FE9E8E908E15": {
+        "name": "TASK_COWER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "Ped",
+                "name": "pedToCowerFrom"
+            },
+            {
+                "type": "const char*",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3EB1FE9E8E908E15",
+        "gta_jhash": "0x9CF1C19B"
+    }
+}

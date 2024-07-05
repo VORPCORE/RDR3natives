@@ -1,0 +1,11 @@
+{
+    "0xDDDF64C91BFCF0AA": {
+        "name": "NETWORK_IS_FINDING_GAMERS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xDDDF64C91BFCF0AA",
+        "gta_jhash": "0xA6DAA79F"
+    }
+}

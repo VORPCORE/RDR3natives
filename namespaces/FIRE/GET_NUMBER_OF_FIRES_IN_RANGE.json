@@ -1,0 +1,28 @@
+{
+    "0xF9617BC6FAE61E08": {
+        "name": "GET_NUMBER_OF_FIRES_IN_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x50CAD495A460B305",
+        "gta_jhash": "0x654D93B7"
+    }
+}

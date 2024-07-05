@@ -1,0 +1,18 @@
+{
+    "0xBD75500141E4725C": {
+        "name": "_SET_PED_COMBAT_ATTRIBUTE_HASH",
+        "comment": "Hashes: GUARD, COMBAT_ANIMAL, LAW, LAW_SHERIFF\n_SET_PED_COMBAT_A* - _SET_PED_COMBAT_M*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

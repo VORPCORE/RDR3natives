@@ -1,0 +1,14 @@
+{
+    "0xA201A3D0AC087C37": {
+        "name": "_0xA201A3D0AC087C37",
+        "comment": "ANIMPOSTFX_*",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

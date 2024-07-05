@@ -1,0 +1,14 @@
+{
+    "0xD798DF5DB67B1659": {
+        "name": "_GET_VEHICLE_IS_PROP_SET_APPLIED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

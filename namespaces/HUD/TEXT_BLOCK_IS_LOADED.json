@@ -1,0 +1,14 @@
+{
+    "0xD0976CC34002DB57": {
+        "name": "TEXT_BLOCK_IS_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textBlock"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

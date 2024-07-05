@@ -1,0 +1,11 @@
+{
+    "0x8A9386F0749A17FA": {
+        "name": "NETWORK_PLAYER_ID_TO_INT",
+        "comment": "Does exactly the same thing as PLAYER_ID()",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xEE68096F9F37341E",
+        "gta_jhash": "0x8DD5B838"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xBC07CA8FD710E7FD": {
+        "name": "_0xBC07CA8FD710E7FD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

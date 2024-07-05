@@ -1,0 +1,18 @@
+{
+    "0xD0AABE5B9F8FA589": {
+        "name": "_0xD0AABE5B9F8FA589",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

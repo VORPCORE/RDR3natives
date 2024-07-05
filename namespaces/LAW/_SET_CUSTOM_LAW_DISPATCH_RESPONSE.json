@@ -1,0 +1,14 @@
+{
+    "0x009CF9A29972C298": {
+        "name": "_SET_CUSTOM_LAW_DISPATCH_RESPONSE",
+        "comment": "Note: This native is only used in multiplayer scripts\ndispatchResponseHash: see update1/common/data/dispatchresponses/..",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "dispatchResponseHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

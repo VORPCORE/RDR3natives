@@ -1,0 +1,18 @@
+{
+    "0x4776EFD78F75C23F": {
+        "name": "_ITEMDATABASE_FILLOUT_SATCHEL_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "key"
+            },
+            {
+                "type": "int*",
+                "name": "outSatchelItemSize"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

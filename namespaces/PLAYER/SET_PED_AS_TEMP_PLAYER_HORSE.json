@@ -1,0 +1,18 @@
+{
+    "0x227B06324234FB09": {
+        "name": "SET_PED_AS_TEMP_PLAYER_HORSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "horse"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

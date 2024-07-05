@@ -1,0 +1,14 @@
+{
+    "0xF8DE7154F7D1458F": {
+        "name": "_0xF8DE7154F7D1458F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xE10F2D7715ABABEC": {
+        "name": "_0xE10F2D7715ABABEC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

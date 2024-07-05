@@ -1,0 +1,14 @@
+{
+    "0xE0B61ED8BB37712F": {
+        "name": "_WARP_PED_OUT_OF_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x58A850EAEE20FAA3": {
+        "name": "PLACE_OBJECT_ON_GROUND_PROPERLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x58A850EAEE20FAA3",
+        "gta_jhash": "0x8F95A20B"
+    }
+}

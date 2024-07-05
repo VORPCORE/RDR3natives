@@ -1,0 +1,14 @@
+{
+    "0x81948DFE4F5A0283": {
+        "name": "_DELETE_SCENARIO_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x9D5C9A5A3321B128": {
+        "name": "_0x9D5C9A5A3321B128",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

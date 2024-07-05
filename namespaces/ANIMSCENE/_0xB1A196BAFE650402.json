@@ -1,0 +1,18 @@
+{
+    "0xB1A196BAFE650402": {
+        "name": "_0xB1A196BAFE650402",
+        "comment": "_PREPARE_* - _REGISTER_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "mgmHandle"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

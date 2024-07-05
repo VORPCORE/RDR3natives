@@ -1,0 +1,14 @@
+{
+    "0xE704838F36F93B7B": {
+        "name": "_COUNT_BIT_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "bitFlags"
+            }
+        ],
+        "return_type": "int",
+        "build": "1355"
+    }
+}

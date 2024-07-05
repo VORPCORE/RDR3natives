@@ -1,0 +1,24 @@
+{
+    "0xBF1CA77833E58F2C": {
+        "name": "SET_PED_CAN_BE_TARGETTED_BY_TEAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "team"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBF1CA77833E58F2C",
+        "gta_jhash": "0xB103A8E1"
+    }
+}

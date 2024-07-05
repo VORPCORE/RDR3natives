@@ -1,0 +1,16 @@
+{
+    "0x367B936610BA360C": {
+        "name": "NET_TO_VEH",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netHandle"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207",
+        "gta_hash": "0x367B936610BA360C",
+        "gta_jhash": "0x7E02FAEA"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x78B4567E18B54480": {
+        "name": "_MAKE_OBJECT_CARRIABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

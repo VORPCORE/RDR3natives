@@ -1,0 +1,26 @@
+{
+    "0xFECA2081F61ED2CD": {
+        "name": "_SET_INTERACTION_LOCKON_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

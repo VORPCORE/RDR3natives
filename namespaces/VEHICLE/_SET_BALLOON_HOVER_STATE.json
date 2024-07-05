@@ -1,0 +1,18 @@
+{
+    "0x7C9E45A4CED2E8DA": {
+        "name": "_SET_BALLOON_HOVER_STATE",
+        "comment": "Params: 1.0f will make balloon hover",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "balloon"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

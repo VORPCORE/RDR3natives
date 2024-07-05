@@ -1,0 +1,18 @@
+{
+    "0x0CFC13EBC19BCA52": {
+        "name": "TASK_FOLLOW_WAYPOINT_RECORDING_ADVANCED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "0x55CD5FDDD4335C1E": {
+        "name": "_TASK_VEHICLE_FLEE_ON_CLEANUP",
+        "comment": "Vehicle Auto Drive (?)\np1/p2/p3: usually 1f, 1f, 0f or 0f, 0f, 0f\nSpeed: usually 8f\nTypes: 1148979456 (task with flee), 1148979587 (dismissing the vehicle)",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "Hash",
+                "name": "type"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

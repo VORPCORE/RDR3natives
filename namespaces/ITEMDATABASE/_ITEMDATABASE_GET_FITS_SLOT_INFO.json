@@ -1,0 +1,22 @@
+{
+    "0x77210C146CED5261": {
+        "name": "_ITEMDATABASE_GET_FITS_SLOT_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "category"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Hash*",
+                "name": "outSlotId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

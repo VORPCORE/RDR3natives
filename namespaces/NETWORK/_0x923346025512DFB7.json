@@ -1,0 +1,14 @@
+{
+    "0x923346025512DFB7": {
+        "name": "_0x923346025512DFB7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

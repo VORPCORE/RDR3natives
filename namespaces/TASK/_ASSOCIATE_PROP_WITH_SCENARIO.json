@@ -1,0 +1,26 @@
+{
+    "0x8360C47380B6F351": {
+        "name": "_ASSOCIATE_PROP_WITH_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

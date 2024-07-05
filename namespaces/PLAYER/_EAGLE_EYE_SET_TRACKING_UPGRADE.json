@@ -1,0 +1,18 @@
+{
+    "0xDFC85C5199045026": {
+        "name": "_EAGLE_EYE_SET_TRACKING_UPGRADE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

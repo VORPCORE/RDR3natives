@@ -1,0 +1,14 @@
+{
+    "0xE887BD31D97793F6": {
+        "name": "IS_TRAIN_WAITING_AT_STATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

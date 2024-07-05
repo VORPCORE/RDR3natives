@@ -1,0 +1,18 @@
+{
+    "0xBF5E791BBBF90A3C": {
+        "name": "_GET_PED_BLACKBOARD_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "variableName"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

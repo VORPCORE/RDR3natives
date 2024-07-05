@@ -1,0 +1,11 @@
+{
+    "0x31108BB5715D035F": {
+        "name": "IPL_GROUP_SWAP_CANCEL",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x63EB2B972A218CAC",
+        "gta_jhash": "0xF2CDD6A8"
+    }
+}

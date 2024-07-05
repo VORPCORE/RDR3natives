@@ -1,0 +1,16 @@
+{
+    "0x708DF841B8F27AA2": {
+        "name": "INFORM_CODE_OF_CONTENT_ID_OF_CURRENT_UGC_MISSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8D74E26F54B4E5C3",
+        "gta_jhash": "0xE77199F7"
+    }
+}

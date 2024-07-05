@@ -1,0 +1,22 @@
+{
+    "0xB527099D1E1EED49": {
+        "name": "_0xB527099D1E1EED49",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Hash*",
+                "name": "crimeType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

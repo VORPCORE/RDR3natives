@@ -1,0 +1,20 @@
+{
+    "0x7F8E2B131E1DCA6C": {
+        "name": "SET_FORCE_VEHICLE_ENGINE_DAMAGE_BY_BULLET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4D9D109F63FEE1D4",
+        "gta_jhash": "0x900C878C"
+    }
+}

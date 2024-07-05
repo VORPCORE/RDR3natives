@@ -1,0 +1,18 @@
+{
+    "0xA454D234E45BB6E5": {
+        "name": "GET_IS_PED_RESPONDING_TO_NEGATIVE_INTERACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

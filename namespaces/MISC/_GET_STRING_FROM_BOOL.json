@@ -1,0 +1,14 @@
+{
+    "0xF216F74101968DB0": {
+        "name": "_GET_STRING_FROM_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xA2507C4948C83D2E": {
+        "name": "DETACH_ANIM_SCENE_PRESERVING_LOCATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

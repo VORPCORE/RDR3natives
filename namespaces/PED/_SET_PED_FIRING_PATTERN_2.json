@@ -1,0 +1,18 @@
+{
+    "0x20E54854DEF6A54A": {
+        "name": "_SET_PED_FIRING_PATTERN_2",
+        "comment": "Used in R* MP Script fm_mission_controller and various R* SP Scripts for ambush*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "patternHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

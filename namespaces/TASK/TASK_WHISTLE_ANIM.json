@@ -1,0 +1,22 @@
+{
+    "0xD6401A1B2F63BED6": {
+        "name": "TASK_WHISTLE_ANIM",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/AI/EVENTS/aud_ped_whistle_types.lua\np2: UNSPECIFIED",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "audPedWhistleType"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

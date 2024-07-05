@@ -1,0 +1,18 @@
+{
+    "0x0DCEC6A92E497E17": {
+        "name": "_0x0DCEC6A92E497E17",
+        "comment": "Only used in native_son1 R* Script: p1 = 1",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

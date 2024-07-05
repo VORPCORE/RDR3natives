@@ -1,0 +1,18 @@
+{
+    "0x4EA69188FBCE6A7D": {
+        "name": "_SET_PLAYER_LOCAL_ACCURACY_FLOOR_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "accuracy"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

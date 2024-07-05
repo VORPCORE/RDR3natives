@@ -1,0 +1,14 @@
+{
+    "0x58DE624FA7FB0E7F": {
+        "name": "_0x58DE624FA7FB0E7F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

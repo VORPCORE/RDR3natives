@@ -1,0 +1,48 @@
+{
+    "0xBF1A602B5BA52FEE": {
+        "name": "SET_ROADS_IN_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xMin"
+            },
+            {
+                "type": "float",
+                "name": "yMin"
+            },
+            {
+                "type": "float",
+                "name": "zMin"
+            },
+            {
+                "type": "float",
+                "name": "xMax"
+            },
+            {
+                "type": "float",
+                "name": "yMax"
+            },
+            {
+                "type": "float",
+                "name": "zMax"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBF1A602B5BA52FEE",
+        "gta_jhash": "0xEBC7B918"
+    }
+}

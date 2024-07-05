@@ -1,0 +1,11 @@
+{
+    "0xA94F3E0AB9695E19": {
+        "name": "GET_LAST_DRIVEN_VEHICLE",
+        "comment": "",
+        "params": [],
+        "return_type": "Vehicle",
+        "build": "1207",
+        "gta_hash": "0xB2D06FAEDE65B577",
+        "gta_jhash": "0xFEB0C0C8"
+    }
+}

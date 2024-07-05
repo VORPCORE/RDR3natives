@@ -1,0 +1,18 @@
+{
+    "0x6098139150DCC745": {
+        "name": "_0x6098139150DCC745",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

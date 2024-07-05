@@ -1,0 +1,18 @@
+{
+    "0x0B0F914459731F60": {
+        "name": "CINEMATIC_LOCATION_OVERRIDE_TARGET_ENTITY_THIS_UPDATE",
+        "comment": "Only used in R* Script fm_mission_controller",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

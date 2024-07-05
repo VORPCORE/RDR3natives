@@ -1,0 +1,22 @@
+{
+    "0x7616B5F0895C2D99": {
+        "name": "_CASHINVENTORY_TRANSACTION_GET_ITEM_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "itemInfo"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

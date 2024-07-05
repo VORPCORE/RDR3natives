@@ -1,0 +1,14 @@
+{
+    "0x7DD7FB3480D8083E": {
+        "name": "INIT_PED_DEFAULT_HEALTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

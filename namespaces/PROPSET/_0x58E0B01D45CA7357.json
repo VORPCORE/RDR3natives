@@ -1,0 +1,14 @@
+{
+    "0x58E0B01D45CA7357": {
+        "name": "_0x58E0B01D45CA7357",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

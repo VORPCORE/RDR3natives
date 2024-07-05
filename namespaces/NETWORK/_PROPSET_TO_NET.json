@@ -1,0 +1,14 @@
+{
+    "0x74F99EF7EF503398": {
+        "name": "_PROPSET_TO_NET",
+        "comment": "",
+        "params": [
+            {
+                "type": "PropSet",
+                "name": "propSet"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

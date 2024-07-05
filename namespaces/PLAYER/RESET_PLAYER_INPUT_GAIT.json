@@ -1,0 +1,16 @@
+{
+    "0x61A2EECAB274829B": {
+        "name": "RESET_PLAYER_INPUT_GAIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x19531C47A2ABD691",
+        "gta_jhash": "0x4A701EE1"
+    }
+}

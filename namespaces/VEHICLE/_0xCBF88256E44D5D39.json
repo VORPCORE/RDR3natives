@@ -1,0 +1,18 @@
+{
+    "0xCBF88256E44D5D39": {
+        "name": "_0xCBF88256E44D5D39",
+        "comment": "Used in Script Function MC_LOCAL_SETUP_VEH - enabling transitions",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

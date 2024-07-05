@@ -1,0 +1,14 @@
+{
+    "0x58D378AF2C8765B7": {
+        "name": "_0x58D378AF2C8765B7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

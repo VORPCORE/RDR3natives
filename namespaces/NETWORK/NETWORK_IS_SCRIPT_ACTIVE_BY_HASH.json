@@ -1,0 +1,26 @@
+{
+    "0x1B89BC43B6E69107": {
+        "name": "NETWORK_IS_SCRIPT_ACTIVE_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scriptHash"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

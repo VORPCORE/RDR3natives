@@ -1,0 +1,14 @@
+{
+    "0xA81D24AE0AF99A5E": {
+        "name": "_GET_PLAYER_DEAD_EYE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

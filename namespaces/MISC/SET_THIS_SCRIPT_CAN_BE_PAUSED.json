@@ -1,0 +1,16 @@
+{
+    "0x3215376E79F6EA18": {
+        "name": "SET_THIS_SCRIPT_CAN_BE_PAUSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xAA391C728106F7AF",
+        "gta_jhash": "0xA0C3CE29"
+    }
+}

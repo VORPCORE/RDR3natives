@@ -1,0 +1,20 @@
+{
+    "0x5851CC48405F4A07": {
+        "name": "HAS_ANIM_EVENT_FIRED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "actionHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xEAF4CD9EA3E7E922",
+        "gta_jhash": "0x66571CA0"
+    }
+}

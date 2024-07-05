@@ -1,0 +1,24 @@
+{
+    "0x48B3886C1358D0D5": {
+        "name": "SET_CONTROL_SHAKE",
+        "comment": "Old name: SET_PAD_SHAKE",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "frequency"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x48B3886C1358D0D5",
+        "gta_jhash": ""
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x610783F646894D25": {
+        "name": "WEEKLY_COLLECTIBLE_GET_ITEM_SET_BUY_AWARD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

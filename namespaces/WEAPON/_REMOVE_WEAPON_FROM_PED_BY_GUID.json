@@ -1,0 +1,22 @@
+{
+    "0x51C3B71591811485": {
+        "name": "_REMOVE_WEAPON_FROM_PED_BY_GUID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "weaponGuid"
+            },
+            {
+                "type": "Hash",
+                "name": "removeReason"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

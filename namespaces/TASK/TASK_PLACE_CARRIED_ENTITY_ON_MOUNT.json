@@ -1,0 +1,26 @@
+{
+    "0x6D3D87C57B3D52C7": {
+        "name": "TASK_PLACE_CARRIED_ENTITY_ON_MOUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Ped",
+                "name": "mount"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

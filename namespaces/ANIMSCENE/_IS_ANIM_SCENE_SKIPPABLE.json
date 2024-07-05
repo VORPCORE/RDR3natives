@@ -1,0 +1,14 @@
+{
+    "0x4CDFFE3189EBDBD0": {
+        "name": "_IS_ANIM_SCENE_SKIPPABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

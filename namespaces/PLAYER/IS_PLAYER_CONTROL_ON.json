@@ -1,0 +1,16 @@
+{
+    "0x7964097FCE4C244B": {
+        "name": "IS_PLAYER_CONTROL_ON",
+        "comment": "Returns whether the player can control himself.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x49C32D60007AFA47",
+        "gta_jhash": "0x618857F2"
+    }
+}

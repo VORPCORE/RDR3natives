@@ -1,0 +1,16 @@
+{
+    "0xB5EF6FEF2DC9EBED": {
+        "name": "SET_INTERIOR_IN_USE",
+        "comment": "Actually returns void in IDA but the script header defines a BOOL return type",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4C2330E61D3DEB56",
+        "gta_jhash": ""
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0xFBC30B70B3CDB87E": {
+        "name": "_PEDMUGSHOT_REQUEST_SEND",
+        "comment": "",
+        "params": [],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

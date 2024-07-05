@@ -1,0 +1,14 @@
+{
+    "0xEF51242E35242B47": {
+        "name": "_CLEAR_CONVERSATION_HISTORY_FOR_SCRIPTED_CONVERSATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "convoRoot"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

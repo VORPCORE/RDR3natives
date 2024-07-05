@@ -1,0 +1,20 @@
+{
+    "0x4EA71B4C9DB3C3F1": {
+        "name": "SET_VEHICLE_INACTIVE_DURING_PLAYBACK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x06582AFF74894C75",
+        "gta_jhash": "0x50F89338"
+    }
+}

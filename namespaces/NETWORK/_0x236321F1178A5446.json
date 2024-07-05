@@ -1,0 +1,22 @@
+{
+    "0x236321F1178A5446": {
+        "name": "_0x236321F1178A5446",
+        "comment": "_NETWORK_GET_A* - _NETWORK_GET_D*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

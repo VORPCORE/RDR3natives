@@ -1,0 +1,16 @@
+{
+    "0xCBCCF73FFA69CC6B": {
+        "name": "REPORT_POLICE_SPOTTED_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDC64D2C53493ED12",
+        "gta_jhash": "0xD15C4B1C"
+    }
+}

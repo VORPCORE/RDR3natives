@@ -1,0 +1,14 @@
+{
+    "0x0137C77A2EC64536": {
+        "name": "_INVENTORY_IS_ITEM_EXPIRED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "itemGUID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

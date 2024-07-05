@@ -1,0 +1,20 @@
+{
+    "0x6BAB9442830C7F53": {
+        "name": "DOOR_SYSTEM_SET_DOOR_STATE",
+        "comment": "Door lock states:\nenum eDoorState\n{\n\tDOORSTATE_INVALID = -1,\n\tDOORSTATE_UNLOCKED,\n\tDOORSTATE_LOCKED_UNBREAKABLE,\n\tDOORSTATE_LOCKED_BREAKABLE,\n\tDOORSTATE_HOLD_OPEN_POSITIVE,\n\tDOORSTATE_HOLD_OPEN_NEGATIVE\n};",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            },
+            {
+                "type": "int",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6BAB9442830C7F53",
+        "gta_jhash": "0xDF83DB47"
+    }
+}

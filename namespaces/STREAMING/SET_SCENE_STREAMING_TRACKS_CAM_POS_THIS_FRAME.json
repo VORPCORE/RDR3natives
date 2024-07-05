@@ -1,0 +1,11 @@
+{
+    "0xA03A6812529AD9C8": {
+        "name": "SET_SCENE_STREAMING_TRACKS_CAM_POS_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1E9057A74FD73E23",
+        "gta_jhash": ""
+    }
+}

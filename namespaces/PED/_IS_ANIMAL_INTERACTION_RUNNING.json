@@ -1,0 +1,14 @@
+{
+    "0x7FC84E85D98F063D": {
+        "name": "_IS_ANIMAL_INTERACTION_RUNNING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x1096603B519C905F": {
+        "name": "_0x1096603B519C905F",
+        "comment": "_SET_MISSION_NAME_*(FOR_ACTIVITY?/MINIGAME?)",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

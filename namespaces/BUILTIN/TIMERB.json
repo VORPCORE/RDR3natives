@@ -1,0 +1,11 @@
+{
+    "0xC9D9444186B5A374": {
+        "name": "TIMERB",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xC9D9444186B5A374",
+        "gta_jhash": "0x330A9C0C"
+    }
+}

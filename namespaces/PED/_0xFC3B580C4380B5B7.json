@@ -1,0 +1,14 @@
+{
+    "0xFC3B580C4380B5B7": {
+        "name": "_0xFC3B580C4380B5B7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

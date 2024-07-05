@@ -1,0 +1,14 @@
+{
+    "0xCF782691D91F270E": {
+        "name": "_JOURNAL_CAN_WRITE_ENTRY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

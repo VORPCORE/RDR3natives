@@ -1,0 +1,22 @@
+{
+    "0x7A62A2EEDE1C3766": {
+        "name": "_ITEMDATABASE_FILLOUT_SELL_PRICE",
+        "comment": "Params: sellType = SELL_SHOP_DEFAULT",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "key"
+            },
+            {
+                "type": "Hash",
+                "name": "sellType"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

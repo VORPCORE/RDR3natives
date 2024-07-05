@@ -1,0 +1,20 @@
+{
+    "0x59ECA796021B0539": {
+        "name": "FORCE_PLAYBACK_RECORDED_VEHICLE_UPDATE",
+        "comment": "Often called after START_PLAYBACK_RECORDED_VEHICLE and SKIP_TIME_IN_PLAYBACK_RECORDED_VEHICLE; similar in use to FORCE_ENTITY_AI_AND_ANIMATION_UPDATE.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1F2E4E06DEA8992B",
+        "gta_jhash": "0x01B91CD0"
+    }
+}

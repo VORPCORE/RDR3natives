@@ -1,0 +1,11 @@
+{
+    "0x236905C700FDB54D": {
+        "name": "NETWORK_DISABLE_REALTIME_MULTIPLAYER",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x236905C700FDB54D",
+        "gta_jhash": ""
+    }
+}

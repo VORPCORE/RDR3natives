@@ -1,0 +1,26 @@
+{
+    "0x9B0C7FA063E67629": {
+        "name": "_SET_FISHING_BAIT",
+        "comment": "Baits: p_fishHook02x, p_baitBread01x, p_baitCorn01x, p_baitCheese01x, p_baitWorm01x, p_baitCricket01x, p_crawdad01x, p_finisheDragonfly01x, p_finisdFishlure01x, p_finishdCrawd01x, p_finisheDragonflyLegendary01x, p_finisdFishlureLegendary01x, p_finishdCrawdLegendary01x, p_lgoc_spinner_v4",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "bait"
+            },
+            {
+                "type": "BOOL",
+                "name": "withoutBuoy"
+            },
+            {
+                "type": "BOOL",
+                "name": "instantly"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

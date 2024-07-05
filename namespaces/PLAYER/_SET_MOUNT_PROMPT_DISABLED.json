@@ -1,0 +1,14 @@
+{
+    "0x5B9813ECF7633FE8": {
+        "name": "_SET_MOUNT_PROMPT_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

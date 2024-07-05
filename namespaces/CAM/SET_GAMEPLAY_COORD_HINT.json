@@ -1,0 +1,40 @@
+{
+    "0xFA33B8C69A4A6A0F": {
+        "name": "SET_GAMEPLAY_COORD_HINT",
+        "comment": "Hash used in finale1.ysc: 1726668277",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "blendOutDuration"
+            },
+            {
+                "type": "int",
+                "name": "blendInDuration"
+            },
+            {
+                "type": "Hash",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD51ADCD2D8BC0FB3",
+        "gta_jhash": "0xF27483C9"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x95D9F4BC443956E7": {
+        "name": "ADD_PED_TO_CONVERSATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "convoRoot"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "characterName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x95D9F4BC443956E7",
+        "gta_jhash": "0xF8D5EB86"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xFBFF3FF2F5E80C0B": {
+        "name": "PARSEDDATA_RQ_FILLOUT_HASH",
+        "comment": "Old name: _DATAFILE_GET_HASH",
+        "params": [
+            {
+                "type": "Hash*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

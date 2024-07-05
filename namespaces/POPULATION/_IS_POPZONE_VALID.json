@@ -1,0 +1,14 @@
+{
+    "0xA5BD585005EFCAD4": {
+        "name": "_IS_POPZONE_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "PopZone",
+                "name": "popZone"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

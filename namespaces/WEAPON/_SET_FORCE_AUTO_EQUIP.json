@@ -1,0 +1,18 @@
+{
+    "0xBE711B14A159E84F": {
+        "name": "_SET_FORCE_AUTO_EQUIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

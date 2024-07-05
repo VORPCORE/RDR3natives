@@ -1,0 +1,14 @@
+{
+    "0xE9F676788F8D5E1E": {
+        "name": "_IS_BLIP_ATTACHED_TO_ANY_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

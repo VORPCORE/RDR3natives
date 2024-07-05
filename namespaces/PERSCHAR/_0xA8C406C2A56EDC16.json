@@ -1,0 +1,14 @@
+{
+    "0xA8C406C2A56EDC16": {
+        "name": "_0xA8C406C2A56EDC16",
+        "comment": "",
+        "params": [
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

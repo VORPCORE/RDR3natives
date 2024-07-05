@@ -1,0 +1,14 @@
+{
+    "0xBCC6DC59E32A2BDC": {
+        "name": "CLEAR_PLAYER_PAST_CRIMES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

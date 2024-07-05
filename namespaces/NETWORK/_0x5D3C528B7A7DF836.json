@@ -1,0 +1,14 @@
+{
+    "0x5D3C528B7A7DF836": {
+        "name": "_0x5D3C528B7A7DF836",
+        "comment": "_NETWORK_SPAWN_CONFIG_*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "nsctf"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

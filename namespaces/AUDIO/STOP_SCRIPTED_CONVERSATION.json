@@ -1,0 +1,24 @@
+{
+    "0xD79DEEFB53455EBA": {
+        "name": "STOP_SCRIPTED_CONVERSATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xD79DEEFB53455EBA",
+        "gta_jhash": "0xAB77DA7D"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x13430D3D5A45F14B": {
+        "name": "GET_STATUS_OF_CREATE_LOW_QUALITY_COPY_OF_PHOTO",
+        "comment": "Old name: _GET_STATUS_OF_DRAW_LOW_QUALITY_PHOTO",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xCB82A0BF0E3E3265",
+        "gta_jhash": "0xCFCDC518"
+    }
+}

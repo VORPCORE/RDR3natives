@@ -1,0 +1,22 @@
+{
+    "0x200114E99552462B": {
+        "name": "_SPECIAL_ABILITY_DRAIN_BY_AMOUNT",
+        "comment": "Drains Deadeye by given amount.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

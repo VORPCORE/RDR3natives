@@ -1,0 +1,28 @@
+{
+    "0x1899F328B0E12848": {
+        "name": "GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS",
+        "comment": "Offset values are relative to the entity.\n\nx = left/right\ny = forward/backward\nz = up/down",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x1899F328B0E12848",
+        "gta_jhash": "0xABCF043A"
+    }
+}

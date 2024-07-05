@@ -1,0 +1,38 @@
+{
+    "0x0E94C95EC3185FA9": {
+        "name": "_CINEMATIC_LOCATION_SET_LOCATION_AND_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

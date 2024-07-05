@@ -1,0 +1,14 @@
+{
+    "0x00EDE88D4D13CF59": {
+        "name": "_UI_PROMPT_DELETE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

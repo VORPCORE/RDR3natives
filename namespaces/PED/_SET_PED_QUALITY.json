@@ -1,0 +1,18 @@
+{
+    "0xCE6B874286D640BB": {
+        "name": "_SET_PED_QUALITY",
+        "comment": "quality: see _GET_PED_QUALITY",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "quality"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

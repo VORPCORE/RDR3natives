@@ -1,0 +1,11 @@
+{
+    "0x30CCCC4D88E654CA": {
+        "name": "GET_NUMBER_OF_STREAMING_REQUESTS",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x4060057271CEBC89",
+        "gta_jhash": "0xC2EE9A02"
+    }
+}

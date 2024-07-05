@@ -1,0 +1,18 @@
+{
+    "0x8F3333F0A6900B3C": {
+        "name": "_HAS_VEHICLE_TRAILER_PROP_SET_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wagonIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xAC8FAB22A914AE34": {
+        "name": "AWARDS_GET_RESULT_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "rpcGuid"
+            },
+            {
+                "type": "Hash",
+                "name": "awardHash"
+            },
+            {
+                "type": "int",
+                "name": "itemIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "outResultItem"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

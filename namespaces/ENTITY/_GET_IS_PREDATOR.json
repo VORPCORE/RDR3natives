@@ -1,0 +1,14 @@
+{
+    "0x5594AFE9DE0C01B7": {
+        "name": "_GET_IS_PREDATOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

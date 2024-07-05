@@ -1,0 +1,18 @@
+{
+    "0xFC3BAB1801A8255A": {
+        "name": "_REMOVE_PED_EMOTIONAL_PRESET",
+        "comment": "See _REQUEST_PED_EMOTIONAL_PRESET",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

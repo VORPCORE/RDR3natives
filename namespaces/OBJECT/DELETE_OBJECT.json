@@ -1,0 +1,16 @@
+{
+    "0x931914268722C263": {
+        "name": "DELETE_OBJECT",
+        "comment": "Deletes the specified object, then sets the handle pointed to by the pointer to NULL.",
+        "params": [
+            {
+                "type": "Object*",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x539E0AE3E6634B9F",
+        "gta_jhash": "0xD6EF9DA7"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x9AA46BADAD0E27ED": {
+        "name": "NETWORK_GET_PRIMARY_CLAN_DATA_CLEAR",
+        "comment": "",
+        "params": [],
+        "return_type": "Any",
+        "build": "1207",
+        "gta_hash": "0x9AA46BADAD0E27ED",
+        "gta_jhash": "0xE22445DA"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x9D8DFE2DE9CB4DFC": {
+        "name": "_0x9D8DFE2DE9CB4DFC",
+        "comment": "_RESET_PED_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x07E1C35F0078C3F9": {
+        "name": "_0x07E1C35F0078C3F9",
+        "comment": "Seems to return true if the passed weapon is some sort of non-lethal melee weapon.\nWeapon must currently be held/equipped by the ped.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weapon"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

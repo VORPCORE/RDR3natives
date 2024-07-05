@@ -1,0 +1,30 @@
+{
+    "0xAB643407D0B26F07": {
+        "name": "_CAN_PED_USE_SCENARIO_POINT",
+        "comment": "p2 is always 0, p3 is always 0, p4 is always 1",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "scenario"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x98BB14345BB68257": {
+        "name": "_DATABINDING_ADD_DATA_CONTAINER_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xF02A9C330BBFC5C7": {
+        "name": "_SET_SNOW_COVERAGE_TYPE",
+        "comment": "enum class eSnowCoverageType\n{\n\tPrimary,\n\tSecondary,\n\tXmas,\n\tXmasSecondary // since b1232\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "type"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x74F512E29CB717E2": {
+        "name": "_APPLY_PED_META_PED_OUTFIT",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/clothes/metaped_outfits.lua",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

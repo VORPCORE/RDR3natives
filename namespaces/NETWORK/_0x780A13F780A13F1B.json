@@ -1,0 +1,14 @@
+{
+    "0x780A13F780A13F1B": {
+        "name": "_0x780A13F780A13F1B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

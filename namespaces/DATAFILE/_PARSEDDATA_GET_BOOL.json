@@ -1,0 +1,22 @@
+{
+    "0xA63CD20F19B961AB": {
+        "name": "_PARSEDDATA_GET_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

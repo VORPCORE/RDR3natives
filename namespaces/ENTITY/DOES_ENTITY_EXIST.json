@@ -1,0 +1,16 @@
+{
+    "0xD42BD6EB2E0F1677": {
+        "name": "DOES_ENTITY_EXIST",
+        "comment": "Checks if the Entity exists",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x7239B21A38F536BA",
+        "gta_jhash": "0x3AC90869"
+    }
+}

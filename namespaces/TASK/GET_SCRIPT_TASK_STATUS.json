@@ -1,0 +1,24 @@
+{
+    "0x77F1BEB8863288D5": {
+        "name": "GET_SCRIPT_TASK_STATUS",
+        "comment": "Gets the status of a script-assigned task, and returns an int between 0-8\ntaskHash: https://alloc8or.re/rdr3/doc/enums/eScriptTaskHash.txt \n\nWAITING_TO_START_TASK = 0,\nPERFORMING_TASK\nDORMANT_TASK\nVACANT_STAGE\nGROUP_TASK_STAGE\nATTRACTOR_SCRIPT_TASK_STAGE\nSECONDARY_TASK_STAGE\nTASK_NOT_FOUND\nFINISHED_TASK",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "taskHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x77F1BEB8863288D5",
+        "gta_jhash": "0xB2477B23"
+    }
+}

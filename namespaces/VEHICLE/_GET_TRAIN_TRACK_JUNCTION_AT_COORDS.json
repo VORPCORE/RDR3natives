@@ -1,0 +1,30 @@
+{
+    "0x86AFC343CF7F0B34": {
+        "name": "_GET_TRAIN_TRACK_JUNCTION_AT_COORDS",
+        "comment": "Outputs junctionIndex, to be used with 0xE6C5E2125EB210C1",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "trainTrack"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int*",
+                "name": "junctionIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

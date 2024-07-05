@@ -1,0 +1,18 @@
+{
+    "0xF540239F9937033B": {
+        "name": "_ITEMDATABASE_GET_AWARD_ACQUIRE_COST_COUNT_FROM_COST_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "award"
+            },
+            {
+                "type": "Hash",
+                "name": "costtype"
+            }
+        ],
+        "return_type": "int",
+        "build": "1232"
+    }
+}

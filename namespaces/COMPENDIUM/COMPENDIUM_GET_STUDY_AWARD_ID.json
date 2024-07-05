@@ -1,0 +1,14 @@
+{
+    "0x9F678782720349E4": {
+        "name": "COMPENDIUM_GET_STUDY_AWARD_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1311"
+    }
+}

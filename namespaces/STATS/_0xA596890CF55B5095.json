@@ -1,0 +1,18 @@
+{
+    "0xA596890CF55B5095": {
+        "name": "_0xA596890CF55B5095",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1436"
+    }
+}

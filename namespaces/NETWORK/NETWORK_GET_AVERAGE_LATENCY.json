@@ -1,0 +1,17 @@
+{
+    "0xD414BE129BB81B32": {
+        "name": "NETWORK_GET_AVERAGE_LATENCY",
+        "comment": "Old name: _NETWORK_GET_AVERAGE_LATENCY_FOR_PLAYER",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0xD414BE129BB81B32",
+        "gta_jhash": ""
+    }
+}

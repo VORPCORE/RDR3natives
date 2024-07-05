@@ -1,0 +1,16 @@
+{
+    "0xFDB74C9CC54C3F37": {
+        "name": "SET_TIMECYCLE_MODIFIER_STRENGTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "strength"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x82E7FFCD5B2326B3",
+        "gta_jhash": "0x458F4F45"
+    }
+}

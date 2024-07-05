@@ -1,0 +1,14 @@
+{
+    "0x6076213101A47B3B": {
+        "name": "_RELEASE_ROPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

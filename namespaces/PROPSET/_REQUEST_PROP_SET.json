@@ -1,0 +1,14 @@
+{
+    "0xF3DE57A46D5585E9": {
+        "name": "_REQUEST_PROP_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

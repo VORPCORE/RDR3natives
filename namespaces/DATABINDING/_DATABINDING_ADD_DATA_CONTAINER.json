@@ -1,0 +1,18 @@
+{
+    "0xEB4F9A3537EEABCD": {
+        "name": "_DATABINDING_ADD_DATA_CONTAINER",
+        "comment": "Returns entryId Hash",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "entryId"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "0x5E58342602E94718": {
+        "name": "IS_ENTITY_AT_COORD",
+        "comment": "Checks if entity is within x/y/zSize distance of x/y/z. \n\nLast three are unknown ints, almost always p7 = 0, p8 = 1, p9 = 0",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "float",
+                "name": "xSize"
+            },
+            {
+                "type": "float",
+                "name": "ySize"
+            },
+            {
+                "type": "float",
+                "name": "zSize"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x20B60995556D004F",
+        "gta_jhash": "0xD749B606"
+    }
+}

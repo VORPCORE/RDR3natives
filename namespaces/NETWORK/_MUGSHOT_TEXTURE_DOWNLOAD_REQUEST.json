@@ -1,0 +1,26 @@
+{
+    "0x9B5DB6CEAFAA10BB": {
+        "name": "_MUGSHOT_TEXTURE_DOWNLOAD_REQUEST",
+        "comment": "Returns textureDownloadId",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

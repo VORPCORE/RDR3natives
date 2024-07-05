@@ -1,0 +1,18 @@
+{
+    "0x9C4352134B2835FB": {
+        "name": "_REPORT_PLAYER_LAW_DISPATCH_RESPONSE_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "dispatchResponseHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

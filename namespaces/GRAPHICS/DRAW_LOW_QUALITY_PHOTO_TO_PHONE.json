@@ -1,0 +1,20 @@
+{
+    "0xF1142E5D64B47802": {
+        "name": "DRAW_LOW_QUALITY_PHOTO_TO_PHONE",
+        "comment": "nullsub, doesn't do anything (GTA5 leftover, there is no phone in RDR3)",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "photoRotation"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1072F115DAB0717E",
+        "gta_jhash": "0xE9F2B68F"
+    }
+}

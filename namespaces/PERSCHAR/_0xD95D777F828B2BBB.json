@@ -1,0 +1,14 @@
+{
+    "0xD95D777F828B2BBB": {
+        "name": "_0xD95D777F828B2BBB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

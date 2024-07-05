@@ -1,0 +1,22 @@
+{
+    "0xFC79DCC94D0A5897": {
+        "name": "_SET_PLAYER_WEAPON_GROUP_DAMAGE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponGroup"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

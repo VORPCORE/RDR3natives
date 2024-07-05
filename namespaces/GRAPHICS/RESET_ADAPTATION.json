@@ -1,0 +1,16 @@
+{
+    "0x297B72E2AF094742": {
+        "name": "RESET_ADAPTATION",
+        "comment": "Sets an unknown value related to timecycles.",
+        "params": [
+            {
+                "type": "int",
+                "name": "unk"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE3E2C1B4C59DBC77",
+        "gta_jhash": "0xD8CC7221"
+    }
+}

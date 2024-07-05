@@ -1,0 +1,18 @@
+{
+    "0xE8D1CCB9375C101B": {
+        "name": "_0xE8D1CCB9375C101B",
+        "comment": "Returns dismounted timestamp",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "mount"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

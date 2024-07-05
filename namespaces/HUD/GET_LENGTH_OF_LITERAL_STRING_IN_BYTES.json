@@ -1,0 +1,16 @@
+{
+    "0xDC5AD6B7AB8184F5": {
+        "name": "GET_LENGTH_OF_LITERAL_STRING_IN_BYTES",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x43E4111189E54F0E",
+        "gta_jhash": "0x7DBC0764"
+    }
+}

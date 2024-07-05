@@ -1,0 +1,14 @@
+{
+    "0xD39A2F3E7FCAFF08": {
+        "name": "GET_PED_WAYPOINT_OVERRIDE_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

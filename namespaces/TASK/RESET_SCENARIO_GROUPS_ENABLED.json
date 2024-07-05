@@ -1,0 +1,11 @@
+{
+    "0xDD902D0349AFAD3A": {
+        "name": "RESET_SCENARIO_GROUPS_ENABLED",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDD902D0349AFAD3A",
+        "gta_jhash": "0xBF55025D"
+    }
+}

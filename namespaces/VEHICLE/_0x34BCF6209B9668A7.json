@@ -1,0 +1,18 @@
+{
+    "0x34BCF6209B9668A7": {
+        "name": "_0x34BCF6209B9668A7",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

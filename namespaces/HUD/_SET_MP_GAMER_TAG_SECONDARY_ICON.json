@@ -1,0 +1,18 @@
+{
+    "0x95384C6CE1526EFF": {
+        "name": "_SET_MP_GAMER_TAG_SECONDARY_ICON",
+        "comment": "Found icons: SPEAKER, THROPY",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "Hash",
+                "name": "icon"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

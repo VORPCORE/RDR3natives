@@ -1,0 +1,14 @@
+{
+    "0xCA1315C33B9A2847": {
+        "name": "_CREATE_SHOCKING_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "ScrHandle",
+        "build": "1207"
+    }
+}

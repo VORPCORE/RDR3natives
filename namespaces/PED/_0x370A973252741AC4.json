@@ -1,0 +1,18 @@
+{
+    "0x370A973252741AC4": {
+        "name": "_0x370A973252741AC4",
+        "comment": "_RESET_PED_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

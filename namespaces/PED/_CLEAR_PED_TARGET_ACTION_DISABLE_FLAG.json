@@ -1,0 +1,18 @@
+{
+    "0xBBF6D1D07C02D00A": {
+        "name": "_CLEAR_PED_TARGET_ACTION_DISABLE_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "actionDisableFlag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

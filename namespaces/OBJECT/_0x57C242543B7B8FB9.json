@@ -1,0 +1,18 @@
+{
+    "0x57C242543B7B8FB9": {
+        "name": "_0x57C242543B7B8FB9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x6D206D383BB5F6B1": {
+        "name": "NETWORK_REQUEST_RECENT_GAMER_NAMES",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "playerCount"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

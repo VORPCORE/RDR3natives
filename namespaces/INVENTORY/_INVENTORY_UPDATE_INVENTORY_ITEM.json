@@ -1,0 +1,26 @@
+{
+    "0xD80A8854DB5CFBA5": {
+        "name": "_INVENTORY_UPDATE_INVENTORY_ITEM",
+        "comment": "Getter: _INVENTORY_GET_FULL_INVENTORY_ITEM_DATA",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid1"
+            },
+            {
+                "type": "Any*",
+                "name": "guid2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

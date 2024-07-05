@@ -1,0 +1,42 @@
+{
+    "0xDCA3A13F7A45338B": {
+        "name": "TASK_MOVE_IN_TRAFFIC_TO_DESTINATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

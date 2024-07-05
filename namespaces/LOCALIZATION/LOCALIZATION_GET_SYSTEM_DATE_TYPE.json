@@ -1,0 +1,11 @@
+{
+    "0x76E30B799EBEEA0F": {
+        "name": "LOCALIZATION_GET_SYSTEM_DATE_TYPE",
+        "comment": "0 = DATE_FORMAT_DMY\n1 = DATE_FORMAT_MDY\n2 = DATE_FORMAT_YMD\n\nOld name: _LOCALIZATION_GET_SYSTEM_DATE_FORMAT",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xA8AE43AEC1A61314",
+        "gta_jhash": ""
+    }
+}

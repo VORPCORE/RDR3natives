@@ -1,0 +1,28 @@
+{
+    "0xB8BA7F44DF1575E1": {
+        "name": "START_NEW_SCRIPT_WITH_ARGS",
+        "comment": "return : script thread id, 0 if failed\nPass pointer to struct of args in p1, size of struct goes into p2",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "Any*",
+                "name": "args"
+            },
+            {
+                "type": "int",
+                "name": "argCount"
+            },
+            {
+                "type": "int",
+                "name": "stackSize"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xB8BA7F44DF1575E1",
+        "gta_jhash": "0x4A2100E4"
+    }
+}

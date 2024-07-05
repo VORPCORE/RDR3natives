@@ -1,0 +1,20 @@
+{
+    "0x91BE51AEC4E99710": {
+        "name": "SET_VEHICLE_HANDBRAKE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x684785568EF26A22",
+        "gta_jhash": "0xBA729A25"
+    }
+}

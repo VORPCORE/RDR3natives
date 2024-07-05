@@ -1,0 +1,18 @@
+{
+    "0x718CF1328D20C2B3": {
+        "name": "ABORT_ANIM_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

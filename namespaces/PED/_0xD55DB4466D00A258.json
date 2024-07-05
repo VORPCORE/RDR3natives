@@ -1,0 +1,14 @@
+{
+    "0xD55DB4466D00A258": {
+        "name": "_0xD55DB4466D00A258",
+        "comment": "Used in Script Function LA_CHECK_ALERTED\n_GET_IS_PED_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "legendaryAnimal"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

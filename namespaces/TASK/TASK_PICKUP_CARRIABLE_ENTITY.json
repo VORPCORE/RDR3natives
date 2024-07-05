@@ -1,0 +1,18 @@
+{
+    "0x502EC17B1BED4BFA": {
+        "name": "TASK_PICKUP_CARRIABLE_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

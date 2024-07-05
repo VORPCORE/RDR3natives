@@ -1,0 +1,16 @@
+{
+    "0xD0FFB162F40A139C": {
+        "name": "COS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xD0FFB162F40A139C",
+        "gta_jhash": "0x00238FE9"
+    }
+}

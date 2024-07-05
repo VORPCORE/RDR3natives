@@ -1,0 +1,18 @@
+{
+    "0xAD3E07C37A7C1ADC": {
+        "name": "_SET_GUARD_ZONE_VOLUME_WARNING",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

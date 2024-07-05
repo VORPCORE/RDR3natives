@@ -1,0 +1,16 @@
+{
+    "0xCB2D4AB84A19AA7C": {
+        "name": "STOP_ROPE_WINDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xCB2D4AB84A19AA7C",
+        "gta_jhash": "0x46826B53"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x27D7B6F79E1F4603": {
+        "name": "GET_KEY_FOR_ENTITY_IN_ROOM",
+        "comment": "Seems to do the exact same as INTERIOR::GET_ROOM_KEY_FROM_ENTITY",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207",
+        "gta_hash": "0x399685DB942336BC",
+        "gta_jhash": "0x91EA80EF"
+    }
+}

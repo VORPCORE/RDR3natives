@@ -1,0 +1,32 @@
+{
+    "0x8B15AE2987C1AC8F": {
+        "name": "SET_CAM_ACTIVE_WITH_INTERP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "camTo"
+            },
+            {
+                "type": "Cam",
+                "name": "camFrom"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "easeLocation"
+            },
+            {
+                "type": "int",
+                "name": "easeRotation"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9FBDA379383A52A4",
+        "gta_jhash": "0x7983E7F0"
+    }
+}

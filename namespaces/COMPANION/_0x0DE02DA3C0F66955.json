@@ -1,0 +1,18 @@
+{
+    "0x0DE02DA3C0F66955": {
+        "name": "_0x0DE02DA3C0F66955",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

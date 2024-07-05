@@ -1,0 +1,26 @@
+{
+    "0x2D19BC4DF626CBE7": {
+        "name": "CAN_START_ITEM_INTERACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "itemHash"
+            },
+            {
+                "type": "Hash",
+                "name": "interactionAnimHash"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

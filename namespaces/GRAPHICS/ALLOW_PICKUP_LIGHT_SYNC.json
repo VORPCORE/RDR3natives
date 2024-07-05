@@ -1,0 +1,18 @@
+{
+    "0x7C348310A6E2FB91": {
+        "name": "ALLOW_PICKUP_LIGHT_SYNC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "pickupObject"
+            },
+            {
+                "type": "BOOL",
+                "name": "allow"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "0x92DB0739813C5186": {
+        "name": "TASK_MOUNT_ANIMAL",
+        "comment": "timer: in ms, if it reaches 0 it will auto warp the ped on the horse\nmountStyle: See TASK_ENTER_VEHICLE\nFlags will still apply to mountStyle",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "mount"
+            },
+            {
+                "type": "int",
+                "name": "timer"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            },
+            {
+                "type": "float",
+                "name": "pedSpeed"
+            },
+            {
+                "type": "int",
+                "name": "mountStyle"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

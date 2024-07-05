@@ -1,0 +1,14 @@
+{
+    "0x59EF5D516E2D96B9": {
+        "name": "_CASHINVENTORY_TRANSACTION_DELETE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

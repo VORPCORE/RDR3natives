@@ -1,0 +1,14 @@
+{
+    "0x50F124E6EF188B22": {
+        "name": "_IS_PED_DRUNK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

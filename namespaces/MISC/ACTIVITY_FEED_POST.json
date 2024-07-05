@@ -1,0 +1,11 @@
+{
+    "0xB16FC7B364D86585": {
+        "name": "ACTIVITY_FEED_POST",
+        "comment": "nullsub, doesn't do anything",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8951EB9C6906D3C8",
+        "gta_jhash": ""
+    }
+}

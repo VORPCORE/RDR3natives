@@ -1,0 +1,9 @@
+{
+    "0x2E399EAFBEEA74D5": {
+        "name": "_STOP_ALL_SCRIPTED_AUDIO_SOUNDS",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

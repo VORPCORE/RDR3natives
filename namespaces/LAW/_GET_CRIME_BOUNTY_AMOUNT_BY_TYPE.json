@@ -1,0 +1,14 @@
+{
+    "0x35E5E21F9159849C": {
+        "name": "_GET_CRIME_BOUNTY_AMOUNT_BY_TYPE",
+        "comment": "Returns bounty (increment) value",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "crimeType"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

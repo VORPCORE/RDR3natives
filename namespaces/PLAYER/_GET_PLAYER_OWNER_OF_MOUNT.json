@@ -1,0 +1,14 @@
+{
+    "0xAD03B03737CE6810": {
+        "name": "_GET_PLAYER_OWNER_OF_MOUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "mount"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1207"
+    }
+}

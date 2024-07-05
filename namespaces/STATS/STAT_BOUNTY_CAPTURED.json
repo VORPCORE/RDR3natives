@@ -1,0 +1,14 @@
+{
+    "0x262EF7CF49CF1EB9": {
+        "name": "STAT_BOUNTY_CAPTURED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

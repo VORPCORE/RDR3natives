@@ -1,0 +1,18 @@
+{
+    "0x2AF423D6ECB2C485": {
+        "name": "_EAGLE_EYE_SET_FOCUS_ON_ASSOCIATED_CLUE_TRAIL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity",
+                "name": "linkedWaypointPed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

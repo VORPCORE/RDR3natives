@@ -1,0 +1,18 @@
+{
+    "0x22741652985C84D0": {
+        "name": "_0x22741652985C84D0",
+        "comment": "Used in SP only\n_REPORT_*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "lawRegionHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

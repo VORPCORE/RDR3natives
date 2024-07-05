@@ -1,0 +1,16 @@
+{
+    "0x7124FD9AC0E01BA0": {
+        "name": "GET_PLAYER_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207",
+        "gta_hash": "0x6D0DE6A7B5DA71F8",
+        "gta_jhash": "0x406B4B20"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0xF90FBFD68F3C59AE": {
+        "name": "GET_TV_CHANNEL",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xFC1E275A90D39995",
+        "gta_jhash": "0x6B96145A"
+    }
+}

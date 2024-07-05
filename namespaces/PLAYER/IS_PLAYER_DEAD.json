@@ -1,0 +1,16 @@
+{
+    "0x2E9C3FCB6798F397": {
+        "name": "IS_PLAYER_DEAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x424D4687FA1E5652",
+        "gta_jhash": "0x140CA5A8"
+    }
+}

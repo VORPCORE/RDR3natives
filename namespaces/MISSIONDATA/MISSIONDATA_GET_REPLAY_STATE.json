@@ -1,0 +1,14 @@
+{
+    "0x8C32D86E9556ED86": {
+        "name": "MISSIONDATA_GET_REPLAY_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

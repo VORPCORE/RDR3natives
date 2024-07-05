@@ -1,0 +1,9 @@
+{
+    "0xFC4165C9165C166F": {
+        "name": "NETWORK_IS_PLATFORM_INVITE_PENDING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

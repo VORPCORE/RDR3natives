@@ -1,0 +1,18 @@
+{
+    "0x592F58BC4D2A2CF3": {
+        "name": "_GET_PLAYER_MAX_DEAD_EYE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

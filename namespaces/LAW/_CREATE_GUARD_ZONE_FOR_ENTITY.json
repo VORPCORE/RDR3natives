@@ -1,0 +1,30 @@
+{
+    "0x0D4B77E862475ED3": {
+        "name": "_CREATE_GUARD_ZONE_FOR_ENTITY",
+        "comment": "Returns true when investigation creation was successful",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "guardZoneName"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

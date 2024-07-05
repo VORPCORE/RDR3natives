@@ -1,0 +1,14 @@
+{
+    "0x5DA4718DF897EB25": {
+        "name": "_TELEMETRY_PLAYER_SPAWNED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

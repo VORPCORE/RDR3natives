@@ -1,0 +1,21 @@
+{
+    "0x4AE1DFF337A86FDE": {
+        "name": "BG_DOES_LAUNCH_PARAM_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scriptIndex"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x0F6F1EBBC4E1D5E6",
+        "gta_jhash": "0xF8E5F73A"
+    }
+}

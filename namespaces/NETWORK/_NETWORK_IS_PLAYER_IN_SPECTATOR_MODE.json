@@ -1,0 +1,14 @@
+{
+    "0x5B709519997ECF0F": {
+        "name": "_NETWORK_IS_PLAYER_IN_SPECTATOR_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x8312F09C56149A8A": {
+        "name": "_0x8312F09C56149A8A",
+        "comment": "Only used in R* SP Scripts",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "animalType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

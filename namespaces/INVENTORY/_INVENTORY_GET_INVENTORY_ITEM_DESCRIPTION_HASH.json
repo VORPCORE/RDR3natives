@@ -1,0 +1,14 @@
+{
+    "0xA4550FE9C512E3DD": {
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_DESCRIPTION_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "item"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

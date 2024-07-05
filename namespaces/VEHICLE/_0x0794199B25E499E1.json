@@ -1,0 +1,18 @@
+{
+    "0x0794199B25E499E1": {
+        "name": "_0x0794199B25E499E1",
+        "comment": "_SET_VEHICLE_S*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "wagon"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

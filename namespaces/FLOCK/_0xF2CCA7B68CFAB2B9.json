@@ -1,0 +1,66 @@
+{
+    "0xF2CCA7B68CFAB2B9": {
+        "name": "_0xF2CCA7B68CFAB2B9",
+        "comment": "species: SPECIES_BIRD_CROW",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "species"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "x3"
+            },
+            {
+                "type": "float",
+                "name": "y3"
+            },
+            {
+                "type": "float",
+                "name": "z3"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "float",
+                "name": "p11"
+            },
+            {
+                "type": "float",
+                "name": "p12"
+            },
+            {
+                "type": "float",
+                "name": "p13"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

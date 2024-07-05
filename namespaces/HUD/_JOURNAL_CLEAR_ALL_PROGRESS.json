@@ -1,0 +1,9 @@
+{
+    "0xF402978DE6F88D6E": {
+        "name": "_JOURNAL_CLEAR_ALL_PROGRESS",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xD73A5D1F0325C71C": {
+        "name": "WAYPOINT_PLAYBACK_GET_IS_AIMING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xE017CF6E2527FE4F": {
+        "name": "TASK_COMPANION_AMBIENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

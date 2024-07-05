@@ -1,0 +1,14 @@
+{
+    "0xB2CEA5105AAC8DDE": {
+        "name": "NETWORK_ACCEPT_RS_INVITE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x65A5F70F4A292EBE": {
+        "name": "_INVENTORY_SET_INVENTORY_ITEM_IN_USE",
+        "comment": "Only works on CClothingItem",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "BOOL",
+                "name": "inUse"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

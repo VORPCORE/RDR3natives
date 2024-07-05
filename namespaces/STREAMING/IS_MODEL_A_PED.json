@@ -1,0 +1,14 @@
+{
+    "0xC3F09DE9D6D17DDA": {
+        "name": "IS_MODEL_A_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

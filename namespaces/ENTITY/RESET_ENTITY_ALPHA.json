@@ -1,0 +1,16 @@
+{
+    "0x744B9EF44779D9AB": {
+        "name": "RESET_ENTITY_ALPHA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9B1E824FFBB7027A",
+        "gta_jhash": "0x8A30761C"
+    }
+}

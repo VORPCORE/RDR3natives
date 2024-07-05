@@ -1,0 +1,14 @@
+{
+    "0x25B18E530CF39D6F": {
+        "name": "_UI_PROMPT_HAS_MASH_MODE_FAILED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

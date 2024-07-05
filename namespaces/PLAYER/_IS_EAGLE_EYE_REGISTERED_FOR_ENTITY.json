@@ -1,0 +1,18 @@
+{
+    "0x0E6846476906C9DD": {
+        "name": "_IS_EAGLE_EYE_REGISTERED_FOR_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

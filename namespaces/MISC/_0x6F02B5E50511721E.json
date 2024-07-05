@@ -1,0 +1,14 @@
+{
+    "0x6F02B5E50511721E": {
+        "name": "_0x6F02B5E50511721E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

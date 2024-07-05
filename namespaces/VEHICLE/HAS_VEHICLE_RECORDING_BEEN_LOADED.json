@@ -1,0 +1,20 @@
+{
+    "0xBA9325BE372AB6EA": {
+        "name": "HAS_VEHICLE_RECORDING_BEEN_LOADED",
+        "comment": "See REQUEST_VEHICLE_RECORDING",
+        "params": [
+            {
+                "type": "int",
+                "name": "recording"
+            },
+            {
+                "type": "const char*",
+                "name": "script"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x300D614A4C785FC4",
+        "gta_jhash": "0xF52CD7F5"
+    }
+}

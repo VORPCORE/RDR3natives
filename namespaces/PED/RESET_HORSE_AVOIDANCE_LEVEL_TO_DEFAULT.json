@@ -1,0 +1,14 @@
+{
+    "0x2A5AFD2B8381A6E1": {
+        "name": "RESET_HORSE_AVOIDANCE_LEVEL_TO_DEFAULT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "horse"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

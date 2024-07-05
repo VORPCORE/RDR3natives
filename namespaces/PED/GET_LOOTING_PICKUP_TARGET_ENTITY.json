@@ -1,0 +1,14 @@
+{
+    "0x14169FA823679E41": {
+        "name": "GET_LOOTING_PICKUP_TARGET_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

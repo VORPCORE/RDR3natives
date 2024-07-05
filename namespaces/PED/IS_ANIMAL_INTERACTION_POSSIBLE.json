@@ -1,0 +1,18 @@
+{
+    "0xD543D3A8FDE4F185": {
+        "name": "IS_ANIMAL_INTERACTION_POSSIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "animal"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

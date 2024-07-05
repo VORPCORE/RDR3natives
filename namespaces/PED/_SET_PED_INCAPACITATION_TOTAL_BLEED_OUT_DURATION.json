@@ -1,0 +1,18 @@
+{
+    "0x2890418B39BC8FFF": {
+        "name": "_SET_PED_INCAPACITATION_TOTAL_BLEED_OUT_DURATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

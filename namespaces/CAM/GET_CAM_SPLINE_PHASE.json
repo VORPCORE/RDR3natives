@@ -1,0 +1,16 @@
+{
+    "0x095EDCD24D90033A": {
+        "name": "GET_CAM_SPLINE_PHASE",
+        "comment": "Can use this with SET_CAM_SPLINE_PHASE to set the float it this native returns.\n\n(returns 1.0f when no nodes has been added, reached end of non existing spline)",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xB5349E36C546509A",
+        "gta_jhash": "0x39784DD9"
+    }
+}

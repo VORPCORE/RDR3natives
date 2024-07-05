@@ -1,0 +1,16 @@
+{
+    "0x201C319797BDA603": {
+        "name": "GET_BLIP_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x586AFE3FF72D996E",
+        "gta_jhash": "0xEF6FF47B"
+    }
+}

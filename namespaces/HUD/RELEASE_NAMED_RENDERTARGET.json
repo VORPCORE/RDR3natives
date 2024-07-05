@@ -1,0 +1,16 @@
+{
+    "0x0E692EE61761361F": {
+        "name": "RELEASE_NAMED_RENDERTARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xE9F6FFE837354DD4",
+        "gta_jhash": "0xD3F6C892"
+    }
+}

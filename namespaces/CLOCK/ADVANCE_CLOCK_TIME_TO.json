@@ -1,0 +1,24 @@
+{
+    "0x0184750AE88D0B1D": {
+        "name": "ADVANCE_CLOCK_TIME_TO",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hour"
+            },
+            {
+                "type": "int",
+                "name": "minute"
+            },
+            {
+                "type": "int",
+                "name": "second"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC8CA9670B9D83B3B",
+        "gta_jhash": "0x57B8DA7C"
+    }
+}

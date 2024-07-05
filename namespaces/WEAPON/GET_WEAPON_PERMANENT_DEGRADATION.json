@@ -1,0 +1,14 @@
+{
+    "0xD56E5F336C675EFA": {
+        "name": "GET_WEAPON_PERMANENT_DEGRADATION",
+        "comment": "Related to rust of weapons",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

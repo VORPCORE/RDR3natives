@@ -1,0 +1,9 @@
+{
+    "0x98F4154989B81EC6": {
+        "name": "_GET_PHOTO_MODE_CONTRAST",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

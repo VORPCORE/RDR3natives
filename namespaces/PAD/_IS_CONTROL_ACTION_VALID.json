@@ -1,0 +1,18 @@
+{
+    "0xBC0884BC590951C7": {
+        "name": "_IS_CONTROL_ACTION_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "action"
+            },
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

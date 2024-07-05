@@ -1,0 +1,14 @@
+{
+    "0xF0460C7BF80011EA": {
+        "name": "CAN_REGISTER_MISSION_PICKUPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xFD05B1DDE83749FA": {
+        "name": "_0xFD05B1DDE83749FA",
+        "comment": "R* Script spd_agnesdow1: p0 = SPD_AGNES_DOWD_01",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

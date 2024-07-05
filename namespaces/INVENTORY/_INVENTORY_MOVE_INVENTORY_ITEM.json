@@ -1,0 +1,34 @@
+{
+    "0xDCCAA7C3BFD88862": {
+        "name": "_INVENTORY_MOVE_INVENTORY_ITEM",
+        "comment": "guid1: old parent GUID\nguid2: new parent GUID\nguid3: new item GUID (out param)",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid1"
+            },
+            {
+                "type": "Any*",
+                "name": "guid2"
+            },
+            {
+                "type": "Hash",
+                "name": "slotId"
+            },
+            {
+                "type": "int",
+                "name": "quantity"
+            },
+            {
+                "type": "Any*",
+                "name": "outGuid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

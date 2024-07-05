@@ -1,0 +1,14 @@
+{
+    "0x5AC0944C156E5F44": {
+        "name": "_NAVMESH_IS_SWAP_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

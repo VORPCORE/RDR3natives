@@ -1,0 +1,18 @@
+{
+    "0xAB72C67163DC4DB4": {
+        "name": "_SET_LIGHTS_TYPE_FOR_ENTITY",
+        "comment": "type must be less than or equal to 20",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

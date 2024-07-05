@@ -1,0 +1,14 @@
+{
+    "0x927B810E43E99932": {
+        "name": "_IS_CAMERA_AVAILABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cameraDictionary"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

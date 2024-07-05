@@ -1,0 +1,14 @@
+{
+    "0x06565032897BA861": {
+        "name": "_UI_PROMPT_ENABLE_PROMPT_TYPE_THIS_FRAME",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/graphics/HUD/prompts/prompt_types",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x9AC1C64FE46B6D09": {
+        "name": "_CREATE_POPZONE_FROM_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "PopZone",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x099D4A855D53B03B": {
+        "name": "_SET_TASK_MOVE_NETWORK_SIGNAL_FLOAT_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "signalName"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

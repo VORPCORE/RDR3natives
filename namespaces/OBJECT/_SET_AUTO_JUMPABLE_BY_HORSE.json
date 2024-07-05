@@ -1,0 +1,18 @@
+{
+    "0x98D2D9C053A1F449": {
+        "name": "_SET_AUTO_JUMPABLE_BY_HORSE",
+        "comment": "Sets object as auto-jumpable by horse.",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

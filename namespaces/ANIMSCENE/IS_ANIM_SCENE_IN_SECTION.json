@@ -1,0 +1,22 @@
+{
+    "0x8D81E7824B7753F7": {
+        "name": "IS_ANIM_SCENE_IN_SECTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "sectionName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

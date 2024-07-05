@@ -1,0 +1,14 @@
+{
+    "0x2C9746D0CA15BE1C": {
+        "name": "_GET_INTERIOR_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

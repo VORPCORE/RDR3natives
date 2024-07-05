@@ -1,0 +1,18 @@
+{
+    "0x427C919E9809E370": {
+        "name": "_0x427C919E9809E370",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

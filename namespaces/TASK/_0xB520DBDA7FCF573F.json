@@ -1,0 +1,14 @@
+{
+    "0xB520DBDA7FCF573F": {
+        "name": "_0xB520DBDA7FCF573F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

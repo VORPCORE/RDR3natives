@@ -1,0 +1,22 @@
+{
+    "0x6772A83C67A25775": {
+        "name": "_ITEMDATABASE_GET_ACQUIRE_COST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "key"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

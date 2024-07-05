@@ -1,0 +1,11 @@
+{
+    "0xF703E82F3FE14A5F": {
+        "name": "GET_WIND_DIRECTION",
+        "comment": "",
+        "params": [],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x1F400FEF721170DA",
+        "gta_jhash": "0x89499A0D"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xD05590C1AB38F068": {
+        "name": "_UI_FEED_POST_LOCATION_SHARD",
+        "comment": "Example : https://pastebin.com/h1YzycuR",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "duration"
+            },
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

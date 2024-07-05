@@ -1,0 +1,16 @@
+{
+    "0xE5DA8615A6180789": {
+        "name": "TASK_STAY_IN_COVER",
+        "comment": "Makes the ped run to take cover",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE5DA8615A6180789",
+        "gta_jhash": "0xA27A9413"
+    }
+}

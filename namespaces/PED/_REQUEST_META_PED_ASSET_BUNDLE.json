@@ -1,0 +1,18 @@
+{
+    "0x91FE941F9FCFB702": {
+        "name": "_REQUEST_META_PED_ASSET_BUNDLE",
+        "comment": "Returns requestId\nParams: p1 = 1 in R* Scripts",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "asset"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

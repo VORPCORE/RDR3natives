@@ -1,0 +1,15 @@
+{
+    "0xFA38B52F91B59075": {
+        "name": "_NETWORK_DEBUG_REQUEST_ENTITY_POSITION",
+        "comment": "Must be called from a background script, otherwise it will do nothing.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true
+    }
+}

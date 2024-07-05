@@ -1,0 +1,9 @@
+{
+    "0x1359C181BC625503": {
+        "name": "_GET_RANDOM_WEATHER_TYPE",
+        "comment": "",
+        "params": [],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

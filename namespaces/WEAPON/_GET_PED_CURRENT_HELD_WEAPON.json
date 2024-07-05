@@ -1,0 +1,14 @@
+{
+    "0x8425C5F057012DAB": {
+        "name": "_GET_PED_CURRENT_HELD_WEAPON",
+        "comment": "Returns eCurrentHeldWeapon\n_GET_R* - _GET_T*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

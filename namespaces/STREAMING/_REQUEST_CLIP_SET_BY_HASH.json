@@ -1,0 +1,14 @@
+{
+    "0xAC37644A538F7524": {
+        "name": "_REQUEST_CLIP_SET_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "clipSetHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

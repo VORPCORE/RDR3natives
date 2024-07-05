@@ -1,0 +1,14 @@
+{
+    "0xE1A83D4A3B5D7938": {
+        "name": "_DELETE_VEHICLE_LANTERNS",
+        "comment": "Spawn without lanterns set",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xE86051786B66CD8E": {
+        "name": "NETWORK_GET_LOCAL_HANDLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE86051786B66CD8E",
+        "gta_jhash": "0x08023B16"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xDA37A053C1522F5D": {
+        "name": "_GET_PED_WORST_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

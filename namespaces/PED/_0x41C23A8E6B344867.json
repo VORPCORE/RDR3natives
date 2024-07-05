@@ -1,0 +1,18 @@
+{
+    "0x41C23A8E6B344867": {
+        "name": "_0x41C23A8E6B344867",
+        "comment": "_SET_PED_IN*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

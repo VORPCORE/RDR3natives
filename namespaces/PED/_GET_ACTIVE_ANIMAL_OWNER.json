@@ -1,0 +1,14 @@
+{
+    "0xF103823FFE72BB49": {
+        "name": "_GET_ACTIVE_ANIMAL_OWNER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animal"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

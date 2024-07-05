@@ -1,0 +1,18 @@
+{
+    "0x54D3CD482742C482": {
+        "name": "_0x54D3CD482742C482",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animal"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0xECE3C34B270428D5": {
+        "name": "_ARE_ANY_LAW_PEDS_INVESTIGATING",
+        "comment": "Only used in rcm_homerob00 R* Script",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

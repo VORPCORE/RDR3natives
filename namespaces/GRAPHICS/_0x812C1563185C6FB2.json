@@ -1,0 +1,9 @@
+{
+    "0x812C1563185C6FB2": {
+        "name": "_0x812C1563185C6FB2",
+        "comment": "Used in CREATE_BEZIER_BLOOD_TRAIL_OF_TYPE\n_ENABLE_*",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

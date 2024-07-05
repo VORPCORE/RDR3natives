@@ -1,0 +1,15 @@
+{
+    "0xE31A04513237DC89": {
+        "name": "_0xE31A04513237DC89",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true
+    }
+}

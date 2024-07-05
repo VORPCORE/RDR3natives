@@ -1,0 +1,36 @@
+{
+    "0xEE01041D559983EA": {
+        "name": "SET_PED_NON_CREATION_AREA",
+        "comment": "The distance between these points, is the diagonal of a box (remember it's 3D).",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEE01041D559983EA",
+        "gta_jhash": "0x7A97283F"
+    }
+}

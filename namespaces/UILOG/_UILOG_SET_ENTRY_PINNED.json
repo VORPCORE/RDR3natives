@@ -1,0 +1,22 @@
+{
+    "0x72A5CD214B342568": {
+        "name": "_UILOG_SET_ENTRY_PINNED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

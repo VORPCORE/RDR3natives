@@ -1,0 +1,16 @@
+{
+    "0x30ED88D5E0C56A37": {
+        "name": "IS_TASK_MOVE_NETWORK_READY_FOR_TRANSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x30ED88D5E0C56A37",
+        "gta_jhash": "0x92FDBAE6"
+    }
+}

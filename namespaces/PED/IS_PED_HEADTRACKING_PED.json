@@ -1,0 +1,20 @@
+{
+    "0x5CD3CB88A7F8850D": {
+        "name": "IS_PED_HEADTRACKING_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x5CD3CB88A7F8850D",
+        "gta_jhash": "0x2A5DF721"
+    }
+}

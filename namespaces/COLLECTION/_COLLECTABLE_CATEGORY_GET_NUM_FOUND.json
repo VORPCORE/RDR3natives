@@ -1,0 +1,18 @@
+{
+    "0x5461C821D00FE15A": {
+        "name": "_COLLECTABLE_CATEGORY_GET_NUM_FOUND",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableCategory"
+            },
+            {
+                "type": "Hash",
+                "name": "collectableSubcategory"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

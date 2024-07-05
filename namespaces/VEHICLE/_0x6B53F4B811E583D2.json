@@ -1,0 +1,18 @@
+{
+    "0x6B53F4B811E583D2": {
+        "name": "_0x6B53F4B811E583D2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

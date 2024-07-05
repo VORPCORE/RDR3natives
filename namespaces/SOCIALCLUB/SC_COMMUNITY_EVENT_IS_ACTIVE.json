@@ -1,0 +1,12 @@
+{
+    "0xCBF743C984695CF3": {
+        "name": "SC_COMMUNITY_EVENT_IS_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0xFF8F3A92B75ED67A",
+        "gta_jhash": "0xC96456BA"
+    }
+}

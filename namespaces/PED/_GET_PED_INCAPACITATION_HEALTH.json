@@ -1,0 +1,14 @@
+{
+    "0x89BFDF6D53145545": {
+        "name": "_GET_PED_INCAPACITATION_HEALTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

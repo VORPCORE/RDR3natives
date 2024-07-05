@@ -1,0 +1,14 @@
+{
+    "0x0CB3D1919E8D7CBA": {
+        "name": "_0x0CB3D1919E8D7CBA",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "convoRoot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

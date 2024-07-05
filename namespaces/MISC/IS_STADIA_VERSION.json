@@ -1,0 +1,9 @@
+{
+    "0x268AB8420A9E4ED7": {
+        "name": "IS_STADIA_VERSION",
+        "comment": "Hardcoded to return false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

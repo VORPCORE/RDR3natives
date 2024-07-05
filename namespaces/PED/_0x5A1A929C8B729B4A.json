@@ -1,0 +1,14 @@
+{
+    "0x5A1A929C8B729B4A": {
+        "name": "_0x5A1A929C8B729B4A",
+        "comment": "_C*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

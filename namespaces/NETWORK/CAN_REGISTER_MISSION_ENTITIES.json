@@ -1,0 +1,28 @@
+{
+    "0x69778E7564BADE6D": {
+        "name": "CAN_REGISTER_MISSION_ENTITIES",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ped_amt"
+            },
+            {
+                "type": "int",
+                "name": "vehicle_amt"
+            },
+            {
+                "type": "int",
+                "name": "object_amt"
+            },
+            {
+                "type": "int",
+                "name": "pickup_amt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x69778E7564BADE6D",
+        "gta_jhash": "0x83794008"
+    }
+}

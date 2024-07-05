@@ -1,0 +1,22 @@
+{
+    "0xFF5FB5605AD56856": {
+        "name": "_ITEMDATABASE_DOES_ITEM_HAVE_TAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "Hash",
+                "name": "tag"
+            },
+            {
+                "type": "Hash",
+                "name": "tagType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

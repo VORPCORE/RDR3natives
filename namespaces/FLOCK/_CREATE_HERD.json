@@ -1,0 +1,9 @@
+{
+    "0xCB4EF7EDAE2E16F1": {
+        "name": "_CREATE_HERD",
+        "comment": "",
+        "params": [],
+        "return_type": "ScrHandle",
+        "build": "1207"
+    }
+}

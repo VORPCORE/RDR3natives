@@ -1,0 +1,18 @@
+{
+    "0x6EF4E31B4D5D2DA0": {
+        "name": "_DISASSOCIATE_PROP_FROM_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            },
+            {
+                "type": "const char*",
+                "name": "propName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

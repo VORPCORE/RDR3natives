@@ -1,0 +1,16 @@
+{
+    "0xDDDC54181868F81F": {
+        "name": "SET_GAMEPLAY_HINT_FOLLOW_DISTANCE_SCALAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF8BDBF3D573049A1",
+        "gta_jhash": "0x72E8CD3A"
+    }
+}

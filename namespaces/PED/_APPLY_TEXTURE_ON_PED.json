@@ -1,0 +1,22 @@
+{
+    "0x0B46E25761519058": {
+        "name": "_APPLY_TEXTURE_ON_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "int",
+                "name": "textureId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x093DD5A31BC2B459": {
+        "name": "SET_BLIP_NAME_TO_PLAYER_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x127DE7B20C60A6A3",
+        "gta_jhash": "0x03A0B8F9"
+    }
+}

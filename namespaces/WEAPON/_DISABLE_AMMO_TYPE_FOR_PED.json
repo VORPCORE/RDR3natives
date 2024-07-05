@@ -1,0 +1,18 @@
+{
+    "0xAA5A52204E077883": {
+        "name": "_DISABLE_AMMO_TYPE_FOR_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

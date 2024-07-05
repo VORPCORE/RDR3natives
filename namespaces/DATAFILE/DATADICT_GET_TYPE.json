@@ -1,0 +1,20 @@
+{
+    "0x92E11E3CA4C7CDF0": {
+        "name": "DATADICT_GET_TYPE",
+        "comment": "Types:\n1 = Boolean\n2 = Integer\n3 = Float\n4 = String\n5 = Vector3\n6 = Object\n7 = Array",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x031C55ED33227371",
+        "gta_jhash": "0x2678342A"
+    }
+}

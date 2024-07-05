@@ -1,0 +1,20 @@
+{
+    "0x2BC338A7B21F4608": {
+        "name": "REQUEST_PED_VEHICLE_VISIBILITY_TRACKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2BC338A7B21F4608",
+        "gta_jhash": "0x31C31DAA"
+    }
+}

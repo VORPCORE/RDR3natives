@@ -1,0 +1,18 @@
+{
+    "0xD6824B7D24DC0CE0": {
+        "name": "SET_ANIM_SCENE_PAUSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

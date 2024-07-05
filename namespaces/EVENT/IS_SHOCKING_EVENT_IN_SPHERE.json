@@ -1,0 +1,32 @@
+{
+    "0x9DB47E16060D6354": {
+        "name": "IS_SHOCKING_EVENT_IN_SPHERE",
+        "comment": "eventType: https://alloc8or.re/rdr3/doc/enums/eEventType.txt",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "eventType"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1374ABB7C15BAB92",
+        "gta_jhash": "0x2F98823E"
+    }
+}

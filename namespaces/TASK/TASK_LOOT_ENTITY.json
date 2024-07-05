@@ -1,0 +1,18 @@
+{
+    "0x48FAE038401A2888": {
+        "name": "TASK_LOOT_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

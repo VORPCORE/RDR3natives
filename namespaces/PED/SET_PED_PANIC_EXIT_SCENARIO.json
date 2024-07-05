@@ -1,0 +1,28 @@
+{
+    "0xFE07FF6495D52E2A": {
+        "name": "SET_PED_PANIC_EXIT_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xFE07FF6495D52E2A",
+        "gta_jhash": "0x59DE73AC"
+    }
+}

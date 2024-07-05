@@ -1,0 +1,22 @@
+{
+    "0x62CC549B3B8EA2AA": {
+        "name": "_JOURNAL_GET_TEXTURE_WITH_LAYOUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

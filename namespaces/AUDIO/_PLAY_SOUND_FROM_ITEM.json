@@ -1,0 +1,22 @@
+{
+    "0xE8EAFF7B41EDD291": {
+        "name": "_PLAY_SOUND_FROM_ITEM",
+        "comment": "item: value returned from 0x2E1CDC1FF3B8473E\nsoundSet: HUD_SHOP_SOUNDSET, COMPANIONS_ROBBERIES_SOUNDSET",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "Hash",
+                "name": "soundSet"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

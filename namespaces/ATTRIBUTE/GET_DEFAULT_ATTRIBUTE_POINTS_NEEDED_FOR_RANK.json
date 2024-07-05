@@ -1,0 +1,22 @@
+{
+    "0x94A7F191DB49A44D": {
+        "name": "GET_DEFAULT_ATTRIBUTE_POINTS_NEEDED_FOR_RANK",
+        "comment": "attributeIndex: see SET_ATTRIBUTE_BASE_RANK",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "int",
+                "name": "attributeIndex"
+            },
+            {
+                "type": "int",
+                "name": "rank"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

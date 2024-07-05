@@ -1,0 +1,20 @@
+{
+    "0x96DEA500B6EBBE53": {
+        "name": "DATAARRAY_GET_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            },
+            {
+                "type": "int",
+                "name": "arrayIndex"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x3E5AE19425CD74BE",
+        "gta_jhash": "0xBB120CFC"
+    }
+}

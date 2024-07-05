@@ -1,0 +1,18 @@
+{
+    "0xD00E50E673802D71": {
+        "name": "_SET_SCENARIO_TYPE_ENABLED_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scenarioType"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x84A2DD9AC37C35C1": {
+        "name": "IS_PED_INJURED",
+        "comment": "Gets a value indicating whether this ped's health is below its injured threshold.\n\nThe default threshold is 100.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x84A2DD9AC37C35C1",
+        "gta_jhash": "0x2530A087"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x341CDD17EFC2472E": {
+        "name": "_0x341CDD17EFC2472E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

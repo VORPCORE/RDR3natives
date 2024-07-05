@@ -1,0 +1,14 @@
+{
+    "0xF330A5C062B29BED": {
+        "name": "IS_PED_IN_HIT_REACT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

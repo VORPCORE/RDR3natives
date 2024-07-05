@@ -1,0 +1,14 @@
+{
+    "0x38C0C9CAE1544500": {
+        "name": "_0x38C0C9CAE1544500",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

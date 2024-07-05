@@ -1,0 +1,22 @@
+{
+    "0x6C39587D7CC66801": {
+        "name": "_UI_PROMPT_SET_MASH_AUTO_FILL_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "int",
+                "name": "autoFillTimeMs"
+            },
+            {
+                "type": "int",
+                "name": "mashes"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

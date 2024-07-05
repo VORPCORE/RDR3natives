@@ -1,0 +1,18 @@
+{
+    "0x9427C94D2E4094A4": {
+        "name": "_HAS_SCENARIO_TYPE_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scenarioType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

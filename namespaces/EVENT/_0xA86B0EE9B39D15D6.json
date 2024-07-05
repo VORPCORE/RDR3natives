@@ -1,0 +1,14 @@
+{
+    "0xA86B0EE9B39D15D6": {
+        "name": "_0xA86B0EE9B39D15D6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

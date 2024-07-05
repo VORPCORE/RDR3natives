@@ -1,0 +1,18 @@
+{
+    "0x9B47971234169990": {
+        "name": "_SET_LOOT_PELT_SATCHEL_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "item"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x6D1D94C2459B42EE": {
+        "name": "SET_SPECIES_TUNING_BOOL_PARAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

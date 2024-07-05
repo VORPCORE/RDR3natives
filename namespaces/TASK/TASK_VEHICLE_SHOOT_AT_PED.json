@@ -1,0 +1,24 @@
+{
+    "0x10AB107B887214D8": {
+        "name": "TASK_VEHICLE_SHOOT_AT_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x10AB107B887214D8",
+        "gta_jhash": "0x59677BA0"
+    }
+}

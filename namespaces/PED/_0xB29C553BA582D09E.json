@@ -1,0 +1,26 @@
+{
+    "0xB29C553BA582D09E": {
+        "name": "_0xB29C553BA582D09E",
+        "comment": "Used in Script Function SATCHEL_COUNT_BREAKDOWN_COMPONENTS",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "model"
+            },
+            {
+                "type": "int",
+                "name": "damageCleanliness"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

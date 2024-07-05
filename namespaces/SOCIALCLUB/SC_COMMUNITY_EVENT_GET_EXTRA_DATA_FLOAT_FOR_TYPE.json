@@ -1,0 +1,25 @@
+{
+    "0x1BDB56DB258F052D": {
+        "name": "SC_COMMUNITY_EVENT_GET_EXTRA_DATA_FLOAT_FOR_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "float*",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x2570E26BE63964E3",
+        "gta_jhash": "0x59394583"
+    }
+}

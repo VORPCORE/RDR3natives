@@ -1,0 +1,14 @@
+{
+    "0x77525BBF433F2CD6": {
+        "name": "IS_PED_RESPONDING_TO_THREAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

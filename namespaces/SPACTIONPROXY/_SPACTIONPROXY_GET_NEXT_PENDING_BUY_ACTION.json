@@ -1,0 +1,14 @@
+{
+    "0x1F471B79ACC98BEF": {
+        "name": "_SPACTIONPROXY_GET_NEXT_PENDING_BUY_ACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

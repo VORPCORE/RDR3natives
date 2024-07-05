@@ -1,0 +1,15 @@
+{
+    "0x5CA7FB7D6DE49DCC": {
+        "name": "_0x5CA7FB7D6DE49DCC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "unused": true
+    }
+}

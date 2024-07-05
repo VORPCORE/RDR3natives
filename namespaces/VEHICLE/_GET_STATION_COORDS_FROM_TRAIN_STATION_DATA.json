@@ -1,0 +1,18 @@
+{
+    "0xBA958F68031DDBFC": {
+        "name": "_GET_STATION_COORDS_FROM_TRAIN_STATION_DATA",
+        "comment": "Returns Coords of vStation\np0 - NET_TRAIN_MANAGER_GET_TRAIN_STATION_DATA\n_GET_P* - _GET_T*",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            },
+            {
+                "type": "int",
+                "name": "stationIndex"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

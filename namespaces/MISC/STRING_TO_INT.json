@@ -1,0 +1,20 @@
+{
+    "0xF2DD2298B3AF23E2": {
+        "name": "STRING_TO_INT",
+        "comment": "Returns false if it's a null or empty string or if the string is too long. outInteger will be set to -999 in that case.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            },
+            {
+                "type": "int*",
+                "name": "outInteger"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x5A5F40FE637EB584",
+        "gta_jhash": "0x590A8160"
+    }
+}

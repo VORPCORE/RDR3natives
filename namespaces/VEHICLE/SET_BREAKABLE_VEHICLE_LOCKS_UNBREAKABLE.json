@@ -1,0 +1,18 @@
+{
+    "0xBC4735F48CD983EF": {
+        "name": "SET_BREAKABLE_VEHICLE_LOCKS_UNBREAKABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

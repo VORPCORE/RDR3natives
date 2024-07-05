@@ -1,0 +1,14 @@
+{
+    "0x2F994CC29CAA9D22": {
+        "name": "_CREATE_KILL_CAM",
+        "comment": "Creates Kill Cam for specified Ped Handle",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

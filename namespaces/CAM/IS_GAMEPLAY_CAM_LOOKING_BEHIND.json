@@ -1,0 +1,11 @@
+{
+    "0x8FE0D24FFD04D5A2": {
+        "name": "IS_GAMEPLAY_CAM_LOOKING_BEHIND",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x70FDA869F3317EA9",
+        "gta_jhash": "0x33C83F17"
+    }
+}

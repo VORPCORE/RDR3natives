@@ -1,0 +1,32 @@
+{
+    "0x9839013D8B6014F1": {
+        "name": "START_SHAPE_TEST_MOUSE_CURSOR_LOS_PROBE",
+        "comment": "Old name: _START_SHAPE_TEST_SURROUNDING_COORDS",
+        "params": [
+            {
+                "type": "Vector3*",
+                "name": "pVec1"
+            },
+            {
+                "type": "Vector3*",
+                "name": "pVec2"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "flag2"
+            }
+        ],
+        "return_type": "ScrHandle",
+        "build": "1207",
+        "gta_hash": "0xFF6BE494C7987F34",
+        "gta_jhash": ""
+    }
+}

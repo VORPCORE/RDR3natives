@@ -1,0 +1,14 @@
+{
+    "0xCD53E6CBF609C012": {
+        "name": "_0xCD53E6CBF609C012",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ugcRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

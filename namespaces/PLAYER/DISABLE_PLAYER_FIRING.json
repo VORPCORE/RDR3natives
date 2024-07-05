@@ -1,0 +1,20 @@
+{
+    "0x2970929FD5F9FC89": {
+        "name": "DISABLE_PLAYER_FIRING",
+        "comment": "Inhibits the player from using any method of combat including melee and firearms.\n\nNOTE: Only disables the firing for one frame",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5E6CC07646BBEAB8",
+        "gta_jhash": "0x30CB28CB"
+    }
+}

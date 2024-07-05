@@ -1,0 +1,32 @@
+{
+    "0x553FA683F2BCD814": {
+        "name": "REMOVE_FORCED_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x61B6775E83C0DB6F",
+        "gta_jhash": "0xAED73ADD"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xA3EEC0A5AFF3FC5B": {
+        "name": "_NETWORK_GET_CURRENT_FRIEND_PAGE_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

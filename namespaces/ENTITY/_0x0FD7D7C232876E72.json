@@ -1,0 +1,14 @@
+{
+    "0x0FD7D7C232876E72": {
+        "name": "_0x0FD7D7C232876E72",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

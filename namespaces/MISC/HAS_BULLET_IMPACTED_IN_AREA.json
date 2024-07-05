@@ -1,0 +1,36 @@
+{
+    "0xC153E5BCCF411814": {
+        "name": "HAS_BULLET_IMPACTED_IN_AREA",
+        "comment": "p3 - possibly radius?",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x9870ACFB89A90995",
+        "gta_jhash": "0x902BC7D9"
+    }
+}

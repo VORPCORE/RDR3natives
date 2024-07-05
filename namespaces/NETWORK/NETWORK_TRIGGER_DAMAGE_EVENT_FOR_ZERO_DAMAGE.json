@@ -1,0 +1,20 @@
+{
+    "0x0C8BC052AE87D744": {
+        "name": "NETWORK_TRIGGER_DAMAGE_EVENT_FOR_ZERO_DAMAGE",
+        "comment": "Old name: _NETWORK_SET_VEHICLE_WHEELS_DESTRUCTIBLE",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x890E2C5ABED7236D",
+        "gta_jhash": ""
+    }
+}

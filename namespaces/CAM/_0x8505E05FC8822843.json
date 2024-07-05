@@ -1,0 +1,14 @@
+{
+    "0x8505E05FC8822843": {
+        "name": "_0x8505E05FC8822843",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

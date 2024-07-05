@@ -1,0 +1,16 @@
+{
+    "0x8785E6E40C7A8818": {
+        "name": "IS_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x8785E6E40C7A8818",
+        "gta_jhash": "0xB23F46E6"
+    }
+}

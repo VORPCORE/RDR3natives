@@ -1,0 +1,9 @@
+{
+    "0xAD7B70F7230C5A12": {
+        "name": "_CLOSE_ALL_UIAPPS",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

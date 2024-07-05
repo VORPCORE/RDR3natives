@@ -1,0 +1,16 @@
+{
+    "0x7767DD9D65E91319": {
+        "name": "DELETE_PATROL_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "patrolRoute"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7767DD9D65E91319",
+        "gta_jhash": "0x2A4E6706"
+    }
+}

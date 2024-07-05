@@ -1,0 +1,22 @@
+{
+    "0x98412398BBE73F61": {
+        "name": "_CASHINVENTORY_TRANSACTION_RESPONSE_GET_ITEM_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "itemInfo"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

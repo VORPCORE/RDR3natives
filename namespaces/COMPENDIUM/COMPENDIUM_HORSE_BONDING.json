@@ -1,0 +1,18 @@
+{
+    "0x725D52F21A5E9E50": {
+        "name": "COMPENDIUM_HORSE_BONDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "bondingLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

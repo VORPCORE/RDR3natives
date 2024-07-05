@@ -1,0 +1,18 @@
+{
+    "0x9B4F7E3E4F9C77B3": {
+        "name": "_IS_ROPE_ATTACHED_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

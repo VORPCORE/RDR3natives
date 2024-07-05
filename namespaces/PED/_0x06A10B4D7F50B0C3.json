@@ -1,0 +1,14 @@
+{
+    "0x06A10B4D7F50B0C3": {
+        "name": "_0x06A10B4D7F50B0C3",
+        "comment": "_GET_PED_D*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

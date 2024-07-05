@@ -1,0 +1,54 @@
+{
+    "0xE1AADD0055D76603": {
+        "name": "_0xE1AADD0055D76603",
+        "comment": "_C*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex1"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex2"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "int",
+                "name": "p10"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

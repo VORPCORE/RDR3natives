@@ -1,0 +1,18 @@
+{
+    "0xC89E7410A93AC19A": {
+        "name": "_0xC89E7410A93AC19A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

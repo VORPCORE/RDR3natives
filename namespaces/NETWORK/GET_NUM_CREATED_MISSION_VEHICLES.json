@@ -1,0 +1,16 @@
+{
+    "0x0CD9AB83489430EA": {
+        "name": "GET_NUM_CREATED_MISSION_VEHICLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x0CD9AB83489430EA",
+        "gta_jhash": "0x20527695"
+    }
+}

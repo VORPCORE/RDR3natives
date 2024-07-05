@@ -1,0 +1,22 @@
+{
+    "0x946D46CD6DFB9742": {
+        "name": "_SET_PLAYER_HAS_DISCOVERED_CHARACTER_NAME_SP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "discoveryHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

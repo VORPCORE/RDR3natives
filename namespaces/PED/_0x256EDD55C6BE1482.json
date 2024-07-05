@@ -1,0 +1,14 @@
+{
+    "0x256EDD55C6BE1482": {
+        "name": "_0x256EDD55C6BE1482",
+        "comment": "_IS_PED_FL* - _IS_PED_FU*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

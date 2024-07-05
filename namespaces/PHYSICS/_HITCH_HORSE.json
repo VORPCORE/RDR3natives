@@ -1,0 +1,26 @@
+{
+    "0x06AADE17334F7A40": {
+        "name": "_HITCH_HORSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "horse"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

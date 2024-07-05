@@ -1,0 +1,14 @@
+{
+    "0x40C9155AF8BC13F3": {
+        "name": "_0x40C9155AF8BC13F3",
+        "comment": "_IS_PED_RE*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

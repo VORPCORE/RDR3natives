@@ -1,0 +1,20 @@
+{
+    "0xBE711A169E9C7E95": {
+        "name": "SET_PARTICLE_FX_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "oldAsset"
+            },
+            {
+                "type": "const char*",
+                "name": "newAsset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEA1E2D93F6F75ED9",
+        "gta_jhash": "0xC92719A7"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x2F050A3FF8738245": {
+        "name": "COUNT_PARTICIPANT_BITS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "value"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

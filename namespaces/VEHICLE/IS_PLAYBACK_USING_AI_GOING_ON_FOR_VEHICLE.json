@@ -1,0 +1,16 @@
+{
+    "0x5A7472606EC5B7C1": {
+        "name": "IS_PLAYBACK_USING_AI_GOING_ON_FOR_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xAEA8FD591FAD4106",
+        "gta_jhash": "0x63022C58"
+    }
+}

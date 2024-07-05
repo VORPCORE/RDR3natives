@@ -1,0 +1,18 @@
+{
+    "0x5AF24CA9C974E51A": {
+        "name": "_0x5AF24CA9C974E51A",
+        "comment": "_SET_C*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

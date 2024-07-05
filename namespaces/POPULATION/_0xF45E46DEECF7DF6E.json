@@ -1,0 +1,30 @@
+{
+    "0xF45E46DEECF7DF6E": {
+        "name": "_0xF45E46DEECF7DF6E",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "bitFlag"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

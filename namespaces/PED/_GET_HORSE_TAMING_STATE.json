@@ -1,0 +1,14 @@
+{
+    "0x454AD4DA6C41B5BD": {
+        "name": "_GET_HORSE_TAMING_STATE",
+        "comment": "Returns an int based on enum eTamingState\n\nenum eTamingState\n{\n\tATS_INVALID = 0,\n\tATS_INACTIVE,\n\tATS_TARGET_DETECTED,\n\tATS_CALLED_OUT,\n\tATS_MOUNTABLE,\n\tATS_BEING_PATTED,\n\tATS_BREAKING_ACTIVE,\n\tATS_SPOOKED,\n\tATS_RETREATING,\n\tATS_FLEEING\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "horse"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

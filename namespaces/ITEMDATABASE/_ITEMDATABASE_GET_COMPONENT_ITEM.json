@@ -1,0 +1,22 @@
+{
+    "0x8750F69A720C2E41": {
+        "name": "_ITEMDATABASE_GET_COMPONENT_ITEM",
+        "comment": "Params: p2 can be a component item hash",
+        "params": [
+            {
+                "type": "int",
+                "name": "collectionId"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Hash*",
+                "name": "outKey"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

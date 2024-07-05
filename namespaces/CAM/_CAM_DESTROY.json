@@ -1,0 +1,14 @@
+{
+    "0x0A5A4F1979ABB40E": {
+        "name": "_CAM_DESTROY",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cameraDictionary"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

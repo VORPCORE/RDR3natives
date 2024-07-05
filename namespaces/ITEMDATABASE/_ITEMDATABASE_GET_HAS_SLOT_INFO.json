@@ -1,0 +1,22 @@
+{
+    "0x8A9BD0DB7E8376CF": {
+        "name": "_ITEMDATABASE_GET_HAS_SLOT_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "category"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Hash*",
+                "name": "outSlotId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

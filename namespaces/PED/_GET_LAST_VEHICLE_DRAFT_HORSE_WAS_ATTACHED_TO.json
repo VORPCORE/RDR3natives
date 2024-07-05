@@ -1,0 +1,14 @@
+{
+    "0x5064DB5083C29921": {
+        "name": "_GET_LAST_VEHICLE_DRAFT_HORSE_WAS_ATTACHED_TO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "horse"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207"
+    }
+}

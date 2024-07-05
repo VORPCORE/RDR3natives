@@ -1,0 +1,26 @@
+{
+    "0x2F9005E2EA4E5EE4": {
+        "name": "_SET_GUARD_ZONE_POSITION_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

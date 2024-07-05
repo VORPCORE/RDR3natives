@@ -1,0 +1,16 @@
+{
+    "0x613C15D5D8DB781F": {
+        "name": "IS_ENTITY_ON_SCREEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xE659E47AF827484B",
+        "gta_jhash": "0xC1FEC5ED"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x3E4E811480B3AE79": {
+        "name": "_INVENTORY_REMOVE_INVENTORY_ITEM_WITH_GUID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "int",
+                "name": "quantity"
+            },
+            {
+                "type": "Hash",
+                "name": "removeReason"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

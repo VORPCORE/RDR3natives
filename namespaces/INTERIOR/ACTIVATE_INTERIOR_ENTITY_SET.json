@@ -1,0 +1,24 @@
+{
+    "0x174D0AAB11CED739": {
+        "name": "ACTIVATE_INTERIOR_ENTITY_SET",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/interiors/interior_sets",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "const char*",
+                "name": "entitySetName"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x55E86AF2712B36A1",
+        "gta_jhash": "0xC80A5DDF"
+    }
+}

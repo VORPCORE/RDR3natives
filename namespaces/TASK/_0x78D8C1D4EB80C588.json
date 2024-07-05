@@ -1,0 +1,14 @@
+{
+    "0x78D8C1D4EB80C588": {
+        "name": "_0x78D8C1D4EB80C588",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xF20866829E1C81A2": {
+        "name": "REMOVE_NAMED_PTFX_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "fxNameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5F61EBBE1A00F96D",
+        "gta_jhash": "0xC44762A1"
+    }
+}

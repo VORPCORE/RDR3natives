@@ -1,0 +1,22 @@
+{
+    "0x4BDC83150D43772D": {
+        "name": "_DECOR_SET_UINT8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

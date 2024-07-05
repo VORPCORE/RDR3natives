@@ -1,0 +1,9 @@
+{
+    "0x068332D20CB6F897": {
+        "name": "SC_FEED_HUB_HAS_NEW_DATA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

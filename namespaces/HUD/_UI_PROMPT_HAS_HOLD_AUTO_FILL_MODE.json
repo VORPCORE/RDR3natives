@@ -1,0 +1,14 @@
+{
+    "0x8010BEBD0D5ED5BC": {
+        "name": "_UI_PROMPT_HAS_HOLD_AUTO_FILL_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

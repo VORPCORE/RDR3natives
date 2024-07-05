@@ -1,0 +1,18 @@
+{
+    "0xFE53B1F8D43F19BF": {
+        "name": "_0xFE53B1F8D43F19BF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player1"
+            },
+            {
+                "type": "Player",
+                "name": "player2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

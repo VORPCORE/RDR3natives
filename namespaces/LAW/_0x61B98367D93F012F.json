@@ -1,0 +1,14 @@
+{
+    "0x61B98367D93F012F": {
+        "name": "_0x61B98367D93F012F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "0xAEDF1BC1C133D6E3": {
+        "name": "NETWORK_DUMP_NET_IF_CONFIG",
+        "comment": "nullsub, doesn't do anything",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0xAEDF1BC1C133D6E3",
+        "gta_jhash": ""
+    }
+}

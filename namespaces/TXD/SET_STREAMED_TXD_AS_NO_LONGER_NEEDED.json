@@ -1,0 +1,14 @@
+{
+    "0x8232F37DF762ACB2": {
+        "name": "SET_STREAMED_TXD_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "txdHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x033EE4B89F3AC545": {
+        "name": "INVENTORY_GET_CHILDREN_IN_SLOT_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "Hash",
+                "name": "slotId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

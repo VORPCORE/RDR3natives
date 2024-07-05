@@ -1,0 +1,18 @@
+{
+    "0x36EB4D34D4A092C5": {
+        "name": "_PAUSE_ENTITY_TRACKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "pause"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

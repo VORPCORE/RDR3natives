@@ -1,0 +1,18 @@
+{
+    "0x01B21B81865E2A1F": {
+        "name": "_SET_PED_SCENT",
+        "comment": "0.0 - 1.0\nModifies the \"scent line\" on the ped's body when using Eagle Eye.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "scent"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

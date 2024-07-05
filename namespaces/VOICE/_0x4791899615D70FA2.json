@@ -1,0 +1,22 @@
+{
+    "0x4791899615D70FA2": {
+        "name": "_0x4791899615D70FA2",
+        "comment": "Params: p1 = 2; p2 = 3 in R* Script net_main_offline",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

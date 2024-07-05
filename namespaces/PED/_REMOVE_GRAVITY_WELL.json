@@ -1,0 +1,14 @@
+{
+    "0x87247BC60B60BED8": {
+        "name": "_REMOVE_GRAVITY_WELL",
+        "comment": "Removes gravity well by handle returned from 0x4F5EBE70081E5A20",
+        "params": [
+            {
+                "type": "int",
+                "name": "handle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

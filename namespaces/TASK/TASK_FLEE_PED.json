@@ -1,0 +1,38 @@
+{
+    "0xFD45175A6DFD7CE9": {
+        "name": "TASK_FLEE_PED",
+        "comment": "Params: p4 = -1.0f, p5 = -1, p6 = 0 in R* Scripts\nfleeStyle: see TASK_FLEE_COORD",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "fleeFromTarget"
+            },
+            {
+                "type": "int",
+                "name": "fleeStyle"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

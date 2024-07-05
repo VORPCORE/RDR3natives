@@ -1,0 +1,20 @@
+{
+    "0xD98630CE73C61E98": {
+        "name": "SET_MISSION_NAME_FOR_UGC_MISSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE45087D85F468BC2",
+        "gta_jhash": "0x8D9A1734"
+    }
+}

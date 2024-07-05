@@ -1,0 +1,16 @@
+{
+    "0xFC08C8F8C1EDF174": {
+        "name": "IS_THIS_MODEL_A_TRAIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xAB935175B22E822B",
+        "gta_jhash": "0xF87DCFFD"
+    }
+}

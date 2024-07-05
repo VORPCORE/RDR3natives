@@ -1,0 +1,16 @@
+{
+    "0xE97BD36574F8B0A6": {
+        "name": "HAS_SCRIPT_LOADED",
+        "comment": "Returns if a script has been loaded into the game. Used to see if a script was loaded after requesting.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xE6CC9F3BA0FB9EF1",
+        "gta_jhash": "0x5D67F751"
+    }
+}

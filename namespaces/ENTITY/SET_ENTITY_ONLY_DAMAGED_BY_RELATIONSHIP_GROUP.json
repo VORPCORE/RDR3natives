@@ -1,0 +1,24 @@
+{
+    "0x6C1F6AA2F0ADD104": {
+        "name": "SET_ENTITY_ONLY_DAMAGED_BY_RELATIONSHIP_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "relationshipGroup"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7022BD828FA0B082",
+        "gta_jhash": "0x202237E2"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0x313778EDCA9158E2": {
+        "name": "_GET_NUM_FREE_SLOTS_IN_PED_POOL",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

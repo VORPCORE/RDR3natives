@@ -1,0 +1,64 @@
+{
+    "0x3FAA72BD940C3AC0": {
+        "name": "START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisX"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisY"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisZ"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x0E7E72961BA18619",
+        "gta_jhash": "0x53DAEF4E"
+    }
+}

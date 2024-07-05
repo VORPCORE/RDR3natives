@@ -1,0 +1,20 @@
+{
+    "0xCEC4CA2CAB8FA98C": {
+        "name": "SET_VEHICLE_BROKEN_PARTS_DONT_AFFECT_AI_HANDLING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC361AA040D6637A8",
+        "gta_jhash": "0x819CD954"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x9F65DBC537E59AD5": {
+        "name": "IS_PED_GOING_INTO_COVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x9F65DBC537E59AD5",
+        "gta_jhash": "0xA3589628"
+    }
+}

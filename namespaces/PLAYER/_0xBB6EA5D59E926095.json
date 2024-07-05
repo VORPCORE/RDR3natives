@@ -1,0 +1,18 @@
+{
+    "0xBB6EA5D59E926095": {
+        "name": "_0xBB6EA5D59E926095",
+        "comment": "NPEW__ENUM__EMOTE_CATEGORY_INVALID = -1\nNPEW__ENUM__EMOTE_CATEGORY_ACTIONS\nNPEW__ENUM__EMOTE_CATEGORY_ANTAGONIZE\nNPEW__ENUM__EMOTE_CATEGORY_REACTIONS\nNPEW__ENUM__EMOTE_CATEGORY_GREET\nNPEW__ENUM__NUM_EMOTE_CATEGORIES\nNPEW__ENUM__NUM_DISPLAY_TEXTURES",
+        "params": [
+            {
+                "type": "int",
+                "name": "category"
+            },
+            {
+                "type": "Hash",
+                "name": "emote"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

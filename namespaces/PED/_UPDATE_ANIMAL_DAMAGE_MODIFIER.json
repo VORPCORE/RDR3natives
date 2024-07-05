@@ -1,0 +1,14 @@
+{
+    "0x0F9E754EBE8FDBFA": {
+        "name": "_UPDATE_ANIMAL_DAMAGE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

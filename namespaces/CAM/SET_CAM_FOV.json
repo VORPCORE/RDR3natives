@@ -1,0 +1,20 @@
+{
+    "0x27666E5988D9D429": {
+        "name": "SET_CAM_FOV",
+        "comment": "Sets the field of view of the cam.\n\nMin: 1.0f\nMax: 130.0f",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "fieldOfView"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB13C14F66A00D047",
+        "gta_jhash": "0xD3D5D74F"
+    }
+}

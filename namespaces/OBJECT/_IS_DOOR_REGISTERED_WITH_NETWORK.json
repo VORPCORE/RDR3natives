@@ -1,0 +1,14 @@
+{
+    "0xB5DED7B65C604FDF": {
+        "name": "_IS_DOOR_REGISTERED_WITH_NETWORK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

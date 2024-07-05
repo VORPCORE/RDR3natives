@@ -1,0 +1,11 @@
+{
+    "0x2F96E7720B0B19EA": {
+        "name": "GET_PLAYERS_LAST_VEHICLE",
+        "comment": "",
+        "params": [],
+        "return_type": "Vehicle",
+        "build": "1207",
+        "gta_hash": "0xB6997A7EB3F5C8C0",
+        "gta_jhash": "0xE2757AC1"
+    }
+}

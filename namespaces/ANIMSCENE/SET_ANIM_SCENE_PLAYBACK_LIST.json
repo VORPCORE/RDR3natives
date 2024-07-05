@@ -1,0 +1,18 @@
+{
+    "0xAB5E7CAB074D6B84": {
+        "name": "SET_ANIM_SCENE_PLAYBACK_LIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "playbackListName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

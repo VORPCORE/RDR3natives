@@ -1,0 +1,56 @@
+{
+    "0xD3151E53134595E5": {
+        "name": "IS_ENTITY_IN_ANGLED_AREA",
+        "comment": "Creates a spherical cone at origin that extends to surface with the angle specified. Then returns true if the entity is inside the spherical cone\n\nAngle is measured in degrees.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "originX"
+            },
+            {
+                "type": "float",
+                "name": "originY"
+            },
+            {
+                "type": "float",
+                "name": "originZ"
+            },
+            {
+                "type": "float",
+                "name": "edgeX"
+            },
+            {
+                "type": "float",
+                "name": "edgeY"
+            },
+            {
+                "type": "float",
+                "name": "edgeZ"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "Any",
+                "name": "p10"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x51210CED3DA1C78A",
+        "gta_jhash": "0x883622FA"
+    }
+}

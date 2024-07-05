@@ -1,0 +1,22 @@
+{
+    "0x4B39D8F9D0FE7749": {
+        "name": "TASK_AMBIENT_ANIMAL_HUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

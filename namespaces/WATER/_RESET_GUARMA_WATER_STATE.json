@@ -1,0 +1,9 @@
+{
+    "0xC63540AEF8384769": {
+        "name": "_RESET_GUARMA_WATER_STATE",
+        "comment": "Only used in guama1 / guama3 R* Script\n_REQUEST_* or _RESET_*",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

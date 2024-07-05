@@ -1,0 +1,16 @@
+{
+    "0x306C1F6178F01AB3": {
+        "name": "IS_ENTITY_ATTACHED_TO_ANY_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xCF511840CEEDE0CC",
+        "gta_jhash": "0x0B5DE340"
+    }
+}

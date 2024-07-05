@@ -1,0 +1,11 @@
+{
+    "0x36CDD81627A6FCD2": {
+        "name": "HIDE_HUD_AND_RADAR_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x719FF505F097FD20",
+        "gta_jhash": "0xB75D4AD2"
+    }
+}

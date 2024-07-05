@@ -1,0 +1,28 @@
+{
+    "0xD0DFE1C486097BBB": {
+        "name": "GET_ANGLE_BETWEEN_2D_VECTORS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x186FC4BE848E1C92",
+        "gta_jhash": "0xDBF75E58"
+    }
+}

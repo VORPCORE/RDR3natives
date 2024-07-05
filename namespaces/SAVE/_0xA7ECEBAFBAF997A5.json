@@ -1,0 +1,14 @@
+{
+    "0xA7ECEBAFBAF997A5": {
+        "name": "_0xA7ECEBAFBAF997A5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "savegameType"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1436"
+    }
+}

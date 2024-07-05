@@ -1,0 +1,18 @@
+{
+    "0x04DAC3929796EB87": {
+        "name": "CHAL_IS_GOAL_ACTIVE",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/AI/EVENTS/challenge_goals.lua",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            },
+            {
+                "type": "Hash",
+                "name": "goalHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

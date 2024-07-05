@@ -1,0 +1,18 @@
+{
+    "0x00BA333DA05ADC23": {
+        "name": "_SET_SPECIAL_ABILITY_TYPE",
+        "comment": "SPECIAL_ABILITY_NONE = -1,\nSPECIAL_ABILITY_CAR_SLOWDOWN,\nSPECIAL_ABILITY_RAGE,\nSPECIAL_ABILITY_BULLET_TIME,\nSPECIAL_ABILITY_SNAPSHOT,\nSPECIAL_ABILITY_INSULT,\nSPECIAL_ABILITY_DEADEYE,\nSPECIAL_ABILITY_REVIVE",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

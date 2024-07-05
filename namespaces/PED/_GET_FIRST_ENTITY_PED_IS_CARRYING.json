@@ -1,0 +1,14 @@
+{
+    "0xD806CD2A4F2C2996": {
+        "name": "_GET_FIRST_ENTITY_PED_IS_CARRYING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

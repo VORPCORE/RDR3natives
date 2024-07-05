@@ -1,0 +1,16 @@
+{
+    "0x85F3A86CA9021FB0": {
+        "name": "CLEAN_ITEMSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x41BC0D722FC04221",
+        "gta_jhash": "0x919A4858"
+    }
+}

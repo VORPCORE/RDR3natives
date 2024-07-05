@@ -1,0 +1,14 @@
+{
+    "0xDD0B7C5AE58F721D": {
+        "name": "_IS_CAM_DATA_DICT_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cameraDictionary"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

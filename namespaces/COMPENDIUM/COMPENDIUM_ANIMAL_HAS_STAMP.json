@@ -1,0 +1,14 @@
+{
+    "0xBCF569FC32FFF456": {
+        "name": "COMPENDIUM_ANIMAL_HAS_STAMP",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "compendiumEntry"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x63DC1F22C903B709": {
+        "name": "SET_DONT_ALLOW_PLAYER_TO_ENTER_VEHICLE_IF_LOCKED_FOR_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDBC631F109350B8C",
+        "gta_jhash": "0x486C1280"
+    }
+}

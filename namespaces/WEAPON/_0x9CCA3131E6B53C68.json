@@ -1,0 +1,22 @@
+{
+    "0x9CCA3131E6B53C68": {
+        "name": "_0x9CCA3131E6B53C68",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

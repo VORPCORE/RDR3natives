@@ -1,0 +1,28 @@
+{
+    "0xEC6935EBE0847B90": {
+        "name": "SET_PED_SHOULD_PLAY_DIRECTED_NORMAL_SCENARIO_EXIT",
+        "comment": "Old name: _SET_PED_SHOULD_PLAY_DIRECTED_SCENARIO_EXIT",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xEC6935EBE0847B90",
+        "gta_jhash": ""
+    }
+}

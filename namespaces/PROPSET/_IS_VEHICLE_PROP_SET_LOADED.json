@@ -1,0 +1,14 @@
+{
+    "0x155B2FBE72D7D1D0": {
+        "name": "_IS_VEHICLE_PROP_SET_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

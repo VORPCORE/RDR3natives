@@ -1,0 +1,22 @@
+{
+    "0xFDB008B3BCF5992F": {
+        "name": "_0xFDB008B3BCF5992F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

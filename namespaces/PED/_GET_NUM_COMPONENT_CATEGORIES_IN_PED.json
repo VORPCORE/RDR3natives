@@ -1,0 +1,14 @@
+{
+    "0xA622E66EEE92A08D": {
+        "name": "_GET_NUM_COMPONENT_CATEGORIES_IN_PED",
+        "comment": "Works similar to 0x90403E8107B60E81 (_GET_NUM_COMPONENTS_IN_PED) but is used to get category hashes instead",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

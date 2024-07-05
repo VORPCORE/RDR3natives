@@ -1,0 +1,18 @@
+{
+    "0xDEE80FEDFDD43C9B": {
+        "name": "_SET_PLAYER_REMOTE_ACCURACY_FLOOR_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "accuracy"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

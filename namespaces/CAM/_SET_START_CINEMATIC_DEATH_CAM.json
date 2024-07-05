@@ -1,0 +1,14 @@
+{
+    "0x6E969927CF632608": {
+        "name": "_SET_START_CINEMATIC_DEATH_CAM",
+        "comment": "Used for DUELING_MANAGE_DEATH_CAMERA - Initializing death camera\n_SET_P* - _SET_S*",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

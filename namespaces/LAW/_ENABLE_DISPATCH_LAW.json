@@ -1,0 +1,14 @@
+{
+    "0xC805EB785824F712": {
+        "name": "_ENABLE_DISPATCH_LAW",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

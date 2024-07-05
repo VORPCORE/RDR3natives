@@ -1,0 +1,16 @@
+{
+    "0x13518FF1C6B28938": {
+        "name": "NETWORK_CLAN_REQUEST_EMBLEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x13518FF1C6B28938",
+        "gta_jhash": "0x7963FA4D"
+    }
+}

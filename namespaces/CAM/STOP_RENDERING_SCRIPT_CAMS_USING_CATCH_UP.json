@@ -1,0 +1,36 @@
+{
+    "0x8C7C7FF7CF0E5153": {
+        "name": "STOP_RENDERING_SCRIPT_CAMS_USING_CATCH_UP",
+        "comment": "This native makes the gameplay camera zoom into first person/third person with a special effect.\nblendBackSmoothingType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eBlendBackSmoothing",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "render"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "int",
+                "name": "blendBackSmoothingType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC819F3CBB62BF692",
+        "gta_jhash": "0xD3C08183"
+    }
+}

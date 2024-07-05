@@ -1,0 +1,32 @@
+{
+    "0x68772DB2B2526F9F": {
+        "name": "IS_ANY_HOSTILE_PED_NEAR_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311",
+        "gta_hash": "0x68772DB2B2526F9F",
+        "gta_jhash": "0x1A464167"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x6B89FAA36FC909A3": {
+        "name": "_COMPUTE_SATCHEL_ITEM_FOR_PED_CARCASS",
+        "comment": "Related to dead animals items/loots\nNotice: skinningQuality is partially calculated using pedQuality",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outInventoryItemArray"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "damageCleanliness"
+            },
+            {
+                "type": "int",
+                "name": "skinningQuality"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x2D5DC831176D0114": {
+        "name": "UGC_IS_DESCRIPTION_REQUEST_IN_PROGRESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "description"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x2D5DC831176D0114",
+        "gta_jhash": "0xA69AE16C"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xFEC1D4B5C82C176F": {
+        "name": "_IS_BASE_A_COVER_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "handle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x73BAD7B2F2DB50DE": {
+        "name": "SET_PLAYER_TURNED_IN_BOUNTY_IN_REGION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "lawRegionHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0xA9D003CF419CB81E": {
+        "name": "DATAARRAY_GET_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            },
+            {
+                "type": "int",
+                "name": "arrayIndex"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xC0C527B525D7CFB5",
+        "gta_jhash": "0x08AD2CC2"
+    }
+}

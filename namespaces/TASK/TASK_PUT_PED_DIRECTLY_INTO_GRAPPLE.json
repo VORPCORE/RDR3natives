@@ -1,0 +1,38 @@
+{
+    "0xA05F3F20889D7A5B": {
+        "name": "TASK_PUT_PED_DIRECTLY_INTO_GRAPPLE",
+        "comment": "grappleStyle: AR_GRAPPLE_STRUGGLE, AR_ALLIGATOR_LEG_GRAB_CHALLENGE_FAIL, AR_GRAPPLE_BACK_FROM_BACK, AR_GRAPPLE_BACK_DEFEND, AR_GRAPPLE_FRONT_FROM_FRONT",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "grappleTarget"
+            },
+            {
+                "type": "Hash",
+                "name": "grappleStyle"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

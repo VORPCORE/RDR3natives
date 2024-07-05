@@ -1,0 +1,14 @@
+{
+    "0x9C725D149622BFDE": {
+        "name": "NETWORK_IS_FEATURE_SUPPORTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "featureId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

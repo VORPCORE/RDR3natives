@@ -1,0 +1,18 @@
+{
+    "0x80038740C96AD17F": {
+        "name": "_DISABLE_AMBIENT_LOOK_AT_REQUESTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

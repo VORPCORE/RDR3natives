@@ -1,0 +1,11 @@
+{
+    "0x89023FBBF9200E9F": {
+        "name": "GET_NETWORK_TIME_ACCURATE",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x89023FBBF9200E9F",
+        "gta_jhash": "0x98AA48E5"
+    }
+}

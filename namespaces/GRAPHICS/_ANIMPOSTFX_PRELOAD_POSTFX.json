@@ -1,0 +1,14 @@
+{
+    "0x5199405EABFBD7F0": {
+        "name": "_ANIMPOSTFX_PRELOAD_POSTFX",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x5639FBEA922788DA": {
+        "name": "_0x5639FBEA922788DA",
+        "comment": "_CLEAR_A*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

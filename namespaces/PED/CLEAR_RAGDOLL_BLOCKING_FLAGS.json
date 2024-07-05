@@ -1,0 +1,20 @@
+{
+    "0xD86D101FCFD00A4B": {
+        "name": "CLEAR_RAGDOLL_BLOCKING_FLAGS",
+        "comment": "flags: see SET_RAGDOLL_BLOCKING_FLAGS",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD86D101FCFD00A4B",
+        "gta_jhash": "0x77CBA290"
+    }
+}

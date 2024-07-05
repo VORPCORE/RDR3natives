@@ -1,0 +1,18 @@
+{
+    "0xC3E9E5D4F413B773": {
+        "name": "_0xC3E9E5D4F413B773",
+        "comment": "shakeName: REINFORCED_LASSO_STRUGGLE_SHAKE\n_RES*",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "shakeName"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

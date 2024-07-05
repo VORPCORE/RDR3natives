@@ -1,0 +1,14 @@
+{
+    "0x5ED39DA62BEB1330": {
+        "name": "_0x5ED39DA62BEB1330",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

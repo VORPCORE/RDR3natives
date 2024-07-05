@@ -1,0 +1,62 @@
+{
+    "0x175668836B44CBB0": {
+        "name": "CREATE_CHECKPOINT_WITH_NAMEHASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "typeHash"
+            },
+            {
+                "type": "float",
+                "name": "posX1"
+            },
+            {
+                "type": "float",
+                "name": "posY1"
+            },
+            {
+                "type": "float",
+                "name": "posZ1"
+            },
+            {
+                "type": "float",
+                "name": "posX2"
+            },
+            {
+                "type": "float",
+                "name": "posY2"
+            },
+            {
+                "type": "float",
+                "name": "posZ2"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            },
+            {
+                "type": "int",
+                "name": "reserved"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

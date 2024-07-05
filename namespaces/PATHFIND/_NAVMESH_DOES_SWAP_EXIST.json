@@ -1,0 +1,14 @@
+{
+    "0x495CFAB2924237C7": {
+        "name": "_NAVMESH_DOES_SWAP_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

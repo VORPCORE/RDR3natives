@@ -1,0 +1,9 @@
+{
+    "0x1F471B79ACC91BED": {
+        "name": "_SPACTIONPROXY_MANAGER_IS_READY",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

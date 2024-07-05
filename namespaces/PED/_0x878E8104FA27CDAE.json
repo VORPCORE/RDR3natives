@@ -1,0 +1,18 @@
+{
+    "0x878E8104FA27CDAE": {
+        "name": "_0x878E8104FA27CDAE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

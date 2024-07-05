@@ -1,0 +1,26 @@
+{
+    "0xFFEA09CCEC4AF32F": {
+        "name": "_CASHINVENTORY_TRANSACTION_FIRE_AND_FORGET_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "actionHash"
+            },
+            {
+                "type": "int*",
+                "name": "id"
+            },
+            {
+                "type": "Any*",
+                "name": "item"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

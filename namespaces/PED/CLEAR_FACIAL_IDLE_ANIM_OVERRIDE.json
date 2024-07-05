@@ -1,0 +1,16 @@
+{
+    "0x726256CC1EEB182F": {
+        "name": "CLEAR_FACIAL_IDLE_ANIM_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x726256CC1EEB182F",
+        "gta_jhash": "0x5244F4E2"
+    }
+}

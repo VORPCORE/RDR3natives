@@ -1,0 +1,22 @@
+{
+    "0x0A11F3BDEC03ED5F": {
+        "name": "TASK_DISEMBARK_NEAREST_TRAIN_CARRIAGE",
+        "comment": "flags: See TASK_ENTER_VEHICLE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

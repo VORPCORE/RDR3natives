@@ -1,0 +1,18 @@
+{
+    "0x20C5459379D75C1C": {
+        "name": "_SET_PED_INTERACTION_POSITIVE_RESPONSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "speech"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

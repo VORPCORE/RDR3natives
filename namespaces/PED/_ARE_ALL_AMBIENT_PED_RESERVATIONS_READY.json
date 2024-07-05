@@ -1,0 +1,9 @@
+{
+    "0x5E420FF293EE5472": {
+        "name": "_ARE_ALL_AMBIENT_PED_RESERVATIONS_READY",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

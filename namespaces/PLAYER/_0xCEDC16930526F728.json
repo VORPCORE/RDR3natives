@@ -1,0 +1,14 @@
+{
+    "0xCEDC16930526F728": {
+        "name": "_0xCEDC16930526F728",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

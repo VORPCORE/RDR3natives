@@ -1,0 +1,48 @@
+{
+    "0x659427E0EF36BCDE": {
+        "name": "TASK_VEHICLE_MISSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "driver"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicleTarget"
+            },
+            {
+                "type": "int",
+                "name": "missionType"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "DriveAgainstTraffic"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x659427E0EF36BCDE",
+        "gta_jhash": "0x20609E56"
+    }
+}

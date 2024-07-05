@@ -1,0 +1,14 @@
+{
+    "0x4B2B1A891D437CA7": {
+        "name": "_0x4B2B1A891D437CA7",
+        "comment": "Only used in R* SP Script coachrobberies\n_SET_S*",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

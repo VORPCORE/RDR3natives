@@ -1,0 +1,22 @@
+{
+    "0x69D22E183580113F": {
+        "name": "_UGC_QUERY_BY_CONTENT_ID",
+        "comment": "Returns ugcRequestId",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contentId"
+            },
+            {
+                "type": "BOOL",
+                "name": "latestVersion"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

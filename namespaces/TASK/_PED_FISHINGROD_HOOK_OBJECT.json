@@ -1,0 +1,18 @@
+{
+    "0xCE71C2F9BAA3F975": {
+        "name": "_PED_FISHINGROD_HOOK_OBJECT",
+        "comment": "Used with 'P_BODYPARTARMFLOAT02X' model in fishing_core.c",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

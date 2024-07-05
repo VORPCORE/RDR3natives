@@ -1,0 +1,9 @@
+{
+    "0xFAED234C7F53ABEB": {
+        "name": "_GAME_FRAMEWORK_MANAGER_GET_MODE",
+        "comment": "",
+        "params": [],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0xF107E836A70DCE05": {
+        "name": "SET_PED_ID_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF107E836A70DCE05",
+        "gta_jhash": "0xEF3B4ED9"
+    }
+}

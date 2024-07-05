@@ -1,0 +1,18 @@
+{
+    "0x6A564540FAC12211": {
+        "name": "_INVENTORY_ENABLE_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Hash",
+                "name": "item"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

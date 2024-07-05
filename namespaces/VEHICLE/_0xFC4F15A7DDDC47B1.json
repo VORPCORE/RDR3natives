@@ -1,0 +1,18 @@
+{
+    "0xFC4F15A7DDDC47B1": {
+        "name": "_0xFC4F15A7DDDC47B1",
+        "comment": "_SET_DRAFT_VEHICLE_*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

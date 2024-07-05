@@ -1,0 +1,14 @@
+{
+    "0xD08066E00D26C448": {
+        "name": "_NET_TO_PROPSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "PropSet",
+        "build": "1207"
+    }
+}

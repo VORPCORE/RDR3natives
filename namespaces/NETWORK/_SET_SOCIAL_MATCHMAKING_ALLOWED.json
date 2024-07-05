@@ -1,0 +1,14 @@
+{
+    "0x777D0571A466B520": {
+        "name": "_SET_SOCIAL_MATCHMAKING_ALLOWED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

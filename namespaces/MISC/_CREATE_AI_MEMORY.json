@@ -1,0 +1,18 @@
+{
+    "0x88BC5F4AEF77FC4E": {
+        "name": "_CREATE_AI_MEMORY",
+        "comment": "aiMemoryType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/_CREATE_AI_MEMORY",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            },
+            {
+                "type": "int",
+                "name": "aiMemoryType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

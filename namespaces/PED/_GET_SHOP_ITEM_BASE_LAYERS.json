@@ -1,0 +1,62 @@
+{
+    "0x63342C50EC115CE8": {
+        "name": "_GET_SHOP_ITEM_BASE_LAYERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "shopItem"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "metapedType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "Hash*",
+                "name": "drawable"
+            },
+            {
+                "type": "Hash*",
+                "name": "albedo"
+            },
+            {
+                "type": "Hash*",
+                "name": "normal"
+            },
+            {
+                "type": "Hash*",
+                "name": "material"
+            },
+            {
+                "type": "Hash*",
+                "name": "p9"
+            },
+            {
+                "type": "Hash*",
+                "name": "p10"
+            },
+            {
+                "type": "Hash*",
+                "name": "p11"
+            },
+            {
+                "type": "Hash*",
+                "name": "p12"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

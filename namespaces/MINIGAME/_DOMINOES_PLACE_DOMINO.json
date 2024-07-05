@@ -1,0 +1,18 @@
+{
+    "0xB79A29B33BF29BA5": {
+        "name": "_DOMINOES_PLACE_DOMINO",
+        "comment": "Hardcoded to return zero/false.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

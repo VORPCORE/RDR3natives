@@ -1,0 +1,11 @@
+{
+    "0xAFB4CF58A4A292B1": {
+        "name": "GET_ONSCREEN_KEYBOARD_RESULT",
+        "comment": "Returns NULL unless UPDATE_ONSCREEN_KEYBOARD() returns 1 in the same tick.",
+        "params": [],
+        "return_type": "const char*",
+        "build": "1207",
+        "gta_hash": "0x8362B09B91893647",
+        "gta_jhash": "0x44828FB3"
+    }
+}

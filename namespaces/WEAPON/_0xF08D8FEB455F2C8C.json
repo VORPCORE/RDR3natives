@@ -1,0 +1,18 @@
+{
+    "0xF08D8FEB455F2C8C": {
+        "name": "_0xF08D8FEB455F2C8C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

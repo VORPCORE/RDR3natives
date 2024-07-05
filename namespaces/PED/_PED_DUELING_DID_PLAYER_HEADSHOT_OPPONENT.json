@@ -1,0 +1,14 @@
+{
+    "0xBD6B242B8BD5543A": {
+        "name": "_PED_DUELING_DID_PLAYER_HEADSHOT_OPPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

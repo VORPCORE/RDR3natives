@@ -1,0 +1,18 @@
+{
+    "0xA520C7B05FA4EB2A": {
+        "name": "_UI_PROMPT_SET_MANUAL_RESOLVED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

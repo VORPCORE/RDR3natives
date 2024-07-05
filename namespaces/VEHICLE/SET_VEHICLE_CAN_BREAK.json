@@ -1,0 +1,20 @@
+{
+    "0xC5ED9D59B4646611": {
+        "name": "SET_VEHICLE_CAN_BREAK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x59BF8C3D52C92F66",
+        "gta_jhash": "0x90A810D1"
+    }
+}

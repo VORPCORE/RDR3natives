@@ -1,0 +1,9 @@
+{
+    "0xFF4AAF3275BAAB4F": {
+        "name": "_SHOULD_USE_METRIC_TEMPERATURE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

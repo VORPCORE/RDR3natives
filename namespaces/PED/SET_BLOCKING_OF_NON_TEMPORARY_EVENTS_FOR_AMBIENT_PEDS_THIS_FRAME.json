@@ -1,0 +1,16 @@
+{
+    "0x9911F4A24485F653": {
+        "name": "SET_BLOCKING_OF_NON_TEMPORARY_EVENTS_FOR_AMBIENT_PEDS_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9911F4A24485F653",
+        "gta_jhash": "0x02A080C8"
+    }
+}

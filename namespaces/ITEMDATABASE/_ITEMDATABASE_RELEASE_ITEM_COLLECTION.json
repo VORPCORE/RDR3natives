@@ -1,0 +1,14 @@
+{
+    "0xCBB7B6EDFA933ADE": {
+        "name": "_ITEMDATABASE_RELEASE_ITEM_COLLECTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "collectionId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

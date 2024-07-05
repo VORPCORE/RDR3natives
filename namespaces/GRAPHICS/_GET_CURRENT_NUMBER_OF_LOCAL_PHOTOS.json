@@ -1,0 +1,9 @@
+{
+    "0x78C56B8A7B1D000C": {
+        "name": "_GET_CURRENT_NUMBER_OF_LOCAL_PHOTOS",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

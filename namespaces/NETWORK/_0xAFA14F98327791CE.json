@@ -1,0 +1,14 @@
+{
+    "0xAFA14F98327791CE": {
+        "name": "_0xAFA14F98327791CE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "sessionRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

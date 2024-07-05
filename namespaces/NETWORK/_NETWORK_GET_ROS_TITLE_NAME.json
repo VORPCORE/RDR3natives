@@ -1,0 +1,9 @@
+{
+    "0xAC6153A0722F524C": {
+        "name": "_NETWORK_GET_ROS_TITLE_NAME",
+        "comment": "Returns CGameConfig->ConfigOnlineServices->RosTitleName (see gameconfig.xml)",
+        "params": [],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

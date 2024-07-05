@@ -1,0 +1,18 @@
+{
+    "0x53CE46C01A089DA1": {
+        "name": "_0x53CE46C01A089DA1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

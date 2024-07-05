@@ -1,0 +1,14 @@
+{
+    "0x1ECC76792F661CF5": {
+        "name": "IS_SCRIPTED_CONVERSATION_PLAYING",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

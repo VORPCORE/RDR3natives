@@ -1,0 +1,22 @@
+{
+    "0xDF4A3404D022ADDE": {
+        "name": "_REFILL_AMMO_IN_CLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "clipInventoryUid"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

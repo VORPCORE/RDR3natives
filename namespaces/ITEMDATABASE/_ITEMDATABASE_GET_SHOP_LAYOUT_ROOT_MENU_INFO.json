@@ -1,0 +1,22 @@
+{
+    "0x86FCB565CCA0CFA7": {
+        "name": "_ITEMDATABASE_GET_SHOP_LAYOUT_ROOT_MENU_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "layout"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

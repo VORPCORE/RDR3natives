@@ -1,0 +1,22 @@
+{
+    "0x19F70C4D80494FF8": {
+        "name": "_REMOVE_WEAPON_COMPONENT_FROM_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

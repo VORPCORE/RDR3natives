@@ -1,0 +1,16 @@
+{
+    "0x604B8ED1A482F9DF": {
+        "name": "DATAFILE_DELETE_REQUESTED_FILE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x8F5EA1C01D65A100",
+        "gta_jhash": "0x9DB63CFF"
+    }
+}

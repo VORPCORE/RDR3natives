@@ -1,0 +1,26 @@
+{
+    "0x73B40D97D7BAAD77": {
+        "name": "_IS_POSITION_INSIDE_IPL_STREAMING_EXTENTS",
+        "comment": "Returns true if IPL is streamed in (?)",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "iplHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x06A09A6E0C6D2A84": {
+        "name": "_0x06A09A6E0C6D2A84",
+        "comment": "_SET_TRAIN_*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

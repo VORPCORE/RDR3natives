@@ -1,0 +1,18 @@
+{
+    "0xC325A6BAA62CF8A2": {
+        "name": "_0xC325A6BAA62CF8A2",
+        "comment": "Used in Script Function MC_LOCAL_SETUP_VEH - enabling transitions",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

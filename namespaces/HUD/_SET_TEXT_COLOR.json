@@ -1,0 +1,27 @@
+{
+    "0x50A41AD966910F03": {
+        "name": "_SET_TEXT_COLOR",
+        "comment": "This native does nothing since build 1436, use _BG_SET_TEXT_COLOR (0x16FA5CE47F184F1E) instead.",
+        "params": [
+            {
+                "type": "int",
+                "name": "r"
+            },
+            {
+                "type": "int",
+                "name": "g"
+            },
+            {
+                "type": "int",
+                "name": "b"
+            },
+            {
+                "type": "int",
+                "name": "a"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true
+    }
+}

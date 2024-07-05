@@ -1,0 +1,14 @@
+{
+    "0x6A4D224FC7643941": {
+        "name": "_LOAD_CAMERA_DATA_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cameraDictionary"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

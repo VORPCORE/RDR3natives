@@ -1,0 +1,14 @@
+{
+    "0x38640A8C2DEF011B": {
+        "name": "_0x38640A8C2DEF011B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311"
+    }
+}

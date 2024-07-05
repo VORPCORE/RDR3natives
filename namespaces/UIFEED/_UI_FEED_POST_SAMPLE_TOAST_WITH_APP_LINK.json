@@ -1,0 +1,30 @@
+{
+    "0x38838A646FB30AAE": {
+        "name": "_UI_FEED_POST_SAMPLE_TOAST_WITH_APP_LINK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xDCF12B89624AAC96": {
+        "name": "_0xDCF12B89624AAC96",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0xFD4272A137703449": {
+        "name": "_0xFD4272A137703449",
+        "comment": "Only used in R* Script startup_clip",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

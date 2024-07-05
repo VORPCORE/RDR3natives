@@ -1,0 +1,22 @@
+{
+    "0x4A79B41B4EB91F4E": {
+        "name": "_ITEMDATABASE_GET_SHOP_INVENTORIES_ITEM_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "shopType"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x75DF9E73F2F005FD": {
+        "name": "_GET_ENTITY_CAN_BE_DAMAGED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

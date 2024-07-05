@@ -1,0 +1,14 @@
+{
+    "0x18714953CCED17D3": {
+        "name": "_0x18714953CCED17D3",
+        "comment": "_ARE_ANY_VEHICLE_(WHEELS_DESTROYED?)*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

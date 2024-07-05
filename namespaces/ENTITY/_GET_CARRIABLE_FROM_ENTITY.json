@@ -1,0 +1,14 @@
+{
+    "0x31FEF6A20F00B963": {
+        "name": "_GET_CARRIABLE_FROM_ENTITY",
+        "comment": "Returns a hash of an entity's name. (Alternative Name: _GET_ENTITY_PROMPT_NAME_HASH)",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

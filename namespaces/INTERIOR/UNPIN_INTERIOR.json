@@ -1,0 +1,16 @@
+{
+    "0x07FD1A0B814F6055": {
+        "name": "UNPIN_INTERIOR",
+        "comment": "Does something similar to INTERIOR::DISABLE_INTERIOR.\n\nYou don't fall through the floor but everything is invisible inside and looks the same as when INTERIOR::DISABLE_INTERIOR is used. Peds behaves normally inside. ",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x261CCE7EED010641",
+        "gta_jhash": "0xFCFF792A"
+    }
+}

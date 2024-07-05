@@ -1,0 +1,9 @@
+{
+    "0xDD73C9838CE7181D": {
+        "name": "_NETWORK_HAS_COMPLETED_MP_INTRO_FLOW_ON_CURRENT_SLOT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

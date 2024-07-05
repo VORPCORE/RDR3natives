@@ -1,0 +1,14 @@
+{
+    "0xCA1F0B5103936891": {
+        "name": "_0xCA1F0B5103936891",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xF34EE736CF047844": {
+        "name": "FLOOR",
+        "comment": "Rounds a float value down to the next whole number",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xF34EE736CF047844",
+        "gta_jhash": "0x32E9BE04"
+    }
+}

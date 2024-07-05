@@ -1,0 +1,14 @@
+{
+    "0x0F44A5C78D114922": {
+        "name": "_NETWORK_SESSION_IS_NSRR_SUCCESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "sessionRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

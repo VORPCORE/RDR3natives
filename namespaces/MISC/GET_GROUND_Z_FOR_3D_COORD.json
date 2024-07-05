@@ -1,0 +1,32 @@
+{
+    "0x24FA4267BB8D2431": {
+        "name": "GET_GROUND_Z_FOR_3D_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float*",
+                "name": "groundZ"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xC906A7DAB05C8D2B",
+        "gta_jhash": "0xA1BFD5E0"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xBE1067CD1C9570F6": {
+        "name": "UI_GET_SCENE_UIOBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

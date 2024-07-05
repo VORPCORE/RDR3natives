@@ -1,0 +1,14 @@
+{
+    "0xCD072523791DDC1B": {
+        "name": "_UI_PROMPT_HAS_MASH_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

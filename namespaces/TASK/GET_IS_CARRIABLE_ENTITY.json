@@ -1,0 +1,14 @@
+{
+    "0x0CCFE72B43C9CF96": {
+        "name": "GET_IS_CARRIABLE_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

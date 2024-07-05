@@ -1,0 +1,16 @@
+{
+    "0xD7D22F5592AED8BA": {
+        "name": "GET_CONTROL_HOW_LONG_AGO",
+        "comment": "Returns time in ms since last input.",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xD7D22F5592AED8BA",
+        "gta_jhash": "0x0E8EF929"
+    }
+}

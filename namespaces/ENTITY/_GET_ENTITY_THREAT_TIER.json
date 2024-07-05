@@ -1,0 +1,14 @@
+{
+    "0xE12F56CB25D9CE23": {
+        "name": "_GET_ENTITY_THREAT_TIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

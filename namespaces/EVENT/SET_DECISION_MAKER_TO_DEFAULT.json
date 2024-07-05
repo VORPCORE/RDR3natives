@@ -1,0 +1,14 @@
+{
+    "0x6B9C5C38838FB6E6": {
+        "name": "SET_DECISION_MAKER_TO_DEFAULT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

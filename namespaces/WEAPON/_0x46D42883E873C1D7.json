@@ -1,0 +1,14 @@
+{
+    "0x46D42883E873C1D7": {
+        "name": "_0x46D42883E873C1D7",
+        "comment": "_GET_NUM_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1232"
+    }
+}

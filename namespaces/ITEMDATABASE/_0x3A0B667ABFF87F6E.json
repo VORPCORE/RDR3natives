@@ -1,0 +1,22 @@
+{
+    "0x3A0B667ABFF87F6E": {
+        "name": "_0x3A0B667ABFF87F6E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

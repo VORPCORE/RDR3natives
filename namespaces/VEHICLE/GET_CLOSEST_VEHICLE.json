@@ -1,0 +1,36 @@
+{
+    "0x52F45D033645181B": {
+        "name": "GET_CLOSEST_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207",
+        "gta_hash": "0xF73EB622C4F1689B",
+        "gta_jhash": "0xD7E26B2C"
+    }
+}

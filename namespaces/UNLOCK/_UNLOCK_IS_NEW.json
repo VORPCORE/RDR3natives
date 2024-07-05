@@ -1,0 +1,14 @@
+{
+    "0x644166BA7AA49DEA": {
+        "name": "_UNLOCK_IS_NEW",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "unlockHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

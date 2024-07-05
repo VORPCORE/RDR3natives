@@ -1,0 +1,22 @@
+{
+    "0xE33F98BD76490ABC": {
+        "name": "_GET_IS_PED_BEING_ROBBED",
+        "comment": "If p2 is false, then this native will return true until the interaction is complete. If true, the native will return true until player pockets robbery item.\n_GET_IS_PED_[M-R]*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "trueUntilPlayerPocketsItem"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

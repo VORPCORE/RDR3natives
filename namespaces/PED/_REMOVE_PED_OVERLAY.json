@@ -1,0 +1,18 @@
+{
+    "0x96C349DE04C49011": {
+        "name": "_REMOVE_PED_OVERLAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            },
+            {
+                "type": "int",
+                "name": "overlayId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "0x0E1DB1F8F5B561DC": {
+        "name": "_SET_USED_ITEM_EFFECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "health"
+            },
+            {
+                "type": "float",
+                "name": "stamina"
+            },
+            {
+                "type": "float",
+                "name": "deadeye"
+            },
+            {
+                "type": "int",
+                "name": "healthCore"
+            },
+            {
+                "type": "int",
+                "name": "staminaCore"
+            },
+            {
+                "type": "int",
+                "name": "deadeyeCore"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

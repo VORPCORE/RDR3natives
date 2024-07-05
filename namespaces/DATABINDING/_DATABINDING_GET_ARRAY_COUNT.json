@@ -1,0 +1,14 @@
+{
+    "0xD23F5DE04FE717E2": {
+        "name": "_DATABINDING_GET_ARRAY_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "entryId"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

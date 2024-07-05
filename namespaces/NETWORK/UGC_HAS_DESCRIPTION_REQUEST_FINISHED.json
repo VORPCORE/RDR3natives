@@ -1,0 +1,16 @@
+{
+    "0xEBFA8D50ADDC54C4": {
+        "name": "UGC_HAS_DESCRIPTION_REQUEST_FINISHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "description"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xEBFA8D50ADDC54C4",
+        "gta_jhash": "0xF50BC67A"
+    }
+}

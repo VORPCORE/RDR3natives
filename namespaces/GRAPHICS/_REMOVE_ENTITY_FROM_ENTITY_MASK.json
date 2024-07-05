@@ -1,0 +1,14 @@
+{
+    "0x56A786E87FF53478": {
+        "name": "_REMOVE_ENTITY_FROM_ENTITY_MASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

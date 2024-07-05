@@ -1,0 +1,22 @@
+{
+    "0xDC5E09D012D759C4": {
+        "name": "_0xDC5E09D012D759C4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

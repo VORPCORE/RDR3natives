@@ -1,0 +1,16 @@
+{
+    "0x4102732DF6B4005F": {
+        "name": "ANIMPOSTFX_PLAY",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/animpostfx",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2206BF9A37B7F724",
+        "gta_jhash": "0x1D980479"
+    }
+}

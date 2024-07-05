@@ -1,0 +1,14 @@
+{
+    "0xE4770DA1B8FF4FD1": {
+        "name": "_GET_VEHICLE_DRAFT_HORSE_IS_ATTACHED_TO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "horse"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207"
+    }
+}

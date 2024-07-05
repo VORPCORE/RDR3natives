@@ -1,0 +1,14 @@
+{
+    "0x46F032B8DDF46CDE": {
+        "name": "_GET_WEAPONTYPE_SLOT",
+        "comment": "Returns hash where WEAPON_ is replaced with SLOT_",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

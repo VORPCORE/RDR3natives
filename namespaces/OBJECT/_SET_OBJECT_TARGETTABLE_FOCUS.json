@@ -1,0 +1,22 @@
+{
+    "0xA22712E8471AA08E": {
+        "name": "_SET_OBJECT_TARGETTABLE_FOCUS",
+        "comment": "When p1 and p2 are true you can focus on the object (similar to when you focus a ped)",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

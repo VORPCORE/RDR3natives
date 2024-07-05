@@ -1,0 +1,20 @@
+{
+    "0x46E9AE36D8FA6417": {
+        "name": "IS_THREAD_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            },
+            {
+                "type": "BOOL",
+                "name": "ignoreKilledState"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x46E9AE36D8FA6417",
+        "gta_jhash": "0x78D7A5A0"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0x5E94EA09E7207C16": {
+        "name": "_DELETE_ENTITY_2",
+        "comment": "Must be called from a background script, otherwise it will do nothing.",
+        "params": [
+            {
+                "type": "Entity*",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true
+    }
+}

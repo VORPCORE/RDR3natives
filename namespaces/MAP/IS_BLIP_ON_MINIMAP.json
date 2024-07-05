@@ -1,0 +1,16 @@
+{
+    "0x46534526B9CD2D17": {
+        "name": "IS_BLIP_ON_MINIMAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xE41CA53051197A27",
+        "gta_jhash": "0x258CBA3A"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x0FAF95D71ED67ADE": {
+        "name": "_0x0FAF95D71ED67ADE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

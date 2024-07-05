@@ -1,0 +1,30 @@
+{
+    "0xE92012611461A42A": {
+        "name": "_SET_ENTITY_MASK_LAYERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float*",
+                "name": "layer0"
+            },
+            {
+                "type": "float*",
+                "name": "layer1"
+            },
+            {
+                "type": "float*",
+                "name": "layer2"
+            },
+            {
+                "type": "float*",
+                "name": "layer3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

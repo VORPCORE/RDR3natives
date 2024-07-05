@@ -1,0 +1,14 @@
+{
+    "0xAD8F2424C6E1E3A8": {
+        "name": "_EVENT_FLUSH_ALL_EVENT_TRACKERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

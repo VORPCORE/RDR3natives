@@ -1,0 +1,9 @@
+{
+    "0x139EFB0A71DD9011": {
+        "name": "IS_DEATH_FAIL_CAMERA_RUNNING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

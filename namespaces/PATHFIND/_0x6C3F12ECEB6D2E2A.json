@@ -1,0 +1,42 @@
+{
+    "0x6C3F12ECEB6D2E2A": {
+        "name": "_0x6C3F12ECEB6D2E2A",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xMin"
+            },
+            {
+                "type": "float",
+                "name": "yMin"
+            },
+            {
+                "type": "float",
+                "name": "zMin"
+            },
+            {
+                "type": "float",
+                "name": "xMax"
+            },
+            {
+                "type": "float",
+                "name": "yMax"
+            },
+            {
+                "type": "float",
+                "name": "zMax"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

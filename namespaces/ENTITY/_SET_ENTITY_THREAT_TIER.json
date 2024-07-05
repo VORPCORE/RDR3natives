@@ -1,0 +1,22 @@
+{
+    "0x4B436BAC8CBE9B07": {
+        "name": "_SET_ENTITY_THREAT_TIER",
+        "comment": "tier: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eEntityThreatTier",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "tier"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

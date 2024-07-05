@@ -1,0 +1,14 @@
+{
+    "0x91DED5DD64BB2691": {
+        "name": "_PARSEDDATA_GET_FILE",
+        "comment": "Opens file.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x76C752D788A76813": {
+        "name": "_ITEMDATABASE_GET_SHOP_INVENTORIES_REQUIREMENT_GROUP_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "shopType"
+            },
+            {
+                "type": "Hash",
+                "name": "key"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

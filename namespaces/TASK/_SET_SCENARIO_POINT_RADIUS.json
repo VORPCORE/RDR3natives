@@ -1,0 +1,18 @@
+{
+    "0xC47D9080A9A8856A": {
+        "name": "_SET_SCENARIO_POINT_RADIUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

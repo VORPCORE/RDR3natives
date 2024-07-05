@@ -1,0 +1,16 @@
+{
+    "0xD7FA719CB54866C2": {
+        "name": "SET_WANTED_LEVEL_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x020E5F00CDA207BA",
+        "gta_jhash": "0x1359292F"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "0x6FB1DA3CA9DA7D90": {
+        "name": "PLAY_SOUND_FROM_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioName"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "audioRef"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

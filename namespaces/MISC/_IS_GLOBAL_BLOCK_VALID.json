@@ -1,0 +1,14 @@
+{
+    "0xACB7E1418A8B6E32": {
+        "name": "_IS_GLOBAL_BLOCK_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

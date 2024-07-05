@@ -1,0 +1,22 @@
+{
+    "0xF972F0AB16DC5260": {
+        "name": "_ANIMPOSTFX_SET_POTENCY",
+        "comment": "Health Core Effect Filter Potency: p1 = 1\nStamina Core Effect Filter Potency: p1 = 2\nMultiple Core Effect Filter Potency: p1 = 3",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "potency"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

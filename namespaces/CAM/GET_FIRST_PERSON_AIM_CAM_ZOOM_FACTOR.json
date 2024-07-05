@@ -1,0 +1,11 @@
+{
+    "0xB4132CA1B0EE1365": {
+        "name": "GET_FIRST_PERSON_AIM_CAM_ZOOM_FACTOR",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x7EC52CC40597D170",
+        "gta_jhash": "0x33951005"
+    }
+}

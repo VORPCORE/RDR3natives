@@ -1,0 +1,18 @@
+{
+    "0x7A49D40DE437BC8D": {
+        "name": "_0x7A49D40DE437BC8D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

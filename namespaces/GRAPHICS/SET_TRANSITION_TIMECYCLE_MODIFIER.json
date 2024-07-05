@@ -1,0 +1,20 @@
+{
+    "0xFF927A09F481D80C": {
+        "name": "SET_TRANSITION_TIMECYCLE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "modifierName"
+            },
+            {
+                "type": "float",
+                "name": "transitionBlend"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3BCF567485E1971C",
+        "gta_jhash": "0xBB2BA72A"
+    }
+}

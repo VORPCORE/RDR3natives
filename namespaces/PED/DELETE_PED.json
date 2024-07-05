@@ -1,0 +1,16 @@
+{
+    "0xCC0EF140F99365C5": {
+        "name": "DELETE_PED",
+        "comment": "Deletes the specified ped, then sets the handle pointed to by the pointer to NULL.",
+        "params": [
+            {
+                "type": "Ped*",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9614299DCB53E54B",
+        "gta_jhash": "0x13EFB9A0"
+    }
+}

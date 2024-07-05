@@ -1,0 +1,18 @@
+{
+    "0xA710DC5D25F8B942": {
+        "name": "_GET_SCRIPT_TASK_ACTION_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "task"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

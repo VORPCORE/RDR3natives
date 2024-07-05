@@ -1,0 +1,24 @@
+{
+    "0xB64CFA14CB9A2E78": {
+        "name": "SET_VEHICLE_ENGINE_ON",
+        "comment": "Starts or stops the engine on the specified vehicle.\n\nvehicle: The vehicle to start or stop the engine on.\nvalue: true to turn the vehicle on; false to turn it off.\ninstantly: if true, the vehicle will be set to the state immediately; otherwise, the current driver will physically turn on or off the engine.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "instantly"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2497C4717C8B881E",
+        "gta_jhash": "0x7FBC86F1"
+    }
+}

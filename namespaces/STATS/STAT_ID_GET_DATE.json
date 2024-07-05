@@ -1,0 +1,18 @@
+{
+    "0x8B0FACEFC36C824C": {
+        "name": "STAT_ID_GET_DATE",
+        "comment": "statId: see STAT_ID_IS_VALID",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            },
+            {
+                "type": "Any*",
+                "name": "date"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

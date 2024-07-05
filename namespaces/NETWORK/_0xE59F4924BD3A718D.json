@@ -1,0 +1,14 @@
+{
+    "0xE59F4924BD3A718D": {
+        "name": "_0xE59F4924BD3A718D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

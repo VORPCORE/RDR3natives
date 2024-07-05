@@ -1,0 +1,22 @@
+{
+    "0x09034479E6E3E269": {
+        "name": "_0x09034479E6E3E269",
+        "comment": "_RESET_VEHICLE_*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "Hash*",
+                "name": "trainTrack"
+            },
+            {
+                "type": "int*",
+                "name": "junctionIndex"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

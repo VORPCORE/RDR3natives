@@ -1,0 +1,16 @@
+{
+    "0x46ED607DDD40D7FE": {
+        "name": "REQUEST_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6EB5F71AA68F2E8E",
+        "gta_jhash": "0xE26B2666"
+    }
+}

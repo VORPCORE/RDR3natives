@@ -1,0 +1,14 @@
+{
+    "0x00EE08603EADEE92": {
+        "name": "_SET_PICKUP_COLLECTABLE_ON_MOUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

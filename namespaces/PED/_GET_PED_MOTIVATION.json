@@ -1,0 +1,22 @@
+{
+    "0x42688E94E96FD9B4": {
+        "name": "_GET_PED_MOTIVATION",
+        "comment": "If targetPed is set to 0 the ped motivationState affects everyone",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "motivationState"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

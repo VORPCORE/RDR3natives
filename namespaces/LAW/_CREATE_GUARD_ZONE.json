@@ -1,0 +1,14 @@
+{
+    "0x8F9DE75680275C9F": {
+        "name": "_CREATE_GUARD_ZONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

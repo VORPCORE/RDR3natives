@@ -1,0 +1,14 @@
+{
+    "0x4CABE596D632E4B0": {
+        "name": "GAME_FRAMEWORK_MANAGER_INIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "transitionMode"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

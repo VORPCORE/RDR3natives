@@ -1,0 +1,50 @@
+{
+    "0x502022FA1AF9DC86": {
+        "name": "_CREATE_VOLUME_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "volumeType"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "scaleX"
+            },
+            {
+                "type": "float",
+                "name": "scaleY"
+            },
+            {
+                "type": "float",
+                "name": "scaleZ"
+            }
+        ],
+        "return_type": "Volume",
+        "build": "1207"
+    }
+}

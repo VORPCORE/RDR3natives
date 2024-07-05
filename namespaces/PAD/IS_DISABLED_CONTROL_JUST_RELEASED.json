@@ -1,0 +1,20 @@
+{
+    "0x305C8DCD79DA8B0F": {
+        "name": "IS_DISABLED_CONTROL_JUST_RELEASED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "Hash",
+                "name": "action"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x305C8DCD79DA8B0F",
+        "gta_jhash": "0xD6A679E1"
+    }
+}

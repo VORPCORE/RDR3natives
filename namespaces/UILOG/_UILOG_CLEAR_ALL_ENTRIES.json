@@ -1,0 +1,9 @@
+{
+    "0xB95B4EA6B1EDF035": {
+        "name": "_UILOG_CLEAR_ALL_ENTRIES",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

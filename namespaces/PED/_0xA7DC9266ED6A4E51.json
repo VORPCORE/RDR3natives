@@ -1,0 +1,14 @@
+{
+    "0xA7DC9266ED6A4E51": {
+        "name": "_0xA7DC9266ED6A4E51",
+        "comment": "_CLEAR_PED_B* - _CLEAR_PED_C*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

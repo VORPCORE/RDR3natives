@@ -1,0 +1,14 @@
+{
+    "0xDDB2578E95EF7138": {
+        "name": "IS_WEAPON_REPEATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

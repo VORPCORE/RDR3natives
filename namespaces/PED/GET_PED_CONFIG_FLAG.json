@@ -1,0 +1,24 @@
+{
+    "0x7EE53118C892B513": {
+        "name": "GET_PED_CONFIG_FLAG",
+        "comment": "flagId: see SET_PED_CONFIG_FLAG",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x7EE53118C892B513",
+        "gta_jhash": "0xABE98267"
+    }
+}

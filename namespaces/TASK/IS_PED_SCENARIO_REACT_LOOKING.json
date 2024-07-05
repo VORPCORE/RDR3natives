@@ -1,0 +1,18 @@
+{
+    "0x916B8E075ABC8B4E": {
+        "name": "IS_PED_SCENARIO_REACT_LOOKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x53E4D0C079CA6855": {
+        "name": "_0x53E4D0C079CA6855",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "handle"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

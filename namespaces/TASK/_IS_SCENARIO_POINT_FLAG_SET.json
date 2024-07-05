@@ -1,0 +1,18 @@
+{
+    "0x8569C38D2FB80650": {
+        "name": "_IS_SCENARIO_POINT_FLAG_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

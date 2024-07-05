@@ -1,0 +1,34 @@
+{
+    "0xE7998FEC53A33BBE": {
+        "name": "GET_META_PED_ASSET_TINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Hash*",
+                "name": "pallete"
+            },
+            {
+                "type": "int*",
+                "name": "tint0"
+            },
+            {
+                "type": "int*",
+                "name": "tint1"
+            },
+            {
+                "type": "int*",
+                "name": "tint2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0xEBA5AD3A0EAF7121": {
+        "name": "GET_RELATIONSHIP_BETWEEN_PEDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xEBA5AD3A0EAF7121",
+        "gta_jhash": "0xE254C39C"
+    }
+}

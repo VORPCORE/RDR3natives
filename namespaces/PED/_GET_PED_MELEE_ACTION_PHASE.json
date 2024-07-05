@@ -1,0 +1,14 @@
+{
+    "0x6127F25ED21C533C": {
+        "name": "_GET_PED_MELEE_ACTION_PHASE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

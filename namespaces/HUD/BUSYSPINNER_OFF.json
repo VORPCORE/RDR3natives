@@ -1,0 +1,11 @@
+{
+    "0x58F441B90EA84D06": {
+        "name": "BUSYSPINNER_OFF",
+        "comment": "Removes the loading prompt at the bottom right of the screen.",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x10D373323E5B9C0D",
+        "gta_jhash": "0x94119534"
+    }
+}

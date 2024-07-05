@@ -1,0 +1,18 @@
+{
+    "0x49623BCFC3A3D829": {
+        "name": "_0x49623BCFC3A3D829",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "muted"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

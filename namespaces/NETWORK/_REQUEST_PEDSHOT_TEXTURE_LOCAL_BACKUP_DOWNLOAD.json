@@ -1,0 +1,18 @@
+{
+    "0x356F9FB0698C1FEB": {
+        "name": "_REQUEST_PEDSHOT_TEXTURE_LOCAL_BACKUP_DOWNLOAD",
+        "comment": "Only used in R* SP Scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "personaPhotoLocalCacheType"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

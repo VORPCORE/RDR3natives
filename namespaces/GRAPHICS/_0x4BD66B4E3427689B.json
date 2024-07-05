@@ -1,0 +1,14 @@
+{
+    "0x4BD66B4E3427689B": {
+        "name": "_0x4BD66B4E3427689B",
+        "comment": "Used in CREATE_BEZIER_BLOOD_TRAIL_OF_TYPE",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

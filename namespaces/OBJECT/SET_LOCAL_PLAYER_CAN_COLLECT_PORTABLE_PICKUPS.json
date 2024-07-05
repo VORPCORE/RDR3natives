@@ -1,0 +1,16 @@
+{
+    "0x78857FC65CADB909": {
+        "name": "SET_LOCAL_PLAYER_CAN_COLLECT_PORTABLE_PICKUPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x78857FC65CADB909",
+        "gta_jhash": "0xA3CDF152"
+    }
+}

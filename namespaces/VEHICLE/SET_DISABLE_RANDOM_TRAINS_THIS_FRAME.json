@@ -1,0 +1,16 @@
+{
+    "0xD4288603E8766FF7": {
+        "name": "SET_DISABLE_RANDOM_TRAINS_THIS_FRAME",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD4B8E3D1917BC86B",
+        "gta_jhash": "0x09462665"
+    }
+}

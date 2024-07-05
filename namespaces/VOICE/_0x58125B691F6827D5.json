@@ -1,0 +1,14 @@
+{
+    "0x58125B691F6827D5": {
+        "name": "_0x58125B691F6827D5",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "proximity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

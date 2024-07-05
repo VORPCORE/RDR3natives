@@ -1,0 +1,18 @@
+{
+    "0xF29A186ED428B552": {
+        "name": "IS_PED_CARRYING_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

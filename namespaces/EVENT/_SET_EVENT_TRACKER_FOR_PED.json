@@ -1,0 +1,22 @@
+{
+    "0xBB1E41DD3D3C6250": {
+        "name": "_SET_EVENT_TRACKER_FOR_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "eventName"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

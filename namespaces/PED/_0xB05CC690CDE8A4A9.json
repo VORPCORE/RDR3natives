@@ -1,0 +1,18 @@
+{
+    "0xB05CC690CDE8A4A9": {
+        "name": "_0xB05CC690CDE8A4A9",
+        "comment": "Used to set up bad guy groups in nb_kidnapped R* Script (MP_RE_KIDNAPPED): p1 = 4.f\n_SET_FORMATION_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

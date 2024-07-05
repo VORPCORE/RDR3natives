@@ -1,0 +1,9 @@
+{
+    "0xC37792A3F9C90771": {
+        "name": "_0xC37792A3F9C90771",
+        "comment": "Doesn't actually return anything.\n\nANIMPOSTFX_*",
+        "params": [],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

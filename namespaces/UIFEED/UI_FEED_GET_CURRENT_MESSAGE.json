@@ -1,0 +1,14 @@
+{
+    "0xC17F69E1418CD11F": {
+        "name": "UI_FEED_GET_CURRENT_MESSAGE",
+        "comment": "feedChannel: see UI_FEED_CLEAR_CHANNEL\nReturns feedMessage",
+        "params": [
+            {
+                "type": "int",
+                "name": "feedChannel"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

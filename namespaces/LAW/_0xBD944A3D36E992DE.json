@@ -1,0 +1,9 @@
+{
+    "0xBD944A3D36E992DE": {
+        "name": "_0xBD944A3D36E992DE",
+        "comment": "Called together with REPORT_POLICE_SPOTTED_PLAYER",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

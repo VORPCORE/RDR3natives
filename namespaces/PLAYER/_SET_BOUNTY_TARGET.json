@@ -1,0 +1,18 @@
+{
+    "0x6ADF821FBF21920E": {
+        "name": "_SET_BOUNTY_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Player",
+                "name": "target"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

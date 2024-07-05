@@ -1,0 +1,20 @@
+{
+    "0x1A9E1C0D98D093B7": {
+        "name": "SET_PARTICLE_FX_LOOPED_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB44250AAA456492D",
+        "gta_jhash": "0x099B8B49"
+    }
+}

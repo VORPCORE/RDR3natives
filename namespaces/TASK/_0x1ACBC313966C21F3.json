@@ -1,0 +1,14 @@
+{
+    "0x1ACBC313966C21F3": {
+        "name": "_0x1ACBC313966C21F3",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1436"
+    }
+}

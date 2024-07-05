@@ -1,0 +1,56 @@
+{
+    "0xC33AB876A77F8164": {
+        "name": "GET_CLOSEST_PED",
+        "comment": "Gets the closest ped in a radius.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "Ped*",
+                "name": "outPed"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "int",
+                "name": "pedType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xC33AB876A77F8164",
+        "gta_jhash": "0x8F6C1F55"
+    }
+}

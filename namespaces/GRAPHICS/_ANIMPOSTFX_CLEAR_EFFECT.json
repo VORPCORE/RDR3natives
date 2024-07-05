@@ -1,0 +1,14 @@
+{
+    "0xC5CB91D65852ED7E": {
+        "name": "_ANIMPOSTFX_CLEAR_EFFECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

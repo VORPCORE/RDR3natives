@@ -1,0 +1,24 @@
+{
+    "0x2A7819605465FBCE": {
+        "name": "SET_PED_AS_GROUP_LEADER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2A7819605465FBCE",
+        "gta_jhash": "0x7265BEA2"
+    }
+}

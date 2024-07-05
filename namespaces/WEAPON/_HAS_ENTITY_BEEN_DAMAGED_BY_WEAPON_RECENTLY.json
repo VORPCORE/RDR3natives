@@ -1,0 +1,22 @@
+{
+    "0x9E2D5D6BC97A5F1E": {
+        "name": "_HAS_ENTITY_BEEN_DAMAGED_BY_WEAPON_RECENTLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "int",
+                "name": "ms"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

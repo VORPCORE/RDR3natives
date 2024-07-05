@@ -1,0 +1,42 @@
+{
+    "0x482C99D0B38D1B0A": {
+        "name": "TASK_MELEE",
+        "comment": "Params: p2: AR_TAKEDOWN_FRONT, AR_EXECUTION_FRONT, 0 in R* Scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

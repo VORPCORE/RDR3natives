@@ -1,0 +1,18 @@
+{
+    "0xA14B5FBF986BAC23": {
+        "name": "TASK_DUCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0xCBAC13F065C47596": {
+        "name": "_PEDMUGSHOT_GET_STATUS",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

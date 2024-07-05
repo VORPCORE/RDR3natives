@@ -1,0 +1,24 @@
+{
+    "0x33B81A2C07A51FFF": {
+        "name": "DEACTIVATE_INTERIOR_ENTITY_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "const char*",
+                "name": "entitySetName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x420BD37289EEE162",
+        "gta_jhash": "0xDBA768A1"
+    }
+}

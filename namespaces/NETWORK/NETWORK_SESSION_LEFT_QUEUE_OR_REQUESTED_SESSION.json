@@ -1,0 +1,14 @@
+{
+    "0xECE6A0C1B59CD8BE": {
+        "name": "NETWORK_SESSION_LEFT_QUEUE_OR_REQUESTED_SESSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "sessionRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

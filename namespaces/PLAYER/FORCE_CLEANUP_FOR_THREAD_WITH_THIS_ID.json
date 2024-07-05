@@ -1,0 +1,20 @@
+{
+    "0xF4C9512A2F0A3031": {
+        "name": "FORCE_CLEANUP_FOR_THREAD_WITH_THIS_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            },
+            {
+                "type": "int",
+                "name": "cleanupFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF745B37630DF176B",
+        "gta_jhash": "0x882D3EB3"
+    }
+}

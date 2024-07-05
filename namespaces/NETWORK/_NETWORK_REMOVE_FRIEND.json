@@ -1,0 +1,14 @@
+{
+    "0x55F618F68AB854D3": {
+        "name": "_NETWORK_REMOVE_FRIEND",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

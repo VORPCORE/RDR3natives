@@ -1,0 +1,14 @@
+{
+    "0xFA8C10DCE0706D43": {
+        "name": "_0xFA8C10DCE0706D43",
+        "comment": "_HAS_PED_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

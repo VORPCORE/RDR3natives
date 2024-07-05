@@ -1,0 +1,9 @@
+{
+    "0x6CE9FB6332B5E46E": {
+        "name": "CASHINVENTORY_IS_CONNECTION_FAULTED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

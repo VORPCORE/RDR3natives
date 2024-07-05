@@ -1,0 +1,24 @@
+{
+    "0xF66F820909453B8C": {
+        "name": "SET_ENTITY_COLLISION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "keepPhysics"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1A9205C1B9EE827F",
+        "gta_jhash": "0x139FD37D"
+    }
+}

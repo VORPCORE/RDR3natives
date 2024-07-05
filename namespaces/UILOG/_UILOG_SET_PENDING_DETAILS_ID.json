@@ -1,0 +1,18 @@
+{
+    "0x136A027CF37B0A4F": {
+        "name": "_UILOG_SET_PENDING_DETAILS_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

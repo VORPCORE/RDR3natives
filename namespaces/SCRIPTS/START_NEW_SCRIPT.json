@@ -1,0 +1,20 @@
+{
+    "0xE81651AD79516E48": {
+        "name": "START_NEW_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "int",
+                "name": "stackSize"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xE81651AD79516E48",
+        "gta_jhash": "0x3F166D0E"
+    }
+}

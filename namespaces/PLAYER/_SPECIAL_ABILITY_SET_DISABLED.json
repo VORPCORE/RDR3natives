@@ -1,0 +1,18 @@
+{
+    "0xAE637BB8EF017875": {
+        "name": "_SPECIAL_ABILITY_SET_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

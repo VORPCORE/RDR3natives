@@ -1,0 +1,22 @@
+{
+    "0x58AC173A55D9D7B4": {
+        "name": "_DELETE_PROP_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "PropSet",
+                "name": "propSet"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x33825A7388A6B9F6": {
+        "name": "_0x33825A7388A6B9F6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableCategory"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

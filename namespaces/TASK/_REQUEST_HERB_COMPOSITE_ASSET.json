@@ -1,0 +1,14 @@
+{
+    "0x73F0D0327BFA0812": {
+        "name": "_REQUEST_HERB_COMPOSITE_ASSET",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/objects/composites",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "asset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

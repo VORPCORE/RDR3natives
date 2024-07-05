@@ -1,0 +1,16 @@
+{
+    "0xF302973BB8BE70E6": {
+        "name": "SC_PROFANITY_GET_STRING_PASSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x85535ACF97FC0969",
+        "gta_jhash": "0x09497F31"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xAB888B4B91046770": {
+        "name": "_DATABINDING_WRITE_DATA_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

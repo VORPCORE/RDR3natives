@@ -1,0 +1,26 @@
+{
+    "0x3FDA2B79AEEE351C": {
+        "name": "_FIND_CLOSEST_GPS_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outPosition"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

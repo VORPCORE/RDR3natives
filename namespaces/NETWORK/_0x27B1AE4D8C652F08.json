@@ -1,0 +1,14 @@
+{
+    "0x27B1AE4D8C652F08": {
+        "name": "_0x27B1AE4D8C652F08",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

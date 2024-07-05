@@ -1,0 +1,16 @@
+{
+    "0xF2DB717A73826179": {
+        "name": "ROUND",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xF2DB717A73826179",
+        "gta_jhash": "0x323B0E24"
+    }
+}

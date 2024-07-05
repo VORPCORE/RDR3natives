@@ -1,0 +1,18 @@
+{
+    "0xC4A2C11FC0D41916": {
+        "name": "_0xC4A2C11FC0D41916",
+        "comment": "_SET_DRAFT_VEHICLE_(STOP?)*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

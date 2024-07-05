@@ -1,0 +1,64 @@
+{
+    "0xFE466162C4401D18": {
+        "name": "START_SHAPE_TEST_BOX",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "dimensionsX"
+            },
+            {
+                "type": "float",
+                "name": "dimensionsY"
+            },
+            {
+                "type": "float",
+                "name": "dimensionsZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "Entity",
+                "name": "entityToIgnore"
+            },
+            {
+                "type": "int",
+                "name": "options"
+            }
+        ],
+        "return_type": "ScrHandle",
+        "build": "1207",
+        "gta_hash": "0xFE466162C4401D18",
+        "gta_jhash": "0x249BC876"
+    }
+}

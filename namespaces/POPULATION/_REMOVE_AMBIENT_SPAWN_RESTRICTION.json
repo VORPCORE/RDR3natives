@@ -1,0 +1,14 @@
+{
+    "0xA1CFB35069D23C23": {
+        "name": "_REMOVE_AMBIENT_SPAWN_RESTRICTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x8483E98E8B888AE2": {
+        "name": "GET_BEST_PED_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207",
+        "gta_hash": "0x8483E98E8B888AE2",
+        "gta_jhash": "0xB998D444"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x5C880F9056D784C8": {
+        "name": "GET_PLAYER_PED_SCRIPT_INDEX",
+        "comment": "Does the same like PLAYER::GET_PLAYER_PED",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207",
+        "gta_hash": "0x50FAC3A3E030A6E1",
+        "gta_jhash": "0x6AC64990"
+    }
+}

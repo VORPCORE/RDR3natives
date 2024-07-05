@@ -1,0 +1,52 @@
+{
+    "0x4B805E6046EE9E47": {
+        "name": "GET_ANIM_INITIAL_OFFSET_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x4B805E6046EE9E47",
+        "gta_jhash": "0x5F7789E6"
+    }
+}

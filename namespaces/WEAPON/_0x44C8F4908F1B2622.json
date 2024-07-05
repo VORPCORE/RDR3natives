@@ -1,0 +1,18 @@
+{
+    "0x44C8F4908F1B2622": {
+        "name": "_0x44C8F4908F1B2622",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

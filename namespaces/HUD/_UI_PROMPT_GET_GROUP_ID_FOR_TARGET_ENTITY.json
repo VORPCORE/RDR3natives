@@ -1,0 +1,14 @@
+{
+    "0xB796970BD125FCE8": {
+        "name": "_UI_PROMPT_GET_GROUP_ID_FOR_TARGET_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

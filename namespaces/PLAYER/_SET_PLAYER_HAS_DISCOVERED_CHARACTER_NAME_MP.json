@@ -1,0 +1,14 @@
+{
+    "0x7C32191D9FB2BDEA": {
+        "name": "_SET_PLAYER_HAS_DISCOVERED_CHARACTER_NAME_MP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "discoveryHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

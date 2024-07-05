@@ -1,0 +1,18 @@
+{
+    "0x002AAC783ED323ED": {
+        "name": "_0x002AAC783ED323ED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

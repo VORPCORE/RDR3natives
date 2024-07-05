@@ -1,0 +1,20 @@
+{
+    "0xC1BA29DF5631B0F8": {
+        "name": "REQUEST_STREAMED_TEXTURE_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDFA2EF8E04127DD5",
+        "gta_jhash": "0x4C9B035F"
+    }
+}

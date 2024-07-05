@@ -1,0 +1,28 @@
+{
+    "0xB646FB657F448261": {
+        "name": "GET_CLOSEST_FIRE_POS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vector3*",
+                "name": "outPosition"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x352A9F6BCF90081F",
+        "gta_jhash": "0xC4977B47"
+    }
+}

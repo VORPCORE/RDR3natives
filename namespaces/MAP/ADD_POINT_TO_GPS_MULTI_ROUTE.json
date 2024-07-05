@@ -1,0 +1,28 @@
+{
+    "0x64C59DD6834FA942": {
+        "name": "ADD_POINT_TO_GPS_MULTI_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA905192A6781C41B",
+        "gta_jhash": "0xFE485135"
+    }
+}

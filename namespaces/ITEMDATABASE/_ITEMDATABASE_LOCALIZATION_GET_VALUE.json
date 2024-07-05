@@ -1,0 +1,22 @@
+{
+    "0x9AE5610FDCED6EA7": {
+        "name": "_ITEMDATABASE_LOCALIZATION_GET_VALUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "label"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

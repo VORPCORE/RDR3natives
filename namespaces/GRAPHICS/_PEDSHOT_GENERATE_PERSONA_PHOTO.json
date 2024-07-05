@@ -1,0 +1,22 @@
+{
+    "0xD9C24F53631F2372": {
+        "name": "_PEDSHOT_GENERATE_PERSONA_PHOTO",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "texture"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "playerSlot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

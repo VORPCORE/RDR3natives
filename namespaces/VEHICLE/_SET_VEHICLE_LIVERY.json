@@ -1,0 +1,18 @@
+{
+    "0xF89D82A0582E46ED": {
+        "name": "_SET_VEHICLE_LIVERY",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/vehicles/vehicle_modding/vehicle_liveries.lua",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "liveryIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

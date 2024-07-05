@@ -1,0 +1,14 @@
+{
+    "0x5CA6BBD4A7D8145E": {
+        "name": "_GET_PLAYER_HUNTING_WAGON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207"
+    }
+}

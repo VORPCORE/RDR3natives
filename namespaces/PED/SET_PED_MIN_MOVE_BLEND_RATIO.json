@@ -1,0 +1,20 @@
+{
+    "0x01A898D26E2333DD": {
+        "name": "SET_PED_MIN_MOVE_BLEND_RATIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x01A898D26E2333DD",
+        "gta_jhash": "0x383EC364"
+    }
+}

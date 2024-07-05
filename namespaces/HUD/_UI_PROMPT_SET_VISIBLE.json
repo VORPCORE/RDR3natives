@@ -1,0 +1,18 @@
+{
+    "0x71215ACCFDE075EE": {
+        "name": "_UI_PROMPT_SET_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

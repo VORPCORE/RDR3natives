@@ -1,0 +1,11 @@
+{
+    "0x4A3DA74C3CCB1725": {
+        "name": "GET_STATUS_OF_TAKE_HIGH_QUALITY_PHOTO",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x0D6CA79EEEBD8CA3",
+        "gta_jhash": "0x65376C9B"
+    }
+}

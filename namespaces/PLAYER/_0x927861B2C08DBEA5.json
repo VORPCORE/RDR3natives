@@ -1,0 +1,14 @@
+{
+    "0x927861B2C08DBEA5": {
+        "name": "_0x927861B2C08DBEA5",
+        "comment": "_GET_A* - _GET_C*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xBC7D36946D19E60E": {
+        "name": "_0xBC7D36946D19E60E",
+        "comment": "Only used in fm_race_controller R* Script (PROCESS_LOCAL_PLAYER_INIT)",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

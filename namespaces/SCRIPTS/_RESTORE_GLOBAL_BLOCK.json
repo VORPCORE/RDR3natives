@@ -1,0 +1,14 @@
+{
+    "0xDC3914A99B4A5FDF": {
+        "name": "_RESTORE_GLOBAL_BLOCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

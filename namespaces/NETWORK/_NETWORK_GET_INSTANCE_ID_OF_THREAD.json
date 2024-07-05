@@ -1,0 +1,14 @@
+{
+    "0xFB9ECED5B68F3B78": {
+        "name": "_NETWORK_GET_INSTANCE_ID_OF_THREAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

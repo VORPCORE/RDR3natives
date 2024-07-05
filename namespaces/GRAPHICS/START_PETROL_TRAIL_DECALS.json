@@ -1,0 +1,20 @@
+{
+    "0x46F246D6504F0031": {
+        "name": "START_PETROL_TRAIL_DECALS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x99AC7F0D8B9C893D",
+        "gta_jhash": "0xE3938B0B"
+    }
+}

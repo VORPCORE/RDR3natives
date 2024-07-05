@@ -1,0 +1,14 @@
+{
+    "0xE057FEA9A22EB3EE": {
+        "name": "_REMOVE_PROP_FROM_MINIMAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "minimapProp"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

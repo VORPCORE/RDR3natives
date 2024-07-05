@@ -1,0 +1,18 @@
+{
+    "0x40D72189F46D2E15": {
+        "name": "DISABLE_LOOTING_COMPOSITE_LOOTABLE_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "compositeId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

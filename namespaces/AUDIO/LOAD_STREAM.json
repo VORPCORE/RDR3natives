@@ -1,0 +1,20 @@
+{
+    "0x1F1F957154EC51DF": {
+        "name": "LOAD_STREAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "streamName"
+            },
+            {
+                "type": "const char*",
+                "name": "soundSet"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1F1F957154EC51DF",
+        "gta_jhash": "0x0D89599D"
+    }
+}

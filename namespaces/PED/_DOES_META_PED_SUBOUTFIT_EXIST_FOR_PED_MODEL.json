@@ -1,0 +1,22 @@
+{
+    "0x4FF3C2B4E6A196C1": {
+        "name": "_DOES_META_PED_SUBOUTFIT_EXIST_FOR_PED_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "outfit"
+            },
+            {
+                "type": "Hash",
+                "name": "suboutfit"
+            },
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

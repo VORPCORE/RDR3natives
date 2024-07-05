@@ -1,0 +1,46 @@
+{
+    "0x884E3436CC1F41DD": {
+        "name": "_TASK_PLAY_EMOTE",
+        "comment": "Similar to 0xB31A277C1AC7B7FF but checks if the ped's inventory contains the specified emote kit.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "emoteType"
+            },
+            {
+                "type": "int",
+                "name": "playbackMode"
+            },
+            {
+                "type": "Hash",
+                "name": "emote"
+            },
+            {
+                "type": "BOOL",
+                "name": "isSecondaryTask"
+            },
+            {
+                "type": "BOOL",
+                "name": "canBreakOut"
+            },
+            {
+                "type": "BOOL",
+                "name": "disableEarlyOutAnimTag"
+            },
+            {
+                "type": "BOOL",
+                "name": "ignoreInvalidMainTask"
+            },
+            {
+                "type": "BOOL",
+                "name": "destroyProps"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

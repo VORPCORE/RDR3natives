@@ -1,0 +1,14 @@
+{
+    "0x8A8208AE92BF87A5": {
+        "name": "_CLEAR_ANIM_SCENE_WAS_SKIPPED",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

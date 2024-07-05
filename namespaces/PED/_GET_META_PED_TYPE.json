@@ -1,0 +1,14 @@
+{
+    "0xEC9A1261BF0CE510": {
+        "name": "_GET_META_PED_TYPE",
+        "comment": "enum eMetaPedType\n{\n\tMPT_MALE,\n\tMPT_FEMALE,\n\tMPT_TEEN,\n\tMPT_ANIMAL,\n\tMPT_NONE\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

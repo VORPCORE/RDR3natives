@@ -1,0 +1,20 @@
+{
+    "0xEAD42DE3610D0721": {
+        "name": "CAN_PED_IN_COMBAT_SEE_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xEAD42DE3610D0721",
+        "gta_jhash": "0xCCD525E1"
+    }
+}

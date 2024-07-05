@@ -1,0 +1,20 @@
+{
+    "0x23298B468F7D88B6": {
+        "name": "RESET_VEHICLE_STUCK_TIMER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "nullAttributes"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD7591B0065AFAA7A",
+        "gta_jhash": "0xEF2A6016"
+    }
+}

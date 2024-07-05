@@ -1,0 +1,14 @@
+{
+    "0x134775B093AD5C38": {
+        "name": "_0x134775B093AD5C38",
+        "comment": "_GET_PED_M*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0x595478B3BBC3076D": {
+        "name": "_GET_RANDOM_FISH_TYPE_FOR_LOCATION",
+        "comment": "Returns model hash of the closest fish",
+        "params": [],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

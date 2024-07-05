@@ -1,0 +1,14 @@
+{
+    "0x4D31051A4CA83787": {
+        "name": "STAT_PHOTOGRAPH_TAKEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

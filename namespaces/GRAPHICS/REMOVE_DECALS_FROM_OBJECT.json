@@ -1,0 +1,16 @@
+{
+    "0xFB8972BAE0013140": {
+        "name": "REMOVE_DECALS_FROM_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "obj"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xCCF71CBDDF5B6CB9",
+        "gta_jhash": "0x8B67DCA7"
+    }
+}

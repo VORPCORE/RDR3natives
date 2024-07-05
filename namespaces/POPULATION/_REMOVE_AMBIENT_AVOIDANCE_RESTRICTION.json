@@ -1,0 +1,14 @@
+{
+    "0x74C2B3DC0B294102": {
+        "name": "_REMOVE_AMBIENT_AVOIDANCE_RESTRICTION",
+        "comment": "flags: see 0xB56D41A694E42E86",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

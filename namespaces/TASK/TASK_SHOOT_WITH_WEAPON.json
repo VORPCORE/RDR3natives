@@ -1,0 +1,18 @@
+{
+    "0x08AA95E8298AE772": {
+        "name": "TASK_SHOOT_WITH_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

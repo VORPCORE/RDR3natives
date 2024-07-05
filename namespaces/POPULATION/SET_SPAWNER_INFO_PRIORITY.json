@@ -1,0 +1,22 @@
+{
+    "0x60CDE717A6D47769": {
+        "name": "SET_SPAWNER_INFO_PRIORITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "priority"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

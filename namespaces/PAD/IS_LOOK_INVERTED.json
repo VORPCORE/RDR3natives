@@ -1,0 +1,11 @@
+{
+    "0x77B612531280010D": {
+        "name": "IS_LOOK_INVERTED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x77B612531280010D",
+        "gta_jhash": "0x313434B2"
+    }
+}

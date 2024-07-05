@@ -1,0 +1,25 @@
+{
+    "0x91C9E2A0F9DD6DD4": {
+        "name": "SC_COMMUNITY_EVENT_GET_EXTRA_DATA_FLOAT_BY_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "float*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0xC5A35C73B68F3C49",
+        "gta_jhash": "0x7E24BD6E"
+    }
+}

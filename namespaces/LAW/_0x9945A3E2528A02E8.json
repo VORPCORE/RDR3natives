@@ -1,0 +1,14 @@
+{
+    "0x9945A3E2528A02E8": {
+        "name": "_0x9945A3E2528A02E8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

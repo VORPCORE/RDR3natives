@@ -1,0 +1,18 @@
+{
+    "0x7ABBD9E449E0DB00": {
+        "name": "_0x7ABBD9E449E0DB00",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

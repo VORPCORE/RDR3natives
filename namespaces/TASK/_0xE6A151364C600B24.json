@@ -1,0 +1,14 @@
+{
+    "0xE6A151364C600B24": {
+        "name": "_0xE6A151364C600B24",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

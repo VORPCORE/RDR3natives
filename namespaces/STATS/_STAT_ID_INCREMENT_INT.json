@@ -1,0 +1,18 @@
+{
+    "0x6A0184E904CDF25E": {
+        "name": "_STAT_ID_INCREMENT_INT",
+        "comment": "statId: see STAT_ID_IS_VALID",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

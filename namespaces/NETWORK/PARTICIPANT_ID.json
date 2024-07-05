@@ -1,0 +1,11 @@
+{
+    "0x90986E8876CE0A83": {
+        "name": "PARTICIPANT_ID",
+        "comment": "Return the local Participant ID",
+        "params": [],
+        "return_type": "Player",
+        "build": "1207",
+        "gta_hash": "0x90986E8876CE0A83",
+        "gta_jhash": "0x9C35A221"
+    }
+}

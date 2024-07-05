@@ -1,0 +1,36 @@
+{
+    "0xE5B302114D8162EE": {
+        "name": "SET_DRIVEBY_TASK_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "shootingPed"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "Vehicle",
+                "name": "targetVehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE5B302114D8162EE",
+        "gta_jhash": "0xDA6A6FC1"
+    }
+}

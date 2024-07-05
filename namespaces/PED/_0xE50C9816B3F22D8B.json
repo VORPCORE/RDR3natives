@@ -1,0 +1,22 @@
+{
+    "0xE50C9816B3F22D8B": {
+        "name": "_0xE50C9816B3F22D8B",
+        "comment": "_SET_D*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

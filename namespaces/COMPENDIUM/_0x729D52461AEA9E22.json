@@ -1,0 +1,14 @@
+{
+    "0x729D52461AEA9E22": {
+        "name": "_0x729D52461AEA9E22",
+        "comment": "Only used in R* SP Scripts, category = GANGS\n_COMPENDIUM_GET_NUM_OF_ENTRIES_IN_*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "category"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

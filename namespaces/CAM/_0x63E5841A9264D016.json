@@ -1,0 +1,14 @@
+{
+    "0x63E5841A9264D016": {
+        "name": "_0x63E5841A9264D016",
+        "comment": "Maintains the death camera after respawn",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

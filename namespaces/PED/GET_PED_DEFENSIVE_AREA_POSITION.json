@@ -1,0 +1,20 @@
+{
+    "0x3C06B8786DD94CD1": {
+        "name": "GET_PED_DEFENSIVE_AREA_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x3C06B8786DD94CD1",
+        "gta_jhash": "0xCB65198D"
+    }
+}

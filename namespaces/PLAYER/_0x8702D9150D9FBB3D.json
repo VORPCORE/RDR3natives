@@ -1,0 +1,18 @@
+{
+    "0x8702D9150D9FBB3D": {
+        "name": "_0x8702D9150D9FBB3D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

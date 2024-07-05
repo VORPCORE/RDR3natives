@@ -1,0 +1,20 @@
+{
+    "0x997ABD671D25CA0B": {
+        "name": "IS_PED_IN_ANY_VEHICLE",
+        "comment": "Gets a value indicating whether the specified ped is in any vehicle.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "atGetIn"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x997ABD671D25CA0B",
+        "gta_jhash": "0x3B0171EE"
+    }
+}

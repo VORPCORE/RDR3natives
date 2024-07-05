@@ -1,0 +1,18 @@
+{
+    "0x1A52076D26E09004": {
+        "name": "_PED_FISHINGROD_HOOK_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

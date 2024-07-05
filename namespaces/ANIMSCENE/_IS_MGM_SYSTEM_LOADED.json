@@ -1,0 +1,14 @@
+{
+    "0xFDFC14799373283F": {
+        "name": "_IS_MGM_SYSTEM_LOADED",
+        "comment": "MGM stands for MiniGameMoments.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "mgmFilename"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

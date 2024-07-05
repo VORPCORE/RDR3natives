@@ -1,0 +1,18 @@
+{
+    "0x4182C037AA1F0091": {
+        "name": "_SET_TRAIN_STOPS_FOR_STATIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xEEB7818B1D307212": {
+        "name": "_NETWORK_SPAWN_CONFIG_ADD_EXCLUSION_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

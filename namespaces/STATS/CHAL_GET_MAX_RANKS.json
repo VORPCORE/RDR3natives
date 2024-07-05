@@ -1,0 +1,14 @@
+{
+    "0x58CB53DB63F84DEA": {
+        "name": "CHAL_GET_MAX_RANKS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

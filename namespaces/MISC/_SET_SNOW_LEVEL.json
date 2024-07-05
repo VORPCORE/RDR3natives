@@ -1,0 +1,14 @@
+{
+    "0xF6BEE7E80EC5CA40": {
+        "name": "_SET_SNOW_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "level"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

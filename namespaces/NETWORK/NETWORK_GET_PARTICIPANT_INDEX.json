@@ -1,0 +1,16 @@
+{
+    "0x1B84DF6AF2A46938": {
+        "name": "NETWORK_GET_PARTICIPANT_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x1B84DF6AF2A46938",
+        "gta_jhash": "0xC4D91094"
+    }
+}

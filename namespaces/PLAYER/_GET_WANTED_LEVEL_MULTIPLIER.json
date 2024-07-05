@@ -1,0 +1,9 @@
+{
+    "0xA82964B9D8D6A983": {
+        "name": "_GET_WANTED_LEVEL_MULTIPLIER",
+        "comment": "Returns -1.0f if no multiplier has been set",
+        "params": [],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xBBC67A6F965C688A": {
+        "name": "_HAS_PED_GOT_WEAPON_COMPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

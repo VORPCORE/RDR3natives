@@ -1,0 +1,22 @@
+{
+    "0xDBEADA0DF5F9AB9F": {
+        "name": "_0xDBEADA0DF5F9AB9F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "layout"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "int*",
+                "name": "outMenuKey"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1355"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x59577799F6AE2F34": {
+        "name": "NETWORK_SPAWN_CONFIG_SET_GROUND_TO_ROOT_OFFSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "offset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

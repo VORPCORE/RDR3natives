@@ -1,0 +1,11 @@
+{
+    "0x698F456FB909E077": {
+        "name": "IS_AIM_CAM_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1232",
+        "gta_hash": "0x68EDDA28A5976D07",
+        "gta_jhash": "0xC24B4F6F"
+    }
+}

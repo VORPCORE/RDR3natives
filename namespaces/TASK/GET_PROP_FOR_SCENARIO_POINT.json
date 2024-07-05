@@ -1,0 +1,18 @@
+{
+    "0x295514F198EFD0CA": {
+        "name": "GET_PROP_FOR_SCENARIO_POINT",
+        "comment": "Old name: _GET_SCENARIO_POINT_ENTITY",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenarioPoint"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

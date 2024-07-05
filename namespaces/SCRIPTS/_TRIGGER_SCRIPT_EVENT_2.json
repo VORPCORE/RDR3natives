@@ -1,0 +1,26 @@
+{
+    "0x8B61C950A148FFA2": {
+        "name": "_TRIGGER_SCRIPT_EVENT_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "eventData"
+            },
+            {
+                "type": "int",
+                "name": "eventDataSize"
+            },
+            {
+                "type": "int",
+                "name": "scriptMetadataIndex"
+            },
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

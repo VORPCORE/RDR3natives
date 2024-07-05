@@ -1,0 +1,16 @@
+{
+    "0x0086D3067E1CFD1C": {
+        "name": "SET_SCRIPT_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC90D2DCACD56184C",
+        "gta_jhash": "0x6FCB7795"
+    }
+}

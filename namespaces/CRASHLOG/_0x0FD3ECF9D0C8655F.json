@@ -1,0 +1,15 @@
+{
+    "0x0FD3ECF9D0C8655F": {
+        "name": "_0x0FD3ECF9D0C8655F",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true
+    }
+}

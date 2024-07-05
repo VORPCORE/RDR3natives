@@ -1,0 +1,22 @@
+{
+    "0x7E02E4218D916B94": {
+        "name": "_GET_SHOP_ITEM_HAT_COMPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "metapedType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

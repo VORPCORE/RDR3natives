@@ -1,0 +1,9 @@
+{
+    "0xA59D1997ECD99F0A": {
+        "name": "_BOUNTY_CLEAR_BEING_BOUNTY_HUNTER",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x9428447DED71FC7E": {
+        "name": "_STOP_AUDIO_SCENESET",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "sceneset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

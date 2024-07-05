@@ -1,0 +1,14 @@
+{
+    "0x154340E87D8CC178": {
+        "name": "_0x154340E87D8CC178",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

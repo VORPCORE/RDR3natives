@@ -1,0 +1,18 @@
+{
+    "0xFB4891BD7578CDC1": {
+        "name": "_IS_META_PED_USING_COMPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "component"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

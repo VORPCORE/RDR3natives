@@ -1,0 +1,18 @@
+{
+    "0xDC68829BB3F37023": {
+        "name": "_SET_SHOW_INFO_CARD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "showingInfoCard"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xBBDA792448DB5A89": {
+        "name": "TO_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xBBDA792448DB5A89",
+        "gta_jhash": "0x67116627"
+    }
+}

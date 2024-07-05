@@ -1,0 +1,18 @@
+{
+    "0xE824CE7D13FCB300": {
+        "name": "_MISSIONDATA_SET_MISSION_RATING",
+        "comment": "MISSION_RATING_INCOMPLETE = 0,\nMISSION_RATING_SKIPPED,\nMISSION_RATING_COMPLETE,\nMISSION_RATING_BRONZE,\nMISSION_RATING_SILVER,\nMISSION_RATING_GOLD,",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "missionId"
+            },
+            {
+                "type": "int",
+                "name": "rating"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "0x669E223E64B1903C": {
+        "name": "_NETWORK_CLOCK_TIME_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hour"
+            },
+            {
+                "type": "int",
+                "name": "minute"
+            },
+            {
+                "type": "int",
+                "name": "second"
+            },
+            {
+                "type": "int",
+                "name": "transitionTime"
+            },
+            {
+                "type": "BOOL",
+                "name": "pauseClock"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

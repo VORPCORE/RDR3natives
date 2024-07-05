@@ -1,0 +1,14 @@
+{
+    "0x724CB89D35B283D0": {
+        "name": "_GET_HASH_OF_THREAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x1A5C5D350068A673": {
+        "name": "_0x1A5C5D350068A673",
+        "comment": "AGGRO_CHECK_PROPERTY_DAMAGE: Property damage found with event",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

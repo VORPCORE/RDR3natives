@@ -1,0 +1,26 @@
+{
+    "0xBF5987E1CDE63501": {
+        "name": "_SET_VEHICLE_WEAPON_HEADING_LIMITS_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "minHeading"
+            },
+            {
+                "type": "float",
+                "name": "maxHeading"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

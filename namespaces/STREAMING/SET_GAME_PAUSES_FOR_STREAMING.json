@@ -1,0 +1,16 @@
+{
+    "0xB3BC8250F4FE8B63": {
+        "name": "SET_GAME_PAUSES_FOR_STREAMING",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x717CD6E6FAEBBEDC",
+        "gta_jhash": "0x9211A28A"
+    }
+}

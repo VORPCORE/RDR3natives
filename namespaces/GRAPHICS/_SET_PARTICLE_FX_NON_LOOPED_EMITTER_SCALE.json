@@ -1,0 +1,22 @@
+{
+    "0x56C392C2BD78B024": {
+        "name": "_SET_PARTICLE_FX_NON_LOOPED_EMITTER_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xE37ACEE15AC50C7E": {
+        "name": "_0xE37ACEE15AC50C7E",
+        "comment": "_SET_PED_IN*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

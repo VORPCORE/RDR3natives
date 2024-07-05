@@ -1,0 +1,14 @@
+{
+    "0xF94A0D5B254375DF": {
+        "name": "NETWORK_SPAWN_CONFIG_SET_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0xF9E7DBB39080640B": {
+        "name": "IS_GAME_SESSION_STATE_MACHINE_IDLE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

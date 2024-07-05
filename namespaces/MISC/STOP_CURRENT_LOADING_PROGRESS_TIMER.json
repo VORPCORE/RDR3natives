@@ -1,0 +1,9 @@
+{
+    "0xA565FAC215CBC77D": {
+        "name": "STOP_CURRENT_LOADING_PROGRESS_TIMER",
+        "comment": "nullsub, doesn't do anything",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

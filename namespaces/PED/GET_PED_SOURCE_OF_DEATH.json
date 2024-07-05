@@ -1,0 +1,16 @@
+{
+    "0x93C8B64DEB84728C": {
+        "name": "GET_PED_SOURCE_OF_DEATH",
+        "comment": "Returns the entity that killed the ped\n\nIt is best to check if the Ped is dead before asking for its killer.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207",
+        "gta_hash": "0x93C8B64DEB84728C",
+        "gta_jhash": "0x84ADF9EB"
+    }
+}

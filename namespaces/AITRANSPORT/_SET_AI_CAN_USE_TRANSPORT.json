@@ -1,0 +1,18 @@
+{
+    "0x67F7CEAC2391E114": {
+        "name": "_SET_AI_CAN_USE_TRANSPORT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

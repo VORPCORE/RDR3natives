@@ -1,0 +1,22 @@
+{
+    "0x8EC7890D446BD9C1": {
+        "name": "_TELEMETRY_MISSION_CHECKPOINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

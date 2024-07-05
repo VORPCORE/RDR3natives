@@ -1,0 +1,20 @@
+{
+    "0xF3B9A78A178572B1": {
+        "name": "TASK_ARREST_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF3B9A78A178572B1",
+        "gta_jhash": "0xBC0F153D"
+    }
+}

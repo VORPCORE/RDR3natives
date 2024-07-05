@@ -1,0 +1,22 @@
+{
+    "0x1148F706CF4EBDDA": {
+        "name": "_0x1148F706CF4EBDDA",
+        "comment": "_CAN_PED_SEE* - _CAN_PED_USE_(SCENARIO_HASH?)*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

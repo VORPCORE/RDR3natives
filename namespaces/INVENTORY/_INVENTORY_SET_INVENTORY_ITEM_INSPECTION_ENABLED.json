@@ -1,0 +1,22 @@
+{
+    "0x227522FD59DDB7E8": {
+        "name": "_INVENTORY_SET_INVENTORY_ITEM_INSPECTION_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

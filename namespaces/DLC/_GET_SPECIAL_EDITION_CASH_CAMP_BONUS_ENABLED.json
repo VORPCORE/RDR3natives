@@ -1,0 +1,9 @@
+{
+    "0x1DB9D61E505AE3FC": {
+        "name": "_GET_SPECIAL_EDITION_CASH_CAMP_BONUS_ENABLED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

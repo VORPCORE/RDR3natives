@@ -1,0 +1,36 @@
+{
+    "0xAE032F8BBA959E90": {
+        "name": "TASK_STAND_GUARD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "const char*",
+                "name": "scenarioName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xAE032F8BBA959E90",
+        "gta_jhash": "0xD130F636"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x56B3410626A473E7": {
+        "name": "_0x56B3410626A473E7",
+        "comment": "Only used in R* SP Script beat_rat_infestation\nParams: p0 = value returned by 0x18E93EBFC1FCFA48",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

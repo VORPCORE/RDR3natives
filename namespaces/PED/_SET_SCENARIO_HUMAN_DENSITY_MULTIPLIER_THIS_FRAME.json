@@ -1,0 +1,14 @@
+{
+    "0x28CB6391ACEDD9DB": {
+        "name": "_SET_SCENARIO_HUMAN_DENSITY_MULTIPLIER_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

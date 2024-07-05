@@ -1,0 +1,14 @@
+{
+    "0xF3E039322BFBD4D8": {
+        "name": "_ANIMPOSTFX_PRELOAD_POSTFX_BY_STACKHASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "effectNameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

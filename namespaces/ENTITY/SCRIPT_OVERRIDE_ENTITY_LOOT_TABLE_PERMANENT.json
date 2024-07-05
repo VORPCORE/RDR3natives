@@ -1,0 +1,18 @@
+{
+    "0x8C03CD6B5E0E85E8": {
+        "name": "SCRIPT_OVERRIDE_ENTITY_LOOT_TABLE_PERMANENT",
+        "comment": "Sets the loot table an entity will carry. Returns true if loot table has been successfully set. Returns false if entity is not a ped or object.\nhttps://github.com/femga/rdr3_discoveries/blob/master/AI/EVENTS/loot_rewards.lua",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "lootTable"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

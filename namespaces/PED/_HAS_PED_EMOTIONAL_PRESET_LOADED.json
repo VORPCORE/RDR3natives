@@ -1,0 +1,18 @@
+{
+    "0xDE3904B22695D9F9": {
+        "name": "_HAS_PED_EMOTIONAL_PRESET_LOADED",
+        "comment": "See _REQUEST_PED_EMOTIONAL_PRESET",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

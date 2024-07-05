@@ -1,0 +1,14 @@
+{
+    "0x43C21623E42B821B": {
+        "name": "_GET_ANIM_SCENE_RATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

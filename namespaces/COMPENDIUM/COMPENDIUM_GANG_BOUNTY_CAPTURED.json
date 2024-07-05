@@ -1,0 +1,14 @@
+{
+    "0x725D52F21A5E9E06": {
+        "name": "COMPENDIUM_GANG_BOUNTY_CAPTURED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

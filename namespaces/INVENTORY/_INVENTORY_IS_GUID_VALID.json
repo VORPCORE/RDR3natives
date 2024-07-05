@@ -1,0 +1,14 @@
+{
+    "0xB881CA836CC4B6D4": {
+        "name": "_INVENTORY_IS_GUID_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "guid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

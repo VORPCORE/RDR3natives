@@ -1,0 +1,18 @@
+{
+    "0x3FA7D7D1E0EA809E": {
+        "name": "_SET_VEHICLE_LOD_LEVEL",
+        "comment": "Ranges from -1 to 2? (internal type is int8)\nhttps://imgur.com/a/bPzHcft",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "lodLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

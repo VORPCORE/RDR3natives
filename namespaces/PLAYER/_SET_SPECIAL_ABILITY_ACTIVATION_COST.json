@@ -1,0 +1,22 @@
+{
+    "0xAE4BCC79C587EBBF": {
+        "name": "_SET_SPECIAL_ABILITY_ACTIVATION_COST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "activationCost"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

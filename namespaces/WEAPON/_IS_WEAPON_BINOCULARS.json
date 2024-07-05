@@ -1,0 +1,14 @@
+{
+    "0xC853230E76A152DF": {
+        "name": "_IS_WEAPON_BINOCULARS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

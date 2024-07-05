@@ -1,0 +1,40 @@
+{
+    "0x1C6CD14A876FFE39": {
+        "name": "TASK_PUT_PED_DIRECTLY_INTO_MELEE",
+        "comment": "meleeStyles: AR_GRAPPLE_BACK_FROM_BACK, AR_GRAPPLE_MOUNT_FACEDOWN_FROM_FRONT, AR_ALLIGATOR_LEAPKILL, AR_ALLIGATOR_WAIST_AUTOKILL_FRONT",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "meleeTarget"
+            },
+            {
+                "type": "Hash",
+                "name": "meleeStyle"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "animBlendRatio"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1C6CD14A876FFE39",
+        "gta_jhash": "0x79E1D27D"
+    }
+}

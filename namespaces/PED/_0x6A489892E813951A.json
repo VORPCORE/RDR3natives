@@ -1,0 +1,14 @@
+{
+    "0x6A489892E813951A": {
+        "name": "_0x6A489892E813951A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

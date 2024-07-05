@@ -1,0 +1,14 @@
+{
+    "0x975BD6351648935F": {
+        "name": "_ADD_SCRIPTED_COVER_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "ScrHandle",
+        "build": "1207"
+    }
+}

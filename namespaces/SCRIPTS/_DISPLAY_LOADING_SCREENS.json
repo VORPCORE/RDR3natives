@@ -1,0 +1,34 @@
+{
+    "0x1E5B70E53DB661E5": {
+        "name": "_DISPLAY_LOADING_SCREENS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "gamemodeName"
+            },
+            {
+                "type": "const char*",
+                "name": "title"
+            },
+            {
+                "type": "const char*",
+                "name": "subtitle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

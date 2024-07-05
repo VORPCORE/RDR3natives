@@ -1,0 +1,16 @@
+{
+    "0xD11FA52EB849D978": {
+        "name": "IS_STREAM_PLAYING",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "streamId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD11FA52EB849D978",
+        "gta_jhash": "0xF1F51A14"
+    }
+}

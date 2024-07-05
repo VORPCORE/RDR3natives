@@ -1,0 +1,18 @@
+{
+    "0xC494C76A34266E82": {
+        "name": "_0xC494C76A34266E82",
+        "comment": "[WARDROBE] Player took off their disguise: p1 = 13\n[WARDROBE] Player put on a disguise: p1 = 0",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

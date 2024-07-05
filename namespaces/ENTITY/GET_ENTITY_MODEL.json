@@ -1,0 +1,16 @@
+{
+    "0xDA76A9F39210D365": {
+        "name": "GET_ENTITY_MODEL",
+        "comment": "Returns the model hash from the entity",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207",
+        "gta_hash": "0x9F47B058362C84B5",
+        "gta_jhash": "0xDAFCB3EC"
+    }
+}

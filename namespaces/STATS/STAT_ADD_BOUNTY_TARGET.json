@@ -1,0 +1,18 @@
+{
+    "0x6B1044FDC2B09101": {
+        "name": "STAT_ADD_BOUNTY_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "unlockHash"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x9E3842E5DAD69F80": {
+        "name": "_0x9E3842E5DAD69F80",
+        "comment": "Only used in SP R* Script loanshark_hunter",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

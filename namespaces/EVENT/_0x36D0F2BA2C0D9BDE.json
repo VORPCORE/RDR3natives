@@ -1,0 +1,18 @@
+{
+    "0x36D0F2BA2C0D9BDE": {
+        "name": "_0x36D0F2BA2C0D9BDE",
+        "comment": "_ADD* (_ADD_SHOCKING_EVENT_* ?)",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

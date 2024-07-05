@@ -1,0 +1,16 @@
+{
+    "0x6FD7DD6B63F2820E": {
+        "name": "SET_POLICE_RADAR_BLIPS",
+        "comment": "If toggle is set to false:\n The police won't be shown on the (mini)map\n\nIf toggle is set to true:\n The police will be shown on the (mini)map",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x43286D561B72B8BF",
+        "gta_jhash": "0x8E114B10"
+    }
+}

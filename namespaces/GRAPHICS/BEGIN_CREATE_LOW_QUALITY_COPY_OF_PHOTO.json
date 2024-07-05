@@ -1,0 +1,16 @@
+{
+    "0x494A9874F17A7D50": {
+        "name": "BEGIN_CREATE_LOW_QUALITY_COPY_OF_PHOTO",
+        "comment": "Called together with FREE_MEMORY_FOR_LOW_QUALITY_PHOTO",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x759650634F07B6B4",
+        "gta_jhash": "0x25D569EB"
+    }
+}

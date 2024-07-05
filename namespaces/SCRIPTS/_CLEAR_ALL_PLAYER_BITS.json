@@ -1,0 +1,14 @@
+{
+    "0xDE544B7EC0C187CC": {
+        "name": "_CLEAR_ALL_PLAYER_BITS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

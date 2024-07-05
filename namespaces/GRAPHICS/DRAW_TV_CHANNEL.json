@@ -1,0 +1,48 @@
+{
+    "0xC0A145540254A840": {
+        "name": "DRAW_TV_CHANNEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "xScale"
+            },
+            {
+                "type": "float",
+                "name": "yScale"
+            },
+            {
+                "type": "float",
+                "name": "rotation"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xFDDC2B4ED3C69DF0",
+        "gta_jhash": "0x8129EF89"
+    }
+}

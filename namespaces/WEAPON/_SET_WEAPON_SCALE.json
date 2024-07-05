@@ -1,0 +1,18 @@
+{
+    "0xC3544AD0522E69B4": {
+        "name": "_SET_WEAPON_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

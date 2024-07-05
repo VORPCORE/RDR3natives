@@ -1,0 +1,14 @@
+{
+    "0x18013392501CE5DC": {
+        "name": "_GET_OBJECT_FROM_INDEXED_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "item"
+            }
+        ],
+        "return_type": "Object",
+        "build": "1207"
+    }
+}

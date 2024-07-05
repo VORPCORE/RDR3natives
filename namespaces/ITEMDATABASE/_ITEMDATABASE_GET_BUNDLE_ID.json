@@ -1,0 +1,14 @@
+{
+    "0x891A45960B6B768A": {
+        "name": "_ITEMDATABASE_GET_BUNDLE_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "bundle"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

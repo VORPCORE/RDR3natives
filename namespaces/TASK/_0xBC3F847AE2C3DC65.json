@@ -1,0 +1,18 @@
+{
+    "0xBC3F847AE2C3DC65": {
+        "name": "_0xBC3F847AE2C3DC65",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

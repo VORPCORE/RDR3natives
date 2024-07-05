@@ -1,0 +1,18 @@
+{
+    "0xEF7AB1A0E8C86170": {
+        "name": "_SET_MP_GAMER_TAG_UNK_ALLOW_LOCALIZED",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "allow"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x9700E8EFC4AB9089": {
+        "name": "INVENTORY_GET_INVENTORY_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "inData"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x8AF8E647D6B2A649": {
+        "name": "_0x8AF8E647D6B2A649",
+        "comment": "Returns offset (0 < 32) to be used with MISC::SET_BIT\n_GET_PED_CR*",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

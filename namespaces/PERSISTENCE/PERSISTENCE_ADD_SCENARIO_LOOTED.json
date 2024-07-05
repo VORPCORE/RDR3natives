@@ -1,0 +1,14 @@
+{
+    "0x8245C1F3262F4AC2": {
+        "name": "PERSISTENCE_ADD_SCENARIO_LOOTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

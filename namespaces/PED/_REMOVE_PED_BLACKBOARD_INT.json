@@ -1,0 +1,18 @@
+{
+    "0x81B75428A7813E67": {
+        "name": "_REMOVE_PED_BLACKBOARD_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "variableName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

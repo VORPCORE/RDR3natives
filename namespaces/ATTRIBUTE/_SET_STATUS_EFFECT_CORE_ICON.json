@@ -1,0 +1,14 @@
+{
+    "0xA4D3A1C008F250DF": {
+        "name": "_SET_STATUS_EFFECT_CORE_ICON",
+        "comment": "Displays status effects on core icons (includes warnings).\n\nenum eUiRpgStatusEffect\n{\n\tSTATUS_NONE,\n\tSTATUS_COLD,\n\tSTATUS_HOT,\n\tSTATUS_OVERFED,\n\tSTATUS_DIRTY,\n\tSTATUS_SNAKE_VENOM,\n\tSTATUS_ARROW_WOUNDED,\n\tSTATUS_ARROW_DRAINED,\n\tSTATUS_ARROW_DISORIENTED,\n\tSTATUS_ARROW_TRACKED,\n\tSTATUS_ARROW_CONFUSION,\n\tSTATUS_UNDERWEIGHT,\n\tSTATUS_OVERWEIGHT,\n\tSTATUS_SICK_1,\n\tSTATUS_SICK_2,\n\tSTATUS_PREDATOR_INVULNERABLE\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "statusEffectType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

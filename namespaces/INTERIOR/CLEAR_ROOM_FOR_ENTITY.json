@@ -1,0 +1,16 @@
+{
+    "0xA1762D5BBFCA13A8": {
+        "name": "CLEAR_ROOM_FOR_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB365FC0C4E27FFA7",
+        "gta_jhash": "0x7DDADB92"
+    }
+}

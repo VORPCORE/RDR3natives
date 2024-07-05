@@ -1,0 +1,30 @@
+{
+    "0xB7079F4C72896756": {
+        "name": "_SET_PED_USE_TRANSPORT_SEAT_PREFERENCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "int",
+                "name": "preferenceSlot"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

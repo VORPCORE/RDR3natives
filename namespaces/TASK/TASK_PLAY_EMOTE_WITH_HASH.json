@@ -1,0 +1,46 @@
+{
+    "0xB31A277C1AC7B7FF": {
+        "name": "TASK_PLAY_EMOTE_WITH_HASH",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/animations/kit_emotes_list.lua\nemote: https://alloc8or.re/rdr3/doc/enums/eEmote.txt\n\nenum eEmoteType\n{\n\tEMOTE_TYPE_INVALID = -1,\n\tEMOTE_TYPE_REACT,\n\tEMOTE_TYPE_ACTION,\n\tEMOTE_TYPE_TAUNT,\n\tEMOTE_TYPE_GREET,\n\tEMOTE_TYPE_TWIRL_GUN,\n\tEMOTE_TYPE_DANCE_FLOOR\n};\n\nenum eEmotePlaybackMode\n{\n\tEMOTE_PM_INVALID = -1,\n\tEMOTE_PM_UPPERBODY,\n\tEMOTE_PM_UPPERBODY_LOOP,\n\tEMOTE_PM_FULLBODY,\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "emoteType"
+            },
+            {
+                "type": "int",
+                "name": "playbackMode"
+            },
+            {
+                "type": "Hash",
+                "name": "emote"
+            },
+            {
+                "type": "BOOL",
+                "name": "isSecondaryTask"
+            },
+            {
+                "type": "BOOL",
+                "name": "canBreakOut"
+            },
+            {
+                "type": "BOOL",
+                "name": "disableEarlyOutAnimTag"
+            },
+            {
+                "type": "BOOL",
+                "name": "ignoreInvalidMainTask"
+            },
+            {
+                "type": "BOOL",
+                "name": "destroyProps"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

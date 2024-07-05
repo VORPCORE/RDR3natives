@@ -1,0 +1,26 @@
+{
+    "0x8E5DA070BAD3279E": {
+        "name": "_SET_VEHICLE_DETERIORATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xD389A2549C4EFB30": {
+        "name": "_ITEMDATABASE_GET_COLLECTION_SIZE",
+        "comment": "Returns (collection?) size/index (?)\n_ITEMDATABASE_GET_(A)* - _ITEMDATABASE_GET_(B)*",
+        "params": [
+            {
+                "type": "int",
+                "name": "collectionId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

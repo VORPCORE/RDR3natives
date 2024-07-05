@@ -1,0 +1,14 @@
+{
+    "0xA657EC9DBC6CC900": {
+        "name": "_SET_MINIMAP_ZONE",
+        "comment": "hash can be the hash of \"guarma\" or \"world\".",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "zone"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

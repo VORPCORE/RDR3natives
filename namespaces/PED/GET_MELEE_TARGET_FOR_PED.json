@@ -1,0 +1,16 @@
+{
+    "0x18A3E9EE1297FD39": {
+        "name": "GET_MELEE_TARGET_FOR_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207",
+        "gta_hash": "0x18A3E9EE1297FD39",
+        "gta_jhash": "0xAFEC26A4"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x0D7FD6A55FD63AEF": {
+        "name": "_0x0D7FD6A55FD63AEF",
+        "comment": "speechEventType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/naSpeechEventType \np1 is possibly naSpeechAudibility, naSpeechType, or naSpeechEventTypeRequestPriority\nSKIP_* - START_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "speechEventType"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

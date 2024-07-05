@@ -1,0 +1,18 @@
+{
+    "0xCDB682BB47C02F0A": {
+        "name": "_0xCDB682BB47C02F0A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

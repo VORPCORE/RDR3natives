@@ -1,0 +1,14 @@
+{
+    "0xF70825EB340E7D15": {
+        "name": "_GET_WEAPONTYPE_MODEL",
+        "comment": "Gets the model hash from the weapon hash.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

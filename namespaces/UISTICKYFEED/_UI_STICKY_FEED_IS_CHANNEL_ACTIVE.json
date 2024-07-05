@@ -1,0 +1,14 @@
+{
+    "0xC5C395C60B542A3C": {
+        "name": "_UI_STICKY_FEED_IS_CHANNEL_ACTIVE",
+        "comment": "stickyFeedChannel: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eUIStickyFeedChannel",
+        "params": [
+            {
+                "type": "int",
+                "name": "stickyFeedChannel"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

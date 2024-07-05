@@ -1,0 +1,18 @@
+{
+    "0x51951DE06C0D1C40": {
+        "name": "_0x51951DE06C0D1C40",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

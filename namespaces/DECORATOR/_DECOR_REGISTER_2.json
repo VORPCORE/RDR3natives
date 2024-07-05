@@ -1,0 +1,22 @@
+{
+    "0x4587374F88B7F6C2": {
+        "name": "_DECOR_REGISTER_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

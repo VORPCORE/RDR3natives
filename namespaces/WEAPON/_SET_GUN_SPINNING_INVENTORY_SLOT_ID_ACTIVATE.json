@@ -1,0 +1,18 @@
+{
+    "0x408CF580C5E96D49": {
+        "name": "_SET_GUN_SPINNING_INVENTORY_SLOT_ID_ACTIVATE",
+        "comment": "_STOP_* - _TEST_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "emoteType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355"
+    }
+}

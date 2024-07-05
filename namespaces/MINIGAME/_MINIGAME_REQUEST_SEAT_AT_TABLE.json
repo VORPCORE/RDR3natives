@@ -1,0 +1,14 @@
+{
+    "0xF6AC6085D8D6C004": {
+        "name": "_MINIGAME_REQUEST_SEAT_AT_TABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

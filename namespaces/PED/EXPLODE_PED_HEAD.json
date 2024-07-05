@@ -1,0 +1,20 @@
+{
+    "0x2D05CED3A38D0F3A": {
+        "name": "EXPLODE_PED_HEAD",
+        "comment": "Forces the ped to fall back and kills it.\n\nIt doesn't really explode the ped's head but it kills the ped",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2D05CED3A38D0F3A",
+        "gta_jhash": "0x05CC1380"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xE1C708BA4885796B": {
+        "name": "_SET_NOT_JUMPABLE_BY_HORSE",
+        "comment": "Sets object as not jumpable by horse.",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

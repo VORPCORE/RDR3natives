@@ -1,0 +1,14 @@
+{
+    "0xEB3CB3386C775D72": {
+        "name": "RESET_MINIMAP_FOW",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

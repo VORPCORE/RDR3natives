@@ -1,0 +1,18 @@
+{
+    "0x1EA716E0628A6F44": {
+        "name": "_SET_MP_GAMER_TAG_NAME_POSSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "const char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

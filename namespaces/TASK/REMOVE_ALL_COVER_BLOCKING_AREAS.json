@@ -1,0 +1,11 @@
+{
+    "0xDB6708C0B46F56D8": {
+        "name": "REMOVE_ALL_COVER_BLOCKING_AREAS",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDB6708C0B46F56D8",
+        "gta_jhash": "0xCF9221A7"
+    }
+}

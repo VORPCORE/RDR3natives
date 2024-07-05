@@ -1,0 +1,16 @@
+{
+    "0x4C61B39930D045DA": {
+        "name": "CLOUD_HAS_REQUEST_COMPLETED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4C61B39930D045DA",
+        "gta_jhash": "0xBAF52DD8"
+    }
+}

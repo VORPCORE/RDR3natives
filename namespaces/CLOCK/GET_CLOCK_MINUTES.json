@@ -1,0 +1,11 @@
+{
+    "0x4E162231B823DBBF": {
+        "name": "GET_CLOCK_MINUTES",
+        "comment": "Gets the current ingame clock minute.",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x13D2B8ADD79640F2",
+        "gta_jhash": "0x94AAC486"
+    }
+}

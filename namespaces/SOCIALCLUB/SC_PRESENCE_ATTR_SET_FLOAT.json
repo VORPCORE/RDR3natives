@@ -1,0 +1,21 @@
+{
+    "0xA31DAFCDC33775E9": {
+        "name": "SC_PRESENCE_ATTR_SET_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "attrHash"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0xC4C4575F62534A24",
+        "gta_jhash": "0x94BF0D35"
+    }
+}

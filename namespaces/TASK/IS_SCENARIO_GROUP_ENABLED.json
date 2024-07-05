@@ -1,0 +1,16 @@
+{
+    "0x367A09DED4E05B99": {
+        "name": "IS_SCENARIO_GROUP_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scenarioGroup"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x367A09DED4E05B99",
+        "gta_jhash": "0x90991122"
+    }
+}

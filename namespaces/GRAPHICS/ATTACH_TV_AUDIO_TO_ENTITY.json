@@ -1,0 +1,16 @@
+{
+    "0x40866A418EB8EFDE": {
+        "name": "ATTACH_TV_AUDIO_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x845BAD77CC770633",
+        "gta_jhash": "0x784944DB"
+    }
+}

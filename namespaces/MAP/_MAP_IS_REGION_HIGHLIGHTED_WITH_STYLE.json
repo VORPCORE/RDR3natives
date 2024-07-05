@@ -1,0 +1,18 @@
+{
+    "0xE38450DBCBC70E3D": {
+        "name": "_MAP_IS_REGION_HIGHLIGHTED_WITH_STYLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "regionHash"
+            },
+            {
+                "type": "Hash",
+                "name": "styleHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

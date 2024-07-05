@@ -1,0 +1,40 @@
+{
+    "0x22B0D0E37CCB840D": {
+        "name": "TASK_SMART_FLEE_PED",
+        "comment": "Makes a ped run away from another ped (fleeFromTarget)\n\nfleeDistance = ped will flee this distance\nfleeTime = ped will flee for this amount of time, set to \"-1\" to flee forever\nfleeType = see TASK_FLEE_COORD, can be 0, R* Scripts: fm_mission/race_controller: 66048; fme_escaped_convicts: 2260992, 2523136, 2359296; la_alligator/fox: 2097152; net_fetch: 17301536; net_stable_mount: 540928\nfleeSpeed = mostly 3f, rarely 1f in R* Scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "fleeFromTarget"
+            },
+            {
+                "type": "float",
+                "name": "fleeDistance"
+            },
+            {
+                "type": "int",
+                "name": "fleeTime"
+            },
+            {
+                "type": "int",
+                "name": "fleeType"
+            },
+            {
+                "type": "float",
+                "name": "fleeSpeed"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x22B0D0E37CCB840D",
+        "gta_jhash": "0xE52EB560"
+    }
+}

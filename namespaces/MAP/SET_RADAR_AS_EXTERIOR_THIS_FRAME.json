@@ -1,0 +1,11 @@
+{
+    "0xA8EBBAE986FB5457": {
+        "name": "SET_RADAR_AS_EXTERIOR_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE81B7D2A3DAB2D81",
+        "gta_jhash": "0x39ABB10E"
+    }
+}

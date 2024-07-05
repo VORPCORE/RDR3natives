@@ -1,0 +1,24 @@
+{
+    "0xBDA07E5950085E46": {
+        "name": "SET_AMBIENT_ZONE_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "zoneName"
+            },
+            {
+                "type": "BOOL",
+                "name": "isEnabled"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBDA07E5950085E46",
+        "gta_jhash": "0x2849CAC9"
+    }
+}

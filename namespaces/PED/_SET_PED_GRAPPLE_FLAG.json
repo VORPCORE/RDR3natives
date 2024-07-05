@@ -1,0 +1,22 @@
+{
+    "0x789DABD18E9024DB": {
+        "name": "_SET_PED_GRAPPLE_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

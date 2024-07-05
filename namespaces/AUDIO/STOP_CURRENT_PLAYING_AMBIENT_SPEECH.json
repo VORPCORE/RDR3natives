@@ -1,0 +1,20 @@
+{
+    "0xB8BEC0CA6F0EDB0F": {
+        "name": "STOP_CURRENT_PLAYING_AMBIENT_SPEECH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB8BEC0CA6F0EDB0F",
+        "gta_jhash": "0xBB8E64BF"
+    }
+}

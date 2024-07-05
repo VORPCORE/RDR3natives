@@ -1,0 +1,26 @@
+{
+    "0xF256A75210C5C0EB": {
+        "name": "IS_POINT_IN_VOLUME",
+        "comment": "Old name: _IS_POSITION_INSIDE_VOLUME",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

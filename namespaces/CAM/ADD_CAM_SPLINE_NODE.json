@@ -1,0 +1,52 @@
+{
+    "0xF1F57F9D230F9CD1": {
+        "name": "ADD_CAM_SPLINE_NODE",
+        "comment": "p7 (length) determines the length of the spline, affects camera path and duration of transition between previous node and this one\n\np8 big values ~100 will slow down the camera movement before reaching this node\n\np9 != 0 seems to override the rotation/pitch (bool?)",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "camera"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "int",
+                "name": "length"
+            },
+            {
+                "type": "int",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8609C75EC438FB3B",
+        "gta_jhash": "0xAD3C7EAA"
+    }
+}

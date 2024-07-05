@@ -1,0 +1,14 @@
+{
+    "0x2045429505158D1A": {
+        "name": "_0x2045429505158D1A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

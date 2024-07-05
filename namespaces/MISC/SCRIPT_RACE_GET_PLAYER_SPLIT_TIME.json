@@ -1,0 +1,24 @@
+{
+    "0x769E848C66E3C2BB": {
+        "name": "SCRIPT_RACE_GET_PLAYER_SPLIT_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x8EF5573A1F801A5C",
+        "gta_jhash": "0x07FF553F"
+    }
+}

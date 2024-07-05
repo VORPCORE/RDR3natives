@@ -1,0 +1,14 @@
+{
+    "0x985767F5FA45BC44": {
+        "name": "_DOOR_SYSTEM_CHANGE_SCRIPT_OWNER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

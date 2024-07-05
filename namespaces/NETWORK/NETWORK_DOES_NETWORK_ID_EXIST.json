@@ -1,0 +1,16 @@
+{
+    "0x38CE16C96BD11344": {
+        "name": "NETWORK_DOES_NETWORK_ID_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x38CE16C96BD11344",
+        "gta_jhash": "0xB8D2C99E"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "0x16D3D49902F697BB": {
+        "name": "NETWORK_IS_CONNECTED_VIA_RELAY",
+        "comment": "Old name: _NETWORK_IS_CONNECTION_ENDPOINT_RELAY_SERVER",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x16D3D49902F697BB",
+        "gta_jhash": ""
+    }
+}

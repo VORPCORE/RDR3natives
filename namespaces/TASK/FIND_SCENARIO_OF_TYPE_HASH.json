@@ -1,0 +1,38 @@
+{
+    "0xF533D68FF970D190": {
+        "name": "FIND_SCENARIO_OF_TYPE_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "Hash",
+                "name": "scenarioType"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

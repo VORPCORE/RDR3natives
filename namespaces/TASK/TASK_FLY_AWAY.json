@@ -1,0 +1,18 @@
+{
+    "0xE86A537B5A3C297C": {
+        "name": "TASK_FLY_AWAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "fleeFromTarget"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

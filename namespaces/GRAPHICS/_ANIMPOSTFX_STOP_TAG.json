@@ -1,0 +1,14 @@
+{
+    "0xAD74C22A541AB987": {
+        "name": "_ANIMPOSTFX_STOP_TAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

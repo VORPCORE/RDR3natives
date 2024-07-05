@@ -1,0 +1,16 @@
+{
+    "0xE8BB3CC253A34559": {
+        "name": "REMOVE_SHOCKING_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "event"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x2CDA538C44C6CCE5",
+        "gta_jhash": "0xF82D5A87"
+    }
+}

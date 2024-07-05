@@ -1,0 +1,16 @@
+{
+    "0xBEB1600952B9CF5C": {
+        "name": "HAS_COLLISION_LOADED_AROUND_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xE9676F61BC0B3321",
+        "gta_jhash": "0x851687F9"
+    }
+}

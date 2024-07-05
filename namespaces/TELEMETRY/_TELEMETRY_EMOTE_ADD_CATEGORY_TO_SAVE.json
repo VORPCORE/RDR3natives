@@ -1,0 +1,22 @@
+{
+    "0x2C24AF8EEEEF8A55": {
+        "name": "_TELEMETRY_EMOTE_ADD_CATEGORY_TO_SAVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "emote"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

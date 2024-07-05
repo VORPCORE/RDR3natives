@@ -1,0 +1,14 @@
+{
+    "0x99ABE9BF9DADA162": {
+        "name": "_NETWORK_CAN_ADD_FRIEND",
+        "comment": "On PC this returns true if gamerHandle is a valid handle.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

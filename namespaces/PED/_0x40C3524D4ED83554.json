@@ -1,0 +1,18 @@
+{
+    "0x40C3524D4ED83554": {
+        "name": "_0x40C3524D4ED83554",
+        "comment": "_SET_SCENARIO_PED_* - _SET_SPAWNER_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

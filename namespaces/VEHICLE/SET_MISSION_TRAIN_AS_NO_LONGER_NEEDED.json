@@ -1,0 +1,20 @@
+{
+    "0xBBE7648349B49BE8": {
+        "name": "SET_MISSION_TRAIN_AS_NO_LONGER_NEEDED",
+        "comment": "flags = 0: DEFAULT; 1: KEEP_OLD_SPEED",
+        "params": [
+            {
+                "type": "Vehicle*",
+                "name": "train"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBBE7648349B49BE8",
+        "gta_jhash": "0x19808560"
+    }
+}

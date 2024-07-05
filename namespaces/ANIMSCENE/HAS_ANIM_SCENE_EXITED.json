@@ -1,0 +1,18 @@
+{
+    "0xF94692EB9DC15D74": {
+        "name": "HAS_ANIM_SCENE_EXITED",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

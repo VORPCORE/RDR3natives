@@ -1,0 +1,18 @@
+{
+    "0x767FBC2AC802EF3E": {
+        "name": "STAT_ID_GET_INT",
+        "comment": "statId: see STAT_ID_IS_VALID",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            },
+            {
+                "type": "int*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

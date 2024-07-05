@@ -1,0 +1,14 @@
+{
+    "0x20A4BF0E09BEE146": {
+        "name": "_CLEAR_ITEMSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

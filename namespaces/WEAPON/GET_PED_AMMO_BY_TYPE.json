@@ -1,0 +1,20 @@
+{
+    "0x39D22031557946C1": {
+        "name": "GET_PED_AMMO_BY_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoType"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x39D22031557946C1",
+        "gta_jhash": "0x54077C4D"
+    }
+}

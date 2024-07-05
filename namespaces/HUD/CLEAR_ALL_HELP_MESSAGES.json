@@ -1,0 +1,11 @@
+{
+    "0x916ED8321F087059": {
+        "name": "CLEAR_ALL_HELP_MESSAGES",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6178F68A87A4D3A0",
+        "gta_jhash": "0x9E5D9198"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "0x84F0BA7462FF8D58": {
+        "name": "LOAD_MISSION_CREATOR_PHOTO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4862437A486F91B0",
+        "gta_jhash": "0x56C1E488"
+    }
+}

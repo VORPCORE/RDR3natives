@@ -1,0 +1,16 @@
+{
+    "0xFEDFA97638D61D4A": {
+        "name": "SET_PARKED_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEAE6DCC7EEE3DB1D",
+        "gta_jhash": "0xDD46CEBE"
+    }
+}

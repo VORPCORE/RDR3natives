@@ -1,0 +1,11 @@
+{
+    "0x56CE42A528156A67": {
+        "name": "DISABLE_FRONTEND_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6D3465A73092F0E6",
+        "gta_jhash": "0xD86A029E"
+    }
+}

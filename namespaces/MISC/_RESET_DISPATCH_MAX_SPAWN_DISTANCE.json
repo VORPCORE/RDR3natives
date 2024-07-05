@@ -1,0 +1,9 @@
+{
+    "0x54EC7B6BC72BAD69": {
+        "name": "_RESET_DISPATCH_MAX_SPAWN_DISTANCE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

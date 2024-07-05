@@ -1,0 +1,14 @@
+{
+    "0x455156F47DC6B78C": {
+        "name": "_0x455156F47DC6B78C",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

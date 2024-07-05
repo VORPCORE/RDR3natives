@@ -1,0 +1,14 @@
+{
+    "0x6E585A616ABB8401": {
+        "name": "_GET_TRAIN_VEHICLE_FROM_TRACK_INDEX",
+        "comment": "Returns train",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207"
+    }
+}

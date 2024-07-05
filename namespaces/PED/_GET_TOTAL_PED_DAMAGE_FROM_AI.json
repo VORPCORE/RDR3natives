@@ -1,0 +1,14 @@
+{
+    "0x92C8EACA29F6BED6": {
+        "name": "_GET_TOTAL_PED_DAMAGE_FROM_AI",
+        "comment": "_GET_WA*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

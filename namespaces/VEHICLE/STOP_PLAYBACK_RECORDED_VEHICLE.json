@@ -1,0 +1,16 @@
+{
+    "0xBF9B4D6267E8C26D": {
+        "name": "STOP_PLAYBACK_RECORDED_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x54833611C17ABDEA",
+        "gta_jhash": "0xAE99C57C"
+    }
+}

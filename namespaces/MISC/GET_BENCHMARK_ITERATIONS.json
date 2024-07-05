@@ -1,0 +1,11 @@
+{
+    "0x22FC52CF470CC98D": {
+        "name": "GET_BENCHMARK_ITERATIONS",
+        "comment": "Returns value of the '-benchmarkIterations' command line option.\n\nOld name: _GET_BENCHMARK_ITERATIONS_FROM_COMMAND_LINE",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x4750FC27570311EC",
+        "gta_jhash": ""
+    }
+}

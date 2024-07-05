@@ -1,0 +1,18 @@
+{
+    "0xEF5A3D2285D8924B": {
+        "name": "_SET_STAMINA_DEPLETION_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x8BE24D74D74C6E9B": {
+        "name": "_0x8BE24D74D74C6E9B",
+        "comment": "Used in Script Function NET_CAMP_DOG_CLIENT_HANDLE_ANIMAL_INTERACTION",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

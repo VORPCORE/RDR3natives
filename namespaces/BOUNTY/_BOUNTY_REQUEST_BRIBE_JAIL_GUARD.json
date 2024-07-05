@@ -1,0 +1,18 @@
+{
+    "0x28717806D3BDD0D0": {
+        "name": "_BOUNTY_REQUEST_BRIBE_JAIL_GUARD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outRpcGuid"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

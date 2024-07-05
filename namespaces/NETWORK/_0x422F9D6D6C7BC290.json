@@ -1,0 +1,15 @@
+{
+    "0x422F9D6D6C7BC290": {
+        "name": "_0x422F9D6D6C7BC290",
+        "comment": "Note: this native was added in build 1355.30",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355",
+        "unused": true
+    }
+}

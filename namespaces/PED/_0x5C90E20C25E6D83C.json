@@ -1,0 +1,14 @@
+{
+    "0x5C90E20C25E6D83C": {
+        "name": "_0x5C90E20C25E6D83C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

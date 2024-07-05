@@ -1,0 +1,14 @@
+{
+    "0xA4A4359320345B34": {
+        "name": "IS_VOLUME_LOCK_REQUEST_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "volLockRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

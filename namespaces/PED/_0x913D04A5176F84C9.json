@@ -1,0 +1,14 @@
+{
+    "0x913D04A5176F84C9": {
+        "name": "_0x913D04A5176F84C9",
+        "comment": "_IS_PED_S* - _IS_PED_U*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

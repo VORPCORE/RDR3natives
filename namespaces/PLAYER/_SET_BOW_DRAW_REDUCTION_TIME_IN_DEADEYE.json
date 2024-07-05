@@ -1,0 +1,18 @@
+{
+    "0xBE0C524970892D41": {
+        "name": "_SET_BOW_DRAW_REDUCTION_TIME_IN_DEADEYE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "drawReductionTime"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

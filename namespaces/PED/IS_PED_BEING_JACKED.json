@@ -1,0 +1,16 @@
+{
+    "0x9A497FE2DF198913": {
+        "name": "IS_PED_BEING_JACKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x9A497FE2DF198913",
+        "gta_jhash": "0xD45D605C"
+    }
+}

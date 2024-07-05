@@ -1,0 +1,14 @@
+{
+    "0x1D256EED194F5B58": {
+        "name": "_0x1D256EED194F5B58",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

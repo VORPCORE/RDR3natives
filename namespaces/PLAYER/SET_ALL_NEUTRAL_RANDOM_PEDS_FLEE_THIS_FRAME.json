@@ -1,0 +1,16 @@
+{
+    "0x16752DAA7E6D3F72": {
+        "name": "SET_ALL_NEUTRAL_RANDOM_PEDS_FLEE_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC3376F42B1FACCC6",
+        "gta_jhash": "0x02DF7AF4"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x5E72022914CE3C38": {
+        "name": "GET_FRAME_TIME",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x15C40837039FFAF7",
+        "gta_jhash": "0x96374262"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x6090A031C69F384E": {
+        "name": "_SET_DRAFT_VEHICLE_ANIMALS_CAN_DETACH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "draft"
+            },
+            {
+                "type": "BOOL",
+                "name": "canDetach"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

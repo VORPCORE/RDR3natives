@@ -1,0 +1,9 @@
+{
+    "0x89EC2FC89ECB1005": {
+        "name": "_NETWORK_SPAWN_CONFIG_SEARCH_IN_PROGRESS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

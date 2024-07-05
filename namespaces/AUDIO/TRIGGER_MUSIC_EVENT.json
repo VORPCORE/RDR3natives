@@ -1,0 +1,16 @@
+{
+    "0x706D57B0F50DA710": {
+        "name": "TRIGGER_MUSIC_EVENT",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/audio/music_events/music_events.lua",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "eventName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x706D57B0F50DA710",
+        "gta_jhash": "0xB6094948"
+    }
+}

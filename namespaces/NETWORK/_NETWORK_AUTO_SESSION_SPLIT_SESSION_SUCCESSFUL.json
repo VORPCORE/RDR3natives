@@ -1,0 +1,9 @@
+{
+    "0x6D87BA8EF15226CD": {
+        "name": "_NETWORK_AUTO_SESSION_SPLIT_SESSION_SUCCESSFUL",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

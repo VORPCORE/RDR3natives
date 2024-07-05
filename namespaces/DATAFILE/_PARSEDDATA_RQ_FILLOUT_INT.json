@@ -1,0 +1,18 @@
+{
+    "0xEF44ACC657352A35": {
+        "name": "_PARSEDDATA_RQ_FILLOUT_INT",
+        "comment": "Old name: _DATAFILE_GET_INT",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x0F1861101C9A9944": {
+        "name": "_0x0F1861101C9A9944",
+        "comment": "",
+        "params": [
+            {
+                "type": "PopZone",
+                "name": "popZone"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

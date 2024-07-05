@@ -1,0 +1,9 @@
+{
+    "0x550F05CFFBD63C8C": {
+        "name": "_SET_GAME_LOGIC_PAUSED",
+        "comment": "Note: this native was added in build 1232.56",
+        "params": [],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

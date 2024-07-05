@@ -1,0 +1,14 @@
+{
+    "0x865FEC2FA899F29C": {
+        "name": "GET_TRACK_INDEX_OF_TRAIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x66FF395445A88A6E": {
+        "name": "_EQUIP_META_PED_SUBOUTFIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "suboutfit"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

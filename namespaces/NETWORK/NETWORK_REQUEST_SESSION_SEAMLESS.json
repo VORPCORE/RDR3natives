@@ -1,0 +1,22 @@
+{
+    "0x04019AE4956D4393": {
+        "name": "NETWORK_REQUEST_SESSION_SEAMLESS",
+        "comment": "flags:\nenum eSessionRequestOptionFlags\n{\n\tSESSION_REQUEST_OPTION_FLAG_INCLUDE_GANG_MEMBERS = (1 << 1),\n\tSESSION_REQUEST_OPTION_FLAG_LEADER_KEEPS_GANG = (1 << 7),\n};\n\nseamlessType:\nenum eSeamlessType\n{\n\tSEAMLESS_TYPE_NORMAL,\n\tSEAMLESS_TYPE_PVE,\n\tSEAMLESS_TYPE_DEV,\n\tSEAMLESS_TYPE_NO_SEAMLESS\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "seamlessType"
+            },
+            {
+                "type": "Any*",
+                "name": "sessionRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

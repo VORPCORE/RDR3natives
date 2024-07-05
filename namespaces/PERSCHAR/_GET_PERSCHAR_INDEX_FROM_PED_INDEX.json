@@ -1,0 +1,14 @@
+{
+    "0x32A1E3B83D501096": {
+        "name": "_GET_PERSCHAR_INDEX_FROM_PED_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "PersChar",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xEE360CFC80C8B2BC": {
+        "name": "_ROPE_GET_BREAKER_OF_ROPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1311"
+    }
+}

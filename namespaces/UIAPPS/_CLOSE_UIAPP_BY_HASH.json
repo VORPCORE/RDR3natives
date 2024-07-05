@@ -1,0 +1,14 @@
+{
+    "0x2FF10C9C3F92277E": {
+        "name": "_CLOSE_UIAPP_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "appNameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

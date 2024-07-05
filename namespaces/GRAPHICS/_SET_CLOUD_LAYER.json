@@ -1,0 +1,22 @@
+{
+    "0xB8C984C0D47F4F07": {
+        "name": "_SET_CLOUD_LAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

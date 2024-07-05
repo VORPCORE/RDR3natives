@@ -1,0 +1,14 @@
+{
+    "0xD090ABEF4D6A7D96": {
+        "name": "_HAS_PROP_SET_LOADED_2",
+        "comment": "Same as _HAS_PROP_SET_LOADED",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

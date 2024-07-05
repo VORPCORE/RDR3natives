@@ -1,0 +1,20 @@
+{
+    "0x66773C92835D0909": {
+        "name": "GET_SCREEN_RESOLUTION",
+        "comment": "Hardcoded to always set x to 1280 and y to 720.",
+        "params": [
+            {
+                "type": "int*",
+                "name": "x"
+            },
+            {
+                "type": "int*",
+                "name": "y"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x888D57E407E63624",
+        "gta_jhash": "0x29F3572F"
+    }
+}

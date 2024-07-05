@@ -1,0 +1,14 @@
+{
+    "0x2F7EB8B6F6AFE79C": {
+        "name": "_0x2F7EB8B6F6AFE79C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

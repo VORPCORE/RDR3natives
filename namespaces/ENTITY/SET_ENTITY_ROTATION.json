@@ -1,0 +1,36 @@
+{
+    "0x9CC8314DFEDE441E": {
+        "name": "SET_ENTITY_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "pitch"
+            },
+            {
+                "type": "float",
+                "name": "roll"
+            },
+            {
+                "type": "float",
+                "name": "yaw"
+            },
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8524A8B0171D5E07",
+        "gta_jhash": "0x0A345EFE"
+    }
+}

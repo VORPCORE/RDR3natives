@@ -1,0 +1,16 @@
+{
+    "0x270B63A641BE32F2": {
+        "name": "CLEAR_PLAYER_HAS_DAMAGED_AT_LEAST_ONE_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF0B67A4DE6AB5F98",
+        "gta_jhash": "0x1D31CBBD"
+    }
+}

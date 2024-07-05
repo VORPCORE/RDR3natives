@@ -1,0 +1,14 @@
+{
+    "0xDFE332A5DA6FE7C9": {
+        "name": "_0xDFE332A5DA6FE7C9",
+        "comment": "Returns iNumPixels, iPixelsVisible",
+        "params": [
+            {
+                "type": "int",
+                "name": "iTrackedPoint"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

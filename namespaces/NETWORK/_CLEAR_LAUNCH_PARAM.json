@@ -1,0 +1,14 @@
+{
+    "0x782C94DB6469634D": {
+        "name": "_CLEAR_LAUNCH_PARAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "paramName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

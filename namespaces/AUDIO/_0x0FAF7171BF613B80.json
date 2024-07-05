@@ -1,0 +1,14 @@
+{
+    "0x0FAF7171BF613B80": {
+        "name": "_0x0FAF7171BF613B80",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

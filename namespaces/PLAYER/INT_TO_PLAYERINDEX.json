@@ -1,0 +1,16 @@
+{
+    "0x748B3A65C2604C33": {
+        "name": "INT_TO_PLAYERINDEX",
+        "comment": "Simply returns whatever is passed to it (Regardless of whether the handle is valid or not).",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1207",
+        "gta_hash": "0x41BD2A6B006AF756",
+        "gta_jhash": "0x98DD98F1"
+    }
+}

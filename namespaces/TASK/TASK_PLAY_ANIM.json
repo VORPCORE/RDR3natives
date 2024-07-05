@@ -1,0 +1,64 @@
+{
+    "0xEA47FE3719165B94": {
+        "name": "TASK_PLAY_ANIM",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/animations\nflags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eScriptedAnimFlags\nikFlags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eIkControlFlags ",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "speedMultiplier"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "float",
+                "name": "playbackRate"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "ikFlags"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            },
+            {
+                "type": "const char*",
+                "name": "taskFilter"
+            },
+            {
+                "type": "BOOL",
+                "name": "p12"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEA47FE3719165B94",
+        "gta_jhash": "0x5AB552C6"
+    }
+}

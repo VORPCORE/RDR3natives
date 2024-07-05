@@ -1,0 +1,14 @@
+{
+    "0x129567F0C05F81B9": {
+        "name": "_PARSEDDATA_UNLOAD_FILE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "fileHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

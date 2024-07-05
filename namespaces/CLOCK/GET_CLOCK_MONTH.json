@@ -1,0 +1,11 @@
+{
+    "0x2D44E8FC79EAB1AC": {
+        "name": "GET_CLOCK_MONTH",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xBBC72712E80257A1",
+        "gta_jhash": "0x3C48A3D5"
+    }
+}

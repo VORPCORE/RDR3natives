@@ -1,0 +1,20 @@
+{
+    "0xD1503C2EE2FE688C": {
+        "name": "IS_IN_ITEMSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x2D0FC594D1E9C107",
+        "gta_jhash": "0x0D4B9730"
+    }
+}

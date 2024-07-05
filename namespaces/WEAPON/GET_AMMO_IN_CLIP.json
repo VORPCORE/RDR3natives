@@ -1,0 +1,24 @@
+{
+    "0x2E1202248937775C": {
+        "name": "GET_AMMO_IN_CLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int*",
+                "name": "ammo"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x2E1202248937775C",
+        "gta_jhash": "0x73C100C3"
+    }
+}

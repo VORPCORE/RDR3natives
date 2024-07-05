@@ -1,0 +1,18 @@
+{
+    "0x535A66AAD2BF68F9": {
+        "name": "_0x535A66AAD2BF68F9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

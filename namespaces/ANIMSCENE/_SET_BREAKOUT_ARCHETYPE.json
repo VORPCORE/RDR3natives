@@ -1,0 +1,18 @@
+{
+    "0x99B2A2E3655DEAF1": {
+        "name": "_SET_BREAKOUT_ARCHETYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "archetype"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

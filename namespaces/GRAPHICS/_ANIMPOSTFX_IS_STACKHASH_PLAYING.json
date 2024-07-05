@@ -1,0 +1,14 @@
+{
+    "0xEEF83A759AE06A27": {
+        "name": "_ANIMPOSTFX_IS_STACKHASH_PLAYING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "effectNameHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

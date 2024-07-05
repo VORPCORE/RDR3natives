@@ -1,0 +1,22 @@
+{
+    "0xD049FDAF089FDDB0": {
+        "name": "_0xD049FDAF089FDDB0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

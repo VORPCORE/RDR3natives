@@ -1,0 +1,26 @@
+{
+    "0xA07CF1B21B56F041": {
+        "name": "SET_VOLUME_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

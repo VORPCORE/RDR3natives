@@ -1,0 +1,14 @@
+{
+    "0x660A8F876DF1D4F8": {
+        "name": "_0x660A8F876DF1D4F8",
+        "comment": "speechEventType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/naSpeechEventType \nSKIP_* - START_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "speechEventType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

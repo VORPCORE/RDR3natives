@@ -1,0 +1,14 @@
+{
+    "0xCF2D04D076847478": {
+        "name": "_CASHINVENTORY_TRANSACTION_GET_NUM_OF_ITEMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

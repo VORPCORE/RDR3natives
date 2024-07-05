@@ -1,0 +1,14 @@
+{
+    "0x054473164C012699": {
+        "name": "_GET_PLAYER_MOOD",
+        "comment": "See _SET_PLAYER_MOOD",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

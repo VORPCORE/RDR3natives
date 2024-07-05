@@ -1,0 +1,14 @@
+{
+    "0xE75CDDEBF618C8FF": {
+        "name": "_0xE75CDDEBF618C8FF",
+        "comment": "ANIMPOSTFX_*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "effectNameHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

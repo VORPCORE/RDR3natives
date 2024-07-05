@@ -1,0 +1,16 @@
+{
+    "0xA699957E60D80214": {
+        "name": "NETWORK_HAS_ROS_PRIVILEGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xA699957E60D80214",
+        "gta_jhash": "0xFD261E30"
+    }
+}

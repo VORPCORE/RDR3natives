@@ -1,0 +1,22 @@
+{
+    "0xB2AD5D29A99D4B26": {
+        "name": "NETWORK_TRY_ACCESS_TUNABLE_BOOL_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "tunableContext"
+            },
+            {
+                "type": "Hash",
+                "name": "tunableName"
+            },
+            {
+                "type": "BOOL",
+                "name": "defaultValue"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x31DAD2CD6D49546E": {
+        "name": "_NETWORK_IS_THREAD_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

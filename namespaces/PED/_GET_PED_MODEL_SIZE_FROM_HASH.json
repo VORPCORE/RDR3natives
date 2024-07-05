@@ -1,0 +1,14 @@
+{
+    "0xA65AA1ACE81E5A77": {
+        "name": "_GET_PED_MODEL_SIZE_FROM_HASH",
+        "comment": "PS_SMALL = 0,\nPS_MEDIUM,\nPS_MEDIUM_LARGE,\nPS_LARGE,\nPS_EXTRA_LARGE",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311"
+    }
+}

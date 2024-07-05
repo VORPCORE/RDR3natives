@@ -1,0 +1,16 @@
+{
+    "0x888A4E675B38F5AD": {
+        "name": "REMOVE_VEHICLE_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "vehicleAsset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xACE699C71AB9DEB5",
+        "gta_jhash": "0x9620E9C6"
+    }
+}

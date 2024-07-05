@@ -1,0 +1,22 @@
+{
+    "0x9D9473CB82D83A30": {
+        "name": "CAN_PED_SEE_PED_CACHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

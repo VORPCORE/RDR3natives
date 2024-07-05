@@ -1,0 +1,22 @@
+{
+    "0x8D029948CA29409B": {
+        "name": "_0x8D029948CA29409B",
+        "comment": "_ITEMDATABASE_FILLOUT_(A)* - _ITEMDATABASE_FILLOUT_(B)*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "award"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

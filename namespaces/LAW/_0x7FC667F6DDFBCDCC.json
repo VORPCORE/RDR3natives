@@ -1,0 +1,14 @@
+{
+    "0x7FC667F6DDFBCDCC": {
+        "name": "_0x7FC667F6DDFBCDCC",
+        "comment": "Only used in R* Script long_update\nReturns a value thats being subtracted from GET_GAME_TIMER",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

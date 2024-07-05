@@ -1,0 +1,18 @@
+{
+    "0xD2CB0FB0FDCB473D": {
+        "name": "_SET_PED_AS_SADDLE_HORSE_FOR_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "mount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

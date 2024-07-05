@@ -1,0 +1,14 @@
+{
+    "0x23B5E9C5160BC04F": {
+        "name": "COMPENDIUM_WAS_ANIMAL_OBSERVED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

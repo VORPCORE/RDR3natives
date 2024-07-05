@@ -1,0 +1,14 @@
+{
+    "0x226CF9B159E38F42": {
+        "name": "_IS_PED_DRAGGING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

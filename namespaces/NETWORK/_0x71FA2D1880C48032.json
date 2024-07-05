@@ -1,0 +1,14 @@
+{
+    "0x71FA2D1880C48032": {
+        "name": "_0x71FA2D1880C48032",
+        "comment": "Only used in R* Script fm_race_controller",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

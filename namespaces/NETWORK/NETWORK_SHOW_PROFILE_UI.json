@@ -1,0 +1,16 @@
+{
+    "0x859ED1CEA343FCA8": {
+        "name": "NETWORK_SHOW_PROFILE_UI",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x859ED1CEA343FCA8",
+        "gta_jhash": "0xF00A20B0"
+    }
+}

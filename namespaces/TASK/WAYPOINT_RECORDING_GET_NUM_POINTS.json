@@ -1,0 +1,20 @@
+{
+    "0x5343532C01A07234": {
+        "name": "WAYPOINT_RECORDING_GET_NUM_POINTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            },
+            {
+                "type": "int*",
+                "name": "points"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x5343532C01A07234",
+        "gta_jhash": "0xF5F9B71E"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xA5B94DF8AF058F46": {
+        "name": "WAYPOINT_PLAYBACK_GET_IS_SHOOTING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xE4E2C581F127A11C": {
+        "name": "_MISSIONDATA_SET_REPLAY_STATE_LOCKED",
+        "comment": "replayState: MISSIONDATA_GET_REPLAY_STATE",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "missionId"
+            },
+            {
+                "type": "int",
+                "name": "replayState"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

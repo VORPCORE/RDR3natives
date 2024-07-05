@@ -1,0 +1,14 @@
+{
+    "0x12EB4E31F092C9B3": {
+        "name": "_0x12EB4E31F092C9B3",
+        "comment": "_GET_IS_PED_(BLEEDING_OUT?)*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

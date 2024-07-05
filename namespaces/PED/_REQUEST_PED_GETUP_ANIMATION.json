@@ -1,0 +1,18 @@
+{
+    "0xEAA8242C8479C27D": {
+        "name": "_REQUEST_PED_GETUP_ANIMATION",
+        "comment": "Known get up animation types: REAR, FRONT",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "getUpType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,92 @@
+{
+	"type": "object",
+	"patternProperties": {
+		"^([A-Z_]+[A-Z0-9_]*|_0x[0-9A-F]{16})$": {
+			"type": "object",
+			"patternProperties": {
+				"^0x[0-9A-F]{16}$": {
+					"type": "object",
+					"properties": {
+						"name": { "$ref": "#/$defs/native_name" },
+						"comment": { "type": "string" },
+						"params": {
+							"type": "array",
+							"items": {
+								"type": "object",
+								"properties": {
+									"type": { "$ref": "#/$defs/param_type" },
+									"name": {
+										"type": "string",
+										"pattern": "^([A-Za-z_]+[A-Za-z0-9_]*|\\.\\.\\.)$"
+									}
+								},
+								"required": ["type", "name"],
+								"additionalProperties": false
+							}
+						},
+						"return_type": { "$ref": "#/$defs/return_type" },
+						"build": { "type": "string" },
+						"variadic": { "type": "boolean" },
+						"unused": { "type": "boolean" },
+						"gta_hash": {
+							"type": "string",
+							"pattern": "^0x[0-9A-F]{16}$"
+						},
+						"gta_jhash": {
+							"type": "string",
+							"pattern": "^($|0x[0-9A-F]{8})$"
+						}
+					},
+					"required": ["name", "comment", "params", "return_type", "build"],
+					"dependencies": {
+						"gta_hash": ["gta_jhash"]
+					},
+					"additionalProperties": false
+				}
+			},
+			"additionalProperties": false
+		}
+	},
+	"additionalProperties": false,
+	"$defs": {
+		"native_name": {
+			"type": "string",
+			"pattern": "^([A-Z_]+[A-Z0-9_]*|_0x[0-9A-F]{16})$"
+		},
+		"param_type": {
+			"type": "string",
+			"enum": [
+				"",
+				"int", "int*",
+				"float", "float*",
+				"BOOL", "BOOL*",
+				"char*", "const char*",
+				"Any", "Any*",
+				"Blip", "Blip*",
+				"Cam", "Cam*",
+				"Entity", "Entity*",
+				"FireId", "FireId*",
+				"Hash", "Hash*",
+				"Interior", "Interior*",
+				"ItemSet", "ItemSet*",
+				"Object", "Object*",
+				"Ped", "Ped*",
+				"Pickup", "Pickup*",
+				"Player", "Player*",
+				"ScrHandle", "ScrHandle*",
+				"Vector3*",
+				"Vehicle", "Vehicle*",
+				"AnimScene", "AnimScene*",
+				"PersChar", "PersChar*",
+				"PopZone", "PopZone*",
+				"Prompt", "Prompt*",
+				"PropSet", "PropSet*",
+				"Volume", "Volume*"
+			]
+		},
+		"return_type": {
+			"type": "string",
+			"enum": ["void", "int", "float", "BOOL", "const char*", "Any", "Any*", "Blip", "Cam", "Entity", "FireId", "Hash", "Interior", "ItemSet", "Object", "Ped", "Pickup", "Player", "ScrHandle", "Vector3", "Vehicle", "AnimScene", "PersChar", "PopZone", "Prompt", "PropSet", "Volume"]
+		}
+	}
+}

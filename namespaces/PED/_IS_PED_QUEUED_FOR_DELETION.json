@@ -1,0 +1,14 @@
+{
+    "0x8D9BFCE3352DE47F": {
+        "name": "_IS_PED_QUEUED_FOR_DELETION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

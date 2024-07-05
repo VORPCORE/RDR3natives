@@ -1,0 +1,18 @@
+{
+    "0xCA24F528D0D16289": {
+        "name": "_UI_PROMPT_SET_PRIORITY",
+        "comment": "priority: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePromptPriority",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "int",
+                "name": "priority"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

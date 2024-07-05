@@ -1,0 +1,14 @@
+{
+    "0x57E798B56C45EE15": {
+        "name": "MISSIONDATA_GET_TEXTURE_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "missionId"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

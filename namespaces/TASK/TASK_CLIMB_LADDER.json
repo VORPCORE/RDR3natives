@@ -1,0 +1,28 @@
+{
+    "0xB6C987F9285A3814": {
+        "name": "TASK_CLIMB_LADDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB6C987F9285A3814",
+        "gta_jhash": "0x35BB4EE0"
+    }
+}

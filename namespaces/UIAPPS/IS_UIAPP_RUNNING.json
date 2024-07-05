@@ -1,0 +1,14 @@
+{
+    "0xDE4A9B35D028979F": {
+        "name": "IS_UIAPP_RUNNING",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "appName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

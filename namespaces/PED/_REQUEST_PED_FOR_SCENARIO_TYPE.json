@@ -1,0 +1,34 @@
+{
+    "0xBDED916A9F9B0604": {
+        "name": "_REQUEST_PED_FOR_SCENARIO_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "Hash",
+                "name": "scenarioType"
+            },
+            {
+                "type": "const char*",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

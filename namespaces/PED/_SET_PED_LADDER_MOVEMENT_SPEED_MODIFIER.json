@@ -1,0 +1,18 @@
+{
+    "0x05CE6AF4DF071D23": {
+        "name": "_SET_PED_LADDER_MOVEMENT_SPEED_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

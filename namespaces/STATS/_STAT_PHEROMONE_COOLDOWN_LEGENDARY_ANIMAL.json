@@ -1,0 +1,18 @@
+{
+    "0x5420D398A42917FC": {
+        "name": "_STAT_PHEROMONE_COOLDOWN_LEGENDARY_ANIMAL",
+        "comment": "statId: see STAT_ID_IS_VALID",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any*",
+                "name": "statId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

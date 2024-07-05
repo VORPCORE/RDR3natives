@@ -1,0 +1,14 @@
+{
+    "0x4F89DAD4156BA145": {
+        "name": "_IS_DOOR_REGISTERED_WITH_OWNER",
+        "comment": "Returns true if door is alredy registered with owner",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

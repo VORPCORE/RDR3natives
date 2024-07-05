@@ -1,0 +1,9 @@
+{
+    "0xD0498AD30E16B6BD": {
+        "name": "NETWORK_HAS_PENDING_INVITE_FAILURE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

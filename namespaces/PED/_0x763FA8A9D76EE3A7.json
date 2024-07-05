@@ -1,0 +1,14 @@
+{
+    "0x763FA8A9D76EE3A7": {
+        "name": "_0x763FA8A9D76EE3A7",
+        "comment": "Used in Script Function NB_EVENT_OVERRIDE__HANDLE__EVENT_DAMAGE_ENTITY",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1311"
+    }
+}

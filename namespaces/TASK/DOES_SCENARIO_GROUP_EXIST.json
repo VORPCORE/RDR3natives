@@ -1,0 +1,16 @@
+{
+    "0xF9034C136C9E00D3": {
+        "name": "DOES_SCENARIO_GROUP_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scenarioGroup"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF9034C136C9E00D3",
+        "gta_jhash": "0x5F072EB9"
+    }
+}

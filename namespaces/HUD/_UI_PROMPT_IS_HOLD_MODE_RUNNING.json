@@ -1,0 +1,14 @@
+{
+    "0xC7D70EAEF92EFF48": {
+        "name": "_UI_PROMPT_IS_HOLD_MODE_RUNNING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

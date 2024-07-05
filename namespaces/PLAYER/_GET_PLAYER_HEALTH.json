@@ -1,0 +1,14 @@
+{
+    "0x0317C947D062854E": {
+        "name": "_GET_PLAYER_HEALTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "0x195AEEB13CEFE2EE": {
+        "name": "TASK_VEHICLE_GOTO_NAVMESH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "int",
+                "name": "behaviorFlag"
+            },
+            {
+                "type": "float",
+                "name": "stoppingRange"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x195AEEB13CEFE2EE",
+        "gta_jhash": "0x55CF3BCD"
+    }
+}

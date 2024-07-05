@@ -1,0 +1,14 @@
+{
+    "0x8B25A18E390F75BF": {
+        "name": "_GET_ENTITY_AUDIO_MIX_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

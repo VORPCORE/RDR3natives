@@ -1,0 +1,20 @@
+{
+    "0x402669A4BDAA72DA": {
+        "name": "SET_MISSION_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5F28ECF5FC84772F",
+        "gta_jhash": "0x68DCAE10"
+    }
+}

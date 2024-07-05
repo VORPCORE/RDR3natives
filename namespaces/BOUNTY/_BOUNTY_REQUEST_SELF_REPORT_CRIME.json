@@ -1,0 +1,22 @@
+{
+    "0x188B748861B5BA17": {
+        "name": "_BOUNTY_REQUEST_SELF_REPORT_CRIME",
+        "comment": "crimeType: see _REPORT_CRIME",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outRpcGuid"
+            },
+            {
+                "type": "Hash",
+                "name": "crimeType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

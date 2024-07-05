@@ -1,0 +1,18 @@
+{
+    "0xCA95924C893A0C91": {
+        "name": "_0xCA95924C893A0C91",
+        "comment": "Returns vehicle speed\n_COMPUTE_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

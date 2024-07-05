@@ -1,0 +1,14 @@
+{
+    "0x661B8683611B9B97": {
+        "name": "CHECK_OWNERSHIP_OF_ANIM_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

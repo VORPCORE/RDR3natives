@@ -1,0 +1,54 @@
+{
+    "0xE9C59F6809373A99": {
+        "name": "_ADD_ROPE_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "length"
+            },
+            {
+                "type": "int",
+                "name": "ropeType"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetworked"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

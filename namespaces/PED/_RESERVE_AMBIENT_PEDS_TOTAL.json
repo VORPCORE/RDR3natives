@@ -1,0 +1,14 @@
+{
+    "0xF008E0BA1FE1D644": {
+        "name": "_RESERVE_AMBIENT_PEDS_TOTAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "numPeds"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

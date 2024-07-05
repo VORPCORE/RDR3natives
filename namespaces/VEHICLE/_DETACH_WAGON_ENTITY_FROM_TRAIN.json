@@ -1,0 +1,14 @@
+{
+    "0x54CBDD6E1B4CB4DF": {
+        "name": "_DETACH_WAGON_ENTITY_FROM_TRAIN",
+        "comment": "Only used in train_robbery4 R* Script\n_C* - _DEL*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

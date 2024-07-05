@@ -1,0 +1,15 @@
+{
+    "0xD8E3D22AA4F0E0A5": {
+        "name": "_0xD8E3D22AA4F0E0A5",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true
+    }
+}

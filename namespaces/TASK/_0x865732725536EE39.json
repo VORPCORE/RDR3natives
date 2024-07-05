@@ -1,0 +1,14 @@
+{
+    "0x865732725536EE39": {
+        "name": "_0x865732725536EE39",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

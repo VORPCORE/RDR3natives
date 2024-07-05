@@ -1,0 +1,14 @@
+{
+    "0x4440FEE3EFE78F54": {
+        "name": "_NETWORK_AUTO_SESSION_SET_AUTO_WARP_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

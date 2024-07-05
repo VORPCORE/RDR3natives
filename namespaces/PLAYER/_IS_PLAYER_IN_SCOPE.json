@@ -1,0 +1,14 @@
+{
+    "0x04D7F33640662FA2": {
+        "name": "_IS_PLAYER_IN_SCOPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xA0D1D79C6036A855": {
+        "name": "_UI_PROMPT_SET_MASH_MANUAL_MODE_INCREASE_PER_PRESS",
+        "comment": "standard (prompt not held) rate: (1f / 128f)\nfast (prompt held) rate: (1f / 64f)\npunitive (been hit) rate: (1f / 128f)",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "float",
+                "name": "rate"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

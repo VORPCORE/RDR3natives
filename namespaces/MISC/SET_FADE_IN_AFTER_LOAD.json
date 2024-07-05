@@ -1,0 +1,16 @@
+{
+    "0xAC806C4CAB973517": {
+        "name": "SET_FADE_IN_AFTER_LOAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF3D78F59DFE18D79",
+        "gta_jhash": "0x6E00EB0B"
+    }
+}

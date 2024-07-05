@@ -1,0 +1,18 @@
+{
+    "0xC71FE230A513C30F": {
+        "name": "GET_PED_BACKUP_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

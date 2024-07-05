@@ -1,0 +1,16 @@
+{
+    "0x295E3CCEC879CCD7": {
+        "name": "PED_HAS_USE_SCENARIO_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x295E3CCEC879CCD7",
+        "gta_jhash": "0x9BE9C691"
+    }
+}

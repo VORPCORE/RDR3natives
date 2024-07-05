@@ -1,0 +1,16 @@
+{
+    "0x210A79C9EC89778F": {
+        "name": "HAS_COLLISION_FOR_MODEL_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x22CCA434E368F03A",
+        "gta_jhash": "0x41A094F8"
+    }
+}

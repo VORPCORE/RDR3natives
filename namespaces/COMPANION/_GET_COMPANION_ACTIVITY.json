@@ -1,0 +1,14 @@
+{
+    "0xB7E0590C86E1711F": {
+        "name": "_GET_COMPANION_ACTIVITY",
+        "comment": "enum _0x18F77396",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

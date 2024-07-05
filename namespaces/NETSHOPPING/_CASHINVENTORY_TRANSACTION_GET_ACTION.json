@@ -1,0 +1,14 @@
+{
+    "0xBD2D520C51CCFF52": {
+        "name": "_CASHINVENTORY_TRANSACTION_GET_ACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

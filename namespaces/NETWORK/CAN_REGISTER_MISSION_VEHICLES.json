@@ -1,0 +1,16 @@
+{
+    "0x7277F1F2E085EE74": {
+        "name": "CAN_REGISTER_MISSION_VEHICLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x7277F1F2E085EE74",
+        "gta_jhash": "0x818B6830"
+    }
+}

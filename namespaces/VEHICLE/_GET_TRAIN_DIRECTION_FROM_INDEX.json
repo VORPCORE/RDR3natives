@@ -1,0 +1,14 @@
+{
+    "0x67995318F5FAA496": {
+        "name": "_GET_TRAIN_DIRECTION_FROM_INDEX",
+        "comment": "https://i.imgur.com/1rHibjW.jpg",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0x4653A741D17F2CD0": {
+        "name": "_GET_PHOTO_MODE_DOF",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

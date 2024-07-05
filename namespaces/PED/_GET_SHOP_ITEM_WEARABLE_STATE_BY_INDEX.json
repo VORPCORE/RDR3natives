@@ -1,0 +1,26 @@
+{
+    "0x6243635AF2F1B826": {
+        "name": "_GET_SHOP_ITEM_WEARABLE_STATE_BY_INDEX",
+        "comment": "Gets an available wearable state by index for a shop item / component - it does not retreive what the current state is. p3 seems to be true in scripts.\n\nUse 0xFFCC2DB2D9953401 (_GET_SHOP_ITEM_NUM_WEARABLE_STATES) to get the number of available wearable states",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "int",
+                "name": "wearableStateIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "isMpFemale"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

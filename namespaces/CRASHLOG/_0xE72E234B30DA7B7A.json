@@ -1,0 +1,15 @@
+{
+    "0xE72E234B30DA7B7A": {
+        "name": "_0xE72E234B30DA7B7A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true
+    }
+}

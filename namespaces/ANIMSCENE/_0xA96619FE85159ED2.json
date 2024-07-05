@@ -1,0 +1,14 @@
+{
+    "0xA96619FE85159ED2": {
+        "name": "_0xA96619FE85159ED2",
+        "comment": "Used in SP R* Scripts only\n_WAS_ANIM_SCENE_*",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

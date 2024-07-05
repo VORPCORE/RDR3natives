@@ -1,0 +1,18 @@
+{
+    "0xCC2B20596E29E4E3": {
+        "name": "_GET_PED_COMBAT_ATTRIBUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attributeIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x5D1C5D8E62E8EE1C": {
+        "name": "_GET_PROXY_INTERIOR_INDEX",
+        "comment": "Returns proxyInteriorIndex",
+        "params": [
+            {
+                "type": "int",
+                "name": "interiorId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

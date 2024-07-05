@@ -1,0 +1,18 @@
+{
+    "0x216BC0D3D2E413D2": {
+        "name": "_0x216BC0D3D2E413D2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

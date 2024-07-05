@@ -1,0 +1,14 @@
+{
+    "0x5E5D96BE25E9DF68": {
+        "name": "ARE_COMPOSITE_LOOTABLE_ENTITY_DEF_ASSETS_LOADED",
+        "comment": "Returns true when requested asset is loaded",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "asset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

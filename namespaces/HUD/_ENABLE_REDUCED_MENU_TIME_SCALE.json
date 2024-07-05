@@ -1,0 +1,9 @@
+{
+    "0x26F6BBEA2CE3E3DC": {
+        "name": "_ENABLE_REDUCED_MENU_TIME_SCALE",
+        "comment": "Enables reduced time scale while menus such as weapon wheel and satchel are open.",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

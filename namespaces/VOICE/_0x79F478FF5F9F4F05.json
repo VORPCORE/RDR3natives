@@ -1,0 +1,14 @@
+{
+    "0x79F478FF5F9F4F05": {
+        "name": "_0x79F478FF5F9F4F05",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

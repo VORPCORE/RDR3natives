@@ -1,0 +1,22 @@
+{
+    "0x18FF3110CF47115D": {
+        "name": "_SET_ENTITY_CARRYING_FLAG",
+        "comment": "flagId: https://github.com/femga/rdr3_discoveries/tree/master/AI/CARRYING_FLAGS\nhttps://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/CCarryingFlags__Flags\n\nenum eCarryingFlag\n{\n\tCARRYING_FLAG_CAN_BE_CUT_FREE = 1,\n\tCARRYING_FLAG_CAN_BE_CARRIED_ON_FOOT = 2,\n\tCARRYING_FLAG_CAN_BE_DROPPED = 4,\n\tCARRYING_FLAG_CAN_BE_CARRIED_WHEN_DEAD = 7,\n\tCARRYING_FLAG_CAN_CARRY_ANYTHING = 9,\n\tCARRYING_FLAG_DISABLE_PROMPT_LOS_CHECKS = 19,\n\tCARRYING_FLAG_FORCE_ALLOW_WARP_TO_SAFE_GROUND_LOCATION = 23,\n\tCARRYING_FLAG_PICKUPS_IGNORE_HEIGHT_RESTRICTIONS = 26,\n\tCARRYING_FLAG_CLEAN_UP_WHEN_NOT_CARRIED = 27,\n\tCARRYING_FLAG_BLOCK_KNOCK_OFF_PED_VARIATIONS_FROM_CARRIABLE_INTERACTIONS = 29,\n\tCARRYING_FLAG_HIT_WHEN_CARRIABLE = 31,\n\tCARRYING_FLAG_DISABLE_CARRIABLE_INTERACTIONS_ON_THIS_MOUNT = 34,\n\tCARRYING_FLAG_FORCE_HIDE_PROMPT_GROUP = 37,\n};",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "flagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

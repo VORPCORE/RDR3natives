@@ -1,0 +1,14 @@
+{
+    "0x2F2131DB0A8B02DC": {
+        "name": "_POKER_REVEAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

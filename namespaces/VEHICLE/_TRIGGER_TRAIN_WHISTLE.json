@@ -1,0 +1,26 @@
+{
+    "0xCFE122EC635CC2B2": {
+        "name": "_TRIGGER_TRAIN_WHISTLE",
+        "comment": "whistleSequence: ACKNOWLEDGE, BACKING_UP, CROSSING, DANGER, MOVING, NEXT_STATION, PASSING, STOPPED\np2 = true seems to mute the sound",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "const char*",
+                "name": "whistleSequence"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

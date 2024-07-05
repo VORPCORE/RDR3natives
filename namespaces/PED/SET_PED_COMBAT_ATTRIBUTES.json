@@ -1,0 +1,24 @@
+{
+    "0x9F7794730795E019": {
+        "name": "SET_PED_COMBAT_ATTRIBUTES",
+        "comment": "attributeIndex: https://alloc8or.re/rdr3/doc/enums/eCombatAttribute.txt\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/COMBAT_ATTRIBUTES",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attributeIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9F7794730795E019",
+        "gta_jhash": "0x81D64248"
+    }
+}

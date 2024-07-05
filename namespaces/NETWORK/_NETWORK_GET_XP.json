@@ -1,0 +1,9 @@
+{
+    "0xDB438CC9BC6F4022": {
+        "name": "_NETWORK_GET_XP",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

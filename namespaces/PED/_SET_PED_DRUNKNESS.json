@@ -1,0 +1,22 @@
+{
+    "0x406CCF555B04FAD3": {
+        "name": "_SET_PED_DRUNKNESS",
+        "comment": "SOBER = 0.0f, SLIGHTLY_DRUNK = 0.25f, MODERATELY_DRUNK = 0.5f, VERY_DRUNK = 1.0f",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            },
+            {
+                "type": "float",
+                "name": "drunknessLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

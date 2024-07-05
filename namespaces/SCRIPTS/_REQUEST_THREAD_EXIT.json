@@ -1,0 +1,14 @@
+{
+    "0x7DE4643157AD646C": {
+        "name": "_REQUEST_THREAD_EXIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

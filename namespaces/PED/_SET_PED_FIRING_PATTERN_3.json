@@ -1,0 +1,18 @@
+{
+    "0x244E8C282188E40F": {
+        "name": "_SET_PED_FIRING_PATTERN_3",
+        "comment": "Only used in R* MP Script fm_mission_controller",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "patternHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

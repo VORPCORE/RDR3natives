@@ -1,0 +1,18 @@
+{
+    "0x9B6808EC46BE849B": {
+        "name": "_SET_DEFENSE_MODIFIER_FOR_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

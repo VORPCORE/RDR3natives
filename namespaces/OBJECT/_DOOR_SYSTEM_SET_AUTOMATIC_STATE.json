@@ -1,0 +1,18 @@
+{
+    "0x1BC47A9DEDC8DF5D": {
+        "name": "_DOOR_SYSTEM_SET_AUTOMATIC_STATE",
+        "comment": "_ALLOW_* - _ATTACH_*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "disable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

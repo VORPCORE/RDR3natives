@@ -1,0 +1,14 @@
+{
+    "0xD2BA051B94CA9BCC": {
+        "name": "_GET_NUM_CREATED_MISSION_PICKUPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

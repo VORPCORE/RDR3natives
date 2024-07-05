@@ -1,0 +1,26 @@
+{
+    "0xF8204EF17410BF43": {
+        "name": "_0xF8204EF17410BF43",
+        "comment": "Returns weaponHash",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponGroupHash"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

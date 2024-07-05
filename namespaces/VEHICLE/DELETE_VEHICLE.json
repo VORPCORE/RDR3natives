@@ -1,0 +1,16 @@
+{
+    "0xE20A909D8C4A70F8": {
+        "name": "DELETE_VEHICLE",
+        "comment": "Deletes a vehicle.\nThe vehicle must be a mission entity to delete, so call this before deleting: SET_ENTITY_AS_MISSION_ENTITY(vehicle, true, true);\n\neg how to use:\nSET_ENTITY_AS_MISSION_ENTITY(vehicle, true, true);\nDELETE_VEHICLE(&vehicle);\n\nDeletes the specified vehicle, then sets the handle pointed to by the pointer to NULL.",
+        "params": [
+            {
+                "type": "Vehicle*",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEA386986E786A54F",
+        "gta_jhash": "0x9803AF60"
+    }
+}

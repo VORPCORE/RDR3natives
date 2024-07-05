@@ -1,0 +1,22 @@
+{
+    "0xC5E7204F322E49EB": {
+        "name": "_REQUEST_TEXTURE",
+        "comment": "Creates a texture override data for ped and returns it's index.\nSo you can replace any texture of any ped's component.\nAlso, you can add overlays on it, such as aging, lipstick and more.\nTextures can be reused by multiple peds at once.\nYou can keep only 32 textures at once(including other peds).\n\nhttps://github.com/femga/rdr3_discoveries/blob/master/clothes/change_overlays_script.lua\nmaterialHash: https://github.com/femga/rdr3_discoveries/blob/master/clothes/cloth_drawable_albedo_normal_material_TEMPORARY.lua",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "albedoHash"
+            },
+            {
+                "type": "Hash",
+                "name": "normalHash"
+            },
+            {
+                "type": "Hash",
+                "name": "materialHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

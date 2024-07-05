@@ -1,0 +1,14 @@
+{
+    "0x7FB78B2199C10E92": {
+        "name": "_0x7FB78B2199C10E92",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

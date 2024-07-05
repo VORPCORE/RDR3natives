@@ -1,0 +1,14 @@
+{
+    "0x52FA31DB8F3AD25D": {
+        "name": "_TELEMETRY_BOUNTY_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

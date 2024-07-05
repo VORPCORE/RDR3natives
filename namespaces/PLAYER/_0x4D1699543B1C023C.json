@@ -1,0 +1,18 @@
+{
+    "0x4D1699543B1C023C": {
+        "name": "_0x4D1699543B1C023C",
+        "comment": "_SET_SPECIAL_ABILITY_*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

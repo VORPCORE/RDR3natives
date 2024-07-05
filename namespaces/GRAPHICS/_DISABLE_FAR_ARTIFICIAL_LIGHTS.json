@@ -1,0 +1,14 @@
+{
+    "0xCD284E2F6AC27EE9": {
+        "name": "_DISABLE_FAR_ARTIFICIAL_LIGHTS",
+        "comment": "Only used in guama1 R* Script\nDisables lod/distant lights when BOOL is set to true",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "disable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

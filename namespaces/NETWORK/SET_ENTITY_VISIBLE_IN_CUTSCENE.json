@@ -1,0 +1,28 @@
+{
+    "0xE0031D3C8F36AB82": {
+        "name": "SET_ENTITY_VISIBLE_IN_CUTSCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE0031D3C8F36AB82",
+        "gta_jhash": "0xDBFB067B"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x2D20E12E1990D584": {
+        "name": "_POKER_GET_GAME_SETTINGS_FOR_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

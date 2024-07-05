@@ -1,0 +1,22 @@
+{
+    "0xA0C683284DF027C7": {
+        "name": "_0xA0C683284DF027C7",
+        "comment": "Params: p1 is mostly 15, sometimes 1 in R* Scripts (Function: PLAYER_TOGGLE_PICK_UP_HATS)\n_SET_PLAYER_*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

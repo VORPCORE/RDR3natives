@@ -1,0 +1,44 @@
+{
+    "0xD2D9E04C0DF927F4": {
+        "name": "DRAW_LIGHT_WITH_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "int",
+                "name": "colorR"
+            },
+            {
+                "type": "int",
+                "name": "colorG"
+            },
+            {
+                "type": "int",
+                "name": "colorB"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF2A1B2771A01DBD4",
+        "gta_jhash": "0x6A396E9A"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0xFFB7E74E041150A4": {
+        "name": "GET_WIND_SPEED",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xA8CF1CC0AFCD3F12",
+        "gta_jhash": "0x098F0F3C"
+    }
+}

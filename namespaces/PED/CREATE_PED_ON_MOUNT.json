@@ -1,0 +1,38 @@
+{
+    "0xF89AA2BD01FC06B7": {
+        "name": "CREATE_PED_ON_MOUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "mount"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x6888A43C35A5F630": {
+        "name": "GET_NEAREST_PARTICIPANT_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1207"
+    }
+}

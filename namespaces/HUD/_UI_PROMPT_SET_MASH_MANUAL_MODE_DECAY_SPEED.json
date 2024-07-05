@@ -1,0 +1,18 @@
+{
+    "0x7D393C247FB9B431": {
+        "name": "_UI_PROMPT_SET_MASH_MANUAL_MODE_DECAY_SPEED",
+        "comment": "standard (prompt not held) rate: 0.035f\nfast (prompt held) rate: 0.015f\npunitive (been hit) rate: 0.14f",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

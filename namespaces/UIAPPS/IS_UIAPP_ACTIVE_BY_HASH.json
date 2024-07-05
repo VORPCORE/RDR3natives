@@ -1,0 +1,14 @@
+{
+    "0x25B7A0206BDFAC76": {
+        "name": "IS_UIAPP_ACTIVE_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "appNameHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x958DD43D41F89A47": {
+        "name": "GET_DEFAULT_ATTRIBUTE_RANK",
+        "comment": "attributeIndex: see SET_ATTRIBUTE_BASE_RANK",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attributeIndex"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

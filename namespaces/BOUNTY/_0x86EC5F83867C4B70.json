@@ -1,0 +1,14 @@
+{
+    "0x86EC5F83867C4B70": {
+        "name": "_0x86EC5F83867C4B70",
+        "comment": "_BOUNTY_C* or _BOUNTY_GET_*",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1436"
+    }
+}

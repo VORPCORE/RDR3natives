@@ -1,0 +1,28 @@
+{
+    "0x8C825BDC7741D37C": {
+        "name": "SET_HIGH_FALL_TASK",
+        "comment": "Makes the ped ragdoll like when falling from a great height",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8C825BDC7741D37C",
+        "gta_jhash": "0xBBB26172"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xC48152BC6B3E821C": {
+        "name": "_UI_FEED_POST_VOICE_CHAT_FEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xFD1BA1EEF7985BB8": {
+        "name": "_GET_CHAR_EXPRESSION",
+        "comment": "Gets MetaPedExpression at index specified\n\nFor index, see: _SET_CHAR_EXPRESSION\n\nOld name: _GET_PED_FACE_FEATURE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

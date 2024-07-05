@@ -1,0 +1,14 @@
+{
+    "0xF8C20282B237E3F7": {
+        "name": "_0xF8C20282B237E3F7",
+        "comment": "_SET_TRANSPORT_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

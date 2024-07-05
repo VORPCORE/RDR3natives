@@ -1,0 +1,22 @@
+{
+    "0x1F44B7E283C09EDE": {
+        "name": "_0x1F44B7E283C09EDE",
+        "comment": "Only used in SP R* Scripts\nParams: p2 = same as p2 of 0x3C529A827998F9B3\n_SET_PED_TA* - _SET_PED_TO_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0xA586FBEB32A53DBB": {
+        "name": "SPAWNPOINTS_IS_SEARCH_COMPLETE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xA586FBEB32A53DBB",
+        "gta_jhash": "0x0B60D2BA"
+    }
+}

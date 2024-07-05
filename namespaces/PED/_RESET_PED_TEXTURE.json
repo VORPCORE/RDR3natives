@@ -1,0 +1,14 @@
+{
+    "0x8472A1789478F82F": {
+        "name": "_RESET_PED_TEXTURE",
+        "comment": "Removes every texture layer but the base layer\nClearing texture's data: setting params to default values, but keep overlays.",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

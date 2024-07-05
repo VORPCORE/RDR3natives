@@ -1,0 +1,18 @@
+{
+    "0xBAE0EEDF93F05EAA": {
+        "name": "_SET_VEHICLE_DIRT_LEVEL_2",
+        "comment": "dirtLevel: 0.0 - 1.0",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "dirtLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

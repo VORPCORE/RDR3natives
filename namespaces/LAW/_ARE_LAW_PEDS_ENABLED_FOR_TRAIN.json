@@ -1,0 +1,9 @@
+{
+    "0xA22C46F16359471C": {
+        "name": "_ARE_LAW_PEDS_ENABLED_FOR_TRAIN",
+        "comment": "Only used in trainrobbery_ambient R* Script",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

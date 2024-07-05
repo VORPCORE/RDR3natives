@@ -1,0 +1,9 @@
+{
+    "0xB0CE5E5ED8BB3581": {
+        "name": "GET_NUMBER_OF_MICROSECONDS_SINCE_LAST_CALL",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

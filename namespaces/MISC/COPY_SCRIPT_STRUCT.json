@@ -1,0 +1,24 @@
+{
+    "0xF7AC7DC0DEE7C9BE": {
+        "name": "COPY_SCRIPT_STRUCT",
+        "comment": "Old name: _COPY_MEMORY",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "dst"
+            },
+            {
+                "type": "Any*",
+                "name": "src"
+            },
+            {
+                "type": "int",
+                "name": "size"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x213AEB2B90CBA7AC",
+        "gta_jhash": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x569F1E1237508DEB": {
+        "name": "_GET_ACTIVE_DYNAMIC_SCENARIO",
+        "comment": "Returns kneeling, sitting, squating, and sleeping scenario hashes",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

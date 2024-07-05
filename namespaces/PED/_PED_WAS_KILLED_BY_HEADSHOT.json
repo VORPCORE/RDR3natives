@@ -1,0 +1,14 @@
+{
+    "0x06FA94C835787C64": {
+        "name": "_PED_WAS_KILLED_BY_HEADSHOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

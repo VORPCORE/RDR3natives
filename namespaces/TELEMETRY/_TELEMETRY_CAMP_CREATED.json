@@ -1,0 +1,14 @@
+{
+    "0x565EAA726B2CE3B7": {
+        "name": "_TELEMETRY_CAMP_CREATED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

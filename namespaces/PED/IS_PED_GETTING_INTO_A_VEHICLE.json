@@ -1,0 +1,16 @@
+{
+    "0xBB062B2B5722478E": {
+        "name": "IS_PED_GETTING_INTO_A_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xBB062B2B5722478E",
+        "gta_jhash": "0x90E805AC"
+    }
+}

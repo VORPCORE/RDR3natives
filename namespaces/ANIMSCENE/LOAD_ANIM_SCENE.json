@@ -1,0 +1,14 @@
+{
+    "0xAF068580194D9DC7": {
+        "name": "LOAD_ANIM_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

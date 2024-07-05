@@ -1,0 +1,22 @@
+{
+    "0xB6E1A185C2B9319A": {
+        "name": "_PERSISTENCE_IS_SCENARIO_MARKED_AS_LOOTED_AT_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

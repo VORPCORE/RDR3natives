@@ -1,0 +1,14 @@
+{
+    "0xD42514C182121C23": {
+        "name": "_GET_DEFAULT_PED_WEAPON_COLLECTION",
+        "comment": "Returns weaponCollection Hash\nExample: RE_POLICECHASE_MALES_01: Carbine Repeater + Knife, LO_AGRO_PED",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pedModel"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

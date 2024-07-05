@@ -1,0 +1,14 @@
+{
+    "0x3F81EA4275D39D6F": {
+        "name": "_MAP_IS_DISCOVERY_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "discoveryHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

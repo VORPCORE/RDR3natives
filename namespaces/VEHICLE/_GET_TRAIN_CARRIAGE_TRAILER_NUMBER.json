@@ -1,0 +1,14 @@
+{
+    "0x60B7D1DCC312697D": {
+        "name": "_GET_TRAIN_CARRIAGE_TRAILER_NUMBER",
+        "comment": "Returns iNumCars - to be used with GET_TRAIN_CARRIAGE (trailerNumber)\n_C* (O, P, Q, R)",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

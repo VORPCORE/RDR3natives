@@ -1,0 +1,11 @@
+{
+    "0xDB917DA5C6835FCC": {
+        "name": "GET_CURRENT_LANGUAGE",
+        "comment": "0 = american (en-US)\n1 = french (fr-FR)\n2 = german (de-DE)\n3 = italian (it-IT)\n4 = spanish (es-ES)\n5 = brazilian (pt-BR)\n6 = polish (pl-PL)\n7 = russian (ru-RU)\n8 = korean (ko-KR)\n9 = chinesetrad (zh-TW)\n10 = japanese (ja-JP)\n11 = mexican (es-MX)\n12 = chinesesimp (zh-CN)",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x2BDD44CC428A7EAE",
+        "gta_jhash": "0x761BE00B"
+    }
+}

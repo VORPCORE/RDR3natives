@@ -1,0 +1,18 @@
+{
+    "0x3A8611BD7BDE84F7": {
+        "name": "_0x3A8611BD7BDE84F7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

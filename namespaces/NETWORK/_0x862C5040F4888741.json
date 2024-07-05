@@ -1,0 +1,18 @@
+{
+    "0x862C5040F4888741": {
+        "name": "_0x862C5040F4888741",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player1"
+            },
+            {
+                "type": "Player",
+                "name": "player2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

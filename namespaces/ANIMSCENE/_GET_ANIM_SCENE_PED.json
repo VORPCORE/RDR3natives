@@ -1,0 +1,22 @@
+{
+    "0xE5822422197BBBA3": {
+        "name": "_GET_ANIM_SCENE_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

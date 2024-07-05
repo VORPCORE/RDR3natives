@@ -1,0 +1,18 @@
+{
+    "0x606D529DADA3C940": {
+        "name": "_0x606D529DADA3C940",
+        "comment": "Not implemented.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

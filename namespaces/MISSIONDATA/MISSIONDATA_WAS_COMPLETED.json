@@ -1,0 +1,14 @@
+{
+    "0xE54DC27571D5EDC4": {
+        "name": "MISSIONDATA_WAS_COMPLETED",
+        "comment": "see: missions.meta",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "missionId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

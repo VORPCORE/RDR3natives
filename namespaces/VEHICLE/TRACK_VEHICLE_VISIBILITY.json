@@ -1,0 +1,16 @@
+{
+    "0x1F3969B140DEE157": {
+        "name": "TRACK_VEHICLE_VISIBILITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x64473AEFDCF47DCA",
+        "gta_jhash": "0x78122DC1"
+    }
+}

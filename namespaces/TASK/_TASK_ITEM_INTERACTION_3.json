@@ -1,0 +1,38 @@
+{
+    "0xD61D5E1AD9876DEB": {
+        "name": "_TASK_ITEM_INTERACTION_3",
+        "comment": "Params: p3, p4, p5, p6: 0, 0, 0, -1.0f in R* Scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

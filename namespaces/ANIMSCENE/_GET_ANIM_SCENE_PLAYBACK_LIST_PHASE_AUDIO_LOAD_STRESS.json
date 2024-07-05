@@ -1,0 +1,18 @@
+{
+    "0x9E036D5204FFBBC8": {
+        "name": "_GET_ANIM_SCENE_PLAYBACK_LIST_PHASE_AUDIO_LOAD_STRESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "phaseName"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

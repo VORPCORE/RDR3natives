@@ -1,0 +1,19 @@
+{
+    "0x4DEC5000F7B508F0": {
+        "name": "_NETWORK_SESSION_ARE_SESSION_IDS_EQUAL",
+        "comment": "Note: this native was added in build 1311.23",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "sessionId1"
+            },
+            {
+                "type": "Any*",
+                "name": "sessionId2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311",
+        "unused": true
+    }
+}

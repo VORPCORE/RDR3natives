@@ -1,0 +1,26 @@
+{
+    "0x67943537D179597C": {
+        "name": "_FORCE_LIGHTNING_FLASH_AT_COORDS",
+        "comment": "p3 is always -1.0f in the scripts",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

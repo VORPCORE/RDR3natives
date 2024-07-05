@@ -1,0 +1,14 @@
+{
+    "0x7981037A96E7D174": {
+        "name": "_CUFF_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x384D4765395E006C": {
+        "name": "SET_PLAYER_WANTED_LEVEL",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "wantedLevel"
+            },
+            {
+                "type": "BOOL",
+                "name": "disableNoMission"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x39FF19C64EF7DA5B",
+        "gta_jhash": "0xB7A0914B"
+    }
+}

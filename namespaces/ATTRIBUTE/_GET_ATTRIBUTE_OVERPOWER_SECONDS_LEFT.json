@@ -1,0 +1,18 @@
+{
+    "0x4C9F782180712742": {
+        "name": "_GET_ATTRIBUTE_OVERPOWER_SECONDS_LEFT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attributeIndex"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

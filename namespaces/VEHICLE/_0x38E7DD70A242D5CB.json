@@ -1,0 +1,18 @@
+{
+    "0x38E7DD70A242D5CB": {
+        "name": "_0x38E7DD70A242D5CB",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

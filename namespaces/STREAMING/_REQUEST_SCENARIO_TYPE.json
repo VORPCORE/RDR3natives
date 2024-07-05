@@ -1,0 +1,26 @@
+{
+    "0x19A6BE7D9C6884D3": {
+        "name": "_REQUEST_SCENARIO_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scenarioType"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

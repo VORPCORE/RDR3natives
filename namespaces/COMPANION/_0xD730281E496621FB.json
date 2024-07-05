@@ -1,0 +1,18 @@
+{
+    "0xD730281E496621FB": {
+        "name": "_0xD730281E496621FB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x58FCE43488F9F5F4": {
+        "name": "PLAY_STREAM_FRONTEND",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "streamId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x58FCE43488F9F5F4",
+        "gta_jhash": "0x2C2A16BC"
+    }
+}

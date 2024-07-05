@@ -1,0 +1,22 @@
+{
+    "0x931B241409216C1F": {
+        "name": "SET_PED_OWNS_ANIMAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "animal"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

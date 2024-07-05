@@ -1,0 +1,14 @@
+{
+    "0xE29D8CD66553DBAA": {
+        "name": "_0xE29D8CD66553DBAA",
+        "comment": "_SET_PED_R* -_SET_PED_S*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "horse"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x4BEF8DD75AF6C71C": {
+        "name": "REMOVE_EXTRA_CALMING_QUAD",
+        "comment": "Only used in rcm_crackpot1 R* Script: p0 = 0",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB1252E3E59A82AAF",
+        "gta_jhash": "0x45268B6F"
+    }
+}

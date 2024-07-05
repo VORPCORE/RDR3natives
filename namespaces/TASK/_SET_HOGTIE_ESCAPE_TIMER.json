@@ -1,0 +1,18 @@
+{
+    "0xAB591AE6B48B913E": {
+        "name": "_SET_HOGTIE_ESCAPE_TIMER",
+        "comment": "Sets the time it takes for a hogtied ped to escape\n-1.0f for ped to never escape",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

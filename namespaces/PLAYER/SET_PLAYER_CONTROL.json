@@ -1,0 +1,28 @@
+{
+    "0x4D51E59243281D80": {
+        "name": "SET_PLAYER_CONTROL",
+        "comment": "flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eSetPlayerControlFlags",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "BOOL",
+                "name": "bPreventHeadingChange"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8D32347D6D4C40A2",
+        "gta_jhash": "0xD17AFCD8"
+    }
+}

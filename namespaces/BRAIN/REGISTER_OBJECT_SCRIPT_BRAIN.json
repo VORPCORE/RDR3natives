@@ -1,0 +1,36 @@
+{
+    "0x16AF9B4EEAC3B305": {
+        "name": "REGISTER_OBJECT_SCRIPT_BRAIN",
+        "comment": "Registers a script for any object with a specific model hash.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "activationRange"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0BE84C318BA6EC22",
+        "gta_jhash": "0xB6BCC608"
+    }
+}

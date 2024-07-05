@@ -1,0 +1,24 @@
+{
+    "0x3D3D15AF7BCAAF83": {
+        "name": "START_GPS_MULTI_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "colorNameHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "onFoot"
+            },
+            {
+                "type": "BOOL",
+                "name": "inVehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3D3D15AF7BCAAF83",
+        "gta_jhash": "0xC3DCBEDB"
+    }
+}

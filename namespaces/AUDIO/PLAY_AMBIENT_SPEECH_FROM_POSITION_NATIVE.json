@@ -1,0 +1,28 @@
+{
+    "0xED640017ED337E45": {
+        "name": "PLAY_AMBIENT_SPEECH_FROM_POSITION_NATIVE",
+        "comment": "Old name: _PLAY_AMBIENT_SPEECH_AT_COORDS",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Any*",
+                "name": "params"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xED640017ED337E45",
+        "gta_jhash": "0xA1A1402E"
+    }
+}

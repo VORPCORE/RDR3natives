@@ -1,0 +1,22 @@
+{
+    "0x7ABE7095FB3D2581": {
+        "name": "_UI_PROMPT_SET_ROTATE_MODE",
+        "comment": "Used for controllers",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "counterclockwise"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

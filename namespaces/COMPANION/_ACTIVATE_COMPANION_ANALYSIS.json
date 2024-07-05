@@ -1,0 +1,14 @@
+{
+    "0xCBD9EC60495C728C": {
+        "name": "_ACTIVATE_COMPANION_ANALYSIS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x6D3AC61694A791C5": {
+        "name": "_GET_WEAPON_NAME_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

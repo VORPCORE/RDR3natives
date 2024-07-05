@@ -1,0 +1,16 @@
+{
+    "0x349CE7B56DAFD95C": {
+        "name": "IS_MOVE_BLEND_RATIO_STILL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "moveBlendRatio"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x349CE7B56DAFD95C",
+        "gta_jhash": "0xE9DAF877"
+    }
+}

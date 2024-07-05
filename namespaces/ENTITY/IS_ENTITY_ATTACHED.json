@@ -1,0 +1,16 @@
+{
+    "0xEE6AD63ABF59C0B7": {
+        "name": "IS_ENTITY_ATTACHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB346476EF1A64897",
+        "gta_jhash": "0xEC1479D5"
+    }
+}

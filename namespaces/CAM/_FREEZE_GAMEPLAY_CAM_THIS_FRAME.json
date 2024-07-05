@@ -1,0 +1,9 @@
+{
+    "0x027CAB2C3AF27010": {
+        "name": "_FREEZE_GAMEPLAY_CAM_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

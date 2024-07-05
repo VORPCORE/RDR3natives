@@ -1,0 +1,14 @@
+{
+    "0x7409669C5ED50144": {
+        "name": "_IS_GOAL_CONTEXT_ACTIVE",
+        "comment": "goalContext: see _ACTIVATE_GOAL_CONTEXT",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "goalContext"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

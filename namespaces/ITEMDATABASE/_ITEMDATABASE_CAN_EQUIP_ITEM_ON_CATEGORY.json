@@ -1,0 +1,22 @@
+{
+    "0x856FF92C57742AE5": {
+        "name": "_ITEMDATABASE_CAN_EQUIP_ITEM_ON_CATEGORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "key"
+            },
+            {
+                "type": "Hash",
+                "name": "category"
+            },
+            {
+                "type": "Hash",
+                "name": "slotId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

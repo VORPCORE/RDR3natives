@@ -1,0 +1,14 @@
+{
+    "0x8785E6E40C7A8819": {
+        "name": "GET_IS_PED_AIMING_IN_THE_AIR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x5AF19B6CC2115D34": {
+        "name": "_SET_SCENARIO_POINT_FLAG",
+        "comment": "flag: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/CScenarioPointFlags__Flags",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

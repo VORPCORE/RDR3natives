@@ -1,0 +1,18 @@
+{
+    "0xD460135C98940274": {
+        "name": "_0xD460135C98940274",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

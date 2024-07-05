@@ -1,0 +1,18 @@
+{
+    "0x104D9A7B1C0D0783": {
+        "name": "_0x104D9A7B1C0D0783",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

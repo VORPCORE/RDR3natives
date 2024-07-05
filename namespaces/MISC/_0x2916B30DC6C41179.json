@@ -1,0 +1,14 @@
+{
+    "0x2916B30DC6C41179": {
+        "name": "_0x2916B30DC6C41179",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weatherType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

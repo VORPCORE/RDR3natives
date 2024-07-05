@@ -1,0 +1,9 @@
+{
+    "0xC43CD2668B204419": {
+        "name": "_GET_MAX_NUM_INSTRUCTIONS",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

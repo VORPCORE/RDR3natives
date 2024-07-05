@@ -1,0 +1,38 @@
+{
+    "0x139805C2A67C4795": {
+        "name": "TASK_MOVE_NETWORK_BY_NAME_WITH_INIT_PARAMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "moveNetworkDefName"
+            },
+            {
+                "type": "Any*",
+                "name": "taskData"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

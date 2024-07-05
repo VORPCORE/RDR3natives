@@ -1,0 +1,16 @@
+{
+    "0x42FDD0F017B1E38E": {
+        "name": "GET_PED_RELATIONSHIP_GROUP_DEFAULT_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207",
+        "gta_hash": "0x42FDD0F017B1E38E",
+        "gta_jhash": "0x714BD6E4"
+    }
+}

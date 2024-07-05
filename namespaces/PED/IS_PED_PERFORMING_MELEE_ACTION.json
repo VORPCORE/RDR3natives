@@ -1,0 +1,24 @@
+{
+    "0xDCCA191DF9980FD7": {
+        "name": "IS_PED_PERFORMING_MELEE_ACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xDCCA191DF9980FD7",
+        "gta_jhash": "0x139C0875"
+    }
+}

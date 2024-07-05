@@ -1,0 +1,15 @@
+{
+    "0x4835413EA6F9C9CD": {
+        "name": "_0x4835413EA6F9C9CD",
+        "comment": "Note: this native was added in build 1311.23",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311",
+        "unused": true
+    }
+}

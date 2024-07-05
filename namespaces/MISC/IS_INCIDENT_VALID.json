@@ -1,0 +1,16 @@
+{
+    "0x39F2B1BAD412246A": {
+        "name": "IS_INCIDENT_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "incidentId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xC8BC6461E629BEAA",
+        "gta_jhash": "0x31FD0BA4"
+    }
+}

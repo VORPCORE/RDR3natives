@@ -1,0 +1,17 @@
+{
+    "0x6D1431744182CDE8": {
+        "name": "BG_END_CONTEXT_HASH",
+        "comment": "Hashed version of BG_END_CONTEXT",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "contextHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x107E5CC7CA942BC1",
+        "gta_jhash": "0x3D981EBF"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x4415F8A6C536D39F": {
+        "name": "IS_CAM_RENDERING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x02EC0AF5C5A49B7A",
+        "gta_jhash": "0x6EC6B5B2"
+    }
+}

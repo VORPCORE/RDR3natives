@@ -1,0 +1,40 @@
+{
+    "0x824E1C26A14CB817": {
+        "name": "REMOVE_MODEL_SWAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "Hash",
+                "name": "originalModel"
+            },
+            {
+                "type": "Hash",
+                "name": "newModel"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x033C0F9A64E229AE",
+        "gta_jhash": "0xCE0AA8BC"
+    }
+}

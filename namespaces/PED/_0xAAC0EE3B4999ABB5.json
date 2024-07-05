@@ -1,0 +1,18 @@
+{
+    "0xAAC0EE3B4999ABB5": {
+        "name": "_0xAAC0EE3B4999ABB5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

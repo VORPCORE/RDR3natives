@@ -1,0 +1,14 @@
+{
+    "0x6786D7AFAC3162B3": {
+        "name": "_MAP_DISABLE_REGION_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "regionHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

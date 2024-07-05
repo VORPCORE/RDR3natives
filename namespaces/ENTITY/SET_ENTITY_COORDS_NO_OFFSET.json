@@ -1,0 +1,40 @@
+{
+    "0x239A3351AC1DA385": {
+        "name": "SET_ENTITY_COORDS_NO_OFFSET",
+        "comment": "Axis - Invert Axis Flags",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "BOOL",
+                "name": "xAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "yAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "zAxis"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x239A3351AC1DA385",
+        "gta_jhash": "0x4C83DE8D"
+    }
+}

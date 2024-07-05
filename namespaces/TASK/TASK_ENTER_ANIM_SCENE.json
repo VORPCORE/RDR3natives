@@ -1,0 +1,46 @@
+{
+    "0xC2329B0206426644": {
+        "name": "TASK_ENTER_ANIM_SCENE",
+        "comment": "flags:\nMOVE_WHILST_WAITING_FOR_PATH = (1 << 0),\nDO_NOT_STAND_STILL_AT_END_OF_PATH = (1 << 1),\nSKIP_NAVIGATION = (1 << 2),\nTEASF_AUTO_START_ANIM_SCENE = (1 << 3),\nFORCE_STAND_STILL_AT_END_OF_PATH = (1 << 6),\nENTER_ANIM_SCENE_DONT_FOLLOW_NAVMESH = (1 << 7)",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "entityName"
+            },
+            {
+                "type": "const char*",
+                "name": "playbackListName"
+            },
+            {
+                "type": "float",
+                "name": "enterSpeed"
+            },
+            {
+                "type": "BOOL",
+                "name": "bAutoStart"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

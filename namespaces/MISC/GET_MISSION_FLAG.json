@@ -1,0 +1,11 @@
+{
+    "0xB15CD1CF58771DE1": {
+        "name": "GET_MISSION_FLAG",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xA33CDCCDA663159E",
+        "gta_jhash": "0x95115F97"
+    }
+}

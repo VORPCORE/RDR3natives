@@ -1,0 +1,14 @@
+{
+    "0xB8E2D655E1D5BD39": {
+        "name": "_0xB8E2D655E1D5BD39",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

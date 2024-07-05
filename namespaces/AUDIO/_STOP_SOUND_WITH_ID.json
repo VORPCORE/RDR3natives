@@ -1,0 +1,14 @@
+{
+    "0x3210BCB36AF7621B": {
+        "name": "_STOP_SOUND_WITH_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

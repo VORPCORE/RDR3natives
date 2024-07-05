@@ -1,0 +1,22 @@
+{
+    "0x886171A12F400B89": {
+        "name": "_GET_ENTITIES_IN_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemSet"
+            },
+            {
+                "type": "int",
+                "name": "entityType"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

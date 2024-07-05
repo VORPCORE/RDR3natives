@@ -1,0 +1,26 @@
+{
+    "0xF4823C813CB8277D": {
+        "name": "_REMOVE_AMMO_FROM_PED",
+        "comment": "removeReason must be REMOVE_REASON_USED, REMOVE_REASON_GIVEN, REMOVE_REASON_DROPPED or REMOVE_REASON_DEBUG, unless amount is -1\n\nremoveReason: see REMOVE_WEAPON_FROM_PED",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "removeReason"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

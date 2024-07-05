@@ -1,0 +1,14 @@
+{
+    "0x81D7183E7A8ECA72": {
+        "name": "_DATABINDING_READ_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "entryId"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

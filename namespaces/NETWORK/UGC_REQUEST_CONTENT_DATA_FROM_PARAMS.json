@@ -1,0 +1,32 @@
+{
+    "0x7FD2990AF016795E": {
+        "name": "UGC_REQUEST_CONTENT_DATA_FROM_PARAMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            },
+            {
+                "type": "const char*",
+                "name": "contentId"
+            },
+            {
+                "type": "int",
+                "name": "fileId"
+            },
+            {
+                "type": "int",
+                "name": "fileVersion"
+            },
+            {
+                "type": "int",
+                "name": "languageId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x7FD2990AF016795E",
+        "gta_jhash": "0x38FC2EEB"
+    }
+}

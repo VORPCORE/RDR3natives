@@ -1,0 +1,14 @@
+{
+    "0x38D9D50F2085E9B3": {
+        "name": "_0x38D9D50F2085E9B3",
+        "comment": "ANIMPOSTFX_*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "effectNameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

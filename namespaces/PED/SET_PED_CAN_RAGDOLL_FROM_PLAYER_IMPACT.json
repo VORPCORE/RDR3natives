@@ -1,0 +1,20 @@
+{
+    "0xDF993EE5E90ABA25": {
+        "name": "SET_PED_CAN_RAGDOLL_FROM_PLAYER_IMPACT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDF993EE5E90ABA25",
+        "gta_jhash": "0xE9BD733A"
+    }
+}

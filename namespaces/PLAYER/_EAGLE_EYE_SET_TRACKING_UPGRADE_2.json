@@ -1,0 +1,18 @@
+{
+    "0x6FA957D1B55941C1": {
+        "name": "_EAGLE_EYE_SET_TRACKING_UPGRADE_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

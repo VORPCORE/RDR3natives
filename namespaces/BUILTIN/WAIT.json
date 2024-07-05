@@ -1,0 +1,16 @@
+{
+    "0x4EDE34FBADD967A6": {
+        "name": "WAIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ms"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4EDE34FBADD967A6",
+        "gta_jhash": "0x7715C03B"
+    }
+}

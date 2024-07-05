@@ -1,0 +1,18 @@
+{
+    "0xEEE4829304F93EEE": {
+        "name": "_SET_SCENARIO_POINT_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            },
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

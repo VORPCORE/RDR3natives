@@ -1,0 +1,14 @@
+{
+    "0xE9EB79CBF9C0F58A": {
+        "name": "_0xE9EB79CBF9C0F58A",
+        "comment": "Returns p1 value for 0xE4D6E45F491A66CB",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

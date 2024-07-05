@@ -1,0 +1,14 @@
+{
+    "0x87E6302FC61208CC": {
+        "name": "_UNLOAD_SPEECH_CONTEXT",
+        "comment": "_UNLOAD_[A-C]* - USE_*",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "speechContext"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

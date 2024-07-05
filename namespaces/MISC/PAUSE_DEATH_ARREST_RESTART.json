@@ -1,0 +1,16 @@
+{
+    "0x66AB6B6C7E72F393": {
+        "name": "PAUSE_DEATH_ARREST_RESTART",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2C2B3493FBF51C71",
+        "gta_jhash": "0x296574AE"
+    }
+}

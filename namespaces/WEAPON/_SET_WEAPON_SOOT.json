@@ -1,0 +1,22 @@
+{
+    "0xA9EF4AD10BDDDB57": {
+        "name": "_SET_WEAPON_SOOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            },
+            {
+                "type": "float",
+                "name": "level"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

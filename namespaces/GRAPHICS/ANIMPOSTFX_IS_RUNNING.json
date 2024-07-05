@@ -1,0 +1,16 @@
+{
+    "0x4A123E85D7C4CA0B": {
+        "name": "ANIMPOSTFX_IS_RUNNING",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x36AD3E690DA5ACEB",
+        "gta_jhash": "0x089D5921"
+    }
+}

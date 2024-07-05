@@ -1,0 +1,14 @@
+{
+    "0xDA801F7F6A5278D3": {
+        "name": "_0xDA801F7F6A5278D3",
+        "comment": "_NETWORK_GET_* or _NETWORK_IS_*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "0xB61C8E878A4199CA": {
+        "name": "GET_SAFE_COORD_FOR_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "onGround"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outPosition"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB61C8E878A4199CA",
+        "gta_jhash": "0xB370270A"
+    }
+}

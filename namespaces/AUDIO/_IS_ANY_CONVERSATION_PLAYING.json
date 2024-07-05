@@ -1,0 +1,14 @@
+{
+    "0xA2CAC9DEF0195E6F": {
+        "name": "_IS_ANY_CONVERSATION_PLAYING",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xA09CFD29100F06C3": {
+        "name": "TASK_HORSE_ACTION",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/tasks/TASK_HORSE_ACTION\nParams: p2, p3 are set to 0 in R* Scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "action"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

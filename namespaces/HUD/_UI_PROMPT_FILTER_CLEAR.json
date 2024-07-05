@@ -1,0 +1,9 @@
+{
+    "0x6A2F820452017EA2": {
+        "name": "_UI_PROMPT_FILTER_CLEAR",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

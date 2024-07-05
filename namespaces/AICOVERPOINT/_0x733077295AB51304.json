@@ -1,0 +1,14 @@
+{
+    "0x733077295AB51304": {
+        "name": "_0x733077295AB51304",
+        "comment": "args: f_0 = Volume Handle, f_2 = integer (-1, 32 used in R* Scripts)",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

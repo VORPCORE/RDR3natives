@@ -1,0 +1,14 @@
+{
+    "0xEFC4303DDC6E60D3": {
+        "name": "_IS_PED_LEADING_HORSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

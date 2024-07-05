@@ -1,0 +1,16 @@
+{
+    "0xDEB2B99A1AF1A2A6": {
+        "name": "NETWORK_START_USER_CONTENT_PERMISSIONS_CHECK",
+        "comment": "Always returns -1. Seems to be XB1 specific.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xDEB2B99A1AF1A2A6",
+        "gta_jhash": ""
+    }
+}

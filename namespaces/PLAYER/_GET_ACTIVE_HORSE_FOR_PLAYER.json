@@ -1,0 +1,14 @@
+{
+    "0x46FA0AE18F4C7FA9": {
+        "name": "_GET_ACTIVE_HORSE_FOR_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

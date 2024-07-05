@@ -1,0 +1,14 @@
+{
+    "0x3AA0CDC63696166D": {
+        "name": "_0x3AA0CDC63696166D",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

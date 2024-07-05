@@ -1,0 +1,11 @@
+{
+    "0xA40C2F51FB589E9A": {
+        "name": "IS_FOLLOW_VEHICLE_CAM_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xCBBDE6D335D6D496",
+        "gta_jhash": "0x8DD49B77"
+    }
+}

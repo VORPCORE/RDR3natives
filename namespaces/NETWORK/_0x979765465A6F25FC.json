@@ -1,0 +1,19 @@
+{
+    "0x979765465A6F25FC": {
+        "name": "_0x979765465A6F25FC",
+        "comment": "Must be called from a background script, otherwise it will do nothing.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true
+    }
+}

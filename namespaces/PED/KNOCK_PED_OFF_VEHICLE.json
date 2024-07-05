@@ -1,0 +1,16 @@
+{
+    "0x45BBCBA77C29A841": {
+        "name": "KNOCK_PED_OFF_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x45BBCBA77C29A841",
+        "gta_jhash": "0xACDD0674"
+    }
+}

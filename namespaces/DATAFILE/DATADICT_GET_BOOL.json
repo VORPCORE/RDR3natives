@@ -1,0 +1,20 @@
+{
+    "0x175E915A486EE548": {
+        "name": "DATADICT_GET_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1186940ED72FFEEC",
+        "gta_jhash": "0x8876C872"
+    }
+}

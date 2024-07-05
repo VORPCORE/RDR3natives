@@ -1,0 +1,14 @@
+{
+    "0x8BA3D7B1E83EF803": {
+        "name": "_0x8BA3D7B1E83EF803",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

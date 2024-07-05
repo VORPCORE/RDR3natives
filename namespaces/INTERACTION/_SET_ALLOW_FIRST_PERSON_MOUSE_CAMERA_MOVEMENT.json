@@ -1,0 +1,9 @@
+{
+    "0x0546B117BB17548B": {
+        "name": "_SET_ALLOW_FIRST_PERSON_MOUSE_CAMERA_MOVEMENT",
+        "comment": "Allows camera to be moved if middle mouse button is held while in first person\nMust be called every frame\n_SET*",
+        "params": [],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

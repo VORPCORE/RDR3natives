@@ -1,0 +1,14 @@
+{
+    "0x704F92B3AF20D857": {
+        "name": "_0x704F92B3AF20D857",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "setting"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

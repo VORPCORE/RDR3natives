@@ -1,0 +1,14 @@
+{
+    "0x7EE3A8660F38797E": {
+        "name": "_0x7EE3A8660F38797E",
+        "comment": "_IS_PED_H* - _IS_PED_I*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

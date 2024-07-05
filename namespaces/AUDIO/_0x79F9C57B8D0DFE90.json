@@ -1,0 +1,18 @@
+{
+    "0x79F9C57B8D0DFE90": {
+        "name": "_0x79F9C57B8D0DFE90",
+        "comment": "Only used in R* SP Script cv_mus_shared",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "convoRoot"
+            },
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

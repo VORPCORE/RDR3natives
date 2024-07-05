@@ -1,0 +1,24 @@
+{
+    "0xCDD36C9E5C469070": {
+        "name": "GET_INTERIOR_AT_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "Interior",
+        "build": "1207",
+        "gta_hash": "0xB0F7F8663821D9C3",
+        "gta_jhash": "0xA17FBF37"
+    }
+}

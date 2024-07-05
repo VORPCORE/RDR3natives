@@ -1,0 +1,14 @@
+{
+    "0xF7C180F57F85D0B8": {
+        "name": "UI_STATE_MACHINE_CAN_REQUEST_TRANSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

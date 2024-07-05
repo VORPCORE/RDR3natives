@@ -1,0 +1,14 @@
+{
+    "0x2DD5F78D73B24172": {
+        "name": "SIMULATED_ROUTE_GET_ETA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

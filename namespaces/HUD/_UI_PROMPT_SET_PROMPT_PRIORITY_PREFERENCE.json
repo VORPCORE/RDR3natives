@@ -1,0 +1,14 @@
+{
+    "0x530A428705BE5DEF": {
+        "name": "_UI_PROMPT_SET_PROMPT_PRIORITY_PREFERENCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

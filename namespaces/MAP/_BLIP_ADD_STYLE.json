@@ -1,0 +1,18 @@
+{
+    "0xBD62D98799A3DAF0": {
+        "name": "_BLIP_ADD_STYLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "Hash",
+                "name": "styleHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

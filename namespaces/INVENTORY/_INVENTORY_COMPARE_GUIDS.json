@@ -1,0 +1,18 @@
+{
+    "0x4C543D5DFCD2DAFD": {
+        "name": "_INVENTORY_COMPARE_GUIDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "guid1"
+            },
+            {
+                "type": "Any*",
+                "name": "guid2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x117C70D1F5730B5E": {
+        "name": "IS_PED_VAULTING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x117C70D1F5730B5E",
+        "gta_jhash": "0xC3169BDA"
+    }
+}

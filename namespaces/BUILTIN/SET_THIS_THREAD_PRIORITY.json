@@ -1,0 +1,16 @@
+{
+    "0x42B65DEEF2EDF2A1": {
+        "name": "SET_THIS_THREAD_PRIORITY",
+        "comment": "THREAD_PRIO_HIGHEST = 0\nTHREAD_PRIO_NORMAL = 1\nTHREAD_PRIO_LOWEST = 2\nTHREAD_PRIO_MANUAL_UPDATE = 100",
+        "params": [
+            {
+                "type": "int",
+                "name": "priority"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x42B65DEEF2EDF2A1",
+        "gta_jhash": ""
+    }
+}

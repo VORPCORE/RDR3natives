@@ -1,0 +1,14 @@
+{
+    "0xEF324E9550A394D5": {
+        "name": "WAS_ANIM_SCENE_SKIPPED",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xAE7BF7CA9E4BA48D": {
+        "name": "REMOVE_GRASS_CULL_SPHERE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "handle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x61F95E5BB3E0A8C6",
+        "gta_jhash": ""
+    }
+}

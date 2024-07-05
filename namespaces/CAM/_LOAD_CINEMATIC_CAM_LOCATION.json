@@ -1,0 +1,14 @@
+{
+    "0x1B3C2D961F5FC0E1": {
+        "name": "_LOAD_CINEMATIC_CAM_LOCATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "locationDictName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

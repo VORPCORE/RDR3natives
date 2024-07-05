@@ -1,0 +1,14 @@
+{
+    "0x240915043CB799D7": {
+        "name": "SIMULATED_ROUTE_IS_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

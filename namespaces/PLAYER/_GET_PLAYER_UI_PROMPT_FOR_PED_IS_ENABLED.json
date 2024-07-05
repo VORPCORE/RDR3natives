@@ -1,0 +1,26 @@
+{
+    "0xEA8F168A76A0B9BC": {
+        "name": "_GET_PLAYER_UI_PROMPT_FOR_PED_IS_ENABLED",
+        "comment": "Returns true if PromptType is enabled for ped (mount)\nParams: See 0x0751D461F06E41CE",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "promptType"
+            },
+            {
+                "type": "int",
+                "name": "promptMode"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

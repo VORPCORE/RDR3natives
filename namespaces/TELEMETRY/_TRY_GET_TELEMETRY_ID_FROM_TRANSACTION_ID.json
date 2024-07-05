@@ -1,0 +1,18 @@
+{
+    "0xF184B3ECE36219CF": {
+        "name": "_TRY_GET_TELEMETRY_ID_FROM_TRANSACTION_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "transactionId"
+            },
+            {
+                "type": "Any*",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

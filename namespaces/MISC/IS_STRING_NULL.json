@@ -1,0 +1,16 @@
+{
+    "0x602102324604D96B": {
+        "name": "IS_STRING_NULL",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF22B6C47C6EAB066",
+        "gta_jhash": "0x8E71E00F"
+    }
+}

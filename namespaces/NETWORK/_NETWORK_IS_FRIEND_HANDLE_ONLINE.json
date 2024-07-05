@@ -1,0 +1,14 @@
+{
+    "0xE348D1404BD80146": {
+        "name": "_NETWORK_IS_FRIEND_HANDLE_ONLINE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

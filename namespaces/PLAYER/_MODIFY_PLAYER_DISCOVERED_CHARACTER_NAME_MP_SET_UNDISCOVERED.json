@@ -1,0 +1,14 @@
+{
+    "0xFB0E622B401884D3": {
+        "name": "_MODIFY_PLAYER_DISCOVERED_CHARACTER_NAME_MP_SET_UNDISCOVERED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "discoveryHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

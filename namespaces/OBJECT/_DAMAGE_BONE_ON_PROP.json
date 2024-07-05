@@ -1,0 +1,18 @@
+{
+    "0xE4EFB315BCD2A838": {
+        "name": "_DAMAGE_BONE_ON_PROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "int",
+                "name": "bone"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

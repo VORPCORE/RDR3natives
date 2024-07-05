@@ -1,0 +1,14 @@
+{
+    "0xDE8C5B9F65017FA1": {
+        "name": "_0xDE8C5B9F65017FA1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

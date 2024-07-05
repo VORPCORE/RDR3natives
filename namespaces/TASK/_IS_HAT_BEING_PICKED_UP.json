@@ -1,0 +1,14 @@
+{
+    "0x11CD066F54DA0133": {
+        "name": "_IS_HAT_BEING_PICKED_UP",
+        "comment": "Returns true while a hat is being picked up\n_IS_A* - _IS_D*",
+        "params": [
+            {
+                "type": "Object",
+                "name": "hatObject"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

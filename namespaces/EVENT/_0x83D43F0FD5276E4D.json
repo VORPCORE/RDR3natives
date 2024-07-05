@@ -1,0 +1,18 @@
+{
+    "0x83D43F0FD5276E4D": {
+        "name": "_0x83D43F0FD5276E4D",
+        "comment": "_GET*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x082C043C7AFC3747": {
+        "name": "_0x082C043C7AFC3747",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "compositeId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

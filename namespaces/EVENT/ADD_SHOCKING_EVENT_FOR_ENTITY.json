@@ -1,0 +1,60 @@
+{
+    "0x7FD8F3BE76F89422": {
+        "name": "ADD_SHOCKING_EVENT_FOR_ENTITY",
+        "comment": "eventType: https://alloc8or.re/rdr3/doc/enums/eEventType.txt",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "eventType"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "int",
+                "name": "p10"
+            },
+            {
+                "type": "int",
+                "name": "p11"
+            }
+        ],
+        "return_type": "ScrHandle",
+        "build": "1207",
+        "gta_hash": "0x7FD8F3BE76F89422",
+        "gta_jhash": "0xA81B5B71"
+    }
+}

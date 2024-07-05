@@ -1,0 +1,9 @@
+{
+    "0xCE5E79D9E303628E": {
+        "name": "_COMMERCE_STORE_IS_OPEN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1355"
+    }
+}

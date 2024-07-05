@@ -1,0 +1,18 @@
+{
+    "0xA6BF569956C60A60": {
+        "name": "_UGC_QUERY_GET_MISSION_DESC_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xFDECCA06E8B81346": {
+        "name": "_0xFDECCA06E8B81346",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

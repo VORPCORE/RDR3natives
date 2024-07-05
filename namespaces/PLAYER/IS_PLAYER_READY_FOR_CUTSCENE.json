@@ -1,0 +1,16 @@
+{
+    "0xAA67BCB0097F2FA3": {
+        "name": "IS_PLAYER_READY_FOR_CUTSCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x908CBECC2CAA3690",
+        "gta_jhash": "0xBB77E9CD"
+    }
+}

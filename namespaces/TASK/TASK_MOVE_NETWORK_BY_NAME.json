@@ -1,0 +1,36 @@
+{
+    "0x2D537BA194896636": {
+        "name": "TASK_MOVE_NETWORK_BY_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "task"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2D537BA194896636",
+        "gta_jhash": "0x6F5D215F"
+    }
+}

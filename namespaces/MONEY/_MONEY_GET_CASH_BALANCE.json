@@ -1,0 +1,9 @@
+{
+    "0x0C02DABFA3B98176": {
+        "name": "_MONEY_GET_CASH_BALANCE",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xB65927F861E7AE39": {
+        "name": "_0xB65927F861E7AE39",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

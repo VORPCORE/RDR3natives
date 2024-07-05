@@ -1,0 +1,22 @@
+{
+    "0xE737D5F14304A2EC": {
+        "name": "_0xE737D5F14304A2EC",
+        "comment": "Only used in R* Script nb_animal_attack: p2 = 120000\n_SET_PED_SH* - _SET_PED_SP*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0xE72CDBA7F0A02DD6": {
+        "name": "CREATE_CAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "camName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Cam",
+        "build": "1207",
+        "gta_hash": "0xC3981DCE61D9E13F",
+        "gta_jhash": "0xE9BF2A7D"
+    }
+}

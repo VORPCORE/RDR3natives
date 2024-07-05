@@ -1,0 +1,22 @@
+{
+    "0x615DC4A82E90BB48": {
+        "name": "_0x615DC4A82E90BB48",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

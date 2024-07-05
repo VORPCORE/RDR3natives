@@ -1,0 +1,14 @@
+{
+    "0xD70C7A30412F8FA0": {
+        "name": "_0xD70C7A30412F8FA0",
+        "comment": "Used in SP R* Scripts only\n_IS_ANIM_SCENE_*",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

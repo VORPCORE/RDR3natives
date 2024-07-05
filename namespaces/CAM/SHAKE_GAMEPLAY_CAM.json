@@ -1,0 +1,20 @@
+{
+    "0xD9B31B4650520529": {
+        "name": "SHAKE_GAMEPLAY_CAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "shakeName"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xFD55E49555E017CF",
+        "gta_jhash": "0xF2EFE660"
+    }
+}

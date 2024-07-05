@@ -1,0 +1,11 @@
+{
+    "0xD37401D78A929A49": {
+        "name": "REMOVE_SCENARIO_BLOCKING_AREAS",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD37401D78A929A49",
+        "gta_jhash": "0x4DDF845F"
+    }
+}

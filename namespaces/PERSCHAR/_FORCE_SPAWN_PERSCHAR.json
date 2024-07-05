@@ -1,0 +1,18 @@
+{
+    "0x0CADC3A977997472": {
+        "name": "_FORCE_SPAWN_PERSCHAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

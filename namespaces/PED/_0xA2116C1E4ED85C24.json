@@ -1,0 +1,18 @@
+{
+    "0xA2116C1E4ED85C24": {
+        "name": "_0xA2116C1E4ED85C24",
+        "comment": "_SET_PED_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "inverted"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

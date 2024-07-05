@@ -1,0 +1,14 @@
+{
+    "0x3088634CF8C819CF": {
+        "name": "RELEASE_PED_VISIBILITY_TRACKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

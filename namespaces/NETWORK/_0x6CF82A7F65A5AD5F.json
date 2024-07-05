@@ -1,0 +1,18 @@
+{
+    "0x6CF82A7F65A5AD5F": {
+        "name": "_0x6CF82A7F65A5AD5F",
+        "comment": "_NETWORK_GET_A* - _NETWORK_GET_D*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1207"
+    }
+}

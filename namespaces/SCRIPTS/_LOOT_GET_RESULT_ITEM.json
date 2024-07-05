@@ -1,0 +1,22 @@
+{
+    "0x4293B44A855F82CC": {
+        "name": "_LOOT_GET_RESULT_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "rpcGuid"
+            },
+            {
+                "type": "int",
+                "name": "itemIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "outResultItem"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

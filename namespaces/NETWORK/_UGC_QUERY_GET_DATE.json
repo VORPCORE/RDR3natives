@@ -1,0 +1,22 @@
+{
+    "0xE0CB4AB15CB32710": {
+        "name": "_UGC_QUERY_GET_DATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

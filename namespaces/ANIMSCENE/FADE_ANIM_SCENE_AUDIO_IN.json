@@ -1,0 +1,18 @@
+{
+    "0xA41351EA2A18A0AD": {
+        "name": "FADE_ANIM_SCENE_AUDIO_IN",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

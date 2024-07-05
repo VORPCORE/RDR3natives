@@ -1,0 +1,14 @@
+{
+    "0xEF371232BC6053E1": {
+        "name": "_0xEF371232BC6053E1",
+        "comment": "_ADD_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

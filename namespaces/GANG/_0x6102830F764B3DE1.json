@@ -1,0 +1,14 @@
+{
+    "0x6102830F764B3DE1": {
+        "name": "_0x6102830F764B3DE1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

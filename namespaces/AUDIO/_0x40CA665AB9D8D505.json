@@ -1,0 +1,18 @@
+{
+    "0x40CA665AB9D8D505": {
+        "name": "_0x40CA665AB9D8D505",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "convoRoot"
+            },
+            {
+                "type": "int",
+                "name": "singleLineIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

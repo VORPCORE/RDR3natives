@@ -1,0 +1,44 @@
+{
+    "0xE2B2BB7DAC280515": {
+        "name": "SET_GAMEPLAY_VEHICLE_HINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA2297E18F3E71C2E",
+        "gta_jhash": "0x2C9A11D8"
+    }
+}

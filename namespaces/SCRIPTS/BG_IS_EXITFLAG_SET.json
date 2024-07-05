@@ -1,0 +1,12 @@
+{
+    "0x2238EC3EC631AB1F": {
+        "name": "BG_IS_EXITFLAG_SET",
+        "comment": "Returns true if GtaThread+0x77C is equal to 1.\n\nOld name: _BG_EXITED_BECAUSE_BACKGROUND_THREAD_STOPPED",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x836B62713E0534CA",
+        "gta_jhash": "0x22B9F132"
+    }
+}

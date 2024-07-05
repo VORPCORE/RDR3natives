@@ -1,0 +1,14 @@
+{
+    "0x007FF852DCF49DA4": {
+        "name": "NETWORK_SET_LOCAL_PLAYER_PENDING_FAST_INSTANCE_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "instanceId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

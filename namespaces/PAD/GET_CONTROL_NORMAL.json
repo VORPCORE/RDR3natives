@@ -1,0 +1,20 @@
+{
+    "0xEC3C9B8D5327B563": {
+        "name": "GET_CONTROL_NORMAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "Hash",
+                "name": "action"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xEC3C9B8D5327B563",
+        "gta_jhash": "0x5DE226A5"
+    }
+}

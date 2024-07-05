@@ -1,0 +1,34 @@
+{
+    "0x66B957AAC2EAAEAB": {
+        "name": "_UPDATE_SHOP_ITEM_WEARABLE_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "Hash",
+                "name": "wearableState"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

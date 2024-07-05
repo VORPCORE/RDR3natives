@@ -1,0 +1,40 @@
+{
+    "0xD3A4A95FC94FE83B": {
+        "name": "SET_PARTICLE_FX_LOOPED_OFFSETS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF7DDEBEC43483C43",
+        "gta_jhash": "0x641F7790"
+    }
+}

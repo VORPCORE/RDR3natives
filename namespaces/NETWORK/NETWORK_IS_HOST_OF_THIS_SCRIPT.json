@@ -1,0 +1,11 @@
+{
+    "0x83CD99A1E6061AB5": {
+        "name": "NETWORK_IS_HOST_OF_THIS_SCRIPT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x83CD99A1E6061AB5",
+        "gta_jhash": "0x6970BA94"
+    }
+}

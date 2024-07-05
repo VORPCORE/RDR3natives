@@ -1,0 +1,16 @@
+{
+    "0x9FB90EEDEA9F2D5C": {
+        "name": "DATAFILE_DELETE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9AB9C1CFC8862DFB",
+        "gta_jhash": "0xDEF31B0A"
+    }
+}

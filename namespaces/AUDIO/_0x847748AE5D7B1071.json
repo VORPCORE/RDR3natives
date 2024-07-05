@@ -1,0 +1,14 @@
+{
+    "0x847748AE5D7B1071": {
+        "name": "_0x847748AE5D7B1071",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

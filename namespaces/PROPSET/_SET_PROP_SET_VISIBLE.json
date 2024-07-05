@@ -1,0 +1,18 @@
+{
+    "0x9D096A5BD02F953E": {
+        "name": "_SET_PROP_SET_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "PropSet",
+                "name": "propSet"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

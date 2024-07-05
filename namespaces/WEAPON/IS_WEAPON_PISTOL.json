@@ -1,0 +1,14 @@
+{
+    "0xDDC64F5E31EEDAB6": {
+        "name": "IS_WEAPON_PISTOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

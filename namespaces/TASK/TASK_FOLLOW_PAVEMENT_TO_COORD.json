@@ -1,0 +1,18 @@
+{
+    "0x1B1475414E70DD8E": {
+        "name": "TASK_FOLLOW_PAVEMENT_TO_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

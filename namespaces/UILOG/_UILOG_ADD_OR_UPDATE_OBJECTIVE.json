@@ -1,0 +1,38 @@
+{
+    "0xB43163388484CC87": {
+        "name": "_UILOG_ADD_OR_UPDATE_OBJECTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xADD31A5C7A5FAA73": {
+        "name": "_SET_PED_DISABLE_KICK_MOVE",
+        "comment": "Disables being able to kick move ped.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "disable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

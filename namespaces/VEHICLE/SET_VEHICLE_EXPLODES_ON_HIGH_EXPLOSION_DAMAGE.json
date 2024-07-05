@@ -1,0 +1,20 @@
+{
+    "0xA402939C6761E1A3": {
+        "name": "SET_VEHICLE_EXPLODES_ON_HIGH_EXPLOSION_DAMAGE",
+        "comment": "Sets a vehicle to be strongly resistant to explosions. p0 is the vehicle; set p1 to false to toggle the effect on/off.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x71B0892EC081D60A",
+        "gta_jhash": "0x38CC692B"
+    }
+}

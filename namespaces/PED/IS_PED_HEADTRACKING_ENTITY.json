@@ -1,0 +1,20 @@
+{
+    "0x813A0A7C9D2E831F": {
+        "name": "IS_PED_HEADTRACKING_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x813A0A7C9D2E831F",
+        "gta_jhash": "0x233C9ACF"
+    }
+}

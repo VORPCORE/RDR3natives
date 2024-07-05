@@ -1,0 +1,22 @@
+{
+    "0x3738B784DDD35CC6": {
+        "name": "_0x3738B784DDD35CC6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x3DC971EB22F73447": {
+        "name": "GET_VEHICLE_WAYPOINT_PLAYBACK_OVERRIDE_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

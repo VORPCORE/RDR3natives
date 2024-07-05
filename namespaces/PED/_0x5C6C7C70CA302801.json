@@ -1,0 +1,14 @@
+{
+    "0x5C6C7C70CA302801": {
+        "name": "_0x5C6C7C70CA302801",
+        "comment": "_IS_PED_IN*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

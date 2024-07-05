@@ -1,0 +1,18 @@
+{
+    "0x283978A15512B2FE": {
+        "name": "_SET_RANDOM_OUTFIT_VARIATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

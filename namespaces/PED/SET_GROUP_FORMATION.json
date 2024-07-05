@@ -1,0 +1,20 @@
+{
+    "0xCE2F5FC3AF7E8C1E": {
+        "name": "SET_GROUP_FORMATION",
+        "comment": "eFormationType\n\n0: Default\n1: Circle Around Leader\n2: Alternative Circle Around Leader\n3: Line, with Leader at center",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "int",
+                "name": "formationType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xCE2F5FC3AF7E8C1E",
+        "gta_jhash": "0x08FAC739"
+    }
+}

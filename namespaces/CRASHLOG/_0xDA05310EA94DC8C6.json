@@ -1,0 +1,19 @@
+{
+    "0xDA05310EA94DC8C6": {
+        "name": "_0xDA05310EA94DC8C6",
+        "comment": "unused = true",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1436",
+        "unused": true
+    }
+}

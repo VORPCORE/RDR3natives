@@ -1,0 +1,14 @@
+{
+    "0x9C25E8EC4C535FBD": {
+        "name": "NETWORK_SET_PLAYER_IS_PASSIVE",
+        "comment": "Old name: _NETWORK_SET_PASSIVE_MODE_OPTION",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

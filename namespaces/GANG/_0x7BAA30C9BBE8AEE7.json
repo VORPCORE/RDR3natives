@@ -1,0 +1,18 @@
+{
+    "0x7BAA30C9BBE8AEE7": {
+        "name": "_0x7BAA30C9BBE8AEE7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

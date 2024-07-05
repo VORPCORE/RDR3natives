@@ -1,0 +1,16 @@
+{
+    "0x260EE4FDBDF4DB01": {
+        "name": "GET_RAYFIRE_MAP_OBJECT_ANIM_PHASE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x260EE4FDBDF4DB01",
+        "gta_jhash": "0x020497DE"
+    }
+}

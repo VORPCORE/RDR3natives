@@ -1,0 +1,18 @@
+{
+    "0xEE9DF765990E8D1D": {
+        "name": "_SET_PED_CAN_UNK_BODYPART_IK",
+        "comment": "_SET_PED_CAN_(?)_IK*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

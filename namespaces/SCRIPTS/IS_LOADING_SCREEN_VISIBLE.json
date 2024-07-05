@@ -1,0 +1,9 @@
+{
+    "0xB54ADBE65D528FCB": {
+        "name": "IS_LOADING_SCREEN_VISIBLE",
+        "comment": "Same as GET_IS_LOADING_SCREEN_ACTIVE",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

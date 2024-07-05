@@ -1,0 +1,16 @@
+{
+    "0xB80CA294F2F26749": {
+        "name": "IS_PED_WEAPON_READY_TO_SHOOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB80CA294F2F26749",
+        "gta_jhash": "0x02A32CB0"
+    }
+}

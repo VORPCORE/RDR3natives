@@ -1,0 +1,80 @@
+{
+    "0x83CDB10EA29B370B": {
+        "name": "TASK_PLAY_ANIM_ADVANCED",
+        "comment": "flags: see TASK_PLAY_ANIM\nikFlags: see TASK_PLAY_ANIM",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "speedMultiplier"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "float",
+                "name": "p13"
+            },
+            {
+                "type": "int",
+                "name": "p14"
+            },
+            {
+                "type": "int",
+                "name": "p15"
+            },
+            {
+                "type": "int",
+                "name": "p16"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x83CDB10EA29B370B",
+        "gta_jhash": "0x3DDEB0E6"
+    }
+}

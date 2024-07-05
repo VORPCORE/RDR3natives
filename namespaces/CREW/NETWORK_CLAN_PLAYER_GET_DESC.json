@@ -1,0 +1,24 @@
+{
+    "0xEEE6EACBE8874FBA": {
+        "name": "NETWORK_CLAN_PLAYER_GET_DESC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "clanDesc"
+            },
+            {
+                "type": "int",
+                "name": "bufferSize"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xEEE6EACBE8874FBA",
+        "gta_jhash": "0x6EE4A282"
+    }
+}

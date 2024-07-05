@@ -1,0 +1,9 @@
+{
+    "0x59F6F5C1D129F106": {
+        "name": "CREATE_VOLUME_AGGREGATE",
+        "comment": "",
+        "params": [],
+        "return_type": "Volume",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xBB1EC8C2EEF33BAA": {
+        "name": "_0xBB1EC8C2EEF33BAA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

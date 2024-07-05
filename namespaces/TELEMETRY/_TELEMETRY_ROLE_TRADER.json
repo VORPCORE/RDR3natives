@@ -1,0 +1,18 @@
+{
+    "0x476038B5A0734C10": {
+        "name": "_TELEMETRY_ROLE_TRADER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "transactionId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

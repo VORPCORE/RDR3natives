@@ -1,0 +1,24 @@
+{
+    "0x1CA59E306ECB80A5": {
+        "name": "NETWORK_SET_THIS_SCRIPT_IS_NETWORK_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "maxNumMissionParticipants"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "instanceId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1CA59E306ECB80A5",
+        "gta_jhash": "0x470810ED"
+    }
+}

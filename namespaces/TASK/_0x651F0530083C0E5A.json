@@ -1,0 +1,18 @@
+{
+    "0x651F0530083C0E5A": {
+        "name": "_0x651F0530083C0E5A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

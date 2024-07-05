@@ -1,0 +1,18 @@
+{
+    "0x8AF46E5159A5B620": {
+        "name": "_0x8AF46E5159A5B620",
+        "comment": "_SET_PED_IN*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "speechParams"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "0x8DECB02F88F428BC": {
+        "name": "HAS_PED_GOT_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x8DECB02F88F428BC",
+        "gta_jhash": "0x43D2FA82"
+    }
+}

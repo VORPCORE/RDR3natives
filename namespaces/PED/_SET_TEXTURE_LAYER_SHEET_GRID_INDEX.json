@@ -1,0 +1,22 @@
+{
+    "0x3329AAE2882FC8E4": {
+        "name": "_SET_TEXTURE_LAYER_SHEET_GRID_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            },
+            {
+                "type": "int",
+                "name": "layerId"
+            },
+            {
+                "type": "int",
+                "name": "sheetGridIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

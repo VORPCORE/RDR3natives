@@ -1,0 +1,32 @@
+{
+    "0xF6FDA3D4404D4F2C": {
+        "name": "SET_TRACKED_POINT_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "point"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x164ECBB3CF750CB0",
+        "gta_jhash": "0x28689AA4"
+    }
+}

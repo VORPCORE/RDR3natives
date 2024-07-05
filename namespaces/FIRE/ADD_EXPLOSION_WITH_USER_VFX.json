@@ -1,0 +1,48 @@
+{
+    "0x53BA259F3A67A99E": {
+        "name": "ADD_EXPLOSION_WITH_USER_VFX",
+        "comment": "explosionType: see ADD_EXPLOSION\nChange explosionFx (Visual Effect) for specified explosionType",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "explosionType"
+            },
+            {
+                "type": "Hash",
+                "name": "explosionFx"
+            },
+            {
+                "type": "float",
+                "name": "damageScale"
+            },
+            {
+                "type": "BOOL",
+                "name": "isAudible"
+            },
+            {
+                "type": "BOOL",
+                "name": "isInvisible"
+            },
+            {
+                "type": "float",
+                "name": "cameraShake"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x36DD3FE58B5E5212",
+        "gta_jhash": "0xCF358946"
+    }
+}

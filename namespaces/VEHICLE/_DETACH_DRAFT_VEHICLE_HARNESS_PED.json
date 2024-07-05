@@ -1,0 +1,18 @@
+{
+    "0xB36D3EC70963BE60": {
+        "name": "_DETACH_DRAFT_VEHICLE_HARNESS_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "draft"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

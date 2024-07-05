@@ -1,0 +1,18 @@
+{
+    "0x19870C40C7EE15BE": {
+        "name": "_0x19870C40C7EE15BE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

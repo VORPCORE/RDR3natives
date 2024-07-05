@@ -1,0 +1,36 @@
+{
+    "0x208A1888007FC0E6": {
+        "name": "SET_PED_DROPS_INVENTORY_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            },
+            {
+                "type": "int",
+                "name": "ammoCount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x208A1888007FC0E6",
+        "gta_jhash": "0x81FFB874"
+    }
+}

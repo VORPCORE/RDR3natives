@@ -1,0 +1,16 @@
+{
+    "0x8517D4A6CA8513ED": {
+        "name": "GET_PED_DESIRED_MOVE_BLEND_RATIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x8517D4A6CA8513ED",
+        "gta_jhash": "0x5FEFAB72"
+    }
+}

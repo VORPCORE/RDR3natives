@@ -1,0 +1,18 @@
+{
+    "0x3AB6C7B0BB0DF4B1": {
+        "name": "IS_ENTITY_PLAYING_ANIM_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

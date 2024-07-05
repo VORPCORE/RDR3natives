@@ -1,0 +1,14 @@
+{
+    "0x6C03118E9E5C1A14": {
+        "name": "_0x6C03118E9E5C1A14",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

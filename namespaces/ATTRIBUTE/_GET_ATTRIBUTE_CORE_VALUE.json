@@ -1,0 +1,18 @@
+{
+    "0x36731AC041289BB1": {
+        "name": "_GET_ATTRIBUTE_CORE_VALUE",
+        "comment": "Gets the ped's core value on a scale of 0 to 100.\ncoreIndex: see _SET_ATTRIBUTE_CORE_VALUE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "coreIndex"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

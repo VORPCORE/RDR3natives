@@ -1,0 +1,11 @@
+{
+    "0xA32B0B05EFF75730": {
+        "name": "REACTIVATE_ALL_OBJECT_BRAINS_THAT_ARE_WAITING_TILL_OUT_OF_RANGE",
+        "comment": "Called before starting a new thread_monitor script thread in startup_mp/startup_tlg\nAlternative name _REGISTER_SCRIPT_BRAIN\n\nOld name: _PREPARE_SCRIPT_BRAIN",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4D953DF78EBF8158",
+        "gta_jhash": "0xF3A3AB08"
+    }
+}

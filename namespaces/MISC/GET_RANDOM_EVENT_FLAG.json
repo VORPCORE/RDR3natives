@@ -1,0 +1,11 @@
+{
+    "0x924D54E5698AE3E0": {
+        "name": "GET_RANDOM_EVENT_FLAG",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD2D57F1D764117B1",
+        "gta_jhash": "0x794CC92C"
+    }
+}

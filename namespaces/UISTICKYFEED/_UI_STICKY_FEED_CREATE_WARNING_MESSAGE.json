@@ -1,0 +1,22 @@
+{
+    "0x339E16B41780FC35": {
+        "name": "_UI_STICKY_FEED_CREATE_WARNING_MESSAGE",
+        "comment": "Example: https://pastebin.com/6mLtee2S",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x74CF39E030A382C4": {
+        "name": "SC_INBOX_GET_MESSAGE_IS_READ_AT_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "msgIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x93028F1DB42BFD08",
+        "gta_jhash": "0xD1ED1D48"
+    }
+}

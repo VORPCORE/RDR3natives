@@ -1,0 +1,14 @@
+{
+    "0xEA6DE0CD15AECBE2": {
+        "name": "_SET_MAX_WANTED_LEVEL_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "maxWantedLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

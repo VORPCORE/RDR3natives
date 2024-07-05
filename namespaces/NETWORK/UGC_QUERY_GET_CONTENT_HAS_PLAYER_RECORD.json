@@ -1,0 +1,18 @@
+{
+    "0xF794765390A6DCA5": {
+        "name": "UGC_QUERY_GET_CONTENT_HAS_PLAYER_RECORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

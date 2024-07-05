@@ -1,0 +1,22 @@
+{
+    "0x0EA9EACBA3B01601": {
+        "name": "_0x0EA9EACBA3B01601",
+        "comment": "_CAN_PED_B* - _CAN_PED_I*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

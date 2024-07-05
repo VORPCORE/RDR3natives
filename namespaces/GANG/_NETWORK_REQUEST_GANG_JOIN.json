@@ -1,0 +1,14 @@
+{
+    "0xC0474C8BCF6787AD": {
+        "name": "_NETWORK_REQUEST_GANG_JOIN",
+        "comment": "Returns true if join succeeded, false if failed.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "gangId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

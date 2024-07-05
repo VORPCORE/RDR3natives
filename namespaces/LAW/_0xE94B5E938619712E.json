@@ -1,0 +1,9 @@
+{
+    "0xE94B5E938619712E": {
+        "name": "_0xE94B5E938619712E",
+        "comment": "Seems to disable lawmen guarding behaviors (like during a region lockdown). Must be called every frame.\nOnly used in R* SP Scripts, mostly used in train_fast_travel_core",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

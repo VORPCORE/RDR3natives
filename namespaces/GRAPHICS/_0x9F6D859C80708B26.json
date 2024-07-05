@@ -1,0 +1,18 @@
+{
+    "0x9F6D859C80708B26": {
+        "name": "_0x9F6D859C80708B26",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

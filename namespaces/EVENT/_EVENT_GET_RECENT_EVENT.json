@@ -1,0 +1,22 @@
+{
+    "0x796EECFF0C6D39BE": {
+        "name": "_EVENT_GET_RECENT_EVENT",
+        "comment": "Returns eventType",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

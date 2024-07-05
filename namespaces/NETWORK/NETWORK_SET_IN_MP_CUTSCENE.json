@@ -1,0 +1,28 @@
+{
+    "0x9CA5DE655269FEC4": {
+        "name": "NETWORK_SET_IN_MP_CUTSCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9CA5DE655269FEC4",
+        "gta_jhash": "0x8434CB43"
+    }
+}

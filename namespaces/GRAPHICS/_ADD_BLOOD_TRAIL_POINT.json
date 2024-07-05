@@ -1,0 +1,22 @@
+{
+    "0xDD9DC1AB63D513CE": {
+        "name": "_ADD_BLOOD_TRAIL_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

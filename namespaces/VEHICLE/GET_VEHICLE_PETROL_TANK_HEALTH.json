@@ -1,0 +1,16 @@
+{
+    "0x1E5A9B356D5098BE": {
+        "name": "GET_VEHICLE_PETROL_TANK_HEALTH",
+        "comment": "1000 is max health",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x7D5DABE888D2D074",
+        "gta_jhash": "0xE41595CE"
+    }
+}

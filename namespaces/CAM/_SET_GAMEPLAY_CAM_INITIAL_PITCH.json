@@ -1,0 +1,14 @@
+{
+    "0x449995EA846D3FC2": {
+        "name": "_SET_GAMEPLAY_CAM_INITIAL_PITCH",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "camInitialPitch"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xA91E6CF94404E8C9": {
+        "name": "_SET_ENTITY_FADE_IN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

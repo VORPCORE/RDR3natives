@@ -1,0 +1,18 @@
+{
+    "0x550CB89DD7F4FA3D": {
+        "name": "_0x550CB89DD7F4FA3D",
+        "comment": "_HAS_PED_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

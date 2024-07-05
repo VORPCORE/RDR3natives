@@ -1,0 +1,22 @@
+{
+    "0xCACAB2B123BBDBD6": {
+        "name": "_0xCACAB2B123BBDBD6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

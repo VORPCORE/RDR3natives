@@ -1,0 +1,14 @@
+{
+    "0x77E83C315A3B31CA": {
+        "name": "_0x77E83C315A3B31CA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

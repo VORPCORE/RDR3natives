@@ -1,0 +1,20 @@
+{
+    "0x24AED2A608F93C4C": {
+        "name": "SET_CAN_CLIMB_ON_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA80AE305E0A3044F",
+        "gta_jhash": "0xE224A6A5"
+    }
+}

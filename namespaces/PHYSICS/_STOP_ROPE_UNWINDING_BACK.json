@@ -1,0 +1,14 @@
+{
+    "0x10DAA76CB8A201A1": {
+        "name": "_STOP_ROPE_UNWINDING_BACK",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

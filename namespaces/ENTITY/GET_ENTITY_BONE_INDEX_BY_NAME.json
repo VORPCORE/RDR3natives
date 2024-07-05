@@ -1,0 +1,20 @@
+{
+    "0xBACA8FE9C76C124E": {
+        "name": "GET_ENTITY_BONE_INDEX_BY_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "boneName"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xFB71170B7E76ACBA",
+        "gta_jhash": "0xE4ECAC22"
+    }
+}

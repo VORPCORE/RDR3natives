@@ -1,0 +1,18 @@
+{
+    "0xCB1A3864C524F784": {
+        "name": "_0xCB1A3864C524F784",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x76F7E1BCD623A429": {
+        "name": "_0x76F7E1BCD623A429",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0xAC959AB99AAF3D9F": {
+        "name": "IS_ANY_UIAPP_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

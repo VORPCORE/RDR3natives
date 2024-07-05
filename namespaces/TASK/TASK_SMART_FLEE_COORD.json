@@ -1,0 +1,44 @@
+{
+    "0x94587F17E9C365D5": {
+        "name": "TASK_SMART_FLEE_COORD",
+        "comment": "Makes the specified ped flee the specified distance from the specified position.\nfleeType: see TASK_FLEE_COORD",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            },
+            {
+                "type": "int",
+                "name": "fleeType"
+            },
+            {
+                "type": "float",
+                "name": "fleeSpeed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x94587F17E9C365D5",
+        "gta_jhash": "0xB2E686FC"
+    }
+}

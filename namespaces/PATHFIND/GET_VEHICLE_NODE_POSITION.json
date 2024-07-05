@@ -1,0 +1,20 @@
+{
+    "0x8E8D72FF24DEE1FB": {
+        "name": "GET_VEHICLE_NODE_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "nodeId"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outPosition"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x703123E5E7D429C2",
+        "gta_jhash": "0xE38E252D"
+    }
+}

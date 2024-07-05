@@ -1,0 +1,14 @@
+{
+    "0x13D234A2A3F66E63": {
+        "name": "_INVENTORY_GET_INVENTORY_ID_FROM_PED",
+        "comment": "Returns a unique inventory ID for this ped.\nFor the local player ped, it is an eInventories value.\nFor other peds, it is the inventory address casted to unsigned int.\n\nenum eInventories\n{\n\tINVENTORY_INVALID,\n\tINVENTORY_SP_PLAYER,\n\tINVENTORY_MP_PLAYER,\n\tINVENTORY_MP_MISSION,\n\tINVENTORY_SECOND_SCREEN,\n\tINVENTORY_SP_BACKUP,\n\tINVENTORY_SP_SNAPSHOT,\n\tINVENTORY_0xDE2AE452,\n\tINVENTORY_0x399D9B3A,\n\tINVENTORY_0x4BD43FA7,\n\tINVENTORY_0x9529D251,\n\tINVENTORY_0xA75776AC,\n\tINVENTORY_MAX_ID = 11,\n\tINVENTORY_IDS_COUNT\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

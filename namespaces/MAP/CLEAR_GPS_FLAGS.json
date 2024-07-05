@@ -1,0 +1,11 @@
+{
+    "0x4D3771237C79FF41": {
+        "name": "CLEAR_GPS_FLAGS",
+        "comment": "Clears the GPS flags.",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x21986729D6A3A830",
+        "gta_jhash": "0x056AFCE6"
+    }
+}

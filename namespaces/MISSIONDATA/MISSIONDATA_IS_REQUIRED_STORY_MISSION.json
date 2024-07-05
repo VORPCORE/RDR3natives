@@ -1,0 +1,14 @@
+{
+    "0xE824CE7D13FCB35E": {
+        "name": "MISSIONDATA_IS_REQUIRED_STORY_MISSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "missionId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

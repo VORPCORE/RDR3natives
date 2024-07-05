@@ -1,0 +1,14 @@
+{
+    "0xE910932F4B30BE23": {
+        "name": "_0xE910932F4B30BE23",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

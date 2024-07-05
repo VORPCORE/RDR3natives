@@ -1,0 +1,18 @@
+{
+    "0x808712E428F697B8": {
+        "name": "CHAL_ACHIEVEMENT_GET_PROGRESS_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1232"
+    }
+}

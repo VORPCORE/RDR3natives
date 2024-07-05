@@ -1,0 +1,14 @@
+{
+    "0x19B4F71703902238": {
+        "name": "_SET_PLAYER_IN_VEHICLE_TARGETING_MODE",
+        "comment": "Sets your targeting mode for when you're in a vehicle (perhaps a mount/horse).\nsee SET_PLAYER_TARGETING_MODE for eTargetingMode",
+        "params": [
+            {
+                "type": "int",
+                "name": "targetMode"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

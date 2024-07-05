@@ -1,0 +1,16 @@
+{
+    "0x12B6281B6C6706C0": {
+        "name": "GET_NUM_CREATED_MISSION_OBJECTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x12B6281B6C6706C0",
+        "gta_jhash": "0x603FA104"
+    }
+}

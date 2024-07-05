@@ -1,0 +1,14 @@
+{
+    "0xF40AB58D83C35027": {
+        "name": "_RESET_OBJECT_VELOCITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

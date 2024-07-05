@@ -1,0 +1,24 @@
+{
+    "0xA4EFEF9440A5B0EF": {
+        "name": "SET_PED_AMMO_TO_DROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA4EFEF9440A5B0EF",
+        "gta_jhash": "0x2386A307"
+    }
+}

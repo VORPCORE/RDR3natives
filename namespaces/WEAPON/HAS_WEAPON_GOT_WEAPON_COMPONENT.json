@@ -1,0 +1,20 @@
+{
+    "0x76A18844E743BF91": {
+        "name": "HAS_WEAPON_GOT_WEAPON_COMPONENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weapon"
+            },
+            {
+                "type": "Hash",
+                "name": "addonHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x76A18844E743BF91",
+        "gta_jhash": "0x1D368510"
+    }
+}

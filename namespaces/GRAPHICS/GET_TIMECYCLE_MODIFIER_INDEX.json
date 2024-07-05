@@ -1,0 +1,11 @@
+{
+    "0xA705394293E2B3D3": {
+        "name": "GET_TIMECYCLE_MODIFIER_INDEX",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xFDF3D97C674AFB66",
+        "gta_jhash": "0x594FEEC4"
+    }
+}

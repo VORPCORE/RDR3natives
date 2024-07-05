@@ -1,0 +1,16 @@
+{
+    "0xB3E9BE963F10C445": {
+        "name": "SET_SUPER_JUMP_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x57FFF03E423A4C0B",
+        "gta_jhash": "0x86745EF3"
+    }
+}

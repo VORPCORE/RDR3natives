@@ -1,0 +1,44 @@
+{
+    "0x0759591819534F7B": {
+        "name": "TASK_FOLLOW_WAYPOINT_RECORDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0759591819534F7B",
+        "gta_jhash": "0xADF9904D"
+    }
+}

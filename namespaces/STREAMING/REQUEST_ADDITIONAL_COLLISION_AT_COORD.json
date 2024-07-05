@@ -1,0 +1,24 @@
+{
+    "0x83A8D71650D1894F": {
+        "name": "REQUEST_ADDITIONAL_COLLISION_AT_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311",
+        "gta_hash": "0xC9156DC11411A9EA",
+        "gta_jhash": "0xC2CC1DF2"
+    }
+}

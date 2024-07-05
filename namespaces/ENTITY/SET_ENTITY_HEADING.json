@@ -1,0 +1,20 @@
+{
+    "0xCF2B9C0645C4651B": {
+        "name": "SET_ENTITY_HEADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8E2530AA8ADA980E",
+        "gta_jhash": "0xE0FF064D"
+    }
+}

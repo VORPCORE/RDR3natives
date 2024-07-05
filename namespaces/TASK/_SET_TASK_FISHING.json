@@ -1,0 +1,18 @@
+{
+    "0xF3735ACD11ACD501": {
+        "name": "_SET_TASK_FISHING",
+        "comment": "Only used in R* Scripts fishing_core and av_fishing_river",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

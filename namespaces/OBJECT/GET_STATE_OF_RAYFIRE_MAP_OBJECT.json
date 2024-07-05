@@ -1,0 +1,16 @@
+{
+    "0x899BA936634A322E": {
+        "name": "GET_STATE_OF_RAYFIRE_MAP_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x899BA936634A322E",
+        "gta_jhash": "0xF1B8817A"
+    }
+}

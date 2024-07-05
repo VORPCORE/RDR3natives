@@ -1,0 +1,20 @@
+{
+    "0x1B8F3CE5A6001298": {
+        "name": "SET_CAM_CONTROLS_MINI_MAP_HEADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x661B5C8654ADD825",
+        "gta_jhash": "0xE1A0B2F1"
+    }
+}

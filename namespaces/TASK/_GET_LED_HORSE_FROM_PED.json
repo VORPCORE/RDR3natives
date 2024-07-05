@@ -1,0 +1,14 @@
+{
+    "0xED1F514AF4732258": {
+        "name": "_GET_LED_HORSE_FROM_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

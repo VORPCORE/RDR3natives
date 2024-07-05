@@ -1,0 +1,22 @@
+{
+    "0x6C76BC24F8BB709A": {
+        "name": "_SET_TEXTURE_LAYER_ALPHA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            },
+            {
+                "type": "int",
+                "name": "layerId"
+            },
+            {
+                "type": "float",
+                "name": "texAlpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

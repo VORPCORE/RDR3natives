@@ -1,0 +1,14 @@
+{
+    "0x1E8A921112891651": {
+        "name": "_GET_TRAIN_POSITION_ON_TRACK",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

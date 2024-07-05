@@ -1,0 +1,18 @@
+{
+    "0x96AA1304D30E6BC3": {
+        "name": "RESET_ANIMAL_TUNING_BOOL_PARAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animal"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355"
+    }
+}

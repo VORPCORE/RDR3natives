@@ -1,0 +1,20 @@
+{
+    "0xF372BC22FCB88606": {
+        "name": "ADD_RELATIONSHIP_GROUP",
+        "comment": "The hash of the created relationship group is output in the second parameter.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "Hash*",
+                "name": "groupHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF372BC22FCB88606",
+        "gta_jhash": "0x8B635546"
+    }
+}

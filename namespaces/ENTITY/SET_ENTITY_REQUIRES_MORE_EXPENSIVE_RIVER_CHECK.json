@@ -1,0 +1,20 @@
+{
+    "0x850C940EE3E7B8B5": {
+        "name": "SET_ENTITY_REQUIRES_MORE_EXPENSIVE_RIVER_CHECK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x694E00132F2823ED",
+        "gta_jhash": "0x40C84A74"
+    }
+}

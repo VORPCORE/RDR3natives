@@ -1,0 +1,18 @@
+{
+    "0xC3D4B754C0E86B9E": {
+        "name": "_CHANGE_PED_STAMINA",
+        "comment": "Alters entity's stamina by 'amount'. Can be negative (to drain stamina). float amount: -1000.0 - 1000.0",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

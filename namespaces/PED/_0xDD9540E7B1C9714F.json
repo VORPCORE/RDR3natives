@@ -1,0 +1,30 @@
+{
+    "0xDD9540E7B1C9714F": {
+        "name": "_0xDD9540E7B1C9714F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

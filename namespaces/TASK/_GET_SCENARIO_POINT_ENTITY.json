@@ -1,0 +1,14 @@
+{
+    "0x7467165EE97D3C68": {
+        "name": "_GET_SCENARIO_POINT_ENTITY",
+        "comment": "Note: The current name for this native is the old name of 0x295514F198EFD0CA\nOld name for this native: _GET_ENTITY_SCENARIO_POINT_IS_ATTACHED_TO",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

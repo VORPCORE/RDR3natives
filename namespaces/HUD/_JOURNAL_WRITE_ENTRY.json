@@ -1,0 +1,14 @@
+{
+    "0x6DFDD665E416B093": {
+        "name": "_JOURNAL_WRITE_ENTRY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

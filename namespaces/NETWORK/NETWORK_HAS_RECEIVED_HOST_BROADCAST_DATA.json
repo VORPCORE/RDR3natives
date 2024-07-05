@@ -1,0 +1,11 @@
+{
+    "0x5D10B3795F3FC886": {
+        "name": "NETWORK_HAS_RECEIVED_HOST_BROADCAST_DATA",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x5D10B3795F3FC886",
+        "gta_jhash": "0x0B739F53"
+    }
+}

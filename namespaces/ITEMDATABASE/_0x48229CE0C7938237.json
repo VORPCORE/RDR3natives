@@ -1,0 +1,14 @@
+{
+    "0x48229CE0C7938237": {
+        "name": "_0x48229CE0C7938237",
+        "comment": "_ITEMDATABASE_GET_(A)* - _ITEMDATABASE_GET_(B)*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "award"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

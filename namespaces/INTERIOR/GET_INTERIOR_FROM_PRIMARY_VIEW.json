@@ -1,0 +1,9 @@
+{
+    "0xBC8A281FF125C655": {
+        "name": "GET_INTERIOR_FROM_PRIMARY_VIEW",
+        "comment": "",
+        "params": [],
+        "return_type": "Interior",
+        "build": "1207"
+    }
+}

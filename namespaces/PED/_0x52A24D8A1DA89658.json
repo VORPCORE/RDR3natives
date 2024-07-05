@@ -1,0 +1,22 @@
+{
+    "0x52A24D8A1DA89658": {
+        "name": "_0x52A24D8A1DA89658",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

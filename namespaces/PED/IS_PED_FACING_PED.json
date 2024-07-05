@@ -1,0 +1,24 @@
+{
+    "0xD71649DB0A545AA3": {
+        "name": "IS_PED_FACING_PED",
+        "comment": "angle is ped's view cone",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "otherPed"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD71649DB0A545AA3",
+        "gta_jhash": "0x0B775838"
+    }
+}

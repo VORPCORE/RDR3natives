@@ -1,0 +1,16 @@
+{
+    "0xB8DFD30D6973E135": {
+        "name": "NETWORK_IS_PLAYER_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB8DFD30D6973E135",
+        "gta_jhash": "0x43657B17"
+    }
+}

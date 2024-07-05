@@ -1,0 +1,36 @@
+{
+    "0xD04FE6765D990A06": {
+        "name": "TASK_PED_SLIDE_TO_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD04FE6765D990A06",
+        "gta_jhash": "0x225380EF"
+    }
+}

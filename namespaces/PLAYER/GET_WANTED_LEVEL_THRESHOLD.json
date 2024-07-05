@@ -1,0 +1,16 @@
+{
+    "0x1B1A3B358F7D8F07": {
+        "name": "GET_WANTED_LEVEL_THRESHOLD",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "wantedLevel"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xFDD179EAF45B556C",
+        "gta_jhash": "0xD9783F6B"
+    }
+}

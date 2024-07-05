@@ -1,0 +1,44 @@
+{
+    "0x1B5C85C612E5256E": {
+        "name": "ADD_SCENARIO_BLOCKING_AREA",
+        "comment": "blockingFlags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eScenarioBlockingFlags",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "int",
+                "name": "blockingFlags"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x1B5C85C612E5256E",
+        "gta_jhash": "0xA38C0234"
+    }
+}

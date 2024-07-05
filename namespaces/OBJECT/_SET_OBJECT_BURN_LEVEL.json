@@ -1,0 +1,22 @@
+{
+    "0x2797C633DCDBBAC5": {
+        "name": "_SET_OBJECT_BURN_LEVEL",
+        "comment": "Seems to mostly have effect on wood-made objects https://imgur.com/a/32oQvOn",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "burnLevel"
+            },
+            {
+                "type": "BOOL",
+                "name": "affectAsh"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

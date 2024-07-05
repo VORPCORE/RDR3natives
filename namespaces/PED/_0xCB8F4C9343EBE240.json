@@ -1,0 +1,22 @@
+{
+    "0xCB8F4C9343EBE240": {
+        "name": "_0xCB8F4C9343EBE240",
+        "comment": "Only used in R* SP Scripts\n_GET_PLAYER_W* - _GET_RANDOM_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "eventType"
+            },
+            {
+                "type": "Vector3*",
+                "name": "coords"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

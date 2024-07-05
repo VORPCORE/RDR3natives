@@ -1,0 +1,16 @@
+{
+    "0x6A885BF69239E539": {
+        "name": "DATAARRAY_GET_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x065DB281590CEA2D",
+        "gta_jhash": "0xA8A21766"
+    }
+}

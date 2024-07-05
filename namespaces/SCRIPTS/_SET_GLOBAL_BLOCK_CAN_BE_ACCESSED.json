@@ -1,0 +1,18 @@
+{
+    "0xE66F392BFCE734AF": {
+        "name": "_SET_GLOBAL_BLOCK_CAN_BE_ACCESSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x6CA484C9A7377E4F": {
+        "name": "_GET_PED_WEAPON_OBJECT",
+        "comment": "_GET_M* - _GET_PED_A*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Object",
+        "build": "1207"
+    }
+}

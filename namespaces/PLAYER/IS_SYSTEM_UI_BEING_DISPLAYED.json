@@ -1,0 +1,11 @@
+{
+    "0x908258B6209E71F7": {
+        "name": "IS_SYSTEM_UI_BEING_DISPLAYED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x5D511E3867C87139",
+        "gta_jhash": "0xE495B6DA"
+    }
+}

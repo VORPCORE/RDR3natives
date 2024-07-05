@@ -1,0 +1,14 @@
+{
+    "0xDC9655D47DEC0353": {
+        "name": "_0xDC9655D47DEC0353",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

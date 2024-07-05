@@ -1,0 +1,28 @@
+{
+    "0x46DF918788CB093F": {
+        "name": "APPLY_PED_DAMAGE_PACK",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/peds_customization/ped_decals.lua",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "damagePack"
+            },
+            {
+                "type": "float",
+                "name": "damage"
+            },
+            {
+                "type": "float",
+                "name": "mult"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x46DF918788CB093F",
+        "gta_jhash": "0x208D0CB8"
+    }
+}

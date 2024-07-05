@@ -1,0 +1,18 @@
+{
+    "0xF489F94BFEE12BB0": {
+        "name": "_SET_FORCE_COACH_ROBBERY_LOOT",
+        "comment": "Hashes: COACH2_BOOT_LOOT_ITEMS_COACHROB_RSC, COACH2_BOOT_LOOT_ITEMS_COACHROB, COACH2_MARY3",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Hash",
+                "name": "coachrobberyLoot"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

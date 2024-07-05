@@ -1,0 +1,20 @@
+{
+    "0xEC4686EC06434678": {
+        "name": "SET_PED_CAN_USE_AUTO_CONVERSATION_LOOKAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEC4686EC06434678",
+        "gta_jhash": "0x584C5178"
+    }
+}

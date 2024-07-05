@@ -1,0 +1,14 @@
+{
+    "0x35DC1877312FBA0F": {
+        "name": "_FADE_AND_DESTROY_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle*",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

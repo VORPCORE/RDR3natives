@@ -1,0 +1,14 @@
+{
+    "0xBDFEEB7600BCD938": {
+        "name": "_TASK_EMOTE_OUTRO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

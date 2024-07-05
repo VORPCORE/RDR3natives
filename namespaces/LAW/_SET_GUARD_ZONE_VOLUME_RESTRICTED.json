@@ -1,0 +1,18 @@
+{
+    "0x35815F372D43E1E5": {
+        "name": "_SET_GUARD_ZONE_VOLUME_RESTRICTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

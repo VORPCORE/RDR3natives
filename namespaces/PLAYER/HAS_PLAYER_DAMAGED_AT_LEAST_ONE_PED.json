@@ -1,0 +1,16 @@
+{
+    "0xDA4A4B9B96E20092": {
+        "name": "HAS_PLAYER_DAMAGED_AT_LEAST_ONE_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x20CE80B0C2BF4ACC",
+        "gta_jhash": "0x14F52453"
+    }
+}

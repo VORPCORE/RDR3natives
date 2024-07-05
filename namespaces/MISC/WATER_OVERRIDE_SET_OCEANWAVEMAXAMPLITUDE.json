@@ -1,0 +1,16 @@
+{
+    "0xF06C5B66DE20B2B8": {
+        "name": "WATER_OVERRIDE_SET_OCEANWAVEMAXAMPLITUDE",
+        "comment": "Only used in smuggler2 script",
+        "params": [
+            {
+                "type": "float",
+                "name": "maxAmplitude"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB3E6360DDE733E82",
+        "gta_jhash": "0x0DE40C28"
+    }
+}

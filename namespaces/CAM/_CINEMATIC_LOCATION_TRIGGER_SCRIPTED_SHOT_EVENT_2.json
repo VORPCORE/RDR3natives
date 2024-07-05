@@ -1,0 +1,22 @@
+{
+    "0xBC016635D6A73B31": {
+        "name": "_CINEMATIC_LOCATION_TRIGGER_SCRIPTED_SHOT_EVENT_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "dictionary"
+            },
+            {
+                "type": "const char*",
+                "name": "shotName"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "0x1EE7063B80FFC77C": {
+        "name": "SET_ROADS_BACK_TO_ORIGINAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "xMin"
+            },
+            {
+                "type": "float",
+                "name": "yMin"
+            },
+            {
+                "type": "float",
+                "name": "zMin"
+            },
+            {
+                "type": "float",
+                "name": "xMax"
+            },
+            {
+                "type": "float",
+                "name": "yMax"
+            },
+            {
+                "type": "float",
+                "name": "zMax"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1EE7063B80FFC77C",
+        "gta_jhash": "0x86AC4A85"
+    }
+}

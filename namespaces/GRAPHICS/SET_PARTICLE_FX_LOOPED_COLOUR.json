@@ -1,0 +1,32 @@
+{
+    "0x239879FC61C610CC": {
+        "name": "SET_PARTICLE_FX_LOOPED_COLOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7F8F65877F88783B",
+        "gta_jhash": "0x5219D530"
+    }
+}

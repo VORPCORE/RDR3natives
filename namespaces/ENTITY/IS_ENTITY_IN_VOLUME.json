@@ -1,0 +1,26 @@
+{
+    "0x5A5526BC09C06623": {
+        "name": "IS_ENTITY_IN_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "ScrHandle",
+                "name": "volume"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

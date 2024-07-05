@@ -1,0 +1,14 @@
+{
+    "0x201B8ED4FF7FE9F5": {
+        "name": "_HIDE_HORSE_REINS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

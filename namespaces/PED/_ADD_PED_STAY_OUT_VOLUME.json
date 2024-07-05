@@ -1,0 +1,18 @@
+{
+    "0xE9B168527B337BF0": {
+        "name": "_ADD_PED_STAY_OUT_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

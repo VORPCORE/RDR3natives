@@ -1,0 +1,18 @@
+{
+    "0x06C3DB00B69D5435": {
+        "name": "_0x06C3DB00B69D5435",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x5136B284B67B35C7": {
+        "name": "_IS_VEHICLE_FADING_OUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x5CB83156AA038F95": {
+        "name": "SET_NO_LOADING_SCREEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5262CC1995D07E09",
+        "gta_jhash": "0xC8055034"
+    }
+}

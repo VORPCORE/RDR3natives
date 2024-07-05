@@ -1,0 +1,22 @@
+{
+    "0x0349404A22736740": {
+        "name": "_0x0349404A22736740",
+        "comment": "Params: p0 is only 0 or 1\nOnly used in R* SP Scripts",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

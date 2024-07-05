@@ -1,0 +1,18 @@
+{
+    "0x54B187F111D9C6F8": {
+        "name": "_IS_PED_IN_ANY_CONVERSATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x96282005C5C6801F": {
+        "name": "_0x96282005C5C6801F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

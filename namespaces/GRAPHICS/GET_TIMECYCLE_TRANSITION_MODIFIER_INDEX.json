@@ -1,0 +1,11 @@
+{
+    "0x2DA67BA3C8A6755D": {
+        "name": "GET_TIMECYCLE_TRANSITION_MODIFIER_INDEX",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x459FD2C8D0AB78BC",
+        "gta_jhash": "0x03C44E4B"
+    }
+}

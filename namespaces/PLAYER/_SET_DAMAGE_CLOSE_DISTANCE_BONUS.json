@@ -1,0 +1,22 @@
+{
+    "0x7761A30432C91297": {
+        "name": "_SET_DAMAGE_CLOSE_DISTANCE_BONUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "closeRangeLowerBound"
+            },
+            {
+                "type": "float",
+                "name": "closeRangeUpperBound"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

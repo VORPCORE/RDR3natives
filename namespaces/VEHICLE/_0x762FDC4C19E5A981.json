@@ -1,0 +1,18 @@
+{
+    "0x762FDC4C19E5A981": {
+        "name": "_0x762FDC4C19E5A981",
+        "comment": "Seems to be related while setting a (door) state of specific trains (midlandboxcar05x, privateboxcar01x, privateboxcar02x, midlandrefrigeratorCar, privateArmoured, armoredCar01x)",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "trainCarriage"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

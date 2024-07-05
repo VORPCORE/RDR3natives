@@ -1,0 +1,16 @@
+{
+    "0x47EFA040EBB8E2EA": {
+        "name": "WAYPOINT_PLAYBACK_STOP_AIMING_OR_SHOOTING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x47EFA040EBB8E2EA",
+        "gta_jhash": "0x6D7CF40C"
+    }
+}

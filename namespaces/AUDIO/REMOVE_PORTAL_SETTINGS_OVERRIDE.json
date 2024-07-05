@@ -1,0 +1,16 @@
+{
+    "0xB4BBFD9CD8B3922B": {
+        "name": "REMOVE_PORTAL_SETTINGS_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB4BBFD9CD8B3922B",
+        "gta_jhash": "0xD24B4D0C"
+    }
+}

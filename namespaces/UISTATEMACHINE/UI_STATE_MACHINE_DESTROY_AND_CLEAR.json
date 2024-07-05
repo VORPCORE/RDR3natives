@@ -1,0 +1,14 @@
+{
+    "0x2738D68D2B4E09E7": {
+        "name": "UI_STATE_MACHINE_DESTROY_AND_CLEAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

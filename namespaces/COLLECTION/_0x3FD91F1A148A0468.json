@@ -1,0 +1,18 @@
+{
+    "0x3FD91F1A148A0468": {
+        "name": "_0x3FD91F1A148A0468",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableCategory"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1232"
+    }
+}

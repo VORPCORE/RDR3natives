@@ -1,0 +1,14 @@
+{
+    "0x4BE6C13A45CCA8EC": {
+        "name": "NETWORK_GET_GANG_LEADER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "gangId"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1207"
+    }
+}

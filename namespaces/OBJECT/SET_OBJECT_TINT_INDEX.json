@@ -1,0 +1,20 @@
+{
+    "0x971DA0055324D033": {
+        "name": "SET_OBJECT_TINT_INDEX",
+        "comment": "Alt name: _SET_OBJECT_TINT\n\nOld name: _SET_OBJECT_TEXTURE_VARIATION",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "int",
+                "name": "textureVariation"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x971DA0055324D033",
+        "gta_jhash": ""
+    }
+}

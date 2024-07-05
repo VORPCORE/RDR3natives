@@ -1,0 +1,24 @@
+{
+    "0xF9A7BCF5D050D4E7": {
+        "name": "SHAKE_CAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "const char*",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "amplitude"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6A25241C340D3822",
+        "gta_jhash": "0x1D4211B0"
+    }
+}

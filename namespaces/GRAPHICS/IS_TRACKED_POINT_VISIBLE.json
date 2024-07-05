@@ -1,0 +1,16 @@
+{
+    "0xCBB056BA159FB48D": {
+        "name": "IS_TRACKED_POINT_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "point"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xC45CCDAAC9221CA8",
+        "gta_jhash": "0x0BFC4F64"
+    }
+}

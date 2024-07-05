@@ -1,0 +1,14 @@
+{
+    "0xEB98B38CA60742D7": {
+        "name": "_IS_PERSISTENT_CHARACTER_DEAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

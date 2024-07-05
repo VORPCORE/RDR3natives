@@ -1,0 +1,18 @@
+{
+    "0x9337183FDA2E9035": {
+        "name": "GET_IS_PED_RESPONDING_TO_POSITIVE_INTERACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

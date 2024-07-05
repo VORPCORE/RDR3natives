@@ -1,0 +1,14 @@
+{
+    "0x84D0BF2B21862059": {
+        "name": "IS_PED_SITTING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

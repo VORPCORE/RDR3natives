@@ -1,0 +1,18 @@
+{
+    "0x914071FF93AF2692": {
+        "name": "_SET_AI_PLAYER_DEFENSE_MODIFIER_AGAINST_AI",
+        "comment": "Sets Player's Defense against AI modifier",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x53E8CB4F48BFE623": {
+        "name": "IS_PED_CLIMBING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x53E8CB4F48BFE623",
+        "gta_jhash": "0xBCE03D35"
+    }
+}

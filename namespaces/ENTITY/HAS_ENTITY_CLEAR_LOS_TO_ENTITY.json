@@ -1,0 +1,24 @@
+{
+    "0xFCDFF7B72D23A1AC": {
+        "name": "HAS_ENTITY_CLEAR_LOS_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "int",
+                "name": "traceType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xFCDFF7B72D23A1AC",
+        "gta_jhash": "0x53576FA7"
+    }
+}

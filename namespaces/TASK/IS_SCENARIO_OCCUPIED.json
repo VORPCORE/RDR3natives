@@ -1,0 +1,32 @@
+{
+    "0x788756D73AC2E07C": {
+        "name": "IS_SCENARIO_OCCUPIED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x788756D73AC2E07C",
+        "gta_jhash": "0x697FC008"
+    }
+}

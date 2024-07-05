@@ -1,0 +1,16 @@
+{
+    "0xCE47C21C0687EBC2": {
+        "name": "SET_FRONTEND_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x745711A75AB09277",
+        "gta_jhash": "0x81E1AD32"
+    }
+}

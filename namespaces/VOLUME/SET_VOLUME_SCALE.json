@@ -1,0 +1,26 @@
+{
+    "0xA46E98BDC407E23D": {
+        "name": "SET_VOLUME_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "float",
+                "name": "scaleX"
+            },
+            {
+                "type": "float",
+                "name": "scaleY"
+            },
+            {
+                "type": "float",
+                "name": "scaleZ"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

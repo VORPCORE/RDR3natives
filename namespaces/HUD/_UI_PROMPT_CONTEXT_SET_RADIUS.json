@@ -1,0 +1,18 @@
+{
+    "0x0C718001B77CA468": {
+        "name": "_UI_PROMPT_CONTEXT_SET_RADIUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

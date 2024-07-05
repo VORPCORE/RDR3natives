@@ -1,0 +1,20 @@
+{
+    "0x01021EB2E96B793C": {
+        "name": "SET_TRAIN_CRUISE_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x16469284DB8C62B5",
+        "gta_jhash": "0xB507F51D"
+    }
+}

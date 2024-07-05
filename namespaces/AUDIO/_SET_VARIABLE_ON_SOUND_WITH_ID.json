@@ -1,0 +1,22 @@
+{
+    "0x503703EC1781B7D6": {
+        "name": "_SET_VARIABLE_ON_SOUND_WITH_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            },
+            {
+                "type": "const char*",
+                "name": "variableName"
+            },
+            {
+                "type": "float",
+                "name": "variableValue"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

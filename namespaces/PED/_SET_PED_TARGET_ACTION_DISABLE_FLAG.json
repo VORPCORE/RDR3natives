@@ -1,0 +1,18 @@
+{
+    "0xC163DAC52AC975D3": {
+        "name": "_SET_PED_TARGET_ACTION_DISABLE_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "actionDisableFlag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x3655F544CD30F0B5": {
+        "name": "GET_ROPE_VERTEX_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x3655F544CD30F0B5",
+        "gta_jhash": "0x5131CD2C"
+    }
+}

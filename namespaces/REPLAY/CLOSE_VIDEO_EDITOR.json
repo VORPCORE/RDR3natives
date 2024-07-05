@@ -1,0 +1,14 @@
+{
+    "0xCEEC64BD27A59312": {
+        "name": "CLOSE_VIDEO_EDITOR",
+        "comment": "Hardcoded to return true.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

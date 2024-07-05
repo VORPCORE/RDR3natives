@@ -1,0 +1,14 @@
+{
+    "0x2D4F9C852CE8A253": {
+        "name": "_ANIMPOSTFX_IS_TAG_PLAYING",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

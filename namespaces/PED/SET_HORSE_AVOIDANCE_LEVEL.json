@@ -1,0 +1,18 @@
+{
+    "0xDDCF6FEA5D7ACC17": {
+        "name": "SET_HORSE_AVOIDANCE_LEVEL",
+        "comment": "-1 - HORSE_ASSIST__NO_CHANGE\n 0 - HORSE_ASSIST__MANUAL\n 1 - HORSE_ASSIST__SEMIASSIST\n 2 - HORSE_ASSIST__FULLASSIST",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "horse"
+            },
+            {
+                "type": "int",
+                "name": "avoidanceLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

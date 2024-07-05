@@ -1,0 +1,14 @@
+{
+    "0x0DE0944ECCB3DF5D": {
+        "name": "_0x0DE0944ECCB3DF5D",
+        "comment": "_GET_D* - _GET_L*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

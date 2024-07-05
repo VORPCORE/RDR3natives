@@ -1,0 +1,16 @@
+{
+    "0xEF9E1C45732F55FA": {
+        "name": "TOGGLE_PAUSED_RENDERPHASES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDFC252D8A3E15AB7",
+        "gta_jhash": "0x30ADE541"
+    }
+}

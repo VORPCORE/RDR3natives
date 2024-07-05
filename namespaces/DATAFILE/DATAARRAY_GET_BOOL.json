@@ -1,0 +1,20 @@
+{
+    "0xAB1231D2DE52F2D3": {
+        "name": "DATAARRAY_GET_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            },
+            {
+                "type": "int",
+                "name": "arrayIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x50C1B2874E50C114",
+        "gta_jhash": "0xA2E5F921"
+    }
+}

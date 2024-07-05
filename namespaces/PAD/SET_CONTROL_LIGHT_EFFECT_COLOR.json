@@ -1,0 +1,28 @@
+{
+    "0x8290252FFF36ACB5": {
+        "name": "SET_CONTROL_LIGHT_EFFECT_COLOR",
+        "comment": "nullsub, doesn't do anything\n\nOld name: _SET_CONTROL_GROUP_COLOR",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8290252FFF36ACB5",
+        "gta_jhash": ""
+    }
+}

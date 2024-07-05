@@ -1,0 +1,16 @@
+{
+    "0x8FBFD2AEB196B369": {
+        "name": "CASCADE_SHADOWS_ENABLE_ENTITY_TRACKER",
+        "comment": "When this is set to ON, shadows only draw as you get nearer.\n\nWhen OFF, they draw from a further distance.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x80ECBC0C856D3B0B",
+        "gta_jhash": "0xFE903D0F"
+    }
+}

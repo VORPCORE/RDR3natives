@@ -1,0 +1,18 @@
+{
+    "0x56DBB26F98582C29": {
+        "name": "_UI_PROMPT_SET_MASH_MANUAL_MODE_PRESSED_GROWTH_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

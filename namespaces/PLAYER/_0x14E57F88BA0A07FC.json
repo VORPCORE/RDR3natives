@@ -1,0 +1,14 @@
+{
+    "0x14E57F88BA0A07FC": {
+        "name": "_0x14E57F88BA0A07FC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "location"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x909AD9E9A92A10DF": {
+        "name": "IS_GROUP_LOCALLY_CONTROLLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

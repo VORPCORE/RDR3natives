@@ -1,0 +1,30 @@
+{
+    "0x2DF59FFE6FFD6044": {
+        "name": "_SET_TEXTURE_LAYER_TINT",
+        "comment": "Seem color is not RGB or HSV",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            },
+            {
+                "type": "int",
+                "name": "layerId"
+            },
+            {
+                "type": "int",
+                "name": "tint0"
+            },
+            {
+                "type": "int",
+                "name": "tint1"
+            },
+            {
+                "type": "int",
+                "name": "tint2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

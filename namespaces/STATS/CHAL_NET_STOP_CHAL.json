@@ -1,0 +1,14 @@
+{
+    "0x43B0163154A50C86": {
+        "name": "CHAL_NET_STOP_CHAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

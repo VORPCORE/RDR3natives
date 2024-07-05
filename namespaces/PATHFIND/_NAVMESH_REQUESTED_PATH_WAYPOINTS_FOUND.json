@@ -1,0 +1,14 @@
+{
+    "0x8800776E410EB669": {
+        "name": "_NAVMESH_REQUESTED_PATH_WAYPOINTS_FOUND",
+        "comment": "Returns true if a path of waypoints was found. Waypoints can be retrieved with _NAVMESH_REQUESTED_PATH_NUM_WAYPOINTS and _NAVMESH_REQUESTED_PATH_WAYPOINT_BY_INDEX",
+        "params": [
+            {
+                "type": "int",
+                "name": "path"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

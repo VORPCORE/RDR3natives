@@ -1,0 +1,14 @@
+{
+    "0x755E08680F21EF30": {
+        "name": "GET_TARGET_CHARACTER_NAME_SCRIPT_OVERRIDE_RAW_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

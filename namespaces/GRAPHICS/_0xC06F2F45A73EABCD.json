@@ -1,0 +1,14 @@
+{
+    "0xC06F2F45A73EABCD": {
+        "name": "_0xC06F2F45A73EABCD",
+        "comment": "Used in NET_CAMP_SPIRIT_ANIMAL_CLEAR_ANIMAL_VISIBILITY",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

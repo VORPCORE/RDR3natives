@@ -1,0 +1,16 @@
+{
+    "0x8ABD939C2E5D00ED": {
+        "name": "SET_THIS_SCRIPT_CAN_REMOVE_BLIPS_CREATED_BY_ANY_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB98236CAAECEF897",
+        "gta_jhash": "0xD06F1720"
+    }
+}

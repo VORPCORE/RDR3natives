@@ -1,0 +1,20 @@
+{
+    "0x9D64D7405520E3D3": {
+        "name": "STOP_PED_SPEAKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "shaking"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9D64D7405520E3D3",
+        "gta_jhash": "0xFF92B49D"
+    }
+}

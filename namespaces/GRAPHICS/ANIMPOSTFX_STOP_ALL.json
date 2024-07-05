@@ -1,0 +1,11 @@
+{
+    "0x66560A0D4C64FD21": {
+        "name": "ANIMPOSTFX_STOP_ALL",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB4EDDC19532BFB85",
+        "gta_jhash": "0x4E6D875B"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x40C719A5E410B9E4": {
+        "name": "DO_SCREEN_FADE_OUT",
+        "comment": "Fades the screen out.\n\nduration: The time the fade should take, in milliseconds.",
+        "params": [
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x891B5B39AC6302AF",
+        "gta_jhash": "0x89D01805"
+    }
+}

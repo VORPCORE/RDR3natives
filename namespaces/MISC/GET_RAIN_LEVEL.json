@@ -1,0 +1,11 @@
+{
+    "0x931B5F4CC130224B": {
+        "name": "GET_RAIN_LEVEL",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x96695E368AD855F3",
+        "gta_jhash": "0xC9F67F28"
+    }
+}

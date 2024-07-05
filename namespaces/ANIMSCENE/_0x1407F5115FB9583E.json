@@ -1,0 +1,18 @@
+{
+    "0x1407F5115FB9583E": {
+        "name": "_0x1407F5115FB9583E",
+        "comment": "Used in SP R* Scripts only\nParams: p1 = 2B-LowHonor, 2A-HighHonor",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xADB56322EEDFBDC9": {
+        "name": "_UGC_QUERY_GET_CREATOR_HANDLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

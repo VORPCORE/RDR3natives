@@ -1,0 +1,18 @@
+{
+    "0x200373A8DF081F22": {
+        "name": "_IS_ATTRIBUTE_CORE_OVERPOWERED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "coreIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

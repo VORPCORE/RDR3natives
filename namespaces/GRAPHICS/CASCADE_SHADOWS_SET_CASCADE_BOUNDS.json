@@ -1,0 +1,44 @@
+{
+    "0xD9EDB2E4512D563E": {
+        "name": "CASCADE_SHADOWS_SET_CASCADE_BOUNDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD2936CAB8B58FCBD",
+        "gta_jhash": "0x84F05943"
+    }
+}

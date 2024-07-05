@@ -1,0 +1,14 @@
+{
+    "0x5B1A26BB18E7D451": {
+        "name": "_GET_NUM_DRAFT_VEHICLE_HARNESS_PED",
+        "comment": "Returns number of horses a wagon can have",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

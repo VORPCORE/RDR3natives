@@ -1,0 +1,24 @@
+{
+    "0xB86D29B10F627379": {
+        "name": "IS_VEHICLE_DRIVEABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4C241E39B23DF959",
+        "gta_jhash": "0x41A7267A"
+    }
+}

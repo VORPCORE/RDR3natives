@@ -1,0 +1,20 @@
+{
+    "0x3F428D08BE5AAE31": {
+        "name": "GET_PED_BONE_INDEX",
+        "comment": "no bone = -1",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "boneId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x3F428D08BE5AAE31",
+        "gta_jhash": "0x259C6BA2"
+    }
+}

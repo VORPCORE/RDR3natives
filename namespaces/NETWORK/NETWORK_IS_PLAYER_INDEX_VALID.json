@@ -1,0 +1,14 @@
+{
+    "0x255A5EF65EDA9167": {
+        "name": "NETWORK_IS_PLAYER_INDEX_VALID",
+        "comment": "Returns true if the passed value is less than 32.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

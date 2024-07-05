@@ -1,0 +1,20 @@
+{
+    "0x758C3460EE915D0A": {
+        "name": "SET_VEHICLE_DIRT_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "dirtLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x79D3B596FE44EE8B",
+        "gta_jhash": "0x2B39128B"
+    }
+}

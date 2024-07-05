@@ -1,0 +1,38 @@
+{
+    "0x315C81D760609108": {
+        "name": "_UI_PROMPT_SET_AMBIENT_GROUP_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "Hash",
+                "name": "p4"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

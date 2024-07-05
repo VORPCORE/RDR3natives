@@ -1,0 +1,16 @@
+{
+    "0x63F9EE203C3619F2": {
+        "name": "NETWORK_IS_PLAYER_IN_MP_CUTSCENE",
+        "comment": "Note: scripts seem to indicate that this was renamed to NETWORK_IS_PLAYER_IN_MP_FAST_INSTANCE",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x63F9EE203C3619F2",
+        "gta_jhash": "0x56F961E4"
+    }
+}

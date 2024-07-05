@@ -1,0 +1,26 @@
+{
+    "0xD5910ECF81A2278C": {
+        "name": "_STATSTRACKER_DEED_STATUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "deedType"
+            },
+            {
+                "type": "Hash",
+                "name": "deedHash"
+            },
+            {
+                "type": "int",
+                "name": "missionStatus"
+            },
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

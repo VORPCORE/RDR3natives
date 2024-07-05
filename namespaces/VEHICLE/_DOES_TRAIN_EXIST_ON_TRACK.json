@@ -1,0 +1,14 @@
+{
+    "0xC29996A337BDD099": {
+        "name": "_DOES_TRAIN_EXIST_ON_TRACK",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

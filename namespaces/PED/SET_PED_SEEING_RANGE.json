@@ -1,0 +1,20 @@
+{
+    "0xF29CF591C4BF6CEE": {
+        "name": "SET_PED_SEEING_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF29CF591C4BF6CEE",
+        "gta_jhash": "0x4BD72FE8"
+    }
+}

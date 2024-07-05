@@ -1,0 +1,14 @@
+{
+    "0x038B1F1674F0E242": {
+        "name": "IS_PED_RUNNING_INSPECTION_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

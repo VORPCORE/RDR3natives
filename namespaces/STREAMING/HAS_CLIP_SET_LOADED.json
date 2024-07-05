@@ -1,0 +1,16 @@
+{
+    "0x1F23D6B6DA1CC3B2": {
+        "name": "HAS_CLIP_SET_LOADED",
+        "comment": "Alias for HAS_ANIM_SET_LOADED.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "clipSet"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x318234F4F3738AF3",
+        "gta_jhash": "0x230D5455"
+    }
+}

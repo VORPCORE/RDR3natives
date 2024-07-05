@@ -1,0 +1,14 @@
+{
+    "0xB63B9178D0F58D82": {
+        "name": "_CLEAR_PED_TEXTURE",
+        "comment": "Removes every texture layer\nOld Name: _RESET_PED_TEXTURE_2",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xE6D4E435B56D5BD0": {
+        "name": "_SET_PLAYER_OWNS_MOUNT",
+        "comment": "Seems to enable active horse equipment prompt when being near it and enables the control that opens the inventory as well",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "mount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x250EBB11E81A10BE": {
+        "name": "_0x250EBB11E81A10BE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

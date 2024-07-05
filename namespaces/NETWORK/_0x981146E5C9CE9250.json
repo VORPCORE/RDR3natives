@@ -1,0 +1,14 @@
+{
+    "0x981146E5C9CE9250": {
+        "name": "_0x981146E5C9CE9250",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inviteIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

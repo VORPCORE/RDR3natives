@@ -1,0 +1,18 @@
+{
+    "0x674B90BE1115846D": {
+        "name": "SET_PED_DECOMPOSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

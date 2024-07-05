@@ -1,0 +1,16 @@
+{
+    "0x578F8F1CAA17BD2B": {
+        "name": "IS_CAM_INTERPOLATING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x036F97C908C2B52C",
+        "gta_jhash": "0x7159CB5D"
+    }
+}

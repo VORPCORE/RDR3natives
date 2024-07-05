@@ -1,0 +1,24 @@
+{
+    "0x9748FA4DE50CCE3E": {
+        "name": "SET_AMBIENT_ZONE_LIST_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "ambientZone"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9748FA4DE50CCE3E",
+        "gta_jhash": "0xBF80B412"
+    }
+}

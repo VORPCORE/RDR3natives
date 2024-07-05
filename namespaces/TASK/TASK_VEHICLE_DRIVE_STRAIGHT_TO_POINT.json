@@ -1,0 +1,42 @@
+{
+    "0x089FF2FB965F0A29": {
+        "name": "TASK_VEHICLE_DRIVE_STRAIGHT_TO_POINT",
+        "comment": "Old name: _TASK_VEHICLE_DRIVE_TO_POINT\nflag: 524419 and 0 in shop_horse_shop R* Script",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "driver"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

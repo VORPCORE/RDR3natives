@@ -1,0 +1,14 @@
+{
+    "0x88A5564B19C15391": {
+        "name": "_0x88A5564B19C15391",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

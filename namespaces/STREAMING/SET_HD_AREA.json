@@ -1,0 +1,28 @@
+{
+    "0xB88B905AFA35CB4D": {
+        "name": "SET_HD_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB85F26619073E775",
+        "gta_jhash": "0x80BAA035"
+    }
+}

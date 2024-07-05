@@ -1,0 +1,14 @@
+{
+    "0xDCC4B7F7112E8AB7": {
+        "name": "_GET_PLAYER_WAYPOINT_IS_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

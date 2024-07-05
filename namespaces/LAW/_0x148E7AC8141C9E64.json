@@ -1,0 +1,14 @@
+{
+    "0x148E7AC8141C9E64": {
+        "name": "_0x148E7AC8141C9E64",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

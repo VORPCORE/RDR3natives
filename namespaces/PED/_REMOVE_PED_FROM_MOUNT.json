@@ -1,0 +1,22 @@
+{
+    "0x5337B721C51883A9": {
+        "name": "_REMOVE_PED_FROM_MOUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

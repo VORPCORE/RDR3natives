@@ -1,0 +1,9 @@
+{
+    "0x33D51F801CB16E4F": {
+        "name": "CLEAR_CONVERSATION_HISTORY",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

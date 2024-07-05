@@ -1,0 +1,18 @@
+{
+    "0x8182B561A29BD597": {
+        "name": "TASK_COMBAT_HATED_TARGETS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x2B9C37C01BF25EDB": {
+        "name": "_0x2B9C37C01BF25EDB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

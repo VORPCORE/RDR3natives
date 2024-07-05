@@ -1,0 +1,18 @@
+{
+    "0xFECA17CF3343694B": {
+        "name": "SET_PLAYER_STAMINA_RECHARGE_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xE961BF23EAB76B12": {
+        "name": "_CREATE_MP_GAMER_TAG_ON_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x32CCAD8A981B53D3": {
+        "name": "_0x32CCAD8A981B53D3",
+        "comment": "_STOP_(?)*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

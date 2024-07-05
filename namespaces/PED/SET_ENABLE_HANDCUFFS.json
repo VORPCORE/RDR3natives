@@ -1,0 +1,24 @@
+{
+    "0xDF1AF8B5D56542FA": {
+        "name": "SET_ENABLE_HANDCUFFS",
+        "comment": "Ped can not pull out a weapon when true",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDF1AF8B5D56542FA",
+        "gta_jhash": "0xAC9BBA23"
+    }
+}

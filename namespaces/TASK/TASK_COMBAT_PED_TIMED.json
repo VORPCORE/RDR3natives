@@ -1,0 +1,28 @@
+{
+    "0x944F30DCB7096BDE": {
+        "name": "TASK_COMBAT_PED_TIMED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x944F30DCB7096BDE",
+        "gta_jhash": "0xF5CA2A45"
+    }
+}

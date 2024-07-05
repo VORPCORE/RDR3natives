@@ -1,0 +1,14 @@
+{
+    "0x2728C77FBC4B9796": {
+        "name": "RESET_WANTED_FOR_NEW_INCIDENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

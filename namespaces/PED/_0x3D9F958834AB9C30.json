@@ -1,0 +1,14 @@
+{
+    "0x3D9F958834AB9C30": {
+        "name": "_0x3D9F958834AB9C30",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

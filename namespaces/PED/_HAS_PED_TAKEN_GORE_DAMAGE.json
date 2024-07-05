@@ -1,0 +1,18 @@
+{
+    "0xBA208A8D6399A3AC": {
+        "name": "_HAS_PED_TAKEN_GORE_DAMAGE",
+        "comment": "limb: 3 = Left Hand, 4 = Left Arm, 6 = Right Hand, 7 = Right Arm, 9 = Left Foot, 10 = Left Leg, 12 = Right Foot, 13 = Right Leg, 37 = Head",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "limb"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

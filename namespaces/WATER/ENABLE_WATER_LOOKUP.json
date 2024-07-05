@@ -1,0 +1,9 @@
+{
+    "0x754616EC6965D1BF": {
+        "name": "ENABLE_WATER_LOOKUP",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

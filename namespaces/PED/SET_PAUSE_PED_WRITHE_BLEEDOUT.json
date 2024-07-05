@@ -1,0 +1,18 @@
+{
+    "0x925A160133003AC6": {
+        "name": "SET_PAUSE_PED_WRITHE_BLEEDOUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x52B4829281364649": {
+        "name": "DELETE_ROPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x52B4829281364649",
+        "gta_jhash": "0x748D72AF"
+    }
+}

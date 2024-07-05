@@ -1,0 +1,11 @@
+{
+    "0x6D14CCEE1B40381A": {
+        "name": "NETWORK_CLEAR_FOUND_GAMERS",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6D14CCEE1B40381A",
+        "gta_jhash": "0x6AA9A154"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x1E7384AB5D4F4581": {
+        "name": "_STAT_CALCULATE_COOLDOWN",
+        "comment": "Calculation: (value / 1000) / 60 % 60",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

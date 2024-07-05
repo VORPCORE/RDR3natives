@@ -1,0 +1,22 @@
+{
+    "0x4248AB2EEB3C75AD": {
+        "name": "_0x4248AB2EEB3C75AD",
+        "comment": "_SET_TRANSPORT_*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

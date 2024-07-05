@@ -1,0 +1,11 @@
+{
+    "0x84994FAD4E4E4E69": {
+        "name": "SUPPRESS_SHOCKING_EVENTS_NEXT_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2F9A292AD0A3BD89",
+        "gta_jhash": "0x4CC674B5"
+    }
+}

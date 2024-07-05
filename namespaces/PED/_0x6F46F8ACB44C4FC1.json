@@ -1,0 +1,14 @@
+{
+    "0x6F46F8ACB44C4FC1": {
+        "name": "_0x6F46F8ACB44C4FC1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

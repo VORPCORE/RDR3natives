@@ -1,0 +1,30 @@
+{
+    "0x3A5697B80FED5EBE": {
+        "name": "_0x3A5697B80FED5EBE",
+        "comment": "_SET_PED_MO*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

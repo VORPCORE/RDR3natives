@@ -1,0 +1,11 @@
+{
+    "0xF5472C80DF2FF847": {
+        "name": "IS_SCREEN_FADED_OUT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB16FCE9DDC7BA182",
+        "gta_jhash": "0x9CAA05FA"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x725D58F2125E5E50": {
+        "name": "COMPENDIUM_HORSE_OBSERVED",
+        "comment": "Only gets called if bSetObserved is true and animalType is matching",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "disableCompendiumToast"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xE1103300F3456DE7": {
+        "name": "_0xE1103300F3456DE7",
+        "comment": "_SET_FORMATION_P*",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

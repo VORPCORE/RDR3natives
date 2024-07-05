@@ -1,0 +1,14 @@
+{
+    "0x3FBC3F51BF12DFBF": {
+        "name": "GET_ANIM_SCENE_PHASE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

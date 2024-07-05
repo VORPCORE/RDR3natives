@@ -1,0 +1,22 @@
+{
+    "0xC3AEBB276825A359": {
+        "name": "_0xC3AEBB276825A359",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "dictionary"
+            },
+            {
+                "type": "const char*",
+                "name": "shotName"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1436"
+    }
+}

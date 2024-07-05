@@ -1,0 +1,26 @@
+{
+    "0x80D78BDC9D88EF07": {
+        "name": "_INVENTORY_CREATE_ITEM_COLLECTION",
+        "comment": "filterName (collections): \"ALL\", \"ALL SATCHEL\", \"ALL HORSES\", \"ALL COACHES\", \"ALL MOUNTS\", \"ALL CLOTHING\", \"ALL WEAPONS\", \"ALL SATCHEL EXCLUDING CLOTHING\", \"ALL EXCLUDING CLOTHING\"\nslotId: -1591664384\np3: outCollectionSize (?)\nReturns collectionId",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "const char*",
+                "name": "filterName"
+            },
+            {
+                "type": "Hash",
+                "name": "slotId"
+            },
+            {
+                "type": "int*",
+                "name": "size"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

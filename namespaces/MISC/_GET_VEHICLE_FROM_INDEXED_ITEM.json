@@ -1,0 +1,14 @@
+{
+    "0xE578C8AE173719B3": {
+        "name": "_GET_VEHICLE_FROM_INDEXED_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "item"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207"
+    }
+}

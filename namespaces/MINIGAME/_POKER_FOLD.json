@@ -1,0 +1,14 @@
+{
+    "0x3DFAB7D9BB45B5BE": {
+        "name": "_POKER_FOLD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

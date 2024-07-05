@@ -1,0 +1,14 @@
+{
+    "0x0790473EEE1977D3": {
+        "name": "_IS_VEHICLE_LIGHT_PROP_SET_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

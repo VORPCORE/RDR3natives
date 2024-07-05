@@ -1,0 +1,16 @@
+{
+    "0x109DE3DA41AAD94A": {
+        "name": "IS_ENTITY_UPSIDEDOWN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1DBD58820FA61D71",
+        "gta_jhash": "0x5ACAA48F"
+    }
+}

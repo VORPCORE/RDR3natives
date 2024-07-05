@@ -1,0 +1,16 @@
+{
+    "0x8C13DB96497B7ABF": {
+        "name": "TAN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x632106CC96E82E91",
+        "gta_jhash": "0xD320CE5E"
+    }
+}

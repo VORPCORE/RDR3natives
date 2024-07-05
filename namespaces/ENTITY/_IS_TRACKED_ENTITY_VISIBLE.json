@@ -1,0 +1,14 @@
+{
+    "0xC8CCDB712FBCBA92": {
+        "name": "_IS_TRACKED_ENTITY_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

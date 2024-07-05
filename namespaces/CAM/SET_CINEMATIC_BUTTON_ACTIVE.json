@@ -1,0 +1,16 @@
+{
+    "0xB90411F480457A6C": {
+        "name": "SET_CINEMATIC_BUTTON_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x51669F7D1FB53D9F",
+        "gta_jhash": "0x3FBC5D00"
+    }
+}

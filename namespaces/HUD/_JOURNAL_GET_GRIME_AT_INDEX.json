@@ -1,0 +1,14 @@
+{
+    "0xCB5945E1B855852F": {
+        "name": "_JOURNAL_GET_GRIME_AT_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

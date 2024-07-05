@@ -1,0 +1,14 @@
+{
+    "0x76610D12A838EBDE": {
+        "name": "_0x76610D12A838EBDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1311"
+    }
+}

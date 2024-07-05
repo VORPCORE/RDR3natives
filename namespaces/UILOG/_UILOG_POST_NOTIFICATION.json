@@ -1,0 +1,14 @@
+{
+    "0x49E58FE6EF40B987": {
+        "name": "_UILOG_POST_NOTIFICATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x9DDC222D85D5AF2A": {
+        "name": "_SET_PARTICLE_FX_LOOPED_UPDATE_DISTANT_SMOKE",
+        "comment": "_SET_PARTICLE_FX_LOOPED_FA* - _SET_PARTICLE_FX_LOOPED_OF*",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "float",
+                "name": "scalar"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

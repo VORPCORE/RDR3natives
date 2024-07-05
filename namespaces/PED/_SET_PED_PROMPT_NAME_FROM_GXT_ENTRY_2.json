@@ -1,0 +1,18 @@
+{
+    "0xC2745D9261664901": {
+        "name": "_SET_PED_PROMPT_NAME_FROM_GXT_ENTRY_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "gxtEntryHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

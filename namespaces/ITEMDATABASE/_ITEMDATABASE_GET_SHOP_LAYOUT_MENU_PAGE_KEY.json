@@ -1,0 +1,26 @@
+{
+    "0x9A60570657A7B635": {
+        "name": "_ITEMDATABASE_GET_SHOP_LAYOUT_MENU_PAGE_KEY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "layout"
+            },
+            {
+                "type": "Hash",
+                "name": "menu"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Hash*",
+                "name": "outPageKey"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x8ACC0506743A8A5C": {
+        "name": "_SET_PED_COMBAT_STYLE",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/AI/COMBAT_STYLES\nParams: p2 is usually 1, sometimes 0 or 2\nduration in seconds, -1.0 = forever",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "combatStyleHash"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

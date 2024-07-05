@@ -1,0 +1,14 @@
+{
+    "0x2D976DBDC731DF80": {
+        "name": "_0x2D976DBDC731DF80",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

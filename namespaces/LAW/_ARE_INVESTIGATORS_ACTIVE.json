@@ -1,0 +1,22 @@
+{
+    "0xF0FBFB9AB15F7734": {
+        "name": "_ARE_INVESTIGATORS_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "areInvestigatorsActive"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xEB946B9E579729AD": {
+        "name": "_0xEB946B9E579729AD",
+        "comment": "Not implemented.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

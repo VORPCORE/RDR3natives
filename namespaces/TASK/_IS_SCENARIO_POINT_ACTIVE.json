@@ -1,0 +1,14 @@
+{
+    "0x0CC36D4156006509": {
+        "name": "_IS_SCENARIO_POINT_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "0xC32779C16FCEECD9": {
+        "name": "SET_IK_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "ikIndex"
+            },
+            {
+                "type": "Entity",
+                "name": "entityLookAt"
+            },
+            {
+                "type": "int",
+                "name": "boneLookAt"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            },
+            {
+                "type": "int",
+                "name": "blendInDuration"
+            },
+            {
+                "type": "int",
+                "name": "blendOutDuration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC32779C16FCEECD9",
+        "gta_jhash": "0x6FE5218C"
+    }
+}

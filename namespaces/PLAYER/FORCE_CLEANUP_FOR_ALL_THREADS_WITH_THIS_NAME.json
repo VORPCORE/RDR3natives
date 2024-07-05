@@ -1,0 +1,20 @@
+{
+    "0xDAACAF8B687F2353": {
+        "name": "FORCE_CLEANUP_FOR_ALL_THREADS_WITH_THIS_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "int",
+                "name": "cleanupFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4C68DDDDF0097317",
+        "gta_jhash": "0x04256C73"
+    }
+}

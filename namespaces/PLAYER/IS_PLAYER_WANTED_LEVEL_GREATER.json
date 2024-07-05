@@ -1,0 +1,20 @@
+{
+    "0xE1C0AD4C24324C36": {
+        "name": "IS_PLAYER_WANTED_LEVEL_GREATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "wantedLevel"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x238DB2A2C23EE9EF",
+        "gta_jhash": "0x589A2661"
+    }
+}

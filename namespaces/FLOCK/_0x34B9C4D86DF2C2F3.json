@@ -1,0 +1,14 @@
+{
+    "0x34B9C4D86DF2C2F3": {
+        "name": "_0x34B9C4D86DF2C2F3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

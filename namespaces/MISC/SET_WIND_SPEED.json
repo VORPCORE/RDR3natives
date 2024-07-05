@@ -1,0 +1,16 @@
+{
+    "0xD00C2D82DC04A99F": {
+        "name": "SET_WIND_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEE09ECEDBABE47FC",
+        "gta_jhash": "0x45705F94"
+    }
+}

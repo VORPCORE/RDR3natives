@@ -1,0 +1,26 @@
+{
+    "0x583AE9AF9CEE0958": {
+        "name": "_0x583AE9AF9CEE0958",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

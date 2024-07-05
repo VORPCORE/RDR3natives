@@ -1,0 +1,26 @@
+{
+    "0x9D21B185ABC2DBC4": {
+        "name": "_0x9D21B185ABC2DBC4",
+        "comment": "p0 is the return value of DATABINDING::_DATABINDING_ADD_DATA_CONTAINER_FROM_PATH\np2, p3: 0\nReturns databindingEntryId",
+        "params": [
+            {
+                "type": "Any",
+                "name": "data"
+            },
+            {
+                "type": "const char*",
+                "name": "effects"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

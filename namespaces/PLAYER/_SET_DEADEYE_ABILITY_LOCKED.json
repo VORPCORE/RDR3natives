@@ -1,0 +1,22 @@
+{
+    "0x2797B8D66DD0EBB8": {
+        "name": "_SET_DEADEYE_ABILITY_LOCKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "abilityType"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

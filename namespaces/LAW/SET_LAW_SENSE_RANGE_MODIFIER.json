@@ -1,0 +1,18 @@
+{
+    "0xFEC85339AACA2A35": {
+        "name": "SET_LAW_SENSE_RANGE_MODIFIER",
+        "comment": "Default range is 1.0f",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x6599D834B12D0800": {
+        "name": "WAYPOINT_PLAYBACK_USE_DEFAULT_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6599D834B12D0800",
+        "gta_jhash": "0x1BBB2CAC"
+    }
+}

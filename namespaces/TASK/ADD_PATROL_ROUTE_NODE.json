@@ -1,0 +1,52 @@
+{
+    "0x8EDF950167586B7C": {
+        "name": "ADD_PATROL_ROUTE_NODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "nodeId"
+            },
+            {
+                "type": "const char*",
+                "name": "scenarioName"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "lookPosX"
+            },
+            {
+                "type": "float",
+                "name": "lookPosY"
+            },
+            {
+                "type": "float",
+                "name": "lookPosZ"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8EDF950167586B7C",
+        "gta_jhash": "0x21B48F10"
+    }
+}

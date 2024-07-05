@@ -1,0 +1,14 @@
+{
+    "0x279B0696DA4657EB": {
+        "name": "_QUEUE_SAVEGAME_OPERATION",
+        "comment": "p0 must be < 2",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

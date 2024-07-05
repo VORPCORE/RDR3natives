@@ -1,0 +1,14 @@
+{
+    "0xEBA51A294C73292E": {
+        "name": "_0xEBA51A294C73292E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

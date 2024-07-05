@@ -1,0 +1,18 @@
+{
+    "0x23E33CB9F4A3F547": {
+        "name": "_IS_ANIM_SCENE_PLAYBACK_LIST_PHASE_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "phaseName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

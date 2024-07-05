@@ -1,0 +1,14 @@
+{
+    "0xC3896D03E2852236": {
+        "name": "_REMOVE_WEAPON_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

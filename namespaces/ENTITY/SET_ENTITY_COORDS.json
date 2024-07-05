@@ -1,0 +1,44 @@
+{
+    "0x06843DA7060A026B": {
+        "name": "SET_ENTITY_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "BOOL",
+                "name": "xAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "yAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "zAxis"
+            },
+            {
+                "type": "BOOL",
+                "name": "clearArea"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x06843DA7060A026B",
+        "gta_jhash": "0xDF70B41B"
+    }
+}

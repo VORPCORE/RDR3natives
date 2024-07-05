@@ -1,0 +1,22 @@
+{
+    "0x2F11D3A254169EA4": {
+        "name": "_UI_PROMPT_SET_GROUP",
+        "comment": "tabIndex: specifies tab of prompt",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "int",
+                "name": "tabIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x79B1A6E780266DB0": {
+        "name": "_GET_MAX_LOCKON_DISTANCE_OF_CURRENT_PED_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x4B85B3CF9197AEDF": {
+        "name": "TRIGGER_ANIM_SCENE_SKIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

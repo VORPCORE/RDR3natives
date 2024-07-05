@@ -1,0 +1,24 @@
+{
+    "0x9D7E12EC6A1EE4E5": {
+        "name": "GET_CHARACTER_FROM_AUDIO_CONVERSATION_FILENAME",
+        "comment": "Note: you must use VAR_STRING. Byte code very similar to TEXT_COMMAND_DISPLAY_TEXT in V\nOld name: _GET_TEXT_SUBSTRING",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            },
+            {
+                "type": "int",
+                "name": "position"
+            },
+            {
+                "type": "int",
+                "name": "length"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207",
+        "gta_hash": "0x169BD9382084C8C0",
+        "gta_jhash": "0x34A396EE"
+    }
+}

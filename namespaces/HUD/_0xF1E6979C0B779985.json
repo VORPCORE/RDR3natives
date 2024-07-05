@@ -1,0 +1,14 @@
+{
+    "0xF1E6979C0B779985": {
+        "name": "_0xF1E6979C0B779985",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "uiscene"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "0x4D2B787BAE9AB760": {
+        "name": "TASK_FOLLOW_ENTITY_ALONG_WAYPOINT_RECORDING_AT_OFFSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped0"
+            },
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

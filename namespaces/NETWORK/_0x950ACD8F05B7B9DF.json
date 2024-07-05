@@ -1,0 +1,14 @@
+{
+    "0x950ACD8F05B7B9DF": {
+        "name": "_0x950ACD8F05B7B9DF",
+        "comment": "Related to container entity (RANSACK_ATTACHED_LOCKBOX / RANSACK_ATTACHED_CHEST)",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1355"
+    }
+}

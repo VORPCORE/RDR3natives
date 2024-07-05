@@ -1,0 +1,14 @@
+{
+    "0x11B0A0B282FA9B10": {
+        "name": "_0x11B0A0B282FA9B10",
+        "comment": "Used in Script Function DISABLE_REGISTERED_WORLD_BRAINS",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

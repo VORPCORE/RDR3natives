@@ -1,0 +1,20 @@
+{
+    "0x8BDC5B998B4654EF": {
+        "name": "SET_VEHICLE_ENGINE_HEALTH",
+        "comment": "1000 is max health\nBegins leaking gas at around 650 health\n-999.90002441406 appears to be minimum health, although nothing special occurs <- false statement\n\n-------------------------\nMinimum: -4000\nMaximum: 1000\n\n-4000: Engine is destroyed\n0 and below: Engine catches fire and health rapidly declines\n300: Engine is smoking and losing functionality\n1000: Engine is perfect",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "health"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x45F6D8EEF34ABEF1",
+        "gta_jhash": "0x1B760FB5"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "0x2B02DB082258625F": {
+        "name": "GIVE_PED_HASH_SCENARIO_PROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "const char*",
+                "name": "conditionalAnim"
+            },
+            {
+                "type": "Hash",
+                "name": "scenarioType"
+            },
+            {
+                "type": "Hash",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

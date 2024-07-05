@@ -1,0 +1,26 @@
+{
+    "0x947E43F544B6AB34": {
+        "name": "_0x947E43F544B6AB34",
+        "comment": "flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/0x947E43F544B6AB34\n_GET_PED_G* - _GET_PED_I(NTERACTION?)*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "int",
+                "name": "ms"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

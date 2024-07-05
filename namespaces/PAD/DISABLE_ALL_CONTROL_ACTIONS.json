@@ -1,0 +1,16 @@
+{
+    "0x5F4B6931816E599B": {
+        "name": "DISABLE_ALL_CONTROL_ACTIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5F4B6931816E599B",
+        "gta_jhash": "0x16753CF4"
+    }
+}

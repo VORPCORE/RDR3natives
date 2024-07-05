@@ -1,0 +1,26 @@
+{
+    "0x52BDE32F21BA3B6D": {
+        "name": "_CASHINVENTORY_TRANSACTION_ADD_AWARD",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            },
+            {
+                "type": "Hash",
+                "name": "hash"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            },
+            {
+                "type": "Any*",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

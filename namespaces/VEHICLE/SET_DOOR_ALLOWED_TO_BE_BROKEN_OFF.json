@@ -1,0 +1,24 @@
+{
+    "0x081FB9D6422F804C": {
+        "name": "SET_DOOR_ALLOWED_TO_BE_BROKEN_OFF",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT\n\nOld name: _SET_VEHICLE_DOOR_CAN_BREAK",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            },
+            {
+                "type": "BOOL",
+                "name": "isBreakable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2FA133A4A9D37ED8",
+        "gta_jhash": "0x065B92B3"
+    }
+}

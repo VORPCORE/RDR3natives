@@ -1,0 +1,14 @@
+{
+    "0x268B3AEBF032A88D": {
+        "name": "_GET_BLOCKING_OF_NON_TEMPORARY_EVENTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x1A9F09AB458D49C6": {
+        "name": "_0x1A9F09AB458D49C6",
+        "comment": "Used in shop scripts for CATALOG_BOOK\nfalse = Normal -> [CATALOG_BOOK_SHUTDOWN]\ntrue = Trees flickering? -> [CATALOG_BOOK_OPEN]",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x537F44CB0D7F150D": {
+        "name": "DOES_ANIM_DICT_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "animDict"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x2DA49C3B79856961",
+        "gta_jhash": "0xCD31C872"
+    }
+}

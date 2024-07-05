@@ -1,0 +1,14 @@
+{
+    "0xEA5CCF4EEB2F82D1": {
+        "name": "_UI_PROMPT_SET_HOLD_INDEFINITELY_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

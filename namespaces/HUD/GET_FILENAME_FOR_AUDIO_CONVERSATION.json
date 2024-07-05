@@ -1,0 +1,16 @@
+{
+    "0xCFEDCCAD3C5BA90D": {
+        "name": "GET_FILENAME_FOR_AUDIO_CONVERSATION",
+        "comment": "Gets a string literal from a label name.\n\nOld name: _GET_LABEL_TEXT",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "labelName"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207",
+        "gta_hash": "0x7B5280EBA9840C72",
+        "gta_jhash": "0x95C4B5AD"
+    }
+}

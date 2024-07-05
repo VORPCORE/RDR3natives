@@ -1,0 +1,11 @@
+{
+    "0x13A3F30A9ED0BC31": {
+        "name": "HAS_PTFX_ASSET_LOADED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xCA7D9B86ECA7481B",
+        "gta_jhash": "0x3EFF96BE"
+    }
+}

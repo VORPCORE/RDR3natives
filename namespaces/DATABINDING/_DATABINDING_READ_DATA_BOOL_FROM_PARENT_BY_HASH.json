@@ -1,0 +1,18 @@
+{
+    "0x4CDC3FDDFAE07EB3": {
+        "name": "_DATABINDING_READ_DATA_BOOL_FROM_PARENT_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

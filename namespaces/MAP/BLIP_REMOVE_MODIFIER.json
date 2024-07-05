@@ -1,0 +1,18 @@
+{
+    "0xB059D7BD3D78C16F": {
+        "name": "BLIP_REMOVE_MODIFIER",
+        "comment": "If modifierHash is 0, ALL modifiers will be removed.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "Hash",
+                "name": "modifierHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

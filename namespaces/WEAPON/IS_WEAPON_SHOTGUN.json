@@ -1,0 +1,14 @@
+{
+    "0xC75386174ECE95D5": {
+        "name": "IS_WEAPON_SHOTGUN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

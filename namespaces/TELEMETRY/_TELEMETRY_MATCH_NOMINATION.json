@@ -1,0 +1,14 @@
+{
+    "0x330029E121380CEB": {
+        "name": "_TELEMETRY_MATCH_NOMINATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x28AE29D909C8FDCE": {
+        "name": "_0x28AE29D909C8FDCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

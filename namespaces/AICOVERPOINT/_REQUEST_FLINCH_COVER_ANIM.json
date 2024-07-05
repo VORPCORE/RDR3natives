@@ -1,0 +1,14 @@
+{
+    "0x2A31D13C5F021D0D": {
+        "name": "_REQUEST_FLINCH_COVER_ANIM",
+        "comment": "Makes ped flinch (if in cover) like they have been shot at",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0xD146EE5F2B06B95E": {
+        "name": "SET_DISABLE_VEHICLE_ENGINE_FIRES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x91A0BD635321F145",
+        "gta_jhash": "0x1784BA1A"
+    }
+}

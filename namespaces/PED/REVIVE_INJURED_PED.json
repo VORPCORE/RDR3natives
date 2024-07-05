@@ -1,0 +1,16 @@
+{
+    "0x8D8ACD8388CD99CE": {
+        "name": "REVIVE_INJURED_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8D8ACD8388CD99CE",
+        "gta_jhash": "0x14D3E6E3"
+    }
+}

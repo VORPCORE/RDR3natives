@@ -1,0 +1,18 @@
+{
+    "0x1C1993824A396603": {
+        "name": "GET_ANIMAL_TUNING_BOOL_PARAM",
+        "comment": "index: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eAnimalTuningBools\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/ANIMAL_TUNING_BOOL_PARAMS",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animal"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

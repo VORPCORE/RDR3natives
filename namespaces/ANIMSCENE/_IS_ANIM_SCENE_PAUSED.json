@@ -1,0 +1,14 @@
+{
+    "0x4B4038796F0D6566": {
+        "name": "_IS_ANIM_SCENE_PAUSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

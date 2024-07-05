@@ -1,0 +1,11 @@
+{
+    "0x0360710033BE60D9": {
+        "name": "BEGIN_SRL",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9BADDC94EF83B823",
+        "gta_jhash": "0x24F49427"
+    }
+}

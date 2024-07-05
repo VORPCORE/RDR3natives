@@ -1,0 +1,18 @@
+{
+    "0x7C08E7CB8D951B70": {
+        "name": "_0x7C08E7CB8D951B70",
+        "comment": "Only used in SP\n_SET_REMOVE_PED*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

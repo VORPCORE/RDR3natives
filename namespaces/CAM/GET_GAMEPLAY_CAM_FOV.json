@@ -1,0 +1,11 @@
+{
+    "0xF6A96E5ACEEC6E50": {
+        "name": "GET_GAMEPLAY_CAM_FOV",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x65019750A0324133",
+        "gta_jhash": "0x4D6B3BFA"
+    }
+}

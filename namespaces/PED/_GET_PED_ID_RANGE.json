@@ -1,0 +1,14 @@
+{
+    "0x31167ED4324B758D": {
+        "name": "_GET_PED_ID_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

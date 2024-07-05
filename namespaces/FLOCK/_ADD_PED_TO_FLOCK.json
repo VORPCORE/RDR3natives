@@ -1,0 +1,18 @@
+{
+    "0x933E5D31A7D13069": {
+        "name": "_ADD_PED_TO_FLOCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

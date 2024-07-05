@@ -1,0 +1,14 @@
+{
+    "0x89CF5FF3D363311E": {
+        "name": "_GET_WEAPON_NAME",
+        "comment": "Returns \"WNS_INVALID\" if the weapon is invalid/doesn't exist.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

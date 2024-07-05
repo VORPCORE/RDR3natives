@@ -1,0 +1,14 @@
+{
+    "0x65DC4AC5B96614CB": {
+        "name": "_0x65DC4AC5B96614CB",
+        "comment": "Returns attachPoint",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x82CB0F3F0C7785E5": {
+        "name": "_0x82CB0F3F0C7785E5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

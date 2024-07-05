@@ -1,0 +1,20 @@
+{
+    "0x9C74AC9D87B3FFF4": {
+        "name": "SC_PROFANITY_CHECK_STRING",
+        "comment": "Starts a task to check an entered string for profanity on the ROS/Social Club services.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            },
+            {
+                "type": "int*",
+                "name": "token"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x75632C5ECD7ED843",
+        "gta_jhash": "0xDF084A6B"
+    }
+}

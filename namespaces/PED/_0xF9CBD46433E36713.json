@@ -1,0 +1,50 @@
+{
+    "0xF9CBD46433E36713": {
+        "name": "_0xF9CBD46433E36713",
+        "comment": "Used in Script Function PLAYER_HEAD_TRACKING_MAINTAIN",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "targetEntity"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "const char*",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

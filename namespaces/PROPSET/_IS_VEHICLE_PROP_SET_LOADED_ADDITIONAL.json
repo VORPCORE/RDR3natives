@@ -1,0 +1,14 @@
+{
+    "0x7264F9CA87A9830B": {
+        "name": "_IS_VEHICLE_PROP_SET_LOADED_ADDITIONAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

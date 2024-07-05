@@ -1,0 +1,14 @@
+{
+    "0x01F4D242765C6B24": {
+        "name": "STATSTRACKER_IS_INITIALIZED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

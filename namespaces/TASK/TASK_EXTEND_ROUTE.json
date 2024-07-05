@@ -1,0 +1,24 @@
+{
+    "0x1E7889778264843A": {
+        "name": "TASK_EXTEND_ROUTE",
+        "comment": "Adds a new point to the current point route. Call TASK_FLUSH_ROUTE before the first call to this. Call TASK_FOLLOW_POINT_ROUTE to make the Ped go the route.\n\nA maximum of 8 points can be added.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1E7889778264843A",
+        "gta_jhash": "0x43271F69"
+    }
+}

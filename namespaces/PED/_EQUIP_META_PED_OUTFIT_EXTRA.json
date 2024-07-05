@@ -1,0 +1,26 @@
+{
+    "0xA5BAE410B03E7371": {
+        "name": "_EQUIP_META_PED_OUTFIT_EXTRA",
+        "comment": "Changes Multiplayer ped face and body type components, they can be stacked\nParams: p3 = 1\nBody shape for mp_male from 124 - 128, 110 - 115 for mp_female\nFace shape for mp_male from 110 - 123, 96 - 109 for mp_female\nCloth type for mp_male from 0 - 109, 0 - 95 for mp_female",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "component"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

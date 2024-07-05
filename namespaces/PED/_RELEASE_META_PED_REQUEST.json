@@ -1,0 +1,14 @@
+{
+    "0x3972F78A78B5D9DF": {
+        "name": "_RELEASE_META_PED_REQUEST",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x0F99F6436528A089": {
+        "name": "NETWORK_IS_GANG_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "gangId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

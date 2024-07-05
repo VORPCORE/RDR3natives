@@ -1,0 +1,30 @@
+{
+    "0x253A63B5BADBC398": {
+        "name": "_SET_TEXTURE_LAYER_TEXTURE_MAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            },
+            {
+                "type": "int",
+                "name": "layerId"
+            },
+            {
+                "type": "Hash",
+                "name": "albedoHash"
+            },
+            {
+                "type": "Hash",
+                "name": "normalHash"
+            },
+            {
+                "type": "Hash",
+                "name": "materialHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

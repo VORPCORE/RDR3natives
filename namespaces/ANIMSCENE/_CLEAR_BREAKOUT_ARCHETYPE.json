@@ -1,0 +1,14 @@
+{
+    "0xBC781D24AA11F179": {
+        "name": "_CLEAR_BREAKOUT_ARCHETYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xA92450B5AE687AAF": {
+        "name": "_GET_SCENARIO_POINT_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

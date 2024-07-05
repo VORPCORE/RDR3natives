@@ -1,0 +1,14 @@
+{
+    "0xC4DEC3CA8C365A5D": {
+        "name": "IS_WEAPON_BOW",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

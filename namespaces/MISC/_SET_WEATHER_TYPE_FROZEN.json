@@ -1,0 +1,14 @@
+{
+    "0xD74ACDF7DB8114AF": {
+        "name": "_SET_WEATHER_TYPE_FROZEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

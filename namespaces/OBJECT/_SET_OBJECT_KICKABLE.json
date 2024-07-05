@@ -1,0 +1,18 @@
+{
+    "0xB7017DA4D498269F": {
+        "name": "_SET_OBJECT_KICKABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "kickable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

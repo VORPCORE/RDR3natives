@@ -1,0 +1,28 @@
+{
+    "0x4A58A47A72E3FCB4": {
+        "name": "TASK_GUARD_CURRENT_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4A58A47A72E3FCB4",
+        "gta_jhash": "0x2FB099E9"
+    }
+}

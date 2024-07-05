@@ -1,0 +1,14 @@
+{
+    "0xE31C0CB1C3186D40": {
+        "name": "_REMOVE_VEHICLE_LIGHT_PROP_SETS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

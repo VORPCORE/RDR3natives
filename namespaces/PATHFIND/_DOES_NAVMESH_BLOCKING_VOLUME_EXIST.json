@@ -1,0 +1,14 @@
+{
+    "0xDE0EA444735C1368": {
+        "name": "_DOES_NAVMESH_BLOCKING_VOLUME_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

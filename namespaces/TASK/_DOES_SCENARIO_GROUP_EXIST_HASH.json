@@ -1,0 +1,14 @@
+{
+    "0x76E98B52369A289C": {
+        "name": "_DOES_SCENARIO_GROUP_EXIST_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scenarioGroup"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

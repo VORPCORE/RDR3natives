@@ -1,0 +1,18 @@
+{
+    "0xFCA8FB9E15FA80D3": {
+        "name": "_SET_PED_PROMPT_NAME_FROM_GXT_ENTRY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "gxtEntryHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

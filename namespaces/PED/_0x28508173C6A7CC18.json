@@ -1,0 +1,14 @@
+{
+    "0x28508173C6A7CC18": {
+        "name": "_0x28508173C6A7CC18",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

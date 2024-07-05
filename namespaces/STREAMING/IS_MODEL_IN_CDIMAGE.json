@@ -1,0 +1,16 @@
+{
+    "0xD6F3B6D7716CFF8E": {
+        "name": "IS_MODEL_IN_CDIMAGE",
+        "comment": "Returns whether the specified model exists in the game.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x35B9E0803292B641",
+        "gta_jhash": "0x1094782F"
+    }
+}

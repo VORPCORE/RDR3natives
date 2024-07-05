@@ -1,0 +1,18 @@
+{
+    "0x74C3B1093728D263": {
+        "name": "_ITEMDATABASE_FILLOUT_BUNDLE_UI_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "bundle"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

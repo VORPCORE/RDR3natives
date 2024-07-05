@@ -1,0 +1,20 @@
+{
+    "0xA010655985853485": {
+        "name": "DATAARRAY_GET_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            },
+            {
+                "type": "int",
+                "name": "arrayIndex"
+            }
+        ],
+        "return_type": "Any*",
+        "build": "1207",
+        "gta_hash": "0x8B5FADCC4E3A145F",
+        "gta_jhash": "0xECE81278"
+    }
+}

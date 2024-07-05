@@ -1,0 +1,18 @@
+{
+    "0x4BC3ECFDA0297E27": {
+        "name": "GET_ANIMAL_TUNING_FLOAT_PARAM",
+        "comment": "index: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eAnimalTuningFloats\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/ANIMAL_TUNING_FLOAT_PARAMS",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animal"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

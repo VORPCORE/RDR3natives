@@ -1,0 +1,18 @@
+{
+    "0x26C008791D066F37": {
+        "name": "_CASHINVENTORY_TRANSACTION_CHECKOUT_STATUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            },
+            {
+                "type": "int*",
+                "name": "status"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

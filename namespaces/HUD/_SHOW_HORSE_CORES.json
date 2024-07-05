@@ -1,0 +1,14 @@
+{
+    "0xD4EE21B7CC7FD350": {
+        "name": "_SHOW_HORSE_CORES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

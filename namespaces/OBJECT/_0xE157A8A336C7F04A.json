@@ -1,0 +1,18 @@
+{
+    "0xE157A8A336C7F04A": {
+        "name": "_0xE157A8A336C7F04A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

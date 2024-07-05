@@ -1,0 +1,14 @@
+{
+    "0x11E73195E735B25B": {
+        "name": "_UI_STATE_MACHINE_IS_EXITED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

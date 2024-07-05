@@ -1,0 +1,16 @@
+{
+    "0x4ACA10A91F66F1E2": {
+        "name": "SET_STREAMED_TEXTURE_DICT_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBE2CACCF5A8AA805",
+        "gta_jhash": "0xF07DDA38"
+    }
+}

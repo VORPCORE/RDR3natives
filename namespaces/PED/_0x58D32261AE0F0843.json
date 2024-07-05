@@ -1,0 +1,46 @@
+{
+    "0x58D32261AE0F0843": {
+        "name": "_0x58D32261AE0F0843",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "boneId"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "const char*",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

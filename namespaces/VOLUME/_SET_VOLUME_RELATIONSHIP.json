@@ -1,0 +1,18 @@
+{
+    "0xFD010A2154B40676": {
+        "name": "_SET_VOLUME_RELATIONSHIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "Hash",
+                "name": "relationshipGroup"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

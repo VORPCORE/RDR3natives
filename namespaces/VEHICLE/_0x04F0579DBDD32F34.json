@@ -1,0 +1,14 @@
+{
+    "0x04F0579DBDD32F34": {
+        "name": "_0x04F0579DBDD32F34",
+        "comment": "_SET_VEHICLE_*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

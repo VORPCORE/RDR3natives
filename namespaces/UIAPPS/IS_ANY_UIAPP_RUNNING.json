@@ -1,0 +1,9 @@
+{
+    "0xDB30BEC7A7A5CBD3": {
+        "name": "IS_ANY_UIAPP_RUNNING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

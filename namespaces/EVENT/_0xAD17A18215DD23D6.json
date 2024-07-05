@@ -1,0 +1,22 @@
+{
+    "0xAD17A18215DD23D6": {
+        "name": "_0xAD17A18215DD23D6",
+        "comment": "Might return time since some (?) event.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

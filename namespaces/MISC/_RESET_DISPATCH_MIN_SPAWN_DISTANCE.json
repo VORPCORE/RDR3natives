@@ -1,0 +1,9 @@
+{
+    "0x96498D922D8D0D0A": {
+        "name": "_RESET_DISPATCH_MIN_SPAWN_DISTANCE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

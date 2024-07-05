@@ -1,0 +1,22 @@
+{
+    "0x05AC9E1E02975AFB": {
+        "name": "_0x05AC9E1E02975AFB",
+        "comment": "_DATABINDING_WRITE_DATA_*",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

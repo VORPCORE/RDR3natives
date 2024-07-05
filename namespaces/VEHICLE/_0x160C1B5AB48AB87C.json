@@ -1,0 +1,18 @@
+{
+    "0x160C1B5AB48AB87C": {
+        "name": "_0x160C1B5AB48AB87C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x94F3D956BFAEAE18": {
+        "name": "_SET_NETWORK_PICKUP_USABLE_FOR_PLAYER",
+        "comment": "Params: p2 controls whether to make pickups usable/collectable or not in networked games",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "isUsable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

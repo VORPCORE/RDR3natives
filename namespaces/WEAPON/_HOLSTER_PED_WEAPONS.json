@@ -1,0 +1,30 @@
+{
+    "0x94A3C1B804D291EC": {
+        "name": "_HOLSTER_PED_WEAPONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "immediately"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

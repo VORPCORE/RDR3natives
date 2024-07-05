@@ -1,0 +1,22 @@
+{
+    "0x3C529A827998F9B3": {
+        "name": "_0x3C529A827998F9B3",
+        "comment": "_SET_PED_TA* - _SET_PED_TO_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

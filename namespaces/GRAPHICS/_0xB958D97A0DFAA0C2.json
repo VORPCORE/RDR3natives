@@ -1,0 +1,14 @@
+{
+    "0xB958D97A0DFAA0C2": {
+        "name": "_0xB958D97A0DFAA0C2",
+        "comment": "ANIMPOSTFX_*",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

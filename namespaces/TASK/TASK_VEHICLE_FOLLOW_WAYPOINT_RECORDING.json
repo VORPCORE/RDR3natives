@@ -1,0 +1,56 @@
+{
+    "0x3123FAA6DB1CF7ED": {
+        "name": "TASK_VEHICLE_FOLLOW_WAYPOINT_RECORDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            },
+            {
+                "type": "int",
+                "name": "drivingMode"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "eWaypoint"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "stoppingDist"
+            },
+            {
+                "type": "Any",
+                "name": "p10"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3123FAA6DB1CF7ED",
+        "gta_jhash": "0x959818B6"
+    }
+}

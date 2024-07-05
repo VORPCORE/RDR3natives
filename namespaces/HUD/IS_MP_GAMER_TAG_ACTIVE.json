@@ -1,0 +1,16 @@
+{
+    "0x6E1C31E14C7A5F97": {
+        "name": "IS_MP_GAMER_TAG_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4E929E7A5796FD26",
+        "gta_jhash": "0x60118951"
+    }
+}

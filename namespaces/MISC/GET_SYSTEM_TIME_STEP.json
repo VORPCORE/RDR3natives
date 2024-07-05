@@ -1,0 +1,11 @@
+{
+    "0x3F3172FEAE3AFE1C": {
+        "name": "GET_SYSTEM_TIME_STEP",
+        "comment": "Old name: _GET_BENCHMARK_TIME",
+        "params": [],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xE599A503B3837E1B",
+        "gta_jhash": ""
+    }
+}

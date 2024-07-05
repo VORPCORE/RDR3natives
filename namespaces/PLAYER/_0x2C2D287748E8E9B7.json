@@ -1,0 +1,14 @@
+{
+    "0x2C2D287748E8E9B7": {
+        "name": "_0x2C2D287748E8E9B7",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

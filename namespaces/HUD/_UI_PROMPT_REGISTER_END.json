@@ -1,0 +1,14 @@
+{
+    "0xF7AA2696A22AD8B9": {
+        "name": "_UI_PROMPT_REGISTER_END",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

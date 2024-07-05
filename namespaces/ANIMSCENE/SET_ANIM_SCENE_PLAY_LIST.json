@@ -1,0 +1,22 @@
+{
+    "0x15598CFB25F3DC7E": {
+        "name": "SET_ANIM_SCENE_PLAY_LIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "playlistName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

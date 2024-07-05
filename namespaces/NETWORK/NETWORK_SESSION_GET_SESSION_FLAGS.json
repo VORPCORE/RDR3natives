@@ -1,0 +1,9 @@
+{
+    "0x51F33DBC1A41CBFD": {
+        "name": "NETWORK_SESSION_GET_SESSION_FLAGS",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

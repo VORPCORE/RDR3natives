@@ -1,0 +1,17 @@
+{
+    "0x2EB67D564DCC09D5": {
+        "name": "BG_START_CONTEXT_HASH",
+        "comment": "Hashed version of BG_START_CONTEXT",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "contextHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x75B18E49607874C7",
+        "gta_jhash": "0x67B23E17"
+    }
+}

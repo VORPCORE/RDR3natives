@@ -1,0 +1,20 @@
+{
+    "0x6F6981D2253C208F": {
+        "name": "HIDE_PED_WEAPON_FOR_SCRIPTED_CUTSCENE",
+        "comment": "Hides the ped's weapon during a cutscene.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6F6981D2253C208F",
+        "gta_jhash": "0x00CFD6E9"
+    }
+}

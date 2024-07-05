@@ -1,0 +1,14 @@
+{
+    "0xC48A9EB0D499B3E5": {
+        "name": "GET_PED_IS_DOING_COMBAT_ROLL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

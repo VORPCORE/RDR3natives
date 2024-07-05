@@ -1,0 +1,9 @@
+{
+    "0x12AEB56B489415C5": {
+        "name": "_NETWORK_DID_RECENT_GAMER_NAMES_REQUEST_SUCCEED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

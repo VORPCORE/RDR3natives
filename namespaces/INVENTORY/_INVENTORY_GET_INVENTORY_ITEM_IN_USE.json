@@ -1,0 +1,18 @@
+{
+    "0x70E3A884ED000A01": {
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_IN_USE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

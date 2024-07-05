@@ -1,0 +1,14 @@
+{
+    "0x09D95666ED2B5F60": {
+        "name": "_VIRTUAL_COLLECTION_RESET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

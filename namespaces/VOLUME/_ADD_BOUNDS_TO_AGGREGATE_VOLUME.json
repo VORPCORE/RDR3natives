@@ -1,0 +1,18 @@
+{
+    "0x6E0D3C3F828DA773": {
+        "name": "_ADD_BOUNDS_TO_AGGREGATE_VOLUME",
+        "comment": "_ADD_R* - _ADD_V(OLUME?)*",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "Volume",
+                "name": "aggregate"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

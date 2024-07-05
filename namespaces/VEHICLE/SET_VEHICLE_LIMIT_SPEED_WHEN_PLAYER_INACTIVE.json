@@ -1,0 +1,20 @@
+{
+    "0x8F75941C86EEBFCA": {
+        "name": "SET_VEHICLE_LIMIT_SPEED_WHEN_PLAYER_INACTIVE",
+        "comment": "_SET_VEHICLE_LI*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC50CE861B55EAB8B",
+        "gta_jhash": "0x40C323AE"
+    }
+}

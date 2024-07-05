@@ -1,0 +1,14 @@
+{
+    "0x88D9D76D78065487": {
+        "name": "_GET_INCAPACITATION_TIME_REMAINING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xB991FE166FAF84FD": {
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_FIT_SLOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

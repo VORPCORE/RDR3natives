@@ -1,0 +1,20 @@
+{
+    "0xC9F59C0A710ECD34": {
+        "name": "GET_EVENT_EXISTS",
+        "comment": "eventGroup: 0 = SCRIPT_EVENT_QUEUE_AI (CEventGroupScriptAI), 1 = SCRIPT_EVENT_QUEUE_NETWORK (CEventGroupScriptNetwork), 2 = unk, 3 = unk, 4 = SCRIPT_EVENT_QUEUE_SCRIPT_ERRORS (CEventGroupScriptErrors)",
+        "params": [
+            {
+                "type": "int",
+                "name": "eventGroup"
+            },
+            {
+                "type": "Hash",
+                "name": "eventType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x936E6168A9BCEDB5",
+        "gta_jhash": "0xA1B447B5"
+    }
+}

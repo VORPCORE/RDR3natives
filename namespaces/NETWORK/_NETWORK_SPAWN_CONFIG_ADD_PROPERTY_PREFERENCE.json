@@ -1,0 +1,22 @@
+{
+    "0xEB6027FD1B4600D5": {
+        "name": "_NETWORK_SPAWN_CONFIG_ADD_PROPERTY_PREFERENCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "configProperty"
+            },
+            {
+                "type": "BOOL",
+                "name": "include"
+            },
+            {
+                "type": "float",
+                "name": "weight"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

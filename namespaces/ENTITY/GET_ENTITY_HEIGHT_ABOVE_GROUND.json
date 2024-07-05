@@ -1,0 +1,16 @@
+{
+    "0x0D3B5BAEA08F63E9": {
+        "name": "GET_ENTITY_HEIGHT_ABOVE_GROUND",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x1DD55701034110E5",
+        "gta_jhash": "0x57F56A4D"
+    }
+}

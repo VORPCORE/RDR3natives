@@ -1,0 +1,18 @@
+{
+    "0xF6262491C7704A63": {
+        "name": "_INCAPACITATED_REVIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

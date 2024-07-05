@@ -1,0 +1,22 @@
+{
+    "0xF3FDA9A617A15145": {
+        "name": "_GET_ENTITY_WORLD_POSITION_OF_DIMENSIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Vector3*",
+                "name": "minimum"
+            },
+            {
+                "type": "Vector3*",
+                "name": "maximum"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

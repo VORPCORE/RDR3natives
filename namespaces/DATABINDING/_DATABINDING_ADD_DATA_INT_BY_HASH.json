@@ -1,0 +1,22 @@
+{
+    "0x267F9527F4350ADE": {
+        "name": "_DATABINDING_ADD_DATA_INT_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

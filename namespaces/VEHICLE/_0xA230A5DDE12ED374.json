@@ -1,0 +1,14 @@
+{
+    "0xA230A5DDE12ED374": {
+        "name": "_0xA230A5DDE12ED374",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

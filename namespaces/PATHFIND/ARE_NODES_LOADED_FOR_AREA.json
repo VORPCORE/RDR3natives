@@ -1,0 +1,28 @@
+{
+    "0xF7B79A50B905A30D": {
+        "name": "ARE_NODES_LOADED_FOR_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF7B79A50B905A30D",
+        "gta_jhash": "0x86E80A17"
+    }
+}

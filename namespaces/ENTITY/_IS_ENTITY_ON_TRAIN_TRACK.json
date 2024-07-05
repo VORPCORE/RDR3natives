@@ -1,0 +1,14 @@
+{
+    "0x857ACB0AB4BD0D55": {
+        "name": "_IS_ENTITY_ON_TRAIN_TRACK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

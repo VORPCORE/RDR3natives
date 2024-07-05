@@ -1,0 +1,14 @@
+{
+    "0x7C803BDC8343228D": {
+        "name": "_GET_PLAYER_OWNER_OF_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1207"
+    }
+}

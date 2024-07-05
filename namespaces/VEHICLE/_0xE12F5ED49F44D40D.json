@@ -1,0 +1,14 @@
+{
+    "0xE12F5ED49F44D40D": {
+        "name": "_0xE12F5ED49F44D40D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

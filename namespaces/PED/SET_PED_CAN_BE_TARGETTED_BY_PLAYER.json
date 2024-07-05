@@ -1,0 +1,24 @@
+{
+    "0x66B57B72E0836A76": {
+        "name": "SET_PED_CAN_BE_TARGETTED_BY_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x66B57B72E0836A76",
+        "gta_jhash": "0xD050F490"
+    }
+}

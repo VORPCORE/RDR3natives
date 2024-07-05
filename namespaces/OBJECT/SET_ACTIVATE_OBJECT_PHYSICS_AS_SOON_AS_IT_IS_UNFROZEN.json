@@ -1,0 +1,20 @@
+{
+    "0x406137F8EF90EAF5": {
+        "name": "SET_ACTIVATE_OBJECT_PHYSICS_AS_SOON_AS_IT_IS_UNFROZEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x406137F8EF90EAF5",
+        "gta_jhash": "0x3E263AE1"
+    }
+}

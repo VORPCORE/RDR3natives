@@ -1,0 +1,11 @@
+{
+    "0x30996422DF1EE561": {
+        "name": "ALLOW_PAUSE_WHEN_NOT_IN_STATE_OF_PLAY_THIS_FRAME",
+        "comment": "Old name: _ALLOW_PAUSE_MENU_WHEN_DEAD_THIS_FRAME",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xCC3FDDED67BCFC63",
+        "gta_jhash": "0x630CD8EE"
+    }
+}

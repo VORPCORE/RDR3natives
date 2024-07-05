@@ -1,0 +1,22 @@
+{
+    "0x09C28F828EE674FA": {
+        "name": "BOOST_PLAYER_HORSE_SPEED_FOR_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "speedBoost"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

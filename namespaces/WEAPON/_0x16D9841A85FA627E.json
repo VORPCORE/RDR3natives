@@ -1,0 +1,18 @@
+{
+    "0x16D9841A85FA627E": {
+        "name": "_0x16D9841A85FA627E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

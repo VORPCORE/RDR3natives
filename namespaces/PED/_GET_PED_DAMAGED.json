@@ -1,0 +1,14 @@
+{
+    "0x6CFC373008A1EDAF": {
+        "name": "_GET_PED_DAMAGED",
+        "comment": "Returns true if _GET_PED_DAMAGE_CLEANLINESS was ever lower than 2",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

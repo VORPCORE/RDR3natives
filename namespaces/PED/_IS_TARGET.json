@@ -1,0 +1,18 @@
+{
+    "0x6E5CBCB3941D7D08": {
+        "name": "_IS_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

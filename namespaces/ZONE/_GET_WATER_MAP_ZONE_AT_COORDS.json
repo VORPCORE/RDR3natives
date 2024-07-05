@@ -1,0 +1,22 @@
+{
+    "0x5BA7A68A346A5A91": {
+        "name": "_GET_WATER_MAP_ZONE_AT_COORDS",
+        "comment": "Returns the zone's name hash if its type matches one of the following:\n- LAKE\n- RIVER\n- OIL_SPILL\n- SWAMP\n- OCEAN\n- CREEK\n- POND\n- GLACIER",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

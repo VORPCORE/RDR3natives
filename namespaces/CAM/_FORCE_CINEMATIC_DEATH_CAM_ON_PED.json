@@ -1,0 +1,14 @@
+{
+    "0xE3639DB78B3B5400": {
+        "name": "_FORCE_CINEMATIC_DEATH_CAM_ON_PED",
+        "comment": "Used for DUELING_MANAGE_DEATH_CAMERA - Initializing death camera\nParams: targetPed = death cam focuses on it",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

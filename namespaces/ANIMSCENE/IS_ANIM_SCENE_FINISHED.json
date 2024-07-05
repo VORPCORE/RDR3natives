@@ -1,0 +1,18 @@
+{
+    "0xD8254CB2C586412B": {
+        "name": "IS_ANIM_SCENE_FINISHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

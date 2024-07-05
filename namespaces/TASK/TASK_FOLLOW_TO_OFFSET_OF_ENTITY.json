@@ -1,0 +1,68 @@
+{
+    "0x304AE42E357B8C7E": {
+        "name": "TASK_FOLLOW_TO_OFFSET_OF_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "float",
+                "name": "movementSpeed"
+            },
+            {
+                "type": "int",
+                "name": "timeout"
+            },
+            {
+                "type": "float",
+                "name": "stoppingRange"
+            },
+            {
+                "type": "BOOL",
+                "name": "persistFollowing"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "BOOL",
+                "name": "walkOnly"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            },
+            {
+                "type": "BOOL",
+                "name": "p12"
+            },
+            {
+                "type": "BOOL",
+                "name": "p13"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x304AE42E357B8C7E",
+        "gta_jhash": "0x2DF5A6AC"
+    }
+}

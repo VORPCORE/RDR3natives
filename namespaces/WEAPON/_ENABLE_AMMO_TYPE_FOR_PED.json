@@ -1,0 +1,18 @@
+{
+    "0x3B7B7908B7ADFB4B": {
+        "name": "_ENABLE_AMMO_TYPE_FOR_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

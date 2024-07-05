@@ -1,0 +1,18 @@
+{
+    "0xB9C92616929CC25D": {
+        "name": "_BLOOD_TRAIL_FOR_WAYPOINT",
+        "comment": "p1: 0.3f in R* Scripts",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

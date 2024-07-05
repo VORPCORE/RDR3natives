@@ -1,0 +1,16 @@
+{
+    "0x2412D9C05BB09B97": {
+        "name": "GET_ENTITY_FORWARD_VECTOR",
+        "comment": "Gets the entity's forward vector in XY(Z) eulers.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x0A794A5A57F8DF91",
+        "gta_jhash": "0x84DCECBF"
+    }
+}

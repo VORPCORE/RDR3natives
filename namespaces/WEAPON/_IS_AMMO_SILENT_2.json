@@ -1,0 +1,14 @@
+{
+    "0x7EFACC589B98C488": {
+        "name": "_IS_AMMO_SILENT_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "ammoHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

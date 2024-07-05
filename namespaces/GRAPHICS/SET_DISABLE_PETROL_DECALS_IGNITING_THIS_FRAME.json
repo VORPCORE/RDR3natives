@@ -1,0 +1,11 @@
+{
+    "0x53ED07BF368EDA59": {
+        "name": "SET_DISABLE_PETROL_DECALS_IGNITING_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1232",
+        "gta_hash": "0xD9454B5752C857DC",
+        "gta_jhash": "0xEAB6417C"
+    }
+}

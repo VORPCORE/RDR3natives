@@ -1,0 +1,30 @@
+{
+    "0xBE012571B25F5ACA": {
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_EQUIPPED_IN_SLOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "Hash",
+                "name": "slotId"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "Any*",
+                "name": "p4"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

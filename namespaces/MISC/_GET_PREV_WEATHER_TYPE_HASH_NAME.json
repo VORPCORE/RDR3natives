@@ -1,0 +1,9 @@
+{
+    "0x4BEB42AEBCA732E9": {
+        "name": "_GET_PREV_WEATHER_TYPE_HASH_NAME",
+        "comment": "",
+        "params": [],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

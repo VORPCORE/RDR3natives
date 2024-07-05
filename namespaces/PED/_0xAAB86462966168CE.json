@@ -1,0 +1,18 @@
+{
+    "0xAAB86462966168CE": {
+        "name": "_0xAAB86462966168CE",
+        "comment": "Related to _0x704C908E9C405136 for component loading\n_S*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "isMP"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

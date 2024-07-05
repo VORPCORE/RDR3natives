@@ -1,0 +1,14 @@
+{
+    "0x5826EFD6D73C4DE5": {
+        "name": "_0x5826EFD6D73C4DE5",
+        "comment": "_REMOVE_DECALS_* - _REMOVE_FORCED*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

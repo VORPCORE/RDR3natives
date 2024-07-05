@@ -1,0 +1,16 @@
+{
+    "0xA53C8D7D0F8C74D0": {
+        "name": "SET_PARTICLE_FX_BULLET_IMPACT_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x27E32866E9A5C416",
+        "gta_jhash": "0xC1AD5DDF"
+    }
+}

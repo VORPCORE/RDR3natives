@@ -1,0 +1,18 @@
+{
+    "0xE141F6B40B1E3683": {
+        "name": "_0xE141F6B40B1E3683",
+        "comment": "statId: see STAT_ID_IS_VALID\nOnly used in R* SP Scripts\n_STAT_ID_SET_*",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

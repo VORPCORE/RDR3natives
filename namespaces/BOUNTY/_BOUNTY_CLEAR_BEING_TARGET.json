@@ -1,0 +1,9 @@
+{
+    "0x932DB3C05A7465D1": {
+        "name": "_BOUNTY_CLEAR_BEING_TARGET",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

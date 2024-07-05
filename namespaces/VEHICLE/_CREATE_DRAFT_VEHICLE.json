@@ -1,0 +1,50 @@
+{
+    "0x214651FB1DFEBA89": {
+        "name": "_CREATE_DRAFT_VEHICLE",
+        "comment": "Identical to CREATE_VEHICLE but allows to set draftAnimalPopGroup (see popgroups.#mt for DRAFT_HORSES_*)",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            },
+            {
+                "type": "BOOL",
+                "name": "bScriptHostVeh"
+            },
+            {
+                "type": "BOOL",
+                "name": "bDontAutoCreateDraftAnimals"
+            },
+            {
+                "type": "Hash",
+                "name": "draftAnimalPopGroup"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207"
+    }
+}

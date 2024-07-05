@@ -1,0 +1,16 @@
+{
+    "0x4426D65E029A4DC0": {
+        "name": "SET_GPS_MULTI_ROUTE_RENDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3DDA37128DD1ACA8",
+        "gta_jhash": "0xE87CBE4C"
+    }
+}

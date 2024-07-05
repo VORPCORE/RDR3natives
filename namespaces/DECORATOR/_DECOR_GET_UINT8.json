@@ -1,0 +1,18 @@
+{
+    "0xB1682B2443F0540B": {
+        "name": "_DECOR_GET_UINT8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

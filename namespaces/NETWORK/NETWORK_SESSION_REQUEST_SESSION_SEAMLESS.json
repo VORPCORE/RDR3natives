@@ -1,0 +1,26 @@
+{
+    "0x2989E131FDE37E97": {
+        "name": "NETWORK_SESSION_REQUEST_SESSION_SEAMLESS",
+        "comment": "Equivalent to NETWORK_REQUEST_SESSION_SEAMLESS if userHash == 0.\nOtherwise it is equivalent to NETWORK_SESSION_REQUEST_SESSION_COMPETITIVE(flags, MATCHTYPE_SEAMLESS, userHash, 0, sessionRequestId);\n\np1 is unused",
+        "params": [
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "seamlessType"
+            },
+            {
+                "type": "int",
+                "name": "userHash"
+            },
+            {
+                "type": "Any*",
+                "name": "sessionRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

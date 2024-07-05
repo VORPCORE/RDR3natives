@@ -1,0 +1,18 @@
+{
+    "0x9629FAF6460D35CB": {
+        "name": "_0x9629FAF6460D35CB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "group"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x4285804FD65D8066": {
+        "name": "_STOP_GAMEPLAY_CAM_SHAKING_WITH_NAME",
+        "comment": "script_rel: DRUNK_SHAKE, REINFORCED_LASSO_STRUGGLE_SHAKE, CORRECTOR_SHAKE, MINIGAME_BOUNTY_SHAKE, HAND_SHAKE, MINIGAME_TRAIN_SHAKE\nscript_mp_rel: DRUNK_SHAKE, REINFORCED_LASSO_STRUGGLE_SHAKE\n_STOP_GAMEPLAY_CAM* - _STOP_I*",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "shakeName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

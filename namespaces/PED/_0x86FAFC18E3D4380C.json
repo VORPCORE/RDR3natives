@@ -1,0 +1,18 @@
+{
+    "0x86FAFC18E3D4380C": {
+        "name": "_0x86FAFC18E3D4380C",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

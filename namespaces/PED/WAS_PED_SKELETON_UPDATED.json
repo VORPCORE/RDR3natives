@@ -1,0 +1,16 @@
+{
+    "0x11B499C1E0FF8559": {
+        "name": "WAS_PED_SKELETON_UPDATED",
+        "comment": "Despite this function's name, it simply returns whether the specified handle is a Ped.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x11B499C1E0FF8559",
+        "gta_jhash": "0xF7E2FBAD"
+    }
+}

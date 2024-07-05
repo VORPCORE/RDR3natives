@@ -1,0 +1,20 @@
+{
+    "0x4D1A590C92BF377E": {
+        "name": "PAUSE_CLOCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "Any",
+                "name": "unused"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4055E40BD2DBEC1D",
+        "gta_jhash": "0xB02D6124"
+    }
+}

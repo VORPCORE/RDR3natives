@@ -1,0 +1,22 @@
+{
+    "0xA8432A14D4DC2101": {
+        "name": "_REQUEST_METADATA_AT_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

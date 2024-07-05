@@ -1,0 +1,14 @@
+{
+    "0xFA233F8FE190514C": {
+        "name": "_UILOG_SET_CACHED_OBJECTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

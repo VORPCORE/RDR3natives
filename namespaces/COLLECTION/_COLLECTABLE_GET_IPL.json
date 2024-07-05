@@ -1,0 +1,14 @@
+{
+    "0x922A79CD4A033B8B": {
+        "name": "_COLLECTABLE_GET_IPL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableItem"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

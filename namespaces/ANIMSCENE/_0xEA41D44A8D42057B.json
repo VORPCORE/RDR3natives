@@ -1,0 +1,9 @@
+{
+    "0xEA41D44A8D42057B": {
+        "name": "_0xEA41D44A8D42057B",
+        "comment": "Used in SP R* Scripts only\n_PAUSE_* - _PLAY_*",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

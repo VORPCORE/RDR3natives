@@ -1,0 +1,14 @@
+{
+    "0xBD5DD5EAE2B6CE14": {
+        "name": "GET_STRING_FROM_HASH_KEY",
+        "comment": "Returns the label text given the hash.\n\nOld name: _GET_LABEL_TEXT_BY_HASH",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "labelHash"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

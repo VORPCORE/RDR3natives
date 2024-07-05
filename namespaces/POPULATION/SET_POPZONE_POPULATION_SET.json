@@ -1,0 +1,18 @@
+{
+    "0x3E6A49D9B519E85C": {
+        "name": "SET_POPZONE_POPULATION_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "PopZone",
+                "name": "popZone"
+            },
+            {
+                "type": "Hash",
+                "name": "populationSetHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

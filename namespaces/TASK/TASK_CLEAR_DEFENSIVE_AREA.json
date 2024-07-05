@@ -1,0 +1,16 @@
+{
+    "0x95A6C46A31D1917D": {
+        "name": "TASK_CLEAR_DEFENSIVE_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x95A6C46A31D1917D",
+        "gta_jhash": "0x7A05BF0D"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x634C19521485AB25": {
+        "name": "SET_PICKUP_DO_NOT_AUTO_PLACE_ON_GROUND",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "pickupObject"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

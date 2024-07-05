@@ -1,0 +1,16 @@
+{
+    "0x0DED5B0C8EBAAE12": {
+        "name": "DELETE_CHECKPOINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkpoint"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF5ED37F54CD4D52E",
+        "gta_jhash": "0xB66CF3CA"
+    }
+}

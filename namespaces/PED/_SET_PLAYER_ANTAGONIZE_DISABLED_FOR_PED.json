@@ -1,0 +1,22 @@
+{
+    "0x5708EDD71B50C008": {
+        "name": "_SET_PLAYER_ANTAGONIZE_DISABLED_FOR_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

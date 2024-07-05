@@ -1,0 +1,18 @@
+{
+    "0x90237103F27F7937": {
+        "name": "EVENTS_UI_PEEK_MESSAGE",
+        "comment": "eventData: see EVENTS_UI_GET_MESSAGE\n\nOld name: _EVENT_MANAGER_PEEK_EVENT",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            },
+            {
+                "type": "Any*",
+                "name": "eventData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

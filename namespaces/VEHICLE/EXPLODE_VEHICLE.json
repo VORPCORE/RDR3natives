@@ -1,0 +1,32 @@
+{
+    "0x75DCED9EEC5769D7": {
+        "name": "EXPLODE_VEHICLE",
+        "comment": "Explodes a selected vehicle.\n\nVehicle vehicle = Vehicle you want to explode.\nBOOL isAudible = If explosion makes a sound.\nBOOL isInvisible = If the explosion is invisible or not.\n\nFirst BOOL does not give any visual explosion, the vehicle just falls apart completely but slowly and starts to burn.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "isAudible"
+            },
+            {
+                "type": "BOOL",
+                "name": "isInvisible"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBA71116ADF5B514C",
+        "gta_jhash": "0xBEDEACEB"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0xC1842F40FD501DA2": {
+        "name": "SET_VEHICLE_INFLUENCES_WANTED_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0AD9E8F87FF7C16F",
+        "gta_jhash": "0x04F5546C"
+    }
+}

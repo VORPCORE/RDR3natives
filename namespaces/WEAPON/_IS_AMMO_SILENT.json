@@ -1,0 +1,14 @@
+{
+    "0xD2866CBA797E872E": {
+        "name": "_IS_AMMO_SILENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "ammoHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

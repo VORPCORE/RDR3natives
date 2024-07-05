@@ -1,0 +1,14 @@
+{
+    "0x37963B56755BFB35": {
+        "name": "_VIRTUAL_COLLECTION_EXISTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

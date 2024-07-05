@@ -1,0 +1,22 @@
+{
+    "0xEC1F85DA51D3D6C4": {
+        "name": "SET_PLAYER_PED_QUICK_SWAP_WEAPON_BY_GUID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "guidPrimary"
+            },
+            {
+                "type": "Any*",
+                "name": "guidSecondary"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

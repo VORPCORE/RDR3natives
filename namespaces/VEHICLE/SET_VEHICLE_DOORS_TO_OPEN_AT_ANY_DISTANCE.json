@@ -1,0 +1,18 @@
+{
+    "0x362CEDD2A41E0747": {
+        "name": "SET_VEHICLE_DOORS_TO_OPEN_AT_ANY_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

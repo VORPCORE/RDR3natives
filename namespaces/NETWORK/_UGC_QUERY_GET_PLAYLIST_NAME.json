@@ -1,0 +1,18 @@
+{
+    "0xCAF50048C8D0FBA0": {
+        "name": "_UGC_QUERY_GET_PLAYLIST_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

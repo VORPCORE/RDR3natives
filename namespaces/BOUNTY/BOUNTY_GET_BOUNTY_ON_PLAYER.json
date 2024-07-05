@@ -1,0 +1,18 @@
+{
+    "0x4EF23E04A0C8FF51": {
+        "name": "BOUNTY_GET_BOUNTY_ON_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "Any*",
+                "name": "bountyData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

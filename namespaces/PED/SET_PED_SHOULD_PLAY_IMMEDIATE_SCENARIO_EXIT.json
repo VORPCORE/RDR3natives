@@ -1,0 +1,16 @@
+{
+    "0xF1C03A5352243A30": {
+        "name": "SET_PED_SHOULD_PLAY_IMMEDIATE_SCENARIO_EXIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF1C03A5352243A30",
+        "gta_jhash": "0x4C684C81"
+    }
+}

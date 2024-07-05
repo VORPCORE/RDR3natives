@@ -1,0 +1,56 @@
+{
+    "0xE2A2AA2F659D77A7": {
+        "name": "TASK_VEHICLE_DRIVE_TO_COORD",
+        "comment": "stopRange: how close vehicle will get to destination before stopping, default 4.0\nstraightLineDist: distance at which AI switches to heading for target directly instead of following nodes, default -1",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "Any",
+                "name": "style"
+            },
+            {
+                "type": "Hash",
+                "name": "vehicleModel"
+            },
+            {
+                "type": "int",
+                "name": "drivingMode"
+            },
+            {
+                "type": "float",
+                "name": "stopRange"
+            },
+            {
+                "type": "float",
+                "name": "straightLineDist"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE2A2AA2F659D77A7",
+        "gta_jhash": "0xE4AC0387"
+    }
+}

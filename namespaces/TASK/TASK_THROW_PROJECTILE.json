@@ -1,0 +1,28 @@
+{
+    "0x7285951DBF6B5A51": {
+        "name": "TASK_THROW_PROJECTILE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7285951DBF6B5A51",
+        "gta_jhash": "0xF65C20A7"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x3D084D5568FB4028": {
+        "name": "_CREATE_SWATCH_TEXTURE_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "slots"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

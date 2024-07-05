@@ -1,0 +1,16 @@
+{
+    "0x5CFD0F0D6AAE0AEE": {
+        "name": "DELETE_INCIDENT",
+        "comment": "Delete an incident with a given id.",
+        "params": [
+            {
+                "type": "int",
+                "name": "incidentId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x556C1AA270D5A207",
+        "gta_jhash": "0x212BD0DC"
+    }
+}

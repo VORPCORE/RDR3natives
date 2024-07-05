@@ -1,0 +1,16 @@
+{
+    "0x73C258C68D6F55B6": {
+        "name": "DOES_TEXT_LABEL_EXIST",
+        "comment": "Checks if the passed gxt name exists in the game files.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "label"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xAC09CA973C564252",
+        "gta_jhash": "0x6ECAE560"
+    }
+}

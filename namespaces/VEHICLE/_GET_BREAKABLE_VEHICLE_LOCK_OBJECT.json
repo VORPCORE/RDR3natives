@@ -1,0 +1,18 @@
+{
+    "0x58F2244C1286D09A": {
+        "name": "_GET_BREAKABLE_VEHICLE_LOCK_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "Object",
+        "build": "1207"
+    }
+}

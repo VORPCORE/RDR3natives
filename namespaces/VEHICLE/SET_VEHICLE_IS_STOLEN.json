@@ -1,0 +1,20 @@
+{
+    "0x6C32FC81DFF25C9A": {
+        "name": "SET_VEHICLE_IS_STOLEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "isStolen"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x67B2C79AA7FF5738",
+        "gta_jhash": "0x70912E42"
+    }
+}

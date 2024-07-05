@@ -1,0 +1,18 @@
+{
+    "0xF7424890E4A094C0": {
+        "name": "_GET_ENTITY_BY_DOORHASH",
+        "comment": "Params: p1 = 0 in R* Scripts (GET_DOOR_ENTITY_FROM_ID)\nhttps://github.com/femga/rdr3_discoveries/blob/master/doorHashes/doorhashes.lua",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

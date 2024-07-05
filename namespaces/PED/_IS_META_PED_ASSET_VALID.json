@@ -1,0 +1,14 @@
+{
+    "0x93FFD92F05EC32FD": {
+        "name": "_IS_META_PED_ASSET_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

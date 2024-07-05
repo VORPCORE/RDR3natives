@@ -1,0 +1,10 @@
+{
+    "0xDC057B86FC157031": {
+        "name": "_0xDC057B86FC157031",
+        "comment": "Hardcoded to return one/true.",
+        "params": [],
+        "return_type": "Any",
+        "build": "1207",
+        "unused": true
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x9A74A9CADFA8A598": {
+        "name": "_0x9A74A9CADFA8A598",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xCD66FEA29400A0B5": {
+        "name": "GET_CURRENT_TARGET_FOR_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

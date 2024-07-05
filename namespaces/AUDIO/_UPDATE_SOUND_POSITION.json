@@ -1,0 +1,26 @@
+{
+    "0x0286617C8FC50A53": {
+        "name": "_UPDATE_SOUND_POSITION",
+        "comment": "Only used in R* SP Scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

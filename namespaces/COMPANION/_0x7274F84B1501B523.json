@@ -1,0 +1,14 @@
+{
+    "0x7274F84B1501B523": {
+        "name": "_0x7274F84B1501B523",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

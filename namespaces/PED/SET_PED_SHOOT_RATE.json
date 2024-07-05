@@ -1,0 +1,20 @@
+{
+    "0x614DA022990752DC": {
+        "name": "SET_PED_SHOOT_RATE",
+        "comment": "Params: shootRate = 0 - 1000",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "shootRate"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x614DA022990752DC",
+        "gta_jhash": "0xFB301746"
+    }
+}

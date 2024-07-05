@@ -1,0 +1,22 @@
+{
+    "0x97E18E7C098626DE": {
+        "name": "CHAL_MISSION_ADD_GOAL_PROGRESS_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "missionHash"
+            },
+            {
+                "type": "Hash",
+                "name": "goalHash"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

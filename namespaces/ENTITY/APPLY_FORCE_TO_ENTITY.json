@@ -1,0 +1,68 @@
+{
+    "0xF15E8F5D333F09C4": {
+        "name": "APPLY_FORCE_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "forceFlags"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "offX"
+            },
+            {
+                "type": "float",
+                "name": "offY"
+            },
+            {
+                "type": "float",
+                "name": "offZ"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "isDirectionRel"
+            },
+            {
+                "type": "BOOL",
+                "name": "ignoreUpVec"
+            },
+            {
+                "type": "BOOL",
+                "name": "isForceRel"
+            },
+            {
+                "type": "BOOL",
+                "name": "p12"
+            },
+            {
+                "type": "BOOL",
+                "name": "p13"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC5F68BE9613E2D18",
+        "gta_jhash": "0xC1C0855A"
+    }
+}

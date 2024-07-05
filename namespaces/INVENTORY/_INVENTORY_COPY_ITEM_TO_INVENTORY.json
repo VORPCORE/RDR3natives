@@ -1,0 +1,26 @@
+{
+    "0xC04F47D488EF9EBA": {
+        "name": "_INVENTORY_COPY_ITEM_TO_INVENTORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "int",
+                "name": "inventoryIdCloned"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

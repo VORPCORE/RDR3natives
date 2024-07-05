@@ -1,0 +1,14 @@
+{
+    "0x032A14D082A9B269": {
+        "name": "_0x032A14D082A9B269",
+        "comment": "_SET_E* or _SET_F*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

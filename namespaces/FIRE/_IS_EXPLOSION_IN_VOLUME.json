@@ -1,0 +1,18 @@
+{
+    "0xE24822A4CFC9107A": {
+        "name": "_IS_EXPLOSION_IN_VOLUME",
+        "comment": "explosionType: see ADD_EXPLOSION",
+        "params": [
+            {
+                "type": "int",
+                "name": "explosionType"
+            },
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x354F689C4FFAAB37": {
+        "name": "GET_HAS_PLAYER_DISCOVERED_CHARACTER_NAME_MP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "discoveryHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

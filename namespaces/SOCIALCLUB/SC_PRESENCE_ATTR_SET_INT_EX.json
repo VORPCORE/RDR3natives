@@ -1,0 +1,23 @@
+{
+    "0x0000000085488C49": {
+        "name": "SC_PRESENCE_ATTR_SET_INT_EX",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "attrName"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true
+    }
+}

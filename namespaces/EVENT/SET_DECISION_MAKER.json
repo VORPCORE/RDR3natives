@@ -1,0 +1,20 @@
+{
+    "0x8AE2F981CDDB8FA4": {
+        "name": "SET_DECISION_MAKER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB604A2942ADED0EE",
+        "gta_jhash": "0x19CEAC9E"
+    }
+}

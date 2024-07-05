@@ -1,0 +1,18 @@
+{
+    "0x4402960666000E62": {
+        "name": "_DETACH_DRAFT_VEHICLE_HARNESS_FROM_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "draft"
+            },
+            {
+                "type": "int",
+                "name": "harnessId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xB347C100DF0C9B7F": {
+        "name": "_ITEMDATABASE_GET_SHOP_LAYOUT_PAGE_INFO_BY_KEY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "layout"
+            },
+            {
+                "type": "Hash",
+                "name": "pageKey"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

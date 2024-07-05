@@ -1,0 +1,20 @@
+{
+    "0x5D1EB123EAC5D071": {
+        "name": "SET_GAMEPLAY_CAM_RELATIVE_HEADING",
+        "comment": "Sets the camera position relative to heading in float from -360 to +360.\n\nHeading is always 0 in aiming camera.",
+        "params": [
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB4EC2312F4E5B1F1",
+        "gta_jhash": "0x20C6217C"
+    }
+}

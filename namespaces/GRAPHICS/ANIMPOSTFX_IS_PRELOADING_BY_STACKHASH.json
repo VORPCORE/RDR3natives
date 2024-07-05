@@ -1,0 +1,14 @@
+{
+    "0x59EA80079B86D8C7": {
+        "name": "ANIMPOSTFX_IS_PRELOADING_BY_STACKHASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "effectNameHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

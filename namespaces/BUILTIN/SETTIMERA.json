@@ -1,0 +1,16 @@
+{
+    "0xC1B1E9A034A63A62": {
+        "name": "SETTIMERA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC1B1E9A034A63A62",
+        "gta_jhash": "0x35785333"
+    }
+}

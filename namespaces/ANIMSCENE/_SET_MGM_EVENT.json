@@ -1,0 +1,30 @@
+{
+    "0x07706C4CC9C6CC9E": {
+        "name": "_SET_MGM_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "mgmEventHandle"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "seatId"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

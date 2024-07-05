@@ -1,0 +1,42 @@
+{
+    "0x348F211CA2404039": {
+        "name": "NAVMESH_REQUEST_PATH",
+        "comment": "Starts a nav mesh query for a path between coordinates with a given ped and returns a handle to be validated by _NAVMESH_REQUESTED_QUERY_STATUS and then _NAVMESH_REQUESTED_PATH_WAYPOINTS_FOUND\n\nOnly bit flag values used in scripts are 0, 23, and 29. 23 is used with dogs and horses. 29 with legendary animals.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "int",
+                "name": "bitFlag"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

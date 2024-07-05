@@ -1,0 +1,16 @@
+{
+    "0x3A10BCD0C8AA0B82": {
+        "name": "SC_PROFANITY_GET_CHECK_IS_PENDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "token"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x82E4A58BABC15AE7",
+        "gta_jhash": "0xA796D7A7"
+    }
+}

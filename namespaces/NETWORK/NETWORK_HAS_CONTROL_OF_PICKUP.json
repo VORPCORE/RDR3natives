@@ -1,0 +1,16 @@
+{
+    "0x5BC9495F0B3B6FA6": {
+        "name": "NETWORK_HAS_CONTROL_OF_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x5BC9495F0B3B6FA6",
+        "gta_jhash": "0xF7784FC8"
+    }
+}

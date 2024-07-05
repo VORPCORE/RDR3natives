@@ -1,0 +1,21 @@
+{
+    "0x9F6DCD0C939C71E9": {
+        "name": "SC_COMMUNITY_EVENT_GET_EXTRA_DATA_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x9DE5D2F723575ED0",
+        "gta_jhash": "0x37DD48B5"
+    }
+}

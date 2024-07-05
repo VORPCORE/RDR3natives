@@ -1,0 +1,20 @@
+{
+    "0xDEF3F1B071ABB197": {
+        "name": "DECOR_GET_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xDACE671663F2F5DB",
+        "gta_jhash": "0xDBCE51E0"
+    }
+}

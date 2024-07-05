@@ -1,0 +1,18 @@
+{
+    "0xBD090F5B1DB82189": {
+        "name": "_REMOVE_POP_MULTIPLIER_AREA_FOR_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

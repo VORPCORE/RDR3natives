@@ -1,0 +1,14 @@
+{
+    "0x693126B5D0457D0D": {
+        "name": "_GET_LAST_LED_MOUNT",
+        "comment": "Returns last horse the ped was leading",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1232"
+    }
+}

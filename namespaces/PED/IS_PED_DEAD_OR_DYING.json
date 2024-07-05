@@ -1,0 +1,20 @@
+{
+    "0x3317DEDB88C95038": {
+        "name": "IS_PED_DEAD_OR_DYING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x3317DEDB88C95038",
+        "gta_jhash": "0xCBDB7739"
+    }
+}

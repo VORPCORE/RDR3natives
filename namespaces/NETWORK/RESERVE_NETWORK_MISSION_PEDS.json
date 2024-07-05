@@ -1,0 +1,16 @@
+{
+    "0xB60FEBA45333D36F": {
+        "name": "RESERVE_NETWORK_MISSION_PEDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB60FEBA45333D36F",
+        "gta_jhash": "0x54998C37"
+    }
+}

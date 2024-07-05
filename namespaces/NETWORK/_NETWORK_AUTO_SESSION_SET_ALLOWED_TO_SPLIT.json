@@ -1,0 +1,14 @@
+{
+    "0x0A428058079EE65C": {
+        "name": "_NETWORK_AUTO_SESSION_SET_ALLOWED_TO_SPLIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

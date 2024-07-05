@@ -1,0 +1,30 @@
+{
+    "0x3743CE6948194349": {
+        "name": "_SET_AMBIENT_ZONE_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "ambientZone"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

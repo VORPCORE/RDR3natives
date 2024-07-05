@@ -1,0 +1,26 @@
+{
+    "0x1BAA028F52EED310": {
+        "name": "_NETWORK_ALERT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "ctx"
+            },
+            {
+                "type": "Hash",
+                "name": "lh"
+            },
+            {
+                "type": "int",
+                "name": "ec"
+            },
+            {
+                "type": "int",
+                "name": "h"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

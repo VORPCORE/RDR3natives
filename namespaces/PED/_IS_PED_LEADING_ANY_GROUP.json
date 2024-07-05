@@ -1,0 +1,14 @@
+{
+    "0x917760CFE7A0E0F1": {
+        "name": "_IS_PED_LEADING_ANY_GROUP",
+        "comment": "_IS_PED_L* - _IS_PED_M*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

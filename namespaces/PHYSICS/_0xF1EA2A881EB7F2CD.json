@@ -1,0 +1,18 @@
+{
+    "0xF1EA2A881EB7F2CD": {
+        "name": "_0xF1EA2A881EB7F2CD",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

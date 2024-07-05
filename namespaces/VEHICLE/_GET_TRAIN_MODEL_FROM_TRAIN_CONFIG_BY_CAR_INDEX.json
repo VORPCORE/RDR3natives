@@ -1,0 +1,18 @@
+{
+    "0x8DF5F6A19F99F0D5": {
+        "name": "_GET_TRAIN_MODEL_FROM_TRAIN_CONFIG_BY_CAR_INDEX",
+        "comment": "Returns modelHash",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "trainConfig"
+            },
+            {
+                "type": "int",
+                "name": "trainCarIndex"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

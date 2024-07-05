@@ -1,0 +1,18 @@
+{
+    "0xF4601C1203B1A78D": {
+        "name": "_GET_WEAPON_GUN_SPINNING_WEAPON_EMOTE_TRICK_TYPE_HASH",
+        "comment": "Returns iSpinHash",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "emote"
+            },
+            {
+                "type": "int",
+                "name": "weaponEmoteTrickType"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

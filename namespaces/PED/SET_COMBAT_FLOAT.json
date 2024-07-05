@@ -1,0 +1,24 @@
+{
+    "0xFF41B4B141ED981C": {
+        "name": "SET_COMBAT_FLOAT",
+        "comment": "combatType can be between 0-14. See GET_COMBAT_FLOAT below for a list of possible parameters.\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/COMBAT_FLOATS",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "combatType"
+            },
+            {
+                "type": "float",
+                "name": "newValue"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xFF41B4B141ED981C",
+        "gta_jhash": "0xD8B7637C"
+    }
+}

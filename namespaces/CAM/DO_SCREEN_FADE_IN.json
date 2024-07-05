@@ -1,0 +1,16 @@
+{
+    "0x6A053CF596F67DF7": {
+        "name": "DO_SCREEN_FADE_IN",
+        "comment": "Fades the screen in.\n\nduration: The time the fade should take, in milliseconds.",
+        "params": [
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD4E8E24955024033",
+        "gta_jhash": "0x66C1BDEE"
+    }
+}

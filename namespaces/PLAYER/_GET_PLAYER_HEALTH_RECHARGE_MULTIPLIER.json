@@ -1,0 +1,14 @@
+{
+    "0x22CD23BB0C45E0CD": {
+        "name": "_GET_PLAYER_HEALTH_RECHARGE_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

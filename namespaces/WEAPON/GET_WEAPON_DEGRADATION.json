@@ -1,0 +1,14 @@
+{
+    "0x0D78E1097F89E637": {
+        "name": "GET_WEAPON_DEGRADATION",
+        "comment": "0.0: good condition, 1.0: poor condition",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

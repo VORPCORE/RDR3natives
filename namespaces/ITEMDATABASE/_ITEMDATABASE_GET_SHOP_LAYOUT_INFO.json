@@ -1,0 +1,18 @@
+{
+    "0x66A6D76B6BB999B4": {
+        "name": "_ITEMDATABASE_GET_SHOP_LAYOUT_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "layout"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

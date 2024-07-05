@@ -1,0 +1,14 @@
+{
+    "0x8DE82BC774F3B862": {
+        "name": "_SET_LAW_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

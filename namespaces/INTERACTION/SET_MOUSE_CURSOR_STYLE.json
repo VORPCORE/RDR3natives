@@ -1,0 +1,16 @@
+{
+    "0x7F5858AAB5A58CCE": {
+        "name": "SET_MOUSE_CURSOR_STYLE",
+        "comment": "Changes the mouse cursor's sprite.\n\nspriteId's: https://github.com/femga/rdr3_discoveries/tree/master/graphics/HUD/cursor_sprites#readme\n\nOld name: _SET_MOUSE_CURSOR_SPRITE",
+        "params": [
+            {
+                "type": "int",
+                "name": "spriteId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8DB8CFFD58B62552",
+        "gta_jhash": ""
+    }
+}

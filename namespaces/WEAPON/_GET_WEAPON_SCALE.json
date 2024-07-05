@@ -1,0 +1,14 @@
+{
+    "0x22084CA699219624": {
+        "name": "_GET_WEAPON_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

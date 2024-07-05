@@ -1,0 +1,18 @@
+{
+    "0xC0B1C05B313693D1": {
+        "name": "_SET_SPECIAL_ABILITY_DISABLE_TIMER",
+        "comment": "Only used in R* SP Script short_update",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "timer"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

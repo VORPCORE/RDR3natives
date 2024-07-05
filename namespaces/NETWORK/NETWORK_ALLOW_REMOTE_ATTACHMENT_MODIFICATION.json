@@ -1,0 +1,20 @@
+{
+    "0x267C78C60E806B9A": {
+        "name": "NETWORK_ALLOW_REMOTE_ATTACHMENT_MODIFICATION",
+        "comment": "Old name: _NETWORK_ALLOW_LOCAL_ENTITY_ATTACHMENT",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x267C78C60E806B9A",
+        "gta_jhash": "0xBB2D33D3"
+    }
+}

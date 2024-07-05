@@ -1,0 +1,14 @@
+{
+    "0xCA58D4FD20D70F24": {
+        "name": "_0xCA58D4FD20D70F24",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

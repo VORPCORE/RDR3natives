@@ -1,0 +1,18 @@
+{
+    "0xAA6C49AE90A32299": {
+        "name": "_0xAA6C49AE90A32299",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

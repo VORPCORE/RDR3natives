@@ -1,0 +1,14 @@
+{
+    "0xF8181B5EF156862C": {
+        "name": "_0xF8181B5EF156862C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xCB215C4B56A7FAE7": {
+        "name": "GET_NUM_CREATED_MISSION_PEDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xCB215C4B56A7FAE7",
+        "gta_jhash": "0xD8FEC4F8"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x11986B05885564D2": {
+        "name": "_SET_ALL_GLOBAL_BLOCKS_HAVE_BEEN_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

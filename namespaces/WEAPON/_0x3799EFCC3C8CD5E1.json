@@ -1,0 +1,14 @@
+{
+    "0x3799EFCC3C8CD5E1": {
+        "name": "_0x3799EFCC3C8CD5E1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

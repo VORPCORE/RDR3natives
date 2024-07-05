@@ -1,0 +1,18 @@
+{
+    "0x4138EE36BC3DC0A7": {
+        "name": "_0x4138EE36BC3DC0A7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

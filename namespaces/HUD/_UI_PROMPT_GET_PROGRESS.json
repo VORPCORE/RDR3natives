@@ -1,0 +1,14 @@
+{
+    "0x81801291806DBC50": {
+        "name": "_UI_PROMPT_GET_PROGRESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

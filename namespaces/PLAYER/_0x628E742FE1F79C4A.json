@@ -1,0 +1,18 @@
+{
+    "0x628E742FE1F79C4A": {
+        "name": "_0x628E742FE1F79C4A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

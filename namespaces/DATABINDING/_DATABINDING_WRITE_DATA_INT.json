@@ -1,0 +1,18 @@
+{
+    "0x335C3F6B3766B8D9": {
+        "name": "_DATABINDING_WRITE_DATA_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

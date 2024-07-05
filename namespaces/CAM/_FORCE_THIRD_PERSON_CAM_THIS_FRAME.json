@@ -1,0 +1,9 @@
+{
+    "0x8370D34BD2E60B73": {
+        "name": "_FORCE_THIRD_PERSON_CAM_THIS_FRAME",
+        "comment": "Forces camera position to second furthest 3rd person",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

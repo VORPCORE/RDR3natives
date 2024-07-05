@@ -1,0 +1,22 @@
+{
+    "0x99C6EA66DFE73757": {
+        "name": "_ITEMDATABASE_DOES_BUNDLE_HAVE_TAG",
+        "comment": "Params: tag = TAG_ITEM_PROPERTY (tagType(?))",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "bundle"
+            },
+            {
+                "type": "Hash",
+                "name": "tag"
+            },
+            {
+                "type": "Hash",
+                "name": "tagType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

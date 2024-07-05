@@ -1,0 +1,14 @@
+{
+    "0xC76F252371150D9A": {
+        "name": "CLEAR_BOUNTY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

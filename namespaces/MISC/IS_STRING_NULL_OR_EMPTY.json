@@ -1,0 +1,16 @@
+{
+    "0x2CF12F9ACF18F048": {
+        "name": "IS_STRING_NULL_OR_EMPTY",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xCA042B6957743895",
+        "gta_jhash": "0x42E9F2CA"
+    }
+}

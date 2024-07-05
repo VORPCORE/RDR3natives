@@ -1,0 +1,18 @@
+{
+    "0xA6EF0C54A3443E70": {
+        "name": "_BLIP_ADD_FOR_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "blipHash"
+            },
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "Blip",
+        "build": "1207"
+    }
+}

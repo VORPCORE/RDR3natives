@@ -1,0 +1,20 @@
+{
+    "0x58C70CF3A41E4AE7": {
+        "name": "SET_SEQUENCE_TO_REPEAT",
+        "comment": "repeatMode: 0 = REPEAT_NOT; 1 = REPEAT_FOREVER",
+        "params": [
+            {
+                "type": "int",
+                "name": "taskSequenceId"
+            },
+            {
+                "type": "int",
+                "name": "repeatMode"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x58C70CF3A41E4AE7",
+        "gta_jhash": "0xCDDF1508"
+    }
+}

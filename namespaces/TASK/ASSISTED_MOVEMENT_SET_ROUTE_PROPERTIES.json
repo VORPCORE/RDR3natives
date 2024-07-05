@@ -1,0 +1,20 @@
+{
+    "0xD5002D78B7162E1B": {
+        "name": "ASSISTED_MOVEMENT_SET_ROUTE_PROPERTIES",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "route"
+            },
+            {
+                "type": "int",
+                "name": "props"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD5002D78B7162E1B",
+        "gta_jhash": "0x01CAAFCC"
+    }
+}

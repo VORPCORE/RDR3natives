@@ -1,0 +1,20 @@
+{
+    "0xA5B769058763E497": {
+        "name": "GET_WAYPOINT_DISTANCE_ALONG_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xA5B769058763E497",
+        "gta_jhash": "0xE8422AC4"
+    }
+}

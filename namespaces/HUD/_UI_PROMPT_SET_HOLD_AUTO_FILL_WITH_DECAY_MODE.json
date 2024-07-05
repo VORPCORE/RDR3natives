@@ -1,0 +1,22 @@
+{
+    "0xA3F2149AA24F3D8E": {
+        "name": "_UI_PROMPT_SET_HOLD_AUTO_FILL_WITH_DECAY_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "int",
+                "name": "autoFillTimeMs"
+            },
+            {
+                "type": "int",
+                "name": "holdTimeMs"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

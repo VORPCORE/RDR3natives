@@ -1,0 +1,28 @@
+{
+    "0x260BE8F09E326A20": {
+        "name": "BRING_VEHICLE_TO_HALT",
+        "comment": "This native makes the vehicle stop immediately\n\ndistance defines how far it will travel until stopping.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "BOOL",
+                "name": "unknown"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x260BE8F09E326A20",
+        "gta_jhash": "0xCBC7D3C8"
+    }
+}

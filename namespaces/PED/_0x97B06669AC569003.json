@@ -1,0 +1,18 @@
+{
+    "0x97B06669AC569003": {
+        "name": "_0x97B06669AC569003",
+        "comment": "_CLEAR*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

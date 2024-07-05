@@ -1,0 +1,14 @@
+{
+    "0xC74EB3F2EC169F6B": {
+        "name": "_0xC74EB3F2EC169F6B",
+        "comment": "Hardcoded to return zero/false.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1232"
+    }
+}

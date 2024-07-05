@@ -1,0 +1,14 @@
+{
+    "0x787E43477746876F": {
+        "name": "_SET_TRAIN_LEAVE_STATION",
+        "comment": "Restarts the train",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

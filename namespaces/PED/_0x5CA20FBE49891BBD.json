@@ -1,0 +1,18 @@
+{
+    "0x5CA20FBE49891BBD": {
+        "name": "_0x5CA20FBE49891BBD",
+        "comment": "Used in Script Function MP_MAIN_OFFLINE__INITIALIZE_FLOW & PROCESS_GENERIC_PLAYER_INITIALIZATION",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

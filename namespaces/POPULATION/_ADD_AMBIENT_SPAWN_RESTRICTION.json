@@ -1,0 +1,38 @@
+{
+    "0x18262CAFEBB5FBE1": {
+        "name": "_ADD_AMBIENT_SPAWN_RESTRICTION",
+        "comment": "flags: see 0xB56D41A694E42E86",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "int",
+                "name": "includeFlags"
+            },
+            {
+                "type": "int",
+                "name": "excludeFlags"
+            },
+            {
+                "type": "Hash",
+                "name": "p3"
+            },
+            {
+                "type": "Hash",
+                "name": "p4"
+            },
+            {
+                "type": "Hash",
+                "name": "p5"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

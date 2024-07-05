@@ -1,0 +1,14 @@
+{
+    "0x1FE4788AB1430C55": {
+        "name": "_UI_PROMPT_WAS_BEAT_MODE_PRESSED_IN_TIME_WINDOW",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

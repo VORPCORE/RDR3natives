@@ -1,0 +1,16 @@
+{
+    "0x6BFF5F84102DF80A": {
+        "name": "NETWORK_SHOW_CHAT_RESTRICTION_MSC",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6BFF5F84102DF80A",
+        "gta_jhash": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xA2E2BEA4E83F6270": {
+        "name": "_0xA2E2BEA4E83F6270",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

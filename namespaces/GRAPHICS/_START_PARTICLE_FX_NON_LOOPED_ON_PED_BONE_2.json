@@ -1,0 +1,62 @@
+{
+    "0xC695870B8A149B96": {
+        "name": "_START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisX"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisY"
+            },
+            {
+                "type": "BOOL",
+                "name": "axisZ"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

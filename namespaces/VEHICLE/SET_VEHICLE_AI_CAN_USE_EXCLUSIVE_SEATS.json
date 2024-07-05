@@ -1,0 +1,20 @@
+{
+    "0x0893DAFBFA67110E": {
+        "name": "SET_VEHICLE_AI_CAN_USE_EXCLUSIVE_SEATS",
+        "comment": "Used to be incorrectly named SET_VEHICLE_EXCLUSIVE_DRIVER",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x41062318F23ED854",
+        "gta_jhash": ""
+    }
+}

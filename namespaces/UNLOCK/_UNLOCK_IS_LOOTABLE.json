@@ -1,0 +1,14 @@
+{
+    "0x66BF197E066050DE": {
+        "name": "_UNLOCK_IS_LOOTABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "unlockHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xE2C3CEC3C0903A00": {
+        "name": "_TEXTURE_DOWNLOAD_TEXTURE_NAME_IS_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

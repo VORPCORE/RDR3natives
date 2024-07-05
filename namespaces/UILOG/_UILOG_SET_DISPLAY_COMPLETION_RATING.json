@@ -1,0 +1,22 @@
+{
+    "0xA31013798FADCADC": {
+        "name": "_UILOG_SET_DISPLAY_COMPLETION_RATING",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "logEntryType"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

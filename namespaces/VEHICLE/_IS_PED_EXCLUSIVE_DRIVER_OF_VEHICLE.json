@@ -1,0 +1,22 @@
+{
+    "0xB213D2A560B2E48B": {
+        "name": "_IS_PED_EXCLUSIVE_DRIVER_OF_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "outIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

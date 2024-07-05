@@ -1,0 +1,11 @@
+{
+    "0xF445DE8DA80A1792": {
+        "name": "SPAWNPOINTS_IS_SEARCH_FAILED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF445DE8DA80A1792",
+        "gta_jhash": "0x6B83ABDF"
+    }
+}

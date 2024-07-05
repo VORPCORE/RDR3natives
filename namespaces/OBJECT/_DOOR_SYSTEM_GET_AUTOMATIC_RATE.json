@@ -1,0 +1,14 @@
+{
+    "0x8433E1954BE323FC": {
+        "name": "_DOOR_SYSTEM_GET_AUTOMATIC_RATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

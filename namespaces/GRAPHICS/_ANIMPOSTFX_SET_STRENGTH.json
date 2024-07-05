@@ -1,0 +1,18 @@
+{
+    "0xCAB4DD2D5B2B7246": {
+        "name": "_ANIMPOSTFX_SET_STRENGTH",
+        "comment": "must be called after ANIMPOSTFX_PLAY, strength 0.0f - 1.0f",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            },
+            {
+                "type": "float",
+                "name": "strength"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x7351DA734F989F4E": {
+        "name": "_0x7351DA734F989F4E",
+        "comment": "Only used in shoprobberies",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

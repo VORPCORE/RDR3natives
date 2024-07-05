@@ -1,0 +1,18 @@
+{
+    "0x2B12B6FC8B8772AB": {
+        "name": "_0x2B12B6FC8B8772AB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

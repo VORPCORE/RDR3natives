@@ -1,0 +1,14 @@
+{
+    "0xE2B3B852B537C398": {
+        "name": "ALLOW_DAMAGE_EVENTS_FOR_NON_NETWORKED_OBJECTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

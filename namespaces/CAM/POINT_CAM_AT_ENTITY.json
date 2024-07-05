@@ -1,0 +1,36 @@
+{
+    "0xFC2867E6074D3A61": {
+        "name": "POINT_CAM_AT_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5640BFF86B16E8DC",
+        "gta_jhash": "0x7597A0F7"
+    }
+}

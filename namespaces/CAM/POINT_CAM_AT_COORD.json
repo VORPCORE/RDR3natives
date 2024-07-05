@@ -1,0 +1,28 @@
+{
+    "0x948B39341C3A40C2": {
+        "name": "POINT_CAM_AT_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF75497BB865F0803",
+        "gta_jhash": "0x914BC21A"
+    }
+}

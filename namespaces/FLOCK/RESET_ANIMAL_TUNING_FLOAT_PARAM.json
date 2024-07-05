@@ -1,0 +1,18 @@
+{
+    "0xE776A195488FC520": {
+        "name": "RESET_ANIMAL_TUNING_FLOAT_PARAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animal"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355"
+    }
+}

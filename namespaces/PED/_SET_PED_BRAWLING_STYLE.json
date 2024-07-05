@@ -1,0 +1,18 @@
+{
+    "0x8BA83CC4288CD56D": {
+        "name": "_SET_PED_BRAWLING_STYLE",
+        "comment": "brawlingStyle:\nenum eBrawlingStyle : Hash\n{\n\tBS_AI = 0x802C604D,\n\tBS_AI_BARBRAWL = 0x4FF5F0C7,\n\tBS_AI_DEFENSIVE = 0xD888F2FD,\n\tBS_AI_MOONSHINE_BARBRAWL = 0xA01B433A,\n\tBS_ALLIGATOR = 0x7A5548ED,\n\tBS_ALLIGATOR_LARGE = 0x368EC7CB,\n\tBS_ALLY = 0x69C76C14,\n\tBS_ANIMAL = 0xD777C754,\n\tBS_BADGER = 0x7E7C3F53,\n\tBS_BEAR = 0x0BC66E35,\n\tBS_BEAVER = 0x4E313783,\n\tBS_BOAR = 0x176A5831,\n\tBS_BOUNTY_HUNTER = 0x3900654C,\n\tBS_BRUISER = 0x4514DB61,\n\tBS_BULL = 0x4E50C5D2,\n\tBS_COUGAR = 0x9DAA7CCB,\n\tBS_COW = 0xB0E91295,\n\tBS_COYOTE = 0xA448EB69,\n\tBS_DEER = 0xA781E6B3,\n\tBS_DOG = 0x5A4155C4,\n\tBS_ELK = 0x408697F0,\n\tBS_FEMALE = 0x6A3BB2C2,\n\tBS_FEMALE_STRONG = 0x4DAFDD84,\n\tBS_GANGUP = 0xD0CECFF2,\n\tBS_GOAT = 0x078E649F,\n\tBS_HORSE = 0xF6B775F3,\n\tBS_MICAH_FINALE = 0x1F0BB27A,\n\tBS_MOOSE = 0x968917AB,\n\tBS_MUSKRAT = 0x1EDC33AC,\n\tBS_NO_MELEE = 0x25B5F931,\n\tBS_PIG = 0x22EAD110,\n\tBS_PLAYER = 0x78BAEF07,\n\tBS_PLAYER_FINALE = 0xF9E77D2D,\n\tBS_PLAYER_MOONSHINER = 0x687BF19F,\n\tBS_PLAYER_WINTER1 = 0x3C6A802F,\n\tBS_QUICK = 0xC4CABB1B,\n\tBS_RACCOON = 0x505F8917,\n\tBS_SHEEP = 0x6827CCCF,\n\tBS_SNAKE = 0x82BEBC4B,\n\tBS_TIMID = 0x431AEF77,\n\tBS_WOLF = 0xA8F023D4\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "brawlingStyle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

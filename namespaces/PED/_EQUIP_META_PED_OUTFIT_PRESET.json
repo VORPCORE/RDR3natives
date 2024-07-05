@@ -1,0 +1,22 @@
+{
+    "0x77FF8D35EEC6BBC4": {
+        "name": "_EQUIP_META_PED_OUTFIT_PRESET",
+        "comment": "Sets the outfit preset for the ped. The presetId is an index which determines its preset outfit. p2 is always false in the scripts.\nIf p2 is true as player, then certain components like facial hair and hair will not be removed.\nOld name: _SET_PED_OUTFIT_PRESET",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "presetId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

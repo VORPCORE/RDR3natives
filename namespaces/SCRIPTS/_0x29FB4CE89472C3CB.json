@@ -1,0 +1,42 @@
+{
+    "0x29FB4CE89472C3CB": {
+        "name": "_0x29FB4CE89472C3CB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "const char*",
+                "name": "p4"
+            },
+            {
+                "type": "const char*",
+                "name": "p5"
+            },
+            {
+                "type": "const char*",
+                "name": "p6"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

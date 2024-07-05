@@ -1,0 +1,22 @@
+{
+    "0x3AE3552E7C207CC5": {
+        "name": "_SET_PED_GETUP_ANIMATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

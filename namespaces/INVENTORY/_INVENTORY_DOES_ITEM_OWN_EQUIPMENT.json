@@ -1,0 +1,22 @@
+{
+    "0x88B58B83A43A8CAB": {
+        "name": "_INVENTORY_DOES_ITEM_OWN_EQUIPMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "Hash",
+                "name": "item"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

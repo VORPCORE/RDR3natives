@@ -1,0 +1,9 @@
+{
+    "0x0B7803F6F7BB43E0": {
+        "name": "_0x0B7803F6F7BB43E0",
+        "comment": "Hardcoded to return zero/false.",
+        "params": [],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

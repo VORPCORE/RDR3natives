@@ -1,0 +1,14 @@
+{
+    "0x9ADAC065D9F6706F": {
+        "name": "NETWORK_ACTIVITY_SET_CURRENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netPlaylistActivity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

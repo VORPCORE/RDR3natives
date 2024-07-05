@@ -1,0 +1,16 @@
+{
+    "0x73BB763880CD23A6": {
+        "name": "HAS_ENTITY_BEEN_DAMAGED_BY_ANY_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x95EB9964FF5C5C65",
+        "gta_jhash": "0x6B74582E"
+    }
+}

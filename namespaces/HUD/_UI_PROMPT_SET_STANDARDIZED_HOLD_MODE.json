@@ -1,0 +1,18 @@
+{
+    "0x74C7D7B72ED0D3CF": {
+        "name": "_UI_PROMPT_SET_STANDARDIZED_HOLD_MODE",
+        "comment": "Hashes: SHORT_TIMED_EVENT_MP, SHORT_TIMED_EVENT, MEDIUM_TIMED_EVENT, LONG_TIMED_EVENT, RUSTLING_CALM_TIMING, PLAYER_FOCUS_TIMING, PLAYER_REACTION_TIMING",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "Hash",
+                "name": "timedEventHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xF2B5ABDE09958689": {
+        "name": "_0xF2B5ABDE09958689",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "unlockHash"
+            },
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

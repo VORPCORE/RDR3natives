@@ -1,0 +1,28 @@
+{
+    "0x57EC5FA4D4D6AFCA": {
+        "name": "GET_EVENT_DATA",
+        "comment": "eventGroup: 0 = SCRIPT_EVENT_QUEUE_AI (CEventGroupScriptAI), 1 = SCRIPT_EVENT_QUEUE_NETWORK (CEventGroupScriptNetwork), 2 = unk, 3 = unk, 4 = SCRIPT_EVENT_QUEUE_SCRIPT_ERRORS (CEventGroupScriptErrors)\n\nNote: eventDataSize is NOT the size in bytes, it is the size determined by the SIZE_OF operator (RAGE Script operator, not C/C++ sizeof). That is, the size in bytes divided by 8 (script variables are always 8-byte aligned!).\n\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/EVENTS",
+        "params": [
+            {
+                "type": "int",
+                "name": "eventGroup"
+            },
+            {
+                "type": "int",
+                "name": "eventIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "eventData"
+            },
+            {
+                "type": "int",
+                "name": "eventDataSize"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x2902843FCD2B2D79",
+        "gta_jhash": "0x4280F92F"
+    }
+}

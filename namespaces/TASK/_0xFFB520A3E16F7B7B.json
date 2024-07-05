@@ -1,0 +1,18 @@
+{
+    "0xFFB520A3E16F7B7B": {
+        "name": "_0xFFB520A3E16F7B7B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

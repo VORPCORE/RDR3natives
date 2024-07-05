@@ -1,0 +1,18 @@
+{
+    "0xDEB369F6AD168C58": {
+        "name": "_ADD_COMPANION_FLAG",
+        "comment": "Used for Script Function NET_FETCH_CLIENT_ACTIVATE_COMAPNION_ANALYSIS: Hiding! Ped",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

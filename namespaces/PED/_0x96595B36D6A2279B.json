@@ -1,0 +1,18 @@
+{
+    "0x96595B36D6A2279B": {
+        "name": "_0x96595B36D6A2279B",
+        "comment": "Only used in R* Script mob4 combined with SET_ANIMAL_TUNING_BOOL_PARAM\n_SET_PED_S* - _SET_PED_TARGET_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animal"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

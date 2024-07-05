@@ -1,0 +1,14 @@
+{
+    "0xA00DF706C60173D1": {
+        "name": "_GET_PERSCHAR_MODEL_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "persCharHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

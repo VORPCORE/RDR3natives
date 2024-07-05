@@ -1,0 +1,14 @@
+{
+    "0x2F82CAB262C8AE26": {
+        "name": "_0x2F82CAB262C8AE26",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

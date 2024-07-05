@@ -1,0 +1,30 @@
+{
+    "0x3C61B52B00848C26": {
+        "name": "SET_PARTICLE_FX_AMBIENT_COLOUR",
+        "comment": "Related to Campfires.\np1: AMB_BONFIRE_MP, AMB_CAMPFIRE_LRG_MP",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "r"
+            },
+            {
+                "type": "float",
+                "name": "g"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

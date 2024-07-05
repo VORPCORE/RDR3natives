@@ -1,0 +1,14 @@
+{
+    "0x2D874BA20E8E1F20": {
+        "name": "_BOUNTY_REQUEST_POSSE_LEADER_ESCAPED_CHARACTER_BOUNTY_HUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outRpcGuid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

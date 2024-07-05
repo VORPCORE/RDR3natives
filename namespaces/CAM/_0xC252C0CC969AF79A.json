@@ -1,0 +1,14 @@
+{
+    "0xC252C0CC969AF79A": {
+        "name": "_0xC252C0CC969AF79A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

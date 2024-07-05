@@ -1,0 +1,16 @@
+{
+    "0x298B91AE825E5705": {
+        "name": "IS_PED_IN_ANY_HELI",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x298B91AE825E5705",
+        "gta_jhash": "0x7AB5523B"
+    }
+}

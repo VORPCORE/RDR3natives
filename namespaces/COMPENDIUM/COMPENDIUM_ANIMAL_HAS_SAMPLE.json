@@ -1,0 +1,14 @@
+{
+    "0x6FC24625E4FCAC27": {
+        "name": "COMPENDIUM_ANIMAL_HAS_SAMPLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "compendiumEntry"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

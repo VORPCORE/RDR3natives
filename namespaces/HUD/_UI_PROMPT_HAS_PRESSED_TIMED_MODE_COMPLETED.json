@@ -1,0 +1,14 @@
+{
+    "0x3CE854D250A88DAF": {
+        "name": "_UI_PROMPT_HAS_PRESSED_TIMED_MODE_COMPLETED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

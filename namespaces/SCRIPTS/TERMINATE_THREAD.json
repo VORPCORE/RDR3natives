@@ -1,0 +1,16 @@
+{
+    "0x87ED52AE40EA1A52": {
+        "name": "TERMINATE_THREAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC8B189ED9138BCD4",
+        "gta_jhash": "0x253FD520"
+    }
+}

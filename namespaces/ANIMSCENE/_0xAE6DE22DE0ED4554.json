@@ -1,0 +1,18 @@
+{
+    "0xAE6DE22DE0ED4554": {
+        "name": "_0xAE6DE22DE0ED4554",
+        "comment": "_UNLOAD_* - _WAS_ANIM_SCENE_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "mgmHandle"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

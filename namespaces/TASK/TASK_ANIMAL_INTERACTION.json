@@ -1,0 +1,30 @@
+{
+    "0xCD181A959CFDD7F4": {
+        "name": "TASK_ANIMAL_INTERACTION",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/tasks/TASK_ANIMAL_INTERACTION",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "Hash",
+                "name": "interactionType"
+            },
+            {
+                "type": "Hash",
+                "name": "interactionModel"
+            },
+            {
+                "type": "BOOL",
+                "name": "skipIdleAnimationClip"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

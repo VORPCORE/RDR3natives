@@ -1,0 +1,22 @@
+{
+    "0x2C28AC30A72722DA": {
+        "name": "TASK_SWAP_FISHING_BAIT",
+        "comment": "Baits: see 0x9B0C7FA063E67629",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "bait"
+            },
+            {
+                "type": "BOOL",
+                "name": "withoutBuoy"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

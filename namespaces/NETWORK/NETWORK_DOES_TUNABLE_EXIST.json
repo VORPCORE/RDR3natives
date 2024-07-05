@@ -1,0 +1,20 @@
+{
+    "0x85E5F8B9B898B20A": {
+        "name": "NETWORK_DOES_TUNABLE_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "tunableContext"
+            },
+            {
+                "type": "Hash",
+                "name": "tunableName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x85E5F8B9B898B20A",
+        "gta_jhash": "0x9FCE9C9A"
+    }
+}

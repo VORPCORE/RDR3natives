@@ -1,0 +1,20 @@
+{
+    "0x1794B4FCC84D812F": {
+        "name": "SET_ENTITY_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEA1C610A04DB6BBB",
+        "gta_jhash": "0xD043E8E1"
+    }
+}

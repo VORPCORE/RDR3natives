@@ -1,0 +1,14 @@
+{
+    "0x3C9628A811CBD724": {
+        "name": "_GET_TRAIN_DIRECTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

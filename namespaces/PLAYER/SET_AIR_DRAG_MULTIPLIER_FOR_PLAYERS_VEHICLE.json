@@ -1,0 +1,20 @@
+{
+    "0x5DA6500FE849DA16": {
+        "name": "SET_AIR_DRAG_MULTIPLIER_FOR_PLAYERS_VEHICLE",
+        "comment": "This can be between 1.0f - 50.0f",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xCA7DC8329F0A1E9E",
+        "gta_jhash": "0xF20F72E5"
+    }
+}

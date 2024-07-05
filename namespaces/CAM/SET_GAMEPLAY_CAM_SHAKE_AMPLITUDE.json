@@ -1,0 +1,16 @@
+{
+    "0x570E35F5C4A44838": {
+        "name": "SET_GAMEPLAY_CAM_SHAKE_AMPLITUDE",
+        "comment": "Sets the amplitude for the gameplay (i.e. 3rd or 1st) camera to shake.",
+        "params": [
+            {
+                "type": "float",
+                "name": "amplitude"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA87E00932DB4D85D",
+        "gta_jhash": "0x9219D44A"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x69684D9936958D8F": {
+        "name": "_UILOG_SET_ENTRY_BRIEF_TEXTURE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "texture"
+            },
+            {
+                "type": "Hash",
+                "name": "textureDictionary"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

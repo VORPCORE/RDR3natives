@@ -1,0 +1,16 @@
+{
+    "0x8459B3E64257B21D": {
+        "name": "SET_GAMEPLAY_CAM_MAX_MOTION_BLUR_STRENGTH_THIS_UPDATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0225778816FDC28C",
+        "gta_jhash": "0x1126E37C"
+    }
+}

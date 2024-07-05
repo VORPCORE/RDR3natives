@@ -1,0 +1,14 @@
+{
+    "0x8FAF4D262FABA99C": {
+        "name": "BOUNTY_GET_COOLDOWN_COLLECTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

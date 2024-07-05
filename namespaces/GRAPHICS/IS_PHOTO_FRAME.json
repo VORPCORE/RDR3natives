@@ -1,0 +1,9 @@
+{
+    "0x86076AE35CBBE55F": {
+        "name": "IS_PHOTO_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1355"
+    }
+}

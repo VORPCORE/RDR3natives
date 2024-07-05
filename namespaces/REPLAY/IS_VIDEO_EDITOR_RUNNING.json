@@ -1,0 +1,9 @@
+{
+    "0x9EEB007317FA3B9C": {
+        "name": "IS_VIDEO_EDITOR_RUNNING",
+        "comment": "Hardcoded to return false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

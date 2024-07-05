@@ -1,0 +1,14 @@
+{
+    "0x07F723401B9D921C": {
+        "name": "GET_UNIQUE_INT_FOR_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

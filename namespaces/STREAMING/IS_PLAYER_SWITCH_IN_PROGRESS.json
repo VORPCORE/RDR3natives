@@ -1,0 +1,11 @@
+{
+    "0xED20CB1F5297791D": {
+        "name": "IS_PLAYER_SWITCH_IN_PROGRESS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD9D2CFFF49FAB35F",
+        "gta_jhash": "0x56135ACC"
+    }
+}

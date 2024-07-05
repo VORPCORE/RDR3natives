@@ -1,0 +1,18 @@
+{
+    "0xFFB99FFD17F65889": {
+        "name": "_SET_OBJECT_BREAK_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x9617B6E5F6537B63": {
+        "name": "_SET_INCIDENT_UNK",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "incidentId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

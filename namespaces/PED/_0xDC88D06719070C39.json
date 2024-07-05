@@ -1,0 +1,14 @@
+{
+    "0xDC88D06719070C39": {
+        "name": "_0xDC88D06719070C39",
+        "comment": "_IS_PED_IN_* (near water?)\nReturns true if ped is swimming in water",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

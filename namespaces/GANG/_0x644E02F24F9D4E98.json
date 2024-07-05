@@ -1,0 +1,18 @@
+{
+    "0x644E02F24F9D4E98": {
+        "name": "_0x644E02F24F9D4E98",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

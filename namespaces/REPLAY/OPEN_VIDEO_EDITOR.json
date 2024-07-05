@@ -1,0 +1,9 @@
+{
+    "0xB3F2829907403C13": {
+        "name": "OPEN_VIDEO_EDITOR",
+        "comment": "Hardcoded to return true.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

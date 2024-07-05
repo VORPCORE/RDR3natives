@@ -1,0 +1,56 @@
+{
+    "0x673966A0C0FD7171": {
+        "name": "CREATE_AMBIENT_PICKUP",
+        "comment": "flags: see CREATE_PICKUP",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            }
+        ],
+        "return_type": "Object",
+        "build": "1207",
+        "gta_hash": "0x673966A0C0FD7171",
+        "gta_jhash": "0x17B99CE7"
+    }
+}

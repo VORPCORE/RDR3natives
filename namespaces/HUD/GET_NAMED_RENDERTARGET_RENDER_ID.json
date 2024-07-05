@@ -1,0 +1,16 @@
+{
+    "0xB6762A85EE29AA60": {
+        "name": "GET_NAMED_RENDERTARGET_RENDER_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x1A6478B61C6BDC3B",
+        "gta_jhash": "0xF9D7A401"
+    }
+}

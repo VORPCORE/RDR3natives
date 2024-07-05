@@ -1,0 +1,14 @@
+{
+    "0x886657C5B3D8EDE3": {
+        "name": "_0x886657C5B3D8EDE3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1232"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "0xE9B356C330C0A806": {
+        "name": "_NETWORK_SESSION_GET_SESSION_ID",
+        "comment": "Note: this native was added in build 1311.23",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "sessionId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311",
+        "unused": true
+    }
+}

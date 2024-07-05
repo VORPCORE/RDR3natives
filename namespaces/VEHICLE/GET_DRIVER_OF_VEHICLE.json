@@ -1,0 +1,14 @@
+{
+    "0x2963B5C1637E8A27": {
+        "name": "GET_DRIVER_OF_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

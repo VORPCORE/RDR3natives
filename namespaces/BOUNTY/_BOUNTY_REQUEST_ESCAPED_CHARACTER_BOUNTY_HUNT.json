@@ -1,0 +1,14 @@
+{
+    "0x12E981D53B07BF48": {
+        "name": "_BOUNTY_REQUEST_ESCAPED_CHARACTER_BOUNTY_HUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outRpcGuid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

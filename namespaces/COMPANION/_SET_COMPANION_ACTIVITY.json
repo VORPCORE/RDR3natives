@@ -1,0 +1,18 @@
+{
+    "0x0F1CD8CA9E65D5F6": {
+        "name": "_SET_COMPANION_ACTIVITY",
+        "comment": "enum _0x18F77396",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "Hash",
+                "name": "activity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

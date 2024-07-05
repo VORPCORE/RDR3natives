@@ -1,0 +1,18 @@
+{
+    "0xE0D6C2A146A5C993": {
+        "name": "_EAGLE_EYE_SET_DRAIN_RATE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

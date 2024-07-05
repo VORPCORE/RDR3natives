@@ -1,0 +1,14 @@
+{
+    "0xE36D4A38D28D9CFB": {
+        "name": "_0xE36D4A38D28D9CFB",
+        "comment": "Only used in R* SP Scripts",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

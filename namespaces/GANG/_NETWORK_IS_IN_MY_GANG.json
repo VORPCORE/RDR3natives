@@ -1,0 +1,14 @@
+{
+    "0x81FB74C83C2ED69F": {
+        "name": "_NETWORK_IS_IN_MY_GANG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

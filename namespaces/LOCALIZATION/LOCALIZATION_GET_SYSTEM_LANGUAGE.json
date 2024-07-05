@@ -1,0 +1,9 @@
+{
+    "0x3C1A05F86AE6ACB5": {
+        "name": "LOCALIZATION_GET_SYSTEM_LANGUAGE",
+        "comment": "Same return values as GET_CURRENT_LANGUAGE",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

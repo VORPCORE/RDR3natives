@@ -1,0 +1,30 @@
+{
+    "0x1392105DA88BBFFB": {
+        "name": "_ADD_PROP_TO_MINIMAP",
+        "comment": "list of minimap props: https://github.com/femga/rdr3_discoveries/tree/master/graphics/minimap/minimapObjects",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "minimapProp"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "rotation"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xCC24CB07F60B496E": {
+        "name": "GET_ANIM_SCENE_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

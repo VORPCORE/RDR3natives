@@ -1,0 +1,18 @@
+{
+    "0x87BE56724650408E": {
+        "name": "TASK_POLICE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

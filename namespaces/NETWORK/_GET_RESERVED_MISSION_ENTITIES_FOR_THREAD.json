@@ -1,0 +1,38 @@
+{
+    "0x99AAC89C510DEB0D": {
+        "name": "_GET_RESERVED_MISSION_ENTITIES_FOR_THREAD",
+        "comment": "Only used in R* Script net_stable_manager",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            },
+            {
+                "type": "int*",
+                "name": "pedMax"
+            },
+            {
+                "type": "int*",
+                "name": "vehicleMax"
+            },
+            {
+                "type": "int*",
+                "name": "unkMax"
+            },
+            {
+                "type": "int*",
+                "name": "pedMin"
+            },
+            {
+                "type": "int*",
+                "name": "vehicleMin"
+            },
+            {
+                "type": "int*",
+                "name": "unkMin"
+            }
+        ],
+        "return_type": "void",
+        "build": "1491"
+    }
+}

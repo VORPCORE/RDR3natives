@@ -1,0 +1,14 @@
+{
+    "0x90EB1CB189923587": {
+        "name": "_GET_PED_HOGTIE_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

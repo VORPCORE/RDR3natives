@@ -1,0 +1,18 @@
+{
+    "0xAEC5F0119867E457": {
+        "name": "_NETWORK_IS_MONEY_BALANCE_NOT_LESS_THAN",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "cashBalance"
+            },
+            {
+                "type": "int",
+                "name": "goldBarBalance"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

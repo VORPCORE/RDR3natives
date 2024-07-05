@@ -1,0 +1,18 @@
+{
+    "0xA486008892065FB9": {
+        "name": "BLIP_ADD_FOR_PICKUP_PLACEMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "blipHash"
+            },
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "Blip",
+        "build": "1207"
+    }
+}

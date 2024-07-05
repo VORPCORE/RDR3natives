@@ -1,0 +1,24 @@
+{
+    "0x153973AB99FE8980": {
+        "name": "ADD_ENTITY_TO_AUDIO_MIX_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "groupName"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x153973AB99FE8980",
+        "gta_jhash": "0x2BC93264"
+    }
+}

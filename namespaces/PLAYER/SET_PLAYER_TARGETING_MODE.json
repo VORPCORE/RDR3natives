@@ -1,0 +1,16 @@
+{
+    "0xD66A941F401E7302": {
+        "name": "SET_PLAYER_TARGETING_MODE",
+        "comment": "Sets your targeting mode for when you're on foot.\nenum eTargetingMode\n{\n\tTARGETING_MODE_INVALID = -1,\n\tTARGETING_MODE_CAUSAL, (Wide)\n\tTARGETING_MODE_NORMAL,\n\tTARGETING_MODE_HARD, (Narrow)\n\tTARGETING_MODE_EXPERT (Free Aim)\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "targetMode"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB1906895227793F3",
+        "gta_jhash": "0x61CAE253"
+    }
+}

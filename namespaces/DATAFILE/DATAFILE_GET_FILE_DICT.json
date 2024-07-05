@@ -1,0 +1,16 @@
+{
+    "0xBBD8CF823CAE557C": {
+        "name": "DATAFILE_GET_FILE_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "Any*",
+        "build": "1207",
+        "gta_hash": "0x906B778CA1DC72B6",
+        "gta_jhash": "0x86DDF9C2"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "0x90338AD4A784E455": {
+        "name": "GET_POSIX_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "year"
+            },
+            {
+                "type": "int*",
+                "name": "month"
+            },
+            {
+                "type": "int*",
+                "name": "day"
+            },
+            {
+                "type": "int*",
+                "name": "hour"
+            },
+            {
+                "type": "int*",
+                "name": "minute"
+            },
+            {
+                "type": "int*",
+                "name": "second"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDA488F299A5B164E",
+        "gta_jhash": "0xE15A5281"
+    }
+}

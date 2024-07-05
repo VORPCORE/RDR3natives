@@ -1,0 +1,24 @@
+{
+    "0xF6CEF599FC470B33": {
+        "name": "SET_GPS_CUSTOM_ROUTE_RENDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x900086F371220B6F",
+        "gta_jhash": "0xDA0AF00E"
+    }
+}

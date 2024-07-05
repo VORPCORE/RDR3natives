@@ -1,0 +1,14 @@
+{
+    "0x42095B886D30DE66": {
+        "name": "IS_UIAPP_TRANSITIONING_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "appNameHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

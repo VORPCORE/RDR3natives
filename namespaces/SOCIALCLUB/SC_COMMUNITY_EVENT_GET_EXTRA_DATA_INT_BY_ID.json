@@ -1,0 +1,25 @@
+{
+    "0x7C981DE05A7403A0": {
+        "name": "SC_COMMUNITY_EVENT_GET_EXTRA_DATA_INT_BY_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "int*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x8CC469AB4D349B7C",
+        "gta_jhash": "0xE778B2A7"
+    }
+}

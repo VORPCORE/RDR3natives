@@ -1,0 +1,18 @@
+{
+    "0x3A04F0169DA87A9D": {
+        "name": "MISSIONDATA_SET_HIGH_SCORE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "missionId"
+            },
+            {
+                "type": "int",
+                "name": "score"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

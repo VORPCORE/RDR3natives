@@ -1,0 +1,36 @@
+{
+    "0x0961A905AFBC34C7": {
+        "name": "CREATE_FORCED_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x150E808B375A385A",
+        "gta_jhash": "0x335190A2"
+    }
+}

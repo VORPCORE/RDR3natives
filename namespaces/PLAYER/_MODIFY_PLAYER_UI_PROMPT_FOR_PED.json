@@ -1,0 +1,30 @@
+{
+    "0xA3DB37EDF9A74635": {
+        "name": "_MODIFY_PLAYER_UI_PROMPT_FOR_PED",
+        "comment": "Params: See 0x0751D461F06E41CE",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "promptType"
+            },
+            {
+                "type": "int",
+                "name": "promptMode"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

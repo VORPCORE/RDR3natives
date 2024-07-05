@@ -1,0 +1,11 @@
+{
+    "0x823BF7B1DF613A21": {
+        "name": "BUSYSPINNER_IS_ON",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD422FCC5F239A915",
+        "gta_jhash": "0xB8B3A5D0"
+    }
+}

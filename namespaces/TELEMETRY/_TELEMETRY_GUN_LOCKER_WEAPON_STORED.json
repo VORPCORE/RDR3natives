@@ -1,0 +1,14 @@
+{
+    "0xC3ADF4880784FA9C": {
+        "name": "_TELEMETRY_GUN_LOCKER_WEAPON_STORED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x51455483CF23ED97": {
+        "name": "GET_PED_AS_GROUP_MEMBER",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupID"
+            },
+            {
+                "type": "int",
+                "name": "memberNumber"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207",
+        "gta_hash": "0x51455483CF23ED97",
+        "gta_jhash": "0x9AA3CC8C"
+    }
+}

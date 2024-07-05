@@ -1,0 +1,36 @@
+{
+    "0x06087579E7AA85A9": {
+        "name": "IS_TARGET_PED_IN_PERCEPTION_AREA",
+        "comment": "Returns true if ped is in perception (focused and looking at target ped)\nMost float params are -1.f in R* Scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "customDistance"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x06087579E7AA85A9",
+        "gta_jhash": "0xD0567D41"
+    }
+}

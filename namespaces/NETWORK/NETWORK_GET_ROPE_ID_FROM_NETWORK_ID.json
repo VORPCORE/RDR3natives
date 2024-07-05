@@ -1,0 +1,14 @@
+{
+    "0xEB1A4DD8352EC828": {
+        "name": "NETWORK_GET_ROPE_ID_FROM_NETWORK_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

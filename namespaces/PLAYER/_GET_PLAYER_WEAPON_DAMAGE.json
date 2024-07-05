@@ -1,0 +1,18 @@
+{
+    "0xFE0304050261442C": {
+        "name": "_GET_PLAYER_WEAPON_DAMAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

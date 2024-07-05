@@ -1,0 +1,14 @@
+{
+    "0xD2D74F89DF844A50": {
+        "name": "_CLEAR_ALL_BIT_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "bitFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

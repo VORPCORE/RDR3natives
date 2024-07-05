@@ -1,0 +1,18 @@
+{
+    "0x5F57522BC1EB9D9D": {
+        "name": "_SET_MP_GAMER_TAG_TOP_ICON",
+        "comment": "Found icons: https://pastebin.com/xx6rEgiG",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "Hash",
+                "name": "icon"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

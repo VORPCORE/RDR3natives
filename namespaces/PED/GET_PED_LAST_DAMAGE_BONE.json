@@ -1,0 +1,20 @@
+{
+    "0xD75960F6BD9EA49C": {
+        "name": "GET_PED_LAST_DAMAGE_BONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int*",
+                "name": "outBone"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD75960F6BD9EA49C",
+        "gta_jhash": "0xAB933841"
+    }
+}

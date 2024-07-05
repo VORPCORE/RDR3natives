@@ -1,0 +1,11 @@
+{
+    "0x98A7CD5EA379A854": {
+        "name": "DISABLE_HDTEX_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC35A6D07C93802B2",
+        "gta_jhash": ""
+    }
+}

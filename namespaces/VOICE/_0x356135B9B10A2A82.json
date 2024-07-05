@@ -1,0 +1,14 @@
+{
+    "0x356135B9B10A2A82": {
+        "name": "_0x356135B9B10A2A82",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

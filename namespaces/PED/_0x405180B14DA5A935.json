@@ -1,0 +1,18 @@
+{
+    "0x405180B14DA5A935": {
+        "name": "_0x405180B14DA5A935",
+        "comment": "_SET_PED_A*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

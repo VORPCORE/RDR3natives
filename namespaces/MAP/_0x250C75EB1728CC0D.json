@@ -1,0 +1,14 @@
+{
+    "0x250C75EB1728CC0D": {
+        "name": "_0x250C75EB1728CC0D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

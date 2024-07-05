@@ -1,0 +1,18 @@
+{
+    "0x7AE93C45EC14A166": {
+        "name": "_0x7AE93C45EC14A166",
+        "comment": "Only used in script function PROCESS_PED_INTERRUPT_DIALOGUE\n_GET_PLAYER_*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped*",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

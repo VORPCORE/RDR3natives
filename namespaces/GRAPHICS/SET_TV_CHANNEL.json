@@ -1,0 +1,16 @@
+{
+    "0x593FAF7FC9401A56": {
+        "name": "SET_TV_CHANNEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "channel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBAABBB23EB6E484E",
+        "gta_jhash": "0x41A8A627"
+    }
+}

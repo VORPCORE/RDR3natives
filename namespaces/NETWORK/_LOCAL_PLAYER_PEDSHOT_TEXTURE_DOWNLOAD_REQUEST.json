@@ -1,0 +1,18 @@
+{
+    "0x6E2FD8CF7EB10E53": {
+        "name": "_LOCAL_PLAYER_PEDSHOT_TEXTURE_DOWNLOAD_REQUEST",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "playerSlot"
+            },
+            {
+                "type": "int",
+                "name": "personaPhotoLocalCacheType"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

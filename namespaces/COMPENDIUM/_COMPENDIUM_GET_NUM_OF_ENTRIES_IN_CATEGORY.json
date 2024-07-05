@@ -1,0 +1,14 @@
+{
+    "0x729D52F61A5A9E22": {
+        "name": "_COMPENDIUM_GET_NUM_OF_ENTRIES_IN_CATEGORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "category"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

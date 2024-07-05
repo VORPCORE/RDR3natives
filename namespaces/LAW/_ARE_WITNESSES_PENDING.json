@@ -1,0 +1,14 @@
+{
+    "0x0BB6DE7D23C60626": {
+        "name": "_ARE_WITNESSES_PENDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

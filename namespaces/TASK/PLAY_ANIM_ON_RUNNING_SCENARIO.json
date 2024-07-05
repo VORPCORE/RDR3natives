@@ -1,0 +1,24 @@
+{
+    "0x748040460F8DF5DC": {
+        "name": "PLAY_ANIM_ON_RUNNING_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x748040460F8DF5DC",
+        "gta_jhash": "0x1984A5D1"
+    }
+}

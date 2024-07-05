@@ -1,0 +1,14 @@
+{
+    "0xE1F45A67A9F0DCBC": {
+        "name": "_0xE1F45A67A9F0DCBC",
+        "comment": "Only used in R* SP Scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

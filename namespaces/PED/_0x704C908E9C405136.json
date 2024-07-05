@@ -1,0 +1,14 @@
+{
+    "0x704C908E9C405136": {
+        "name": "_0x704C908E9C405136",
+        "comment": "_CLEAR*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

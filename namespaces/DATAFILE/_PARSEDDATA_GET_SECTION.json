@@ -1,0 +1,22 @@
+{
+    "0x44B3A36933AC009C": {
+        "name": "_PARSEDDATA_GET_SECTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "section"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

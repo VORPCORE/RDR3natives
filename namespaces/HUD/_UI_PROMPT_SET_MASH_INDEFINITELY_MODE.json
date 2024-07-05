@@ -1,0 +1,14 @@
+{
+    "0x7B66E89312727274": {
+        "name": "_UI_PROMPT_SET_MASH_INDEFINITELY_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

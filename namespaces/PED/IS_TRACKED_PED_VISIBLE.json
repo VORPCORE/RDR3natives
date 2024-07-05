@@ -1,0 +1,16 @@
+{
+    "0x91C8E617F64188AC": {
+        "name": "IS_TRACKED_PED_VISIBLE",
+        "comment": "Returns whether or not a ped is visible within your FOV, not this check auto's to false after a certain distance.\nTarget needs to be tracked first, won't work otherwise.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x91C8E617F64188AC",
+        "gta_jhash": "0x33248CC1"
+    }
+}

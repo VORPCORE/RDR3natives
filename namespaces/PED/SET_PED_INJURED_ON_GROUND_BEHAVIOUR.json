@@ -1,0 +1,20 @@
+{
+    "0xEC4B4B3B9908052A": {
+        "name": "SET_PED_INJURED_ON_GROUND_BEHAVIOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "unk"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311",
+        "gta_hash": "0xEC4B4B3B9908052A",
+        "gta_jhash": "0xF30658D2"
+    }
+}

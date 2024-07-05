@@ -1,0 +1,18 @@
+{
+    "0x00CE6A93324A590B": {
+        "name": "CHAL_NET_STOP_GOAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            },
+            {
+                "type": "Hash",
+                "name": "goalHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0xDEC6B25F5DC8925B": {
+        "name": "SET_TV_CHANNEL_PLAYLIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "tvChannel"
+            },
+            {
+                "type": "const char*",
+                "name": "playlistName"
+            },
+            {
+                "type": "BOOL",
+                "name": "restart"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF7B38B8305F1FE8B",
+        "gta_jhash": "0xB262DE67"
+    }
+}

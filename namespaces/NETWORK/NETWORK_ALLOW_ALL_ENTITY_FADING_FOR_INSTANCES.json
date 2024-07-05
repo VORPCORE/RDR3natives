@@ -1,0 +1,14 @@
+{
+    "0x4B05B97BA46F419D": {
+        "name": "NETWORK_ALLOW_ALL_ENTITY_FADING_FOR_INSTANCES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

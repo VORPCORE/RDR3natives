@@ -1,0 +1,26 @@
+{
+    "0x2A48D9567940598F": {
+        "name": "_NETWORK_PERSONA_PHOTO_WRITE_LOCAL",
+        "comment": "Returns false if pedshot push failed",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "texture"
+            },
+            {
+                "type": "int",
+                "name": "playerSlot"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "personaPhotoLocalCacheType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

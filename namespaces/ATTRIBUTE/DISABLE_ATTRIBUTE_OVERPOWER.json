@@ -1,0 +1,18 @@
+{
+    "0xF8DAC3D85636C241": {
+        "name": "DISABLE_ATTRIBUTE_OVERPOWER",
+        "comment": "attributeIndex: see SET_ATTRIBUTE_BASE_RANK",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attributeIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x345C9F993A8AB4A4": {
+        "name": "_SET_STAMINA_RECHARGE_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

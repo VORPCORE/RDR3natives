@@ -1,0 +1,18 @@
+{
+    "0x64FF4BF9AF59E139": {
+        "name": "_SECONDARY_SPECIAL_ABILITY_SET_DISABLED",
+        "comment": "Deactivates EagleEye, called together with 0xC0B21F235C02139C",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

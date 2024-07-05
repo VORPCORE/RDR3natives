@@ -1,0 +1,22 @@
+{
+    "0x5FF9A878C3D115B8": {
+        "name": "_GET_SHOP_ITEM_COMPONENT_CATEGORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "int",
+                "name": "metapedType"
+            },
+            {
+                "type": "BOOL",
+                "name": "isMP"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

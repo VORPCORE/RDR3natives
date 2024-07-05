@@ -1,0 +1,38 @@
+{
+    "0xB204BF9F30298D77": {
+        "name": "_TELEMETRY_PRISON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "transactionId"
+            },
+            {
+                "type": "Any",
+                "name": "bountyAmount"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "completionType"
+            },
+            {
+                "type": "Any",
+                "name": "jailTimeServed"
+            },
+            {
+                "type": "Any",
+                "name": "jailTimeLeft"
+            },
+            {
+                "type": "Any",
+                "name": "posseRole"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

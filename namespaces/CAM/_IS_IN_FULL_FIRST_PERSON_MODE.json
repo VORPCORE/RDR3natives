@@ -1,0 +1,9 @@
+{
+    "0xD1BA66940E94C547": {
+        "name": "_IS_IN_FULL_FIRST_PERSON_MODE",
+        "comment": "Returns true if player is in first person",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

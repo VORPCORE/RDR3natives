@@ -1,0 +1,14 @@
+{
+    "0x57A197AD83F66BBF": {
+        "name": "REMOVE_MOVE_NETWORK_DEF",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

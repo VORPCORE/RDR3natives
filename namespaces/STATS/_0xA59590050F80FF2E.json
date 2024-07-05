@@ -1,0 +1,26 @@
+{
+    "0xA59590050F80FF2E": {
+        "name": "_0xA59590050F80FF2E",
+        "comment": "Only used in R* SP Scripts",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x581EDBE56E8D62C9": {
+        "name": "_SET_OBJECT_TARGETTABLE_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "targettable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

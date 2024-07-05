@@ -1,0 +1,14 @@
+{
+    "0x57E798B65C45EE17": {
+        "name": "MISSIONDATA_GET_CATAGORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "missionId"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1232"
+    }
+}

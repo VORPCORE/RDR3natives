@@ -1,0 +1,14 @@
+{
+    "0x772A1969F649E902": {
+        "name": "_IS_THIS_MODEL_A_HORSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

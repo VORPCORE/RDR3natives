@@ -1,0 +1,16 @@
+{
+    "0x55F2E375AC6018A9": {
+        "name": "GET_ITEMSET_SIZE",
+        "comment": "",
+        "params": [
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xD9127E83ABF7C631",
+        "gta_jhash": "0x2B31F41A"
+    }
+}

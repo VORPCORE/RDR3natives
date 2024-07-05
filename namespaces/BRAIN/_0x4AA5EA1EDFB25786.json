@@ -1,0 +1,14 @@
+{
+    "0x4AA5EA1EDFB25786": {
+        "name": "_0x4AA5EA1EDFB25786",
+        "comment": "Called with flag 0 before 0xA6AC35DB4A7957A8 in net_entity_brain\n_SET_SCRIPT_BRAIN*",
+        "params": [
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

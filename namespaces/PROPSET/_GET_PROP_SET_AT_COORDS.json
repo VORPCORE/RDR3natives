@@ -1,0 +1,26 @@
+{
+    "0xC061E50F8D299F95": {
+        "name": "_GET_PROP_SET_AT_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "propsetHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "PropSet",
+        "build": "1207"
+    }
+}

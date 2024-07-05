@@ -1,0 +1,16 @@
+{
+    "0x0378C08504160D0D": {
+        "name": "IS_OBJECT_A_PORTABLE_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x0378C08504160D0D",
+        "gta_jhash": "0x0F0E94FF"
+    }
+}

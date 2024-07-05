@@ -1,0 +1,16 @@
+{
+    "0x63DAB4CCB3273205": {
+        "name": "RESET_GROUP_FORMATION_DEFAULT_SPACING",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x63DAB4CCB3273205",
+        "gta_jhash": "0x267FCEAD"
+    }
+}

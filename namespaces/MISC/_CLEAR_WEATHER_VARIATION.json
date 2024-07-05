@@ -1,0 +1,18 @@
+{
+    "0x0E71C80FA4EC8147": {
+        "name": "_CLEAR_WEATHER_VARIATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "weatherType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

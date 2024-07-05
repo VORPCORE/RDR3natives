@@ -1,0 +1,14 @@
+{
+    "0x1726963E6049DB53": {
+        "name": "_0x1726963E6049DB53",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x790125C36E194069": {
+        "name": "REMOVE_SCRIPT_FIRE",
+        "comment": "",
+        "params": [
+            {
+                "type": "FireId",
+                "name": "fireHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7FF548385680673F",
+        "gta_jhash": "0x6B21FE26"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xF3C873ED0C595109": {
+        "name": "_GET_PED_GRAPPLE_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

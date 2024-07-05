@@ -1,0 +1,26 @@
+{
+    "0x1A47699E8D533E8F": {
+        "name": "_GIVE_WEAPON_COMPONENT_TO_WEAPON_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object*",
+                "name": "weaponObject"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

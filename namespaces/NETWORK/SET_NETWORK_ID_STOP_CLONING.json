@@ -1,0 +1,18 @@
+{
+    "0x9ED3108D6847760A": {
+        "name": "SET_NETWORK_ID_STOP_CLONING",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "networkId"
+            },
+            {
+                "type": "BOOL",
+                "name": "bStopCloning"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

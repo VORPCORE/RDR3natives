@@ -1,0 +1,64 @@
+{
+    "0x17F58B88D085DBAC": {
+        "name": "TASK_FOLLOW_NAV_MESH_TO_COORD_ADVANCED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "speedMultiplier"
+            },
+            {
+                "type": "int",
+                "name": "timeout"
+            },
+            {
+                "type": "float",
+                "name": "stoppingRange"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "unk"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x17F58B88D085DBAC",
+        "gta_jhash": "0x6BF6E296"
+    }
+}

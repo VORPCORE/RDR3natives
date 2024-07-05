@@ -1,0 +1,22 @@
+{
+    "0x8C038A39C4A4B6D6": {
+        "name": "TASK_ANIMAL_WRITHE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

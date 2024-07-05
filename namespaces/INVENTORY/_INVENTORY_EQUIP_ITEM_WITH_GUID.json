@@ -1,0 +1,22 @@
+{
+    "0x734311E2852760D0": {
+        "name": "_INVENTORY_EQUIP_ITEM_WITH_GUID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "BOOL",
+                "name": "bEquipped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

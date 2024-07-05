@@ -1,0 +1,14 @@
+{
+    "0x798BE43C9393632B": {
+        "name": "_UNLOAD_CAMERA_DATA_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cameraDictionary"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

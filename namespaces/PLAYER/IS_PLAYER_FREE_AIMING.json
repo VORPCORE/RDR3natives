@@ -1,0 +1,16 @@
+{
+    "0x936F967D4BE1CE9D": {
+        "name": "IS_PLAYER_FREE_AIMING",
+        "comment": "Gets a value indicating whether the specified player is currently aiming freely.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x2E397FD2ECD37C87",
+        "gta_jhash": "0x1DEC67B7"
+    }
+}

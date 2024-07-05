@@ -1,0 +1,14 @@
+{
+    "0xCD0D69C65BB0E8B9": {
+        "name": "STAT_REGISTER_LEGENDARY_ANIMAL_DEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "deedHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

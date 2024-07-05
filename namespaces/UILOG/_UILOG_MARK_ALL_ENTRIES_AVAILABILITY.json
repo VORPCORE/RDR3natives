@@ -1,0 +1,18 @@
+{
+    "0x3920574CF0A2B7B6": {
+        "name": "_UILOG_MARK_ALL_ENTRIES_AVAILABILITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

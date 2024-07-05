@@ -1,0 +1,26 @@
+{
+    "0x3EC28DA1FFAC9DDD": {
+        "name": "_0x3EC28DA1FFAC9DDD",
+        "comment": "Used in Script Function DUELING_DID_PLAYER_DISARM_OPPONENT",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

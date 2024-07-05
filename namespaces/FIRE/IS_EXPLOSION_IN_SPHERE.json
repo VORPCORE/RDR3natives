@@ -1,0 +1,32 @@
+{
+    "0xD62DD846D82CBB90": {
+        "name": "IS_EXPLOSION_IN_SPHERE",
+        "comment": "explosionType: see ADD_EXPLOSION",
+        "params": [
+            {
+                "type": "int",
+                "name": "explosionType"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xAB0F816885B0E483",
+        "gta_jhash": "0xD455A7F3"
+    }
+}

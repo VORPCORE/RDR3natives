@@ -1,0 +1,18 @@
+{
+    "0xDD100CE1EBBF37E3": {
+        "name": "_0xDD100CE1EBBF37E3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

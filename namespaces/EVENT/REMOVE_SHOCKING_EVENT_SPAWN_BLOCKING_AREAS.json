@@ -1,0 +1,11 @@
+{
+    "0xDB249021652420C5": {
+        "name": "REMOVE_SHOCKING_EVENT_SPAWN_BLOCKING_AREAS",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x340F1415B68AEADE",
+        "gta_jhash": "0xA0CE89C8"
+    }
+}

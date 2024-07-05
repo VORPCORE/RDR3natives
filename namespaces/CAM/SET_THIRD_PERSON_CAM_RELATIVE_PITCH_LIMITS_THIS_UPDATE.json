@@ -1,0 +1,20 @@
+{
+    "0x326C7AA308F3DF6A": {
+        "name": "SET_THIRD_PERSON_CAM_RELATIVE_PITCH_LIMITS_THIS_UPDATE",
+        "comment": "minimum: Degrees between -90f and 90f.\nmaximum: Degrees between -90f and 90f.\n\nClamps the gameplay camera's current pitch.\n\nEg. _CLAMP_GAMEPLAY_CAM_PITCH(0.0f, 0.0f) will set the vertical angle directly behind the player.\n\nOld name: _CLAMP_GAMEPLAY_CAM_PITCH",
+        "params": [
+            {
+                "type": "float",
+                "name": "minimum"
+            },
+            {
+                "type": "float",
+                "name": "maximum"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA516C198B7DCA1E1",
+        "gta_jhash": "0xFA3A16E7"
+    }
+}

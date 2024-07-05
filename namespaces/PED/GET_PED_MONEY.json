@@ -1,0 +1,16 @@
+{
+    "0x3F69145BBA87BAE7": {
+        "name": "GET_PED_MONEY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x3F69145BBA87BAE7",
+        "gta_jhash": "0xEB3C4C7E"
+    }
+}

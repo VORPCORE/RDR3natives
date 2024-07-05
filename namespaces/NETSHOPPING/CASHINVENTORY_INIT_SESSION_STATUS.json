@@ -1,0 +1,18 @@
+{
+    "0xC019112F8995DC1C": {
+        "name": "CASHINVENTORY_INIT_SESSION_STATUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            },
+            {
+                "type": "int*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

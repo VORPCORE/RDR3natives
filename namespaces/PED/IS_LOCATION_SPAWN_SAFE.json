@@ -1,0 +1,18 @@
+{
+    "0xFB1E7998B8595825": {
+        "name": "IS_LOCATION_SPAWN_SAFE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

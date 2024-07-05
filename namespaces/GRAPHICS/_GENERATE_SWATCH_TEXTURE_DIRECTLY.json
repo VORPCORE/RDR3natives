@@ -1,0 +1,18 @@
+{
+    "0x646ED1A1D28487DF": {
+        "name": "_GENERATE_SWATCH_TEXTURE_DIRECTLY",
+        "comment": "Example: https://pastebin.com/tTgpER9A",
+        "params": [
+            {
+                "type": "int",
+                "name": "slot"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

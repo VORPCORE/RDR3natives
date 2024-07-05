@@ -1,0 +1,24 @@
+{
+    "0x53E0DF1A2A3CF0CA": {
+        "name": "SET_TEAM_PICKUP_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x53E0DF1A2A3CF0CA",
+        "gta_jhash": "0x77687DC5"
+    }
+}

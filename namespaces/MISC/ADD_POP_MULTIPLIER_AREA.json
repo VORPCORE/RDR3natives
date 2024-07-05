@@ -1,0 +1,52 @@
+{
+    "0x5EBDA1A3B8CB5EF7": {
+        "name": "ADD_POP_MULTIPLIER_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "pedDensity"
+            },
+            {
+                "type": "float",
+                "name": "trafficDensity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x67F6413D3220E18D",
+        "gta_jhash": "0x42BF09B3"
+    }
+}

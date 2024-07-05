@@ -1,0 +1,14 @@
+{
+    "0x1A17B9ECFF617562": {
+        "name": "_UI_PROMPT_HAS_PRESSED_TIMED_MODE_FAILED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x0CBBCB2CCFA7DC4E": {
+        "name": "GET_PLAYER_INVINCIBLE",
+        "comment": "Returns the player's invincibility status.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB721981B2B939E07",
+        "gta_jhash": "0x680C90EE"
+    }
+}

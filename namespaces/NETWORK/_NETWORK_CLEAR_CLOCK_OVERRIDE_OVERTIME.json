@@ -1,0 +1,14 @@
+{
+    "0x65F040D91001ED4B": {
+        "name": "_NETWORK_CLEAR_CLOCK_OVERRIDE_OVERTIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "milliseconds"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

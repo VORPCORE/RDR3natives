@@ -1,0 +1,16 @@
+{
+    "0x16C8D205DD5A2E90": {
+        "name": "HAS_PLAYER_DAMAGED_AT_LEAST_ONE_NON_ANIMAL_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xE4B90F367BD81752",
+        "gta_jhash": "0xA3707DFC"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "0xF2EA041F1146D75B": {
+        "name": "_SET_TEXTURE_LAYER_MOD",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            },
+            {
+                "type": "int",
+                "name": "layerId"
+            },
+            {
+                "type": "Hash",
+                "name": "modTextureHash"
+            },
+            {
+                "type": "float",
+                "name": "modAlpha"
+            },
+            {
+                "type": "int",
+                "name": "modChannel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "0x336B3D200AB007CB": {
+        "name": "COUNT_PEDS_IN_COMBAT_WITH_TARGET_WITHIN_RADIUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x336B3D200AB007CB",
+        "gta_jhash": "0xFB18CB19"
+    }
+}

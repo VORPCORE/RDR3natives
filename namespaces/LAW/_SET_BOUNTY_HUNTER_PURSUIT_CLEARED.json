@@ -1,0 +1,9 @@
+{
+    "0x55F37F5F3F2475E1": {
+        "name": "_SET_BOUNTY_HUNTER_PURSUIT_CLEARED",
+        "comment": "Force clears local player's wanted level",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

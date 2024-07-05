@@ -1,0 +1,22 @@
+{
+    "0x525421A507216084": {
+        "name": "_TASK_CUT_FREE_HOGTIED_TARGET_PED_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

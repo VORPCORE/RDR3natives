@@ -1,0 +1,26 @@
+{
+    "0x4E4507CC5E4DB869": {
+        "name": "_START_PRELOADED_SCRIPT_BRAIN",
+        "comment": "Returns threadId",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "int",
+                "name": "scriptStackSize"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

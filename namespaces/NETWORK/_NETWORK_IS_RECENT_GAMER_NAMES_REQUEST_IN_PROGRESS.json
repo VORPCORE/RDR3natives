@@ -1,0 +1,9 @@
+{
+    "0x4664D213A0CCAF40": {
+        "name": "_NETWORK_IS_RECENT_GAMER_NAMES_REQUEST_IN_PROGRESS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

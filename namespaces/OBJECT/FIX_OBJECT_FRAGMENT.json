@@ -1,0 +1,16 @@
+{
+    "0xF9C1681347C8BD15": {
+        "name": "FIX_OBJECT_FRAGMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF9C1681347C8BD15",
+        "gta_jhash": ""
+    }
+}

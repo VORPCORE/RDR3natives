@@ -1,0 +1,18 @@
+{
+    "0xE84AAC1B22A73E99": {
+        "name": "_SET_BIT_FLAG",
+        "comment": "Similar to SET_BIT but specifically designed for large (>32 flags) bit flag sets.\nThe flags are stored in an int array where each int has the ability to hold 32 flags.\nFlags 0-31 would be stored in the first int, flags 32-63 in the second int, etc.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "bitFlags"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

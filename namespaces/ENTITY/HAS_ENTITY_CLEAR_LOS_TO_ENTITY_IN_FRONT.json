@@ -1,0 +1,24 @@
+{
+    "0xE88F19660651D566": {
+        "name": "HAS_ENTITY_CLEAR_LOS_TO_ENTITY_IN_FRONT",
+        "comment": "Has the entity1 got a clear line of sight to the other entity2 from the direction entity1 is facing.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "int",
+                "name": "traceType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x0267D00AF114F17A",
+        "gta_jhash": "0x210D87C8"
+    }
+}

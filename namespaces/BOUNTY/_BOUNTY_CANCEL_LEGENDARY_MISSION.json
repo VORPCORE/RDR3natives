@@ -1,0 +1,9 @@
+{
+    "0x2BA1BCC99826CDA2": {
+        "name": "_BOUNTY_CANCEL_LEGENDARY_MISSION",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xC075176CFB8B4128": {
+        "name": "CAN_ANCHOR_BOAT_HERE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x26C10ECBDA5D043B",
+        "gta_jhash": "0xE97A4F5E"
+    }
+}

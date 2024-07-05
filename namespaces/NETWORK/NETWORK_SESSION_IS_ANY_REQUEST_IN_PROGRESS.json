@@ -1,0 +1,9 @@
+{
+    "0xBAFFDE5F953720D9": {
+        "name": "NETWORK_SESSION_IS_ANY_REQUEST_IN_PROGRESS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x21F00E08CBB5F37B": {
+        "name": "_0x21F00E08CBB5F37B",
+        "comment": "Params: component - used in odriscolls1 and sean1 R* SP Script: COMPONENT_BINOCULARS_SCOPE01\nTriggers the binocular scaleform",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "component"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

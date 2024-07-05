@@ -1,0 +1,11 @@
+{
+    "0x77DFA958FCF100C1": {
+        "name": "GET_FRAME_COUNT",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xFC8202EFC642E6F2",
+        "gta_jhash": "0xB477A015"
+    }
+}

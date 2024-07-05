@@ -1,0 +1,9 @@
+{
+    "0x6CEE2E30021DAEC6": {
+        "name": "_0x6CEE2E30021DAEC6",
+        "comment": "_NETWORK_SPAWN_CONFIG_*",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

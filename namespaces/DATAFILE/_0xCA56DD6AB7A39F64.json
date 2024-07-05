@@ -1,0 +1,14 @@
+{
+    "0xCA56DD6AB7A39F64": {
+        "name": "_0xCA56DD6AB7A39F64",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

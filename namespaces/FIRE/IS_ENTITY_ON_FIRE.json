@@ -1,0 +1,16 @@
+{
+    "0x1BD7C371CE257C3E": {
+        "name": "IS_ENTITY_ON_FIRE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x28D3FED7190D3A0B",
+        "gta_jhash": "0x8C73E64F"
+    }
+}

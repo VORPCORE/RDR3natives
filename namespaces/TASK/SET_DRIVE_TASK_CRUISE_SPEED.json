@@ -1,0 +1,20 @@
+{
+    "0x5C9B84BD7D31D908": {
+        "name": "SET_DRIVE_TASK_CRUISE_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "driver"
+            },
+            {
+                "type": "float",
+                "name": "cruiseSpeed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5C9B84BD7D31D908",
+        "gta_jhash": "0x3CEC07B1"
+    }
+}

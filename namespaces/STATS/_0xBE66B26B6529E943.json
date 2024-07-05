@@ -1,0 +1,22 @@
+{
+    "0xBE66B26B6529E943": {
+        "name": "_0xBE66B26B6529E943",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "unlockHash"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "animalType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

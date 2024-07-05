@@ -1,0 +1,32 @@
+{
+    "0x933C06518B52A9A4": {
+        "name": "TASK_SET_SPHERE_DEFENSIVE_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x933C06518B52A9A4",
+        "gta_jhash": "0x9F3C5D6A"
+    }
+}

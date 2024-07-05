@@ -1,0 +1,14 @@
+{
+    "0x3AA24CCC0D451379": {
+        "name": "IS_PED_HOGTIED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

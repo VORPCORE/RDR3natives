@@ -1,0 +1,14 @@
+{
+    "0x2C497BDEF897C6DF": {
+        "name": "_0x2C497BDEF897C6DF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

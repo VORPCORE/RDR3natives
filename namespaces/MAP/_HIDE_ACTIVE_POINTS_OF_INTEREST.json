@@ -1,0 +1,9 @@
+{
+    "0xA1B4052C2A3DCC1E": {
+        "name": "_HIDE_ACTIVE_POINTS_OF_INTEREST",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

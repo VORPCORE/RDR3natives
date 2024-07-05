@@ -1,0 +1,16 @@
+{
+    "0x921CE12C489C4C41": {
+        "name": "IS_TASK_MOVE_NETWORK_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x921CE12C489C4C41",
+        "gta_jhash": "0x902656EB"
+    }
+}

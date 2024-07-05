@@ -1,0 +1,14 @@
+{
+    "0x665161D250850A9F": {
+        "name": "_NETWORK_IS_FRIEND_HANDLE_IN_SAME_TITLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

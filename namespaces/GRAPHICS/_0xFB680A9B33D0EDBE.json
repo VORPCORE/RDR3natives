@@ -1,0 +1,14 @@
+{
+    "0xFB680A9B33D0EDBE": {
+        "name": "_0xFB680A9B33D0EDBE",
+        "comment": "_DISABLE_*",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

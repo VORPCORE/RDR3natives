@@ -1,0 +1,18 @@
+{
+    "0xEBDC12861D079ABA": {
+        "name": "_SET_ENTITY_LIGHTS_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

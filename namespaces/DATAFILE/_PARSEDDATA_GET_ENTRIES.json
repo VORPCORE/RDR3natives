@@ -1,0 +1,14 @@
+{
+    "0xED4413CEE1BF142C": {
+        "name": "_PARSEDDATA_GET_ENTRIES",
+        "comment": "Returns false when there are no entries.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

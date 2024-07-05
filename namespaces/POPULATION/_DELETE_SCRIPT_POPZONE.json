@@ -1,0 +1,14 @@
+{
+    "0xA6E6A66FC4CA4224": {
+        "name": "_DELETE_SCRIPT_POPZONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "PopZone",
+                "name": "popZone"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xDDAEB478E58F8DEA": {
+        "name": "_NETWORK_GET_GAMER_STATUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

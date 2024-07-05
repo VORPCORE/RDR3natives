@@ -1,0 +1,11 @@
+{
+    "0xD83B22434E52728D": {
+        "name": "CLEAR_HD_AREA",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xCE58B1CFB9290813",
+        "gta_jhash": "0x7CAC6FA0"
+    }
+}

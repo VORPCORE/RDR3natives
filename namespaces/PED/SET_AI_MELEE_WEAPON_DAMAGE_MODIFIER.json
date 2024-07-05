@@ -1,0 +1,16 @@
+{
+    "0x66460DEDDD417254": {
+        "name": "SET_AI_MELEE_WEAPON_DAMAGE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x66460DEDDD417254",
+        "gta_jhash": "0x0F9A401F"
+    }
+}

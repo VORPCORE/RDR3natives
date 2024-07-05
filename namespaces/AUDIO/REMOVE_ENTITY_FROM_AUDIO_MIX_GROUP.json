@@ -1,0 +1,20 @@
+{
+    "0x18EB48CFC41F2EA0": {
+        "name": "REMOVE_ENTITY_FROM_AUDIO_MIX_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x18EB48CFC41F2EA0",
+        "gta_jhash": "0x308ED0EC"
+    }
+}

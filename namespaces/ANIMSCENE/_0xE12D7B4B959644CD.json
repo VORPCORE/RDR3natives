@@ -1,0 +1,9 @@
+{
+    "0xE12D7B4B959644CD": {
+        "name": "_0xE12D7B4B959644CD",
+        "comment": "Used in SP R* Scripts only\n_SET_B* - _SET_C*",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

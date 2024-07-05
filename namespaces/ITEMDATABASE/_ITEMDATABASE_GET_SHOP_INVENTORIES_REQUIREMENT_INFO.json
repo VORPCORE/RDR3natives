@@ -1,0 +1,30 @@
+{
+    "0xE0EA5C031AE5539F": {
+        "name": "_ITEMDATABASE_GET_SHOP_INVENTORIES_REQUIREMENT_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "shopType"
+            },
+            {
+                "type": "Hash",
+                "name": "key"
+            },
+            {
+                "type": "int",
+                "name": "groupIndex"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

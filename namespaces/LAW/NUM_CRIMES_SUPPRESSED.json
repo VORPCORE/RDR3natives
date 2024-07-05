@@ -1,0 +1,18 @@
+{
+    "0xC08E804C91F47C80": {
+        "name": "NUM_CRIMES_SUPPRESSED",
+        "comment": "Returns amount of suppressed crimes to be used later in the function MPINTRO_CRIME_MONITOR_MAINTAIN",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "crimeType"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

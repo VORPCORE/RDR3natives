@@ -1,0 +1,18 @@
+{
+    "0xA8A95CECB1906EA2": {
+        "name": "_0xA8A95CECB1906EA2",
+        "comment": "_SET_ENABLE_B* - _SET_ENABLE_H*",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

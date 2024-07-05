@@ -1,0 +1,18 @@
+{
+    "0xDD560ABEF5D3784C": {
+        "name": "_GET_FORCED_WEATHER",
+        "comment": "Returns the weather type that has been set by a script",
+        "params": [
+            {
+                "type": "Hash*",
+                "name": "weather"
+            },
+            {
+                "type": "Hash*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

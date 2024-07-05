@@ -1,0 +1,14 @@
+{
+    "0x3B005FF0538ED2A9": {
+        "name": "_GET_ANIMAL_IS_WILD",
+        "comment": "Ped (horse) will run away from players and mounting will trigger them to buck until disabled.\nUsed for: REL_DOMESTICATED_ANIMAL",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "0x5E71E72A94985214": {
+        "name": "GET_RESERVED_MISSION_ENTITIES_IN_AREA",
+        "comment": "Used in Script Function NET_ACE_CLIENT_VERIFY_ENTITY_RESERVATIONS\nCoords: Slot world position\n\nOld name: _GET_RESERVATIONS_FOR_SLOT_WORLD_POSITION",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "int*",
+                "name": "peds"
+            },
+            {
+                "type": "int*",
+                "name": "vehicles"
+            },
+            {
+                "type": "int*",
+                "name": "objects"
+            },
+            {
+                "type": "int*",
+                "name": "pickups"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE42D626EEC94E5D9",
+        "gta_jhash": ""
+    }
+}

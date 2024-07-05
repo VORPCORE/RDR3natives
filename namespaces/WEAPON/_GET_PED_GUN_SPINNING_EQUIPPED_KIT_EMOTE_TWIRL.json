@@ -1,0 +1,14 @@
+{
+    "0x2C4FEC3D0EFA9FC0": {
+        "name": "_GET_PED_GUN_SPINNING_EQUIPPED_KIT_EMOTE_TWIRL",
+        "comment": "Returns emote Hash",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1355"
+    }
+}

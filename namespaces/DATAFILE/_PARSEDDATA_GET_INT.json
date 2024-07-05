@@ -1,0 +1,22 @@
+{
+    "0x52FC26D2D2FC2987": {
+        "name": "_PARSEDDATA_GET_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

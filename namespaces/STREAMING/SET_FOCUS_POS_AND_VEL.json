@@ -1,0 +1,36 @@
+{
+    "0x25F6EF88664540E2": {
+        "name": "SET_FOCUS_POS_AND_VEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBB7454BAFF08FE25",
+        "gta_jhash": "0x14680A60"
+    }
+}

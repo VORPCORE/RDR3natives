@@ -1,0 +1,28 @@
+{
+    "0xF9EE7D419EE49DE6": {
+        "name": "SET_CAM_COORD",
+        "comment": "Sets the position of the cam.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4D41783FB745E42E",
+        "gta_jhash": "0x7A8053AF"
+    }
+}

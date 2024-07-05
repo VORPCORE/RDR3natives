@@ -1,0 +1,22 @@
+{
+    "0xDEE8D30AA5C2E28D": {
+        "name": "_0xDEE8D30AA5C2E28D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

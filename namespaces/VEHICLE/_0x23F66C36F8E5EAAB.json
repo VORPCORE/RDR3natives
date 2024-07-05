@@ -1,0 +1,18 @@
+{
+    "0x23F66C36F8E5EAAB": {
+        "name": "_0x23F66C36F8E5EAAB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

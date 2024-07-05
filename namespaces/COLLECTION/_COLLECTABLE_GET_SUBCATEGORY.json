@@ -1,0 +1,14 @@
+{
+    "0x6052B4DE6657684F": {
+        "name": "_COLLECTABLE_GET_SUBCATEGORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableItem"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

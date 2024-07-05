@@ -1,0 +1,16 @@
+{
+    "0xDFE8422B3B94E688": {
+        "name": "STOP_AUDIO_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scene"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDFE8422B3B94E688",
+        "gta_jhash": "0xA08D8C58"
+    }
+}

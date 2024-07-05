@@ -1,0 +1,16 @@
+{
+    "0xCB0360EFEFB2580D": {
+        "name": "CLEAR_CONTROL_LIGHT_EFFECT",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xCB0360EFEFB2580D",
+        "gta_jhash": ""
+    }
+}

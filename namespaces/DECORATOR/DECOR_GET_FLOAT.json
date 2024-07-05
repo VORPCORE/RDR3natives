@@ -1,0 +1,20 @@
+{
+    "0xE5FF70CD842CA9D4": {
+        "name": "DECOR_GET_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x6524A2F114706F43",
+        "gta_jhash": "0x8DE5382F"
+    }
+}

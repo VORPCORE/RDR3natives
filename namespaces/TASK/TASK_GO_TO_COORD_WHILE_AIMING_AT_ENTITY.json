@@ -1,0 +1,72 @@
+{
+    "0xB2A16444EAD9AE47": {
+        "name": "TASK_GO_TO_COORD_WHILE_AIMING_AT_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "Any",
+                "name": "p9"
+            },
+            {
+                "type": "Any",
+                "name": "p10"
+            },
+            {
+                "type": "Any",
+                "name": "p11"
+            },
+            {
+                "type": "Hash",
+                "name": "firingPattern"
+            },
+            {
+                "type": "int",
+                "name": "p13"
+            },
+            {
+                "type": "Any",
+                "name": "p14"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB2A16444EAD9AE47",
+        "gta_jhash": "0x9BD52ABD"
+    }
+}

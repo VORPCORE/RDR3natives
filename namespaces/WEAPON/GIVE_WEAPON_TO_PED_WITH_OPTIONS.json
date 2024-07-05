@@ -1,0 +1,22 @@
+{
+    "0xBE7E42B07FD317AC": {
+        "name": "GIVE_WEAPON_TO_PED_WITH_OPTIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

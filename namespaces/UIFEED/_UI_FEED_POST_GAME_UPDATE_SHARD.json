@@ -1,0 +1,22 @@
+{
+    "0x8D1249BD28791878": {
+        "name": "_UI_FEED_POST_GAME_UPDATE_SHARD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x106A811C6D3035F3": {
+        "name": "_ADD_AMMO_TO_PED_BY_TYPE",
+        "comment": "addReason: see _ADD_AMMO_TO_PED",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoType"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "addReason"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

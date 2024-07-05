@@ -1,0 +1,18 @@
+{
+    "0x6DBF2D78709AD70B": {
+        "name": "_SET_PED_BEAT_MULTIPLIER",
+        "comment": "NET_FETCH_CLIENT_UPDATE_PED_FIGHT_PROFICIENCY: Changing parry multiplier for ped",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

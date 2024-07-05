@@ -1,0 +1,20 @@
+{
+    "0xC474CF16EDA45DC9": {
+        "name": "REQUEST_VEHICLE_RECORDING",
+        "comment": "Request the vehicle recording defined by the lowercase format string \"%s%03d.yvr\". For example, REQUEST_VEHICLE_RECORDING(1, \"FBIs1UBER\") corresponds to fbis1uber001.yvr.\nFor all vehicle recording/playback natives, \"script\" is a common prefix that usually corresponds to the script/mission the recording is used in, \"recording\" is its int suffix, and \"id\" corresponds to a unique identifier within the recording streaming module.\n(GTA) Note that only 24 recordings (hardcoded in multiple places) can ever active at a given time before clobbering begins.",
+        "params": [
+            {
+                "type": "int",
+                "name": "recording"
+            },
+            {
+                "type": "const char*",
+                "name": "script"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xAF514CABE74CBF15",
+        "gta_jhash": "0x91AFEFD9"
+    }
+}

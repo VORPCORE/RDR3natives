@@ -1,0 +1,22 @@
+{
+    "0x307A3247C5457BDE": {
+        "name": "_DATABINDING_ADD_DATA_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

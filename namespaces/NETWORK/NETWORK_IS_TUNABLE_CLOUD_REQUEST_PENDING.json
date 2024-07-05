@@ -1,0 +1,11 @@
+{
+    "0x0467C11ED88B7D28": {
+        "name": "NETWORK_IS_TUNABLE_CLOUD_REQUEST_PENDING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x0467C11ED88B7D28",
+        "gta_jhash": "0x47978D7F"
+    }
+}

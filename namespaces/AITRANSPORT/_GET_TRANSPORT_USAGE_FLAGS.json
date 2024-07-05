@@ -1,0 +1,18 @@
+{
+    "0xE195C5A82156321D": {
+        "name": "_GET_TRANSPORT_USAGE_FLAGS",
+        "comment": "See _SET_TRANSPORT_USAGE_FLAGS",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "int*",
+                "name": "flags"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

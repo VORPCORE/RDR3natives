@@ -1,0 +1,20 @@
+{
+    "0x9FF447B6B6AD960A": {
+        "name": "SET_PED_GRAVITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9FF447B6B6AD960A",
+        "gta_jhash": "0x3CA16652"
+    }
+}

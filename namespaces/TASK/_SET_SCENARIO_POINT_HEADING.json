@@ -1,0 +1,22 @@
+{
+    "0xD3A0DA8F91612C6E": {
+        "name": "_SET_SCENARIO_POINT_HEADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

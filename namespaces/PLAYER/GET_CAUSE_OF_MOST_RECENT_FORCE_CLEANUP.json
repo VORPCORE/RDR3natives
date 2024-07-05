@@ -1,0 +1,11 @@
+{
+    "0x84E8E29EBD4A46D2": {
+        "name": "GET_CAUSE_OF_MOST_RECENT_FORCE_CLEANUP",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x9A41CF4674A12272",
+        "gta_jhash": "0x39AA9FC8"
+    }
+}

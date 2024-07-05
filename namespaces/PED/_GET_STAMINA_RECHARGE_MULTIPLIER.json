@@ -1,0 +1,14 @@
+{
+    "0xE7687EB2F634ABF0": {
+        "name": "_GET_STAMINA_RECHARGE_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

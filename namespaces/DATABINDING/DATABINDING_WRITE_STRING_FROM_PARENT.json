@@ -1,0 +1,22 @@
+{
+    "0x4FF713B2F17A391E": {
+        "name": "DATABINDING_WRITE_STRING_FROM_PARENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

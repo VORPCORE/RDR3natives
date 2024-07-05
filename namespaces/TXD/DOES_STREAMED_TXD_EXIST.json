@@ -1,0 +1,14 @@
+{
+    "0xBA0163B277C2D2D0": {
+        "name": "DOES_STREAMED_TXD_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "txdHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

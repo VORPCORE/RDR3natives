@@ -1,0 +1,20 @@
+{
+    "0xC5BAA432B429DC24": {
+        "name": "REMOVE_FROM_ITEMSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x25E68244B0177686",
+        "gta_jhash": "0xA9565228"
+    }
+}

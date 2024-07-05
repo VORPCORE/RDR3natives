@@ -1,0 +1,14 @@
+{
+    "0xE7DDA8BD3BCF751C": {
+        "name": "RESERVE_NETWORK_CLIENT_MISSION_OBJECTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

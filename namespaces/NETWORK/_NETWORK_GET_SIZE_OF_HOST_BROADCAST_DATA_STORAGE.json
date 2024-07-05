@@ -1,0 +1,14 @@
+{
+    "0xBA24095EA96DFE17": {
+        "name": "_NETWORK_GET_SIZE_OF_HOST_BROADCAST_DATA_STORAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

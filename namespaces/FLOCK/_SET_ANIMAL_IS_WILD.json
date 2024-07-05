@@ -1,0 +1,18 @@
+{
+    "0xAEB97D84CDF3C00B": {
+        "name": "_SET_ANIMAL_IS_WILD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

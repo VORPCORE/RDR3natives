@@ -1,0 +1,18 @@
+{
+    "0x98539FC453AEA639": {
+        "name": "_UGC_QUERY_GET_BOOK_MARKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

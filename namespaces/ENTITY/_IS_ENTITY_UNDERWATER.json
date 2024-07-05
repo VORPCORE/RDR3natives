@@ -1,0 +1,18 @@
+{
+    "0xD4E5C1E93C466127": {
+        "name": "_IS_ENTITY_UNDERWATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

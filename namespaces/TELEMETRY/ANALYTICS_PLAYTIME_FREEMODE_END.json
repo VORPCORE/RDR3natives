@@ -1,0 +1,9 @@
+{
+    "0x3180E991D4B8F248": {
+        "name": "ANALYTICS_PLAYTIME_FREEMODE_END",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

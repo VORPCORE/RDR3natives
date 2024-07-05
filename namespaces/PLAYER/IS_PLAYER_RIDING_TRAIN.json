@@ -1,0 +1,16 @@
+{
+    "0x2FB0ACADA6A238DD": {
+        "name": "IS_PLAYER_RIDING_TRAIN",
+        "comment": "Returns true if the player is riding a train.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4EC12697209F2196",
+        "gta_jhash": "0x9765E71D"
+    }
+}

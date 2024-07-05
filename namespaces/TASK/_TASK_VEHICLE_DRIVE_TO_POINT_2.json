@@ -1,0 +1,38 @@
+{
+    "0x6524A8981E8BE7C9": {
+        "name": "_TASK_VEHICLE_DRIVE_TO_POINT_2",
+        "comment": "Params: p4 = 3.f or 8.f, p5 = 0.25f, p6 = 0 in R* Scripts",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

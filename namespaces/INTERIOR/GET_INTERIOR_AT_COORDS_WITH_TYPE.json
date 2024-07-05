@@ -1,0 +1,28 @@
+{
+    "0xAAD6170AA33B13C0": {
+        "name": "GET_INTERIOR_AT_COORDS_WITH_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "const char*",
+                "name": "interiorType"
+            }
+        ],
+        "return_type": "Interior",
+        "build": "1207",
+        "gta_hash": "0x05B7A89BD78797FC",
+        "gta_jhash": "0x96525B06"
+    }
+}

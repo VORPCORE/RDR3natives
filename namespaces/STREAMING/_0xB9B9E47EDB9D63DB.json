@@ -1,0 +1,9 @@
+{
+    "0xB9B9E47EDB9D63DB": {
+        "name": "_0xB9B9E47EDB9D63DB",
+        "comment": "Sorts some unknown data.\n\nLikely SORT_*",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x1D6650420CEC9D3B": {
+        "name": "SET_AMBIENT_ZONE_STATE_PERSISTENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "ambientZone"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1D6650420CEC9D3B",
+        "gta_jhash": "0xC1FFB672"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x0DBACA9C38C9A686": {
+        "name": "_0x0DBACA9C38C9A686",
+        "comment": "Only used in sisikapenitentiary R* Script: name = SISIKA\n_IS_G* or _IS_H*",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

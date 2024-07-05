@@ -1,0 +1,30 @@
+{
+    "0xC17A94CC8FC3C61A": {
+        "name": "_0xC17A94CC8FC3C61A",
+        "comment": "_SET_PED_P* - _SET_PED_R*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "boneId"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x08797A8C03868CB8": {
+        "name": "_0x08797A8C03868CB8",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "threshold"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

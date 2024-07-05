@@ -1,0 +1,14 @@
+{
+    "0xCCF878D50F8AB10D": {
+        "name": "NETWORK_SESSION_IS_REQUEST_PENDING_TRANSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "sessionRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

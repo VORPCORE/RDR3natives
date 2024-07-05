@@ -1,0 +1,14 @@
+{
+    "0x5AFFA9DDC87846F8": {
+        "name": "_IS_CARRIABLE_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

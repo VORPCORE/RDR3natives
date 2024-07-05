@@ -1,0 +1,9 @@
+{
+    "0x51259AE5C72D4A1B": {
+        "name": "_UI_PROMPT_CLEAR_PROMPT_PRIORITY_PREFERENCE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

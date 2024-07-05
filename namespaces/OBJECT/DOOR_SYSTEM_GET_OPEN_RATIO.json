@@ -1,0 +1,16 @@
+{
+    "0x65499865FCA6E5EC": {
+        "name": "DOOR_SYSTEM_GET_OPEN_RATIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x65499865FCA6E5EC",
+        "gta_jhash": "0xB74C3BD7"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x8462BE2341A55B6F": {
+        "name": "BREAK_ALL_OBJECT_FRAGMENT_BONES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x2F25D9AEFA34FBA2": {
+        "name": "REGISTER_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2F25D9AEFA34FBA2",
+        "gta_jhash": "0x50A95442"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xD9130842D7226045": {
+        "name": "PREPARE_SOUNDSET",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/audio/soundsets",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "soundsetName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

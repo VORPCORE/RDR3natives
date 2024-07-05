@@ -1,0 +1,18 @@
+{
+    "0x8A0643B0B4CA276B": {
+        "name": "_IS_DEADEYE_ABILITY_LOCKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "abilityType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

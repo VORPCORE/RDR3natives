@@ -1,0 +1,9 @@
+{
+    "0xC088FF658B2E51DA": {
+        "name": "POSSE_GET_POSSE_MEMBERSHIP_COUNT",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

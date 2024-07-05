@@ -1,0 +1,16 @@
+{
+    "0x6FC9B065229C0787": {
+        "name": "ENABLE_MOVIE_SUBTITLES",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x873FA65C778AD970",
+        "gta_jhash": "0xC2DEBA3D"
+    }
+}

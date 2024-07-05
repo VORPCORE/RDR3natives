@@ -1,0 +1,18 @@
+{
+    "0x34D6AC1157C8226C": {
+        "name": "IS_PED_USING_SCENARIO_HASH",
+        "comment": "Equivalent to IS_PED_USING_SCENARIO from V but takes a hash instead of a string.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "scenarioHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

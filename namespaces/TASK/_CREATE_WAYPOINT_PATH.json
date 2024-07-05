@@ -1,0 +1,26 @@
+{
+    "0x5C885E0978B6AD60": {
+        "name": "_CREATE_WAYPOINT_PATH",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "pathName"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "nodes"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

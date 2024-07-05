@@ -1,0 +1,18 @@
+{
+    "0x95531A4A20CCE7BC": {
+        "name": "IS_ANIM_SCENE_METADATA_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

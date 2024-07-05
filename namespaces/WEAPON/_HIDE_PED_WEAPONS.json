@@ -1,0 +1,22 @@
+{
+    "0xFCCC886EDE3C63EC": {
+        "name": "_HIDE_PED_WEAPONS",
+        "comment": "Unequip current weapon and set current weapon to WEAPON_UNARMED.\np0 usually 2 in R* scripts. Doesn't seem to have any effect if changed....\nimmediately: if true it will instantly switch to unarmed",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "immediately"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

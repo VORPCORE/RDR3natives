@@ -1,0 +1,24 @@
+{
+    "0xF60165E1D2C5370B": {
+        "name": "GET_PED_CURRENT_MOVE_BLEND_RATIO",
+        "comment": "Old name: _GET_PED_CURRENT_MOVEMENT_SPEED",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float*",
+                "name": "speedX"
+            },
+            {
+                "type": "float*",
+                "name": "speedY"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF60165E1D2C5370B",
+        "gta_jhash": ""
+    }
+}

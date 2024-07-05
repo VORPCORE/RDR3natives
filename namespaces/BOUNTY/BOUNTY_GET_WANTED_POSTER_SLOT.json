@@ -1,0 +1,22 @@
+{
+    "0xB395A44A0C7CA615": {
+        "name": "BOUNTY_GET_WANTED_POSTER_SLOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

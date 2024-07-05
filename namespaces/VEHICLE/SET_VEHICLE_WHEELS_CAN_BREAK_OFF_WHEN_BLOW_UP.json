@@ -1,0 +1,20 @@
+{
+    "0xC462C79379ABBCB1": {
+        "name": "SET_VEHICLE_WHEELS_CAN_BREAK_OFF_WHEN_BLOW_UP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA37B9A517B133349",
+        "gta_jhash": "0x670913A4"
+    }
+}

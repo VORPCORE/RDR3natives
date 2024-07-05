@@ -1,0 +1,20 @@
+{
+    "0x75B49ACD73617437": {
+        "name": "SET_FORCE_LOW_LOD_ANCHOR_MODE",
+        "comment": "Sets boat to be anchored on spawn, called together with SET_BOAT_ANCHOR and _SET_BOAT_ANCHOR_BUOYANCY_COEFFICIENT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB28B1FE5BFADD7F5",
+        "gta_jhash": "0xA739012A"
+    }
+}

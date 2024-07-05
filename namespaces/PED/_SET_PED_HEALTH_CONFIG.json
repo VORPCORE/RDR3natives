@@ -1,0 +1,18 @@
+{
+    "0xF6B82FCE03B43A37": {
+        "name": "_SET_PED_HEALTH_CONFIG",
+        "comment": "configHash: see pedhealth.meta",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "configHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

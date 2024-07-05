@@ -1,0 +1,20 @@
+{
+    "0x3CACC83F6FED837C": {
+        "name": "SET_MAPDATACULLBOX_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xAF12610C644A35C9",
+        "gta_jhash": "0x403CD434"
+    }
+}

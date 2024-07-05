@@ -1,0 +1,16 @@
+{
+    "0x524FF0AEFF9C3973": {
+        "name": "NETWORK_SET_LOCAL_PLAYER_SYNC_LOOK_AT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x524FF0AEFF9C3973",
+        "gta_jhash": "0xB72F086D"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xC028B3F52C707C49": {
+        "name": "_0xC028B3F52C707C49",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

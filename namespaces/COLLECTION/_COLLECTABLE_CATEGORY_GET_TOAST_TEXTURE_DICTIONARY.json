@@ -1,0 +1,18 @@
+{
+    "0x13AAECDA43318BFE": {
+        "name": "_COLLECTABLE_CATEGORY_GET_TOAST_TEXTURE_DICTIONARY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableCategory"
+            },
+            {
+                "type": "Hash",
+                "name": "collectableSubcategory"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

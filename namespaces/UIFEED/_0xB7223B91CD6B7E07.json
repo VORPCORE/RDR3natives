@@ -1,0 +1,14 @@
+{
+    "0xB7223B91CD6B7E07": {
+        "name": "_0xB7223B91CD6B7E07",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "feedChannel"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x40FEDB13870042F1": {
+        "name": "_0x40FEDB13870042F1",
+        "comment": "Note: this native was added in build 1355.30",
+        "params": [],
+        "return_type": "void",
+        "build": "1355",
+        "unused": true
+    }
+}

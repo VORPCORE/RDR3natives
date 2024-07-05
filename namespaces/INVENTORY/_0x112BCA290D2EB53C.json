@@ -1,0 +1,42 @@
+{
+    "0x112BCA290D2EB53C": {
+        "name": "_0x112BCA290D2EB53C",
+        "comment": "Only used in R* SP Scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "int*",
+                "name": "year"
+            },
+            {
+                "type": "int*",
+                "name": "month"
+            },
+            {
+                "type": "int*",
+                "name": "day"
+            },
+            {
+                "type": "int*",
+                "name": "hour"
+            },
+            {
+                "type": "int*",
+                "name": "minute"
+            },
+            {
+                "type": "int*",
+                "name": "second"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

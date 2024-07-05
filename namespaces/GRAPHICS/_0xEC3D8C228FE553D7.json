@@ -1,0 +1,14 @@
+{
+    "0xEC3D8C228FE553D7": {
+        "name": "_0xEC3D8C228FE553D7",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

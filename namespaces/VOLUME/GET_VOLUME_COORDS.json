@@ -1,0 +1,14 @@
+{
+    "0xF70F00013A62F866": {
+        "name": "GET_VOLUME_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

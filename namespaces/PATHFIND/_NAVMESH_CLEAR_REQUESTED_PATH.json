@@ -1,0 +1,14 @@
+{
+    "0x661BB1E1FF77742D": {
+        "name": "_NAVMESH_CLEAR_REQUESTED_PATH",
+        "comment": "Called in scripts after finished with requested pathes. Immediately resets all values connected to the path handle except query status, which changes from 1 to 2 before eventually becoming fully invalidated to 0.",
+        "params": [
+            {
+                "type": "int",
+                "name": "path"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

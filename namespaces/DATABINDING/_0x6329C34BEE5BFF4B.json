@@ -1,0 +1,18 @@
+{
+    "0x6329C34BEE5BFF4B": {
+        "name": "_0x6329C34BEE5BFF4B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

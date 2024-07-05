@@ -1,0 +1,14 @@
+{
+    "0xBB68908CD11AEBDC": {
+        "name": "_0xBB68908CD11AEBDC",
+        "comment": "",
+        "params": [
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

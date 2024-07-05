@@ -1,0 +1,14 @@
+{
+    "0xBEFED69CE8317F91": {
+        "name": "_0xBEFED69CE8317F91",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

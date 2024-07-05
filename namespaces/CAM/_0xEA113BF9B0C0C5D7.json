@@ -1,0 +1,22 @@
+{
+    "0xEA113BF9B0C0C5D7": {
+        "name": "_0xEA113BF9B0C0C5D7",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "dictionary"
+            },
+            {
+                "type": "const char*",
+                "name": "shotName"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

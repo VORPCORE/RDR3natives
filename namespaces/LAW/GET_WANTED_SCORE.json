@@ -1,0 +1,14 @@
+{
+    "0xDD5FD601481F648B": {
+        "name": "GET_WANTED_SCORE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

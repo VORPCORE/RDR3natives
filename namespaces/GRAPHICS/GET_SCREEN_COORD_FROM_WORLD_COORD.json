@@ -1,0 +1,32 @@
+{
+    "0xCB50D7AFCC8B0EC6": {
+        "name": "GET_SCREEN_COORD_FROM_WORLD_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "worldX"
+            },
+            {
+                "type": "float",
+                "name": "worldY"
+            },
+            {
+                "type": "float",
+                "name": "worldZ"
+            },
+            {
+                "type": "float*",
+                "name": "screenX"
+            },
+            {
+                "type": "float*",
+                "name": "screenY"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x34E82F05DF2974F5",
+        "gta_jhash": "0x1F950E4B"
+    }
+}

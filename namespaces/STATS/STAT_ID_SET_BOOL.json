@@ -1,0 +1,22 @@
+{
+    "0x3B5107353267D7A1": {
+        "name": "STAT_ID_SET_BOOL",
+        "comment": "statId: see STAT_ID_IS_VALID",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

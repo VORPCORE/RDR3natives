@@ -1,0 +1,14 @@
+{
+    "0x5D580DE6398BB162": {
+        "name": "_CREATE_VOLUME_AGGREGATE_WITH_CUSTOM_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "Volume",
+        "build": "1207"
+    }
+}

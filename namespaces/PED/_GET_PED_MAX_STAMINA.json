@@ -1,0 +1,14 @@
+{
+    "0xCB42AFE2B613EE55": {
+        "name": "_GET_PED_MAX_STAMINA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

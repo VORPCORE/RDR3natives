@@ -1,0 +1,16 @@
+{
+    "0x3BD3F52BA9B1E4E8": {
+        "name": "SET_GPS_ACTIVE",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3BD3F52BA9B1E4E8",
+        "gta_jhash": "0x0FC3379A"
+    }
+}

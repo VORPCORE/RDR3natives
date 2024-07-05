@@ -1,0 +1,20 @@
+{
+    "0x7892685BF6D9775E": {
+        "name": "IS_SEAT_WARP_ONLY",
+        "comment": "seatIndex: see CREATE_PED_INSIDE_VEHICLE",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF7F203E31F96F6A1",
+        "gta_jhash": "0x769E5CF2"
+    }
+}

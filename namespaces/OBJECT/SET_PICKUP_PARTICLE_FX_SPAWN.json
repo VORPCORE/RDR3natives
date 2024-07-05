@@ -1,0 +1,18 @@
+{
+    "0xEB9740A38FD6D634": {
+        "name": "SET_PICKUP_PARTICLE_FX_SPAWN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

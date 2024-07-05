@@ -1,0 +1,14 @@
+{
+    "0xD2B9C78537ED5759": {
+        "name": "_UNPIN_MAP_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

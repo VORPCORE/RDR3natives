@@ -1,0 +1,20 @@
+{
+    "0x364DF566EC833DE2": {
+        "name": "SET_PED_CAPSULE",
+        "comment": "Overrides the ped's collision capsule radius for the current tick.\nMust be called every tick to be effective.\n\nSetting this to 0.001 will allow warping through some objects.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x364DF566EC833DE2",
+        "gta_jhash": "0xB153E1B9"
+    }
+}

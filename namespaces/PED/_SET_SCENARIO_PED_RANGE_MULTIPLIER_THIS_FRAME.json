@@ -1,0 +1,14 @@
+{
+    "0xA77FA7BE9312F8C0": {
+        "name": "_SET_SCENARIO_PED_RANGE_MULTIPLIER_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

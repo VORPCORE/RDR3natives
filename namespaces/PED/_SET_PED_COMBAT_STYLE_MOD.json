@@ -1,0 +1,22 @@
+{
+    "0x8B1E8E35A6E814EA": {
+        "name": "_SET_PED_COMBAT_STYLE_MOD",
+        "comment": "duration in seconds, -1.0 = forever",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "combatStyleModHash"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x414641C26E105898": {
+        "name": "IS_PED_EVASIVE_DIVING",
+        "comment": "Presumably returns the Entity that the Ped is currently diving out of the way of.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity*",
+                "name": "evadingEntity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x414641C26E105898",
+        "gta_jhash": "0xD82829DC"
+    }
+}

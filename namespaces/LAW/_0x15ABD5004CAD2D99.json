@@ -1,0 +1,14 @@
+{
+    "0x15ABD5004CAD2D99": {
+        "name": "_0x15ABD5004CAD2D99",
+        "comment": "Params: p0 either 0, 1 or -1 in R* Scripts\nSet to 0 called together with _SUPPRESS_CRIME",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

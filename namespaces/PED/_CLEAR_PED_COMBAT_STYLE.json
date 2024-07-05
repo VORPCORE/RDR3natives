@@ -1,0 +1,18 @@
+{
+    "0x78815FC52832B690": {
+        "name": "_CLEAR_PED_COMBAT_STYLE",
+        "comment": "Params: p1 = 1 in R* Scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

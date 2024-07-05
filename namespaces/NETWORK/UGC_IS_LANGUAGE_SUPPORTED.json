@@ -1,0 +1,16 @@
+{
+    "0xF53E48461B71EECB": {
+        "name": "UGC_IS_LANGUAGE_SUPPORTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "languageId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF53E48461B71EECB",
+        "gta_jhash": "0xB4668B23"
+    }
+}

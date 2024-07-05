@@ -1,0 +1,9 @@
+{
+    "0xFC2E0A5E9ED4E1B4": {
+        "name": "_UITUTORIAL_GET_IS_THREAT_INDICATOR_ON",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

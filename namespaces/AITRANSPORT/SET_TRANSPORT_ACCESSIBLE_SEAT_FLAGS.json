@@ -1,0 +1,18 @@
+{
+    "0xDD0660C997DE94FD": {
+        "name": "SET_TRANSPORT_ACCESSIBLE_SEAT_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

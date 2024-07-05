@@ -1,0 +1,14 @@
+{
+    "0x52C68E92D6E23ADD": {
+        "name": "_0x52C68E92D6E23ADD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

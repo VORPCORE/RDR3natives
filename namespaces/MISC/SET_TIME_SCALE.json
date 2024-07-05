@@ -1,0 +1,16 @@
+{
+    "0x9682AF6050854856": {
+        "name": "SET_TIME_SCALE",
+        "comment": "Maximum value is 1.0f\nAt a value of 0.0f the game will still run at a minimum time scale.",
+        "params": [
+            {
+                "type": "float",
+                "name": "timeScale"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1D408577D440E81E",
+        "gta_jhash": "0xA7F84694"
+    }
+}

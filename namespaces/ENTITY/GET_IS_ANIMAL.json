@@ -1,0 +1,14 @@
+{
+    "0x9A100F1CF4546629": {
+        "name": "GET_IS_ANIMAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

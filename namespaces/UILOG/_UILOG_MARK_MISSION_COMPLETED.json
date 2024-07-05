@@ -1,0 +1,14 @@
+{
+    "0xDE31D66D1E54C471": {
+        "name": "_UILOG_MARK_MISSION_COMPLETED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

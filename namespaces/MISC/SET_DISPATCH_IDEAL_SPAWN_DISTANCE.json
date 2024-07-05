@@ -1,0 +1,16 @@
+{
+    "0xEAB6823B82FBD283": {
+        "name": "SET_DISPATCH_IDEAL_SPAWN_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "fIdealSpawnDistance"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6FE601A64180D423",
+        "gta_jhash": "0x6283BE32"
+    }
+}

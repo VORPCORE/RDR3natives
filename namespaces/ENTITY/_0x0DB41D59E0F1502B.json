@@ -1,0 +1,14 @@
+{
+    "0x0DB41D59E0F1502B": {
+        "name": "_0x0DB41D59E0F1502B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

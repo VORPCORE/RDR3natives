@@ -1,0 +1,22 @@
+{
+    "0x93F499CAE53FCD05": {
+        "name": "_SET_PLAYER_DEFENSE_TYPE_MODIFIER",
+        "comment": "bullet damage modifier: type = 4\nexplosive damage Defense mod: type = 7\nfire damage Defense mod: type = 8, 15",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "defenseModifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

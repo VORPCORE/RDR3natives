@@ -1,0 +1,22 @@
+{
+    "0x05060A54834F2382": {
+        "name": "STAT_ID_SET_GXT_LABEL",
+        "comment": "statId: see STAT_ID_IS_VALID",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            },
+            {
+                "type": "const char*",
+                "name": "label"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

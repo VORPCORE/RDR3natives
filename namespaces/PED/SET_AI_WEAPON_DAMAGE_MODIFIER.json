@@ -1,0 +1,16 @@
+{
+    "0x1B1E2A40A65B8521": {
+        "name": "SET_AI_WEAPON_DAMAGE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1B1E2A40A65B8521",
+        "gta_jhash": "0x516E30EE"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xC71D07C96946E263": {
+        "name": "_0xC71D07C96946E263",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

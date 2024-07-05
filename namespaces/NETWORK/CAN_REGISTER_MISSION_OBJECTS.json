@@ -1,0 +1,16 @@
+{
+    "0x800DD4721A8B008B": {
+        "name": "CAN_REGISTER_MISSION_OBJECTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x800DD4721A8B008B",
+        "gta_jhash": "0x7F85DFDE"
+    }
+}

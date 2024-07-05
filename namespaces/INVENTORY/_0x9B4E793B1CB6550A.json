@@ -1,0 +1,9 @@
+{
+    "0x9B4E793B1CB6550A": {
+        "name": "_0x9B4E793B1CB6550A",
+        "comment": "Used in function SET_SHOP_BEING_ROBBED and many other shop related scripts and functions.\nINVENTORY_A*",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

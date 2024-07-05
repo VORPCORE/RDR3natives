@@ -1,0 +1,9 @@
+{
+    "0x18FC740FFDCD7454": {
+        "name": "_GET_PHOTO_MODE_FOCUS_DISTANCE",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

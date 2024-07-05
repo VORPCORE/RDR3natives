@@ -1,0 +1,14 @@
+{
+    "0xA95470DA137587F5": {
+        "name": "_0xA95470DA137587F5",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

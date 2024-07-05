@@ -1,0 +1,14 @@
+{
+    "0x778D4733E0F2F265": {
+        "name": "STOP_DISPLAYING_MP_TRANSITION_LOADING_SCREENS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

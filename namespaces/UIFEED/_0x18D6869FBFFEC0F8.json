@@ -1,0 +1,26 @@
+{
+    "0x18D6869FBFFEC0F8": {
+        "name": "_0x18D6869FBFFEC0F8",
+        "comment": "Only used in R* SP Scripts",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

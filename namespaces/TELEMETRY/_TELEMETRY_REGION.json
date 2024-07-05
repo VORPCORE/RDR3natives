@@ -1,0 +1,14 @@
+{
+    "0xCD6F8A0335D821F9": {
+        "name": "_TELEMETRY_REGION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "regionHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

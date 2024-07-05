@@ -1,0 +1,12 @@
+{
+    "0x6FD992C4A1C1B986": {
+        "name": "NETWORK_GET_NET_STATISTICS_INFO",
+        "comment": "nullsub, doesn't do anything",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x6FD992C4A1C1B986",
+        "gta_jhash": ""
+    }
+}

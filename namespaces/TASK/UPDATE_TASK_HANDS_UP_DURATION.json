@@ -1,0 +1,20 @@
+{
+    "0xA98FCAFD7893C834": {
+        "name": "UPDATE_TASK_HANDS_UP_DURATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA98FCAFD7893C834",
+        "gta_jhash": "0x3AA39BE9"
+    }
+}

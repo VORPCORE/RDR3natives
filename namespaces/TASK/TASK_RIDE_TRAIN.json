@@ -1,0 +1,26 @@
+{
+    "0x37FB1C870E2EC2C6": {
+        "name": "TASK_RIDE_TRAIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "int",
+                "name": "scenarioPoint"
+            },
+            {
+                "type": "Hash",
+                "name": "scenarioHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

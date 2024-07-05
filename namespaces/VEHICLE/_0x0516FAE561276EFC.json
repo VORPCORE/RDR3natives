@@ -1,0 +1,14 @@
+{
+    "0x0516FAE561276EFC": {
+        "name": "_0x0516FAE561276EFC",
+        "comment": "Takes value returned from 0x45853F4E17D847D5",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

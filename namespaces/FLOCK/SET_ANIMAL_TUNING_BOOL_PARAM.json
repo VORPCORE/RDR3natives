@@ -1,0 +1,22 @@
+{
+    "0x9FF1E042FA597187": {
+        "name": "SET_ANIMAL_TUNING_BOOL_PARAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animal"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

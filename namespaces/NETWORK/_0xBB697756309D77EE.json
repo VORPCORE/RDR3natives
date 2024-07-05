@@ -1,0 +1,14 @@
+{
+    "0xBB697756309D77EE": {
+        "name": "_0xBB697756309D77EE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

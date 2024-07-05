@@ -1,0 +1,16 @@
+{
+    "0xBFFEAB45A9A9094A": {
+        "name": "NET_TO_ENT",
+        "comment": "gets the entity id of a network id",
+        "params": [
+            {
+                "type": "int",
+                "name": "netHandle"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207",
+        "gta_hash": "0xBFFEAB45A9A9094A",
+        "gta_jhash": "0x5E149683"
+    }
+}

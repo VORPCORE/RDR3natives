@@ -1,0 +1,18 @@
+{
+    "0x9BE7DCB22D32CCBE": {
+        "name": "_NETWORK_IS_GANG_MEMBER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "gangId"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

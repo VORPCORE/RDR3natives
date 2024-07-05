@@ -1,0 +1,34 @@
+{
+    "0xE47001B7CB8B98AE": {
+        "name": "_NETWORK_SEND_SESSION_INVITE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "const char*",
+                "name": "contentId"
+            },
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "int",
+                "name": "dataSize"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x79811282A9D1AE56": {
+        "name": "SET_VEHICLE_FIXED",
+        "comment": "This fixes a vehicle.\nIf the vehicle's engine's broken then you cannot fix it with this native.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x115722B1B9C14C1C",
+        "gta_jhash": "0x17469AA1"
+    }
+}

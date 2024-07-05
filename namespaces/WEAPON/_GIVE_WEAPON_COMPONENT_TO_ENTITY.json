@@ -1,0 +1,26 @@
+{
+    "0x74C9090FDD1BB48E": {
+        "name": "_GIVE_WEAPON_COMPONENT_TO_ENTITY",
+        "comment": "entity can be a ped or weapon object.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

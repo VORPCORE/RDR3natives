@@ -1,0 +1,30 @@
+{
+    "0x5463C962BC7777C3": {
+        "name": "_REFRESH_LOOT_STATE_FOR_PED",
+        "comment": "Returns loot state\nenum eLootState\n{\n\tLAP_NONE,\n\tLAP_RESUMING,\n\tLAP_GETTING_ON_FOOT,\n\tLAP_DISTANT_NAV,\n\tLAP_CHOOSING_ACTION,\n\tLAP_APPROACHING,\n\tLAP_ENTERING,\n\tLAP_LOOTING,\n\tLAP_EXITING\n};\n\n_POSSE_* - _REGISTER_HATED*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Ped*",
+                "name": "lootTarget"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

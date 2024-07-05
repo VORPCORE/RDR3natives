@@ -1,0 +1,11 @@
+{
+    "0x5C497525F803486B": {
+        "name": "NETWORK_SHOW_PSN_UGC_RESTRICTION",
+        "comment": "nullsub, doesn't do anything",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5C497525F803486B",
+        "gta_jhash": ""
+    }
+}

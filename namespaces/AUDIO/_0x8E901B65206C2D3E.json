@@ -1,0 +1,14 @@
+{
+    "0x8E901B65206C2D3E": {
+        "name": "_0x8E901B65206C2D3E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

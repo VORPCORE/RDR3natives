@@ -1,0 +1,14 @@
+{
+    "0x841475AC96E794D1": {
+        "name": "DOES_SCENARIO_POINT_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

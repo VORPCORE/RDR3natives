@@ -1,0 +1,18 @@
+{
+    "0x6A4404BDFA62CE2C": {
+        "name": "_SET_PLAYER_HUNTING_WAGON",
+        "comment": "Only applies to HUNTERCART01",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Vehicle",
+                "name": "wagon"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

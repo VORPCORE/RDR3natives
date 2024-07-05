@@ -1,0 +1,20 @@
+{
+    "0x4805D2B1D8CF94A9": {
+        "name": "GET_ENTITY_VELOCITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x4805D2B1D8CF94A9",
+        "gta_jhash": "0xC14C9B6B"
+    }
+}

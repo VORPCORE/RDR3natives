@@ -1,0 +1,20 @@
+{
+    "0x3B6405E8AB34A907": {
+        "name": "SET_PED_VISUAL_FIELD_CENTER_ANGLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3B6405E8AB34A907",
+        "gta_jhash": "0xE57202A1"
+    }
+}

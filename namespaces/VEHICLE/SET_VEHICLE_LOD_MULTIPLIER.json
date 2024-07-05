@@ -1,0 +1,20 @@
+{
+    "0x5F5E2B1B9EAECC0F": {
+        "name": "SET_VEHICLE_LOD_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x93AE6A61BE015BF1",
+        "gta_jhash": "0x569E5AE3"
+    }
+}

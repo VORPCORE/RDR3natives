@@ -1,0 +1,15 @@
+{
+    "0x40914CCF2A1AB531": {
+        "name": "_TELEMETRY_CUSTOM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true
+    }
+}

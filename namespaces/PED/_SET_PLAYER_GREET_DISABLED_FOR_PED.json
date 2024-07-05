@@ -1,0 +1,22 @@
+{
+    "0x19173C3F15367B54": {
+        "name": "_SET_PLAYER_GREET_DISABLED_FOR_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

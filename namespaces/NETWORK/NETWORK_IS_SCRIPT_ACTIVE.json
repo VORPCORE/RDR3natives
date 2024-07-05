@@ -1,0 +1,28 @@
+{
+    "0x9D40DF90FAD26098": {
+        "name": "NETWORK_IS_SCRIPT_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x9D40DF90FAD26098",
+        "gta_jhash": "0x4A65250C"
+    }
+}

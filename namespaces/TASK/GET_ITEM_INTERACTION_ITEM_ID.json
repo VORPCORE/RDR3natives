@@ -1,0 +1,14 @@
+{
+    "0x804425C4BBD00883": {
+        "name": "GET_ITEM_INTERACTION_ITEM_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

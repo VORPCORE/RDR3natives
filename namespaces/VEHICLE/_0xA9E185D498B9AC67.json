@@ -1,0 +1,18 @@
+{
+    "0xA9E185D498B9AC67": {
+        "name": "_0xA9E185D498B9AC67",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

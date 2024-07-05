@@ -1,0 +1,9 @@
+{
+    "0xF236C84C6ADFCB2F": {
+        "name": "_IS_MISSION_CREATOR_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

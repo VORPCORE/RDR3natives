@@ -1,0 +1,20 @@
+{
+    "0x399D2D3B33F1B8EB": {
+        "name": "SET_STATIC_EMITTER_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "emitterName"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x399D2D3B33F1B8EB",
+        "gta_jhash": "0x91F72E92"
+    }
+}

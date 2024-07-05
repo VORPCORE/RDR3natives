@@ -1,0 +1,18 @@
+{
+    "0x632AA10BF7EA53D3": {
+        "name": "_SET_MINIMAP_FOW_SHOULD_UPDATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

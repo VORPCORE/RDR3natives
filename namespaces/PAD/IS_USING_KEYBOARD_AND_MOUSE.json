@@ -1,0 +1,16 @@
+{
+    "0xA571D46727E2B718": {
+        "name": "IS_USING_KEYBOARD_AND_MOUSE",
+        "comment": "padIndex is not used\n\nOld name: _IS_USING_KEYBOARD",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xA571D46727E2B718",
+        "gta_jhash": ""
+    }
+}

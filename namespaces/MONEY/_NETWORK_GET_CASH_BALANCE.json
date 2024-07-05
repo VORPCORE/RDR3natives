@@ -1,0 +1,9 @@
+{
+    "0x8A67120DBC299525": {
+        "name": "_NETWORK_GET_CASH_BALANCE",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

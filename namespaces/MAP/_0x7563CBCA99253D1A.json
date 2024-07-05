@@ -1,0 +1,18 @@
+{
+    "0x7563CBCA99253D1A": {
+        "name": "_0x7563CBCA99253D1A",
+        "comment": "FM_CLIENT_SETUP_EAGLE_EYE - setting up eagle eye for entity",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "blip"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

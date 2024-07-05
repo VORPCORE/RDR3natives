@@ -1,0 +1,14 @@
+{
+    "0x5D7BFDA2290B4E39": {
+        "name": "_0x5D7BFDA2290B4E39",
+        "comment": "Used in SP R* Scripts only\n_IS_ANIM_SCENE_R* - _IS_ANIM_SCENE_S*",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x67EBDD958835956C": {
+        "name": "_REMOVE_GUARD_ZONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

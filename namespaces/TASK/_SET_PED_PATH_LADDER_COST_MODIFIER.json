@@ -1,0 +1,18 @@
+{
+    "0x70F7A1EAB1AE3AA8": {
+        "name": "_SET_PED_PATH_LADDER_COST_MODIFIER",
+        "comment": "_SET_PED_PATH_P*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

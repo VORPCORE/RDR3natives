@@ -1,0 +1,16 @@
+{
+    "0x9C720776DAA43E7E": {
+        "name": "CLEAR_PED_WETNESS",
+        "comment": "It clears the wetness of the selected Ped/Player. Clothes have to be wet to notice the difference.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9C720776DAA43E7E",
+        "gta_jhash": "0x629F15BD"
+    }
+}

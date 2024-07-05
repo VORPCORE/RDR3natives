@@ -1,0 +1,14 @@
+{
+    "0xE5A680A5D8B1F687": {
+        "name": "_0xE5A680A5D8B1F687",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x5EE6FCCC9C832CA2": {
+        "name": "_0x5EE6FCCC9C832CA2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

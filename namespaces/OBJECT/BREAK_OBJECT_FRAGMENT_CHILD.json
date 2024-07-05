@@ -1,0 +1,24 @@
+{
+    "0xE7E4C198B0185900": {
+        "name": "BREAK_OBJECT_FRAGMENT_CHILD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE7E4C198B0185900",
+        "gta_jhash": "0x1E82C2AE"
+    }
+}

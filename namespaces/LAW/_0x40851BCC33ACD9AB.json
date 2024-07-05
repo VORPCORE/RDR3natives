@@ -1,0 +1,14 @@
+{
+    "0x40851BCC33ACD9AB": {
+        "name": "_0x40851BCC33ACD9AB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

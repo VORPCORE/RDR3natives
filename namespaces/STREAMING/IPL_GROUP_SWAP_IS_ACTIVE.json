@@ -1,0 +1,11 @@
+{
+    "0xFC464598F6EE97B0": {
+        "name": "IPL_GROUP_SWAP_IS_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x5068F488DDB54DD8",
+        "gta_jhash": "0xDAB4BAC0"
+    }
+}

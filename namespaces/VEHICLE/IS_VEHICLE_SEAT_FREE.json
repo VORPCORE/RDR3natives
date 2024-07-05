@@ -1,0 +1,20 @@
+{
+    "0xE052C1B1CAA4ECE4": {
+        "name": "IS_VEHICLE_SEAT_FREE",
+        "comment": "seatIndex: see CREATE_PED_INSIDE_VEHICLE\nUse GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS(vehicle) - 1 for last seat index.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x22AC59A870E6A669",
+        "gta_jhash": "0xDAF42B02"
+    }
+}

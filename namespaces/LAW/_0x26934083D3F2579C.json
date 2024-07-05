@@ -1,0 +1,14 @@
+{
+    "0x26934083D3F2579C": {
+        "name": "_0x26934083D3F2579C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x0AFCE529F69B21FF": {
+        "name": "GET_MAX_NUM_NETWORK_VEHICLES",
+        "comment": "Always returns 40",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x0AFCE529F69B21FF",
+        "gta_jhash": "0xC3A12135"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "0xEEED8FAFEC331A70": {
+        "name": "SET_PED_SHOULD_PLAY_FLEE_SCENARIO_EXIT",
+        "comment": "lookIntensity:\n0 - REACT_LOOK_NONE\n1 - REACT_LOOK_LOW\n2 - REACT_LOOK_MEDIUM\n3 - REACT_LOOK_HIGH",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "lookIntensity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xEEED8FAFEC331A70",
+        "gta_jhash": "0x7B4C3E6F"
+    }
+}

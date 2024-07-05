@@ -1,0 +1,46 @@
+{
+    "0xE65C5CBA95F0E510": {
+        "name": "_CREATE_PROP_SET",
+        "comment": "propsetType: https://github.com/femga/rdr3_discoveries/blob/master/objects/propsets_list.lua\nplacementType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/PlacementType",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "propsetType"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "placementType"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "zProbe"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "useVegMod"
+            }
+        ],
+        "return_type": "PropSet",
+        "build": "1207"
+    }
+}

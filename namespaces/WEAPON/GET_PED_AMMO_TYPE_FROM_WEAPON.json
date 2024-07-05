@@ -1,0 +1,20 @@
+{
+    "0x7FEAD38B326B9F74": {
+        "name": "GET_PED_AMMO_TYPE_FROM_WEAPON",
+        "comment": "Returns the current ammo type of the specified ped's specified weapon.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207",
+        "gta_hash": "0x7FEAD38B326B9F74",
+        "gta_jhash": "0x09337863"
+    }
+}

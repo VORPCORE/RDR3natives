@@ -1,0 +1,11 @@
+{
+    "0x86E0660E4F5C956D": {
+        "name": "NETWORK_CLEAR_GET_GAMER_STATUS",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x86E0660E4F5C956D",
+        "gta_jhash": "0x3F7EDBBD"
+    }
+}

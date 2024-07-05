@@ -1,0 +1,26 @@
+{
+    "0x7F9B9791D4CB71F6": {
+        "name": "CAN_PED_SEE_ENTITY",
+        "comment": "Returns:\n0 - CTR_CANNOT_TARGET\n1 - CTR_CAN_TARGET\n2 - CTR_NOT_SURE_YET",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "targetEntity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x5170DDA6D63ACAAA": {
+        "name": "_IS_PED_DECOMPOSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

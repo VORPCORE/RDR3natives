@@ -1,0 +1,18 @@
+{
+    "0x97A38B65EBDA3D50": {
+        "name": "_0x97A38B65EBDA3D50",
+        "comment": "_SET_PED_D*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

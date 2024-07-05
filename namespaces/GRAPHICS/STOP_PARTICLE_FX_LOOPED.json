@@ -1,0 +1,20 @@
+{
+    "0x22970F3A088B133B": {
+        "name": "STOP_PARTICLE_FX_LOOPED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8F75998877616996",
+        "gta_jhash": "0xD245455B"
+    }
+}

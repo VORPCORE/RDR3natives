@@ -1,0 +1,16 @@
+{
+    "0xEF7611B57A820126": {
+        "name": "REQUEST_CLIP_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "clipSet"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD2A71E1A77418A49",
+        "gta_jhash": "0x546C627A"
+    }
+}

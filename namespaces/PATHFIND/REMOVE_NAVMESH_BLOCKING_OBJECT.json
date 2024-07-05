@@ -1,0 +1,16 @@
+{
+    "0x46399A7895957C0E": {
+        "name": "REMOVE_NAVMESH_BLOCKING_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x46399A7895957C0E",
+        "gta_jhash": "0x098602B0"
+    }
+}

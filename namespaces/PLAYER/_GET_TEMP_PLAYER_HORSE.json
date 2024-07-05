@@ -1,0 +1,14 @@
+{
+    "0xD3F7445CEA2E5035": {
+        "name": "_GET_TEMP_PLAYER_HORSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

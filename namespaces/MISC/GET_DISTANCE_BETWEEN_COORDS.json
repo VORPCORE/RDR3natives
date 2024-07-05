@@ -1,0 +1,40 @@
+{
+    "0x0BE7F4E3CDBAFB28": {
+        "name": "GET_DISTANCE_BETWEEN_COORDS",
+        "comment": "If useZ is false, only the 2D plane (X-Y) will be considered for calculating the distance.\n\nConsider using this faster native instead: BUILTIN::VDIST - DVIST always takes in consideration the 3D coordinates.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "BOOL",
+                "name": "useZ"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xF1B760881820C952",
+        "gta_jhash": "0xF698765E"
+    }
+}

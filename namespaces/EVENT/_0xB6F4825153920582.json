@@ -1,0 +1,9 @@
+{
+    "0xB6F4825153920582": {
+        "name": "_0xB6F4825153920582",
+        "comment": "_S* (_SUPPRESS_EVENTS_NEXT_FRAME?)",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

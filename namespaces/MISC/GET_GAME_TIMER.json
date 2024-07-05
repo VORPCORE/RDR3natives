@@ -1,0 +1,11 @@
+{
+    "0x4F67E8ECA7D3F667": {
+        "name": "GET_GAME_TIMER",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x9CD27B0045628463",
+        "gta_jhash": "0xA4EA0691"
+    }
+}

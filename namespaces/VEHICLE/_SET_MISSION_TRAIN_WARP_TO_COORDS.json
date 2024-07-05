@@ -1,0 +1,30 @@
+{
+    "0xC9EA26893C9E4024": {
+        "name": "_SET_MISSION_TRAIN_WARP_TO_COORDS",
+        "comment": "Notice: BOOL p4 was wrongly named takePassengers (?)\nCan be used to rotate the train by setting the BOOL direction",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "direction"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

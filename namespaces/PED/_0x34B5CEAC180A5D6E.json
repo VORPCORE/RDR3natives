@@ -1,0 +1,22 @@
+{
+    "0x34B5CEAC180A5D6E": {
+        "name": "_0x34B5CEAC180A5D6E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

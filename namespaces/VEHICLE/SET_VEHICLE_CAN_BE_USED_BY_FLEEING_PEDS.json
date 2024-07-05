@@ -1,0 +1,20 @@
+{
+    "0xE42952510F84AFDB": {
+        "name": "SET_VEHICLE_CAN_BE_USED_BY_FLEEING_PEDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x300504B23BD3B711",
+        "gta_jhash": "0x5130DB1E"
+    }
+}

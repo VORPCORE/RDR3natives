@@ -1,0 +1,64 @@
+{
+    "0x1DD45F9ECFDB1BC9": {
+        "name": "TASK_GO_TO_COORD_ANY_MEANS_EXTRA_PARAMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "int",
+                "name": "walkingStyle"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "Any",
+                "name": "p9"
+            },
+            {
+                "type": "Any",
+                "name": "p10"
+            },
+            {
+                "type": "Any",
+                "name": "p11"
+            },
+            {
+                "type": "Any",
+                "name": "p12"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1DD45F9ECFDB1BC9",
+        "gta_jhash": "0x094B75EF"
+    }
+}

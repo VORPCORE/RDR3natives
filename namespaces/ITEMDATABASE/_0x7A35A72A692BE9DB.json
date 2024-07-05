@@ -1,0 +1,14 @@
+{
+    "0x7A35A72A692BE9DB": {
+        "name": "_0x7A35A72A692BE9DB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

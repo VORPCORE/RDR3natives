@@ -1,0 +1,14 @@
+{
+    "0x462C687BEA254BD9": {
+        "name": "COUNT_PLAYER_BITS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "value"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

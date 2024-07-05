@@ -1,0 +1,14 @@
+{
+    "0x6AFD8FE0D723328F": {
+        "name": "TASK_HOGTIEABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

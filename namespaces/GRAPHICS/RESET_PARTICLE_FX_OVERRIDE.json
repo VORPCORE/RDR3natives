@@ -1,0 +1,16 @@
+{
+    "0x274B3DABF7E72DEF": {
+        "name": "RESET_PARTICLE_FX_OVERRIDE",
+        "comment": "Resets the effect of SET_PARTICLE_FX_OVERRIDE",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x89C8553DD3274AAE",
+        "gta_jhash": "0x9E8D8B72"
+    }
+}

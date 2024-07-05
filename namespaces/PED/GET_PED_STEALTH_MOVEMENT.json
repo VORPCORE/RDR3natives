@@ -1,0 +1,16 @@
+{
+    "0x7C2AC9CA66575FBF": {
+        "name": "GET_PED_STEALTH_MOVEMENT",
+        "comment": "Returns whether the entity is in stealth mode",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x7C2AC9CA66575FBF",
+        "gta_jhash": "0x40321B83"
+    }
+}

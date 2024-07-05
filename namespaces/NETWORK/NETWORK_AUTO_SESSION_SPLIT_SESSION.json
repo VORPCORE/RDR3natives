@@ -1,0 +1,26 @@
+{
+    "0xC223D299C670413D": {
+        "name": "NETWORK_AUTO_SESSION_SPLIT_SESSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "playersToTake"
+            },
+            {
+                "type": "int",
+                "name": "maxInstancePlayers"
+            },
+            {
+                "type": "int",
+                "name": "sessionFlags"
+            },
+            {
+                "type": "int",
+                "name": "bucketId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

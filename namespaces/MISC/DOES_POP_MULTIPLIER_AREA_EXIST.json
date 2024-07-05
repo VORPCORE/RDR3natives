@@ -1,0 +1,16 @@
+{
+    "0x03BA619C81A646B3": {
+        "name": "DOES_POP_MULTIPLIER_AREA_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1327E2FE9746BAEE",
+        "gta_jhash": "0xE933B34A"
+    }
+}

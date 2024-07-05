@@ -1,0 +1,18 @@
+{
+    "0x77B0B6D17A3AC9AA": {
+        "name": "_0x77B0B6D17A3AC9AA",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

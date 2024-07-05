@@ -1,0 +1,18 @@
+{
+    "0x8FDF221F13537936": {
+        "name": "RESET_ANIM_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "playbackListName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

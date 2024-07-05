@@ -1,0 +1,22 @@
+{
+    "0xD04AD186CE8BB129": {
+        "name": "SET_PLAYER_WEAPON_TYPE_DAMAGE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "damageModifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

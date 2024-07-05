@@ -1,0 +1,20 @@
+{
+    "0xCF867A239EC30741": {
+        "name": "GET_VEHICLE_TRAILER_VEHICLE",
+        "comment": "Gets the trailer of a vehicle and puts it into the trailer parameter.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Vehicle*",
+                "name": "trailer"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1CDD6BADC297830D",
+        "gta_jhash": "0xAE84D758"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x80B00EB26D9521C7": {
+        "name": "GET_WANTED_LEVEL_RADIUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x085DEB493BE80812",
+        "gta_jhash": "0x1CF7D7DA"
+    }
+}

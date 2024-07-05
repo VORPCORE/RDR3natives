@@ -1,0 +1,20 @@
+{
+    "0xF1CA12B18AEF5298": {
+        "name": "NETWORK_SET_ENTITY_ONLY_EXISTS_FOR_PARTICIPANTS",
+        "comment": "if set to true other network players can't see it\nif set to false other network player can see it\n=========================================\n^^ I attempted this by grabbing an object with GET_ENTITY_PLAYER_IS_FREE_AIMING_AT and setting this naive no matter the toggle he could still see it.\n\npc or last gen?\n\n^^ last-gen\n\nOld name: _NETWORK_SET_ENTITY_INVISIBLE_TO_NETWORK",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF1CA12B18AEF5298",
+        "gta_jhash": "0x09CBC4B0"
+    }
+}

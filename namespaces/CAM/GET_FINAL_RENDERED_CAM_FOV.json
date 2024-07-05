@@ -1,0 +1,11 @@
+{
+    "0x04AF77971E508F6A": {
+        "name": "GET_FINAL_RENDERED_CAM_FOV",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x80EC114669DAEFF4",
+        "gta_jhash": "0x721B763B"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x646564A3B7DF68F8": {
+        "name": "_SET_OBJECT_BURN_SPEED",
+        "comment": "p2 is usually the same as speed parameter",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

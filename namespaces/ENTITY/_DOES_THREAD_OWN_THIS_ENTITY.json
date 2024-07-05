@@ -1,0 +1,14 @@
+{
+    "0x88AD6CC10D8D35B2": {
+        "name": "_DOES_THREAD_OWN_THIS_ENTITY",
+        "comment": "Returns true if calling script owns specified entity",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xF957A1654C6322FE": {
+        "name": "_UI_PROMPT_SET_BEAT_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

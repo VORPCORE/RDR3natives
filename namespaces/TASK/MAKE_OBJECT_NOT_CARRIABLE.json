@@ -1,0 +1,14 @@
+{
+    "0x67BFCED22909834D": {
+        "name": "MAKE_OBJECT_NOT_CARRIABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

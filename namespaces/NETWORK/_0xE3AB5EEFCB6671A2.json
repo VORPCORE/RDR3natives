@@ -1,0 +1,14 @@
+{
+    "0xE3AB5EEFCB6671A2": {
+        "name": "_0xE3AB5EEFCB6671A2",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "setting"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

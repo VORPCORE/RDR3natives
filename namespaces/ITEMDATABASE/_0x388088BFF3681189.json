@@ -1,0 +1,18 @@
+{
+    "0x388088BFF3681189": {
+        "name": "_0x388088BFF3681189",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "bundle"
+            },
+            {
+                "type": "Hash",
+                "name": "costtype"
+            }
+        ],
+        "return_type": "int",
+        "build": "1232"
+    }
+}

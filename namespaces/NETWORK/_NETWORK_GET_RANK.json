@@ -1,0 +1,9 @@
+{
+    "0x32C90CDFAF40514C": {
+        "name": "_NETWORK_GET_RANK",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

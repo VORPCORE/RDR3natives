@@ -1,0 +1,22 @@
+{
+    "0x2EB75FB86C41F026": {
+        "name": "_SET_PED_MOTIVATION_STATE_OVERRIDE",
+        "comment": "motivationState: see _SET_PED_MOTIVATION",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "motivationState"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

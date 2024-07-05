@@ -1,0 +1,18 @@
+{
+    "0xBFCB17895BB99E4E": {
+        "name": "_SET_PROXY_INTERIOR_INDEX_ARTIFICIAL_LIGHTS_STATE",
+        "comment": "state: false disables artificial interior light sources for specific proxyInteriorIndex",
+        "params": [
+            {
+                "type": "int",
+                "name": "proxyInteriorIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

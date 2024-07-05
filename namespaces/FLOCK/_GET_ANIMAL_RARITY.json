@@ -1,0 +1,14 @@
+{
+    "0xF8B48A361DC388AE": {
+        "name": "_GET_ANIMAL_RARITY",
+        "comment": "enum eAnimalRarityLevel\n{\n\tARL_COMMON,\n\tARL_RARE,\n\tARL_LEGENDARY,\n\tARL_NUMRARITYLEVELS\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

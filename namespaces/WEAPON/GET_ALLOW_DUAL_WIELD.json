@@ -1,0 +1,14 @@
+{
+    "0x918990BD9CE08582": {
+        "name": "GET_ALLOW_DUAL_WIELD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

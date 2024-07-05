@@ -1,0 +1,14 @@
+{
+    "0x317D9C9560529CC2": {
+        "name": "_TELEMETRY_GUN_LOCKER_WEAPON_REMOVED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

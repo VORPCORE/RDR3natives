@@ -1,0 +1,20 @@
+{
+    "0xE29F927A961F8AAA": {
+        "name": "GET_RANDOM_FLOAT_IN_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "startRange"
+            },
+            {
+                "type": "float",
+                "name": "endRange"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x313CE5879CEB6FCD",
+        "gta_jhash": "0x0562C4D0"
+    }
+}

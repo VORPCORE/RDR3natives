@@ -1,0 +1,14 @@
+{
+    "0x71845905BCCDE781": {
+        "name": "_0x71845905BCCDE781",
+        "comment": "ANIMPOSTFX_*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "effectNameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

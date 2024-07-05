@@ -1,0 +1,14 @@
+{
+    "0x9422743A5BA50E10": {
+        "name": "_0x9422743A5BA50E10",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

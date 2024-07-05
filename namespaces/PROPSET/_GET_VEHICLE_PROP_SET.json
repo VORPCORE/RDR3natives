@@ -1,0 +1,14 @@
+{
+    "0xCE2ACD6F602803E5": {
+        "name": "_GET_VEHICLE_PROP_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "PropSet",
+        "build": "1207"
+    }
+}

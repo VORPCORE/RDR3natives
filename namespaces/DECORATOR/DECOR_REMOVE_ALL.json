@@ -1,0 +1,14 @@
+{
+    "0x88942780E0ADEA42": {
+        "name": "DECOR_REMOVE_ALL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

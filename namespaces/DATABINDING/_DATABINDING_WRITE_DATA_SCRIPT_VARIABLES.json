@@ -1,0 +1,23 @@
+{
+    "0xAB888B4B91046771": {
+        "name": "_DATABINDING_WRITE_DATA_SCRIPT_VARIABLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "",
+                "name": "..."
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "variadic": true
+    }
+}

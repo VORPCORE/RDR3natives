@@ -1,0 +1,24 @@
+{
+    "0x4F056E1AFFEF17AB": {
+        "name": "TASK_FORCE_MOTION_STATE",
+        "comment": "motionStateHash: see FORCE_PED_MOTION_STATE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "motionStateHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4F056E1AFFEF17AB",
+        "gta_jhash": "0xCAD2EF77"
+    }
+}

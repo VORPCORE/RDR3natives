@@ -1,0 +1,20 @@
+{
+    "0x4102C7858CFEE4E4": {
+        "name": "SET_GROUP_SEPARATION_RANGE",
+        "comment": "Sets the range at which members will automatically leave the group.",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "float",
+                "name": "separationRange"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4102C7858CFEE4E4",
+        "gta_jhash": "0x7B820CD5"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x6095358C4142932A": {
+        "name": "_UI_PROMPT_CLEAR_HORIZONTAL_ORIENTATION",
+        "comment": "id is the return value from 0xD9459157EB22C895.",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

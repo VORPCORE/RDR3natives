@@ -1,0 +1,11 @@
+{
+    "0x67A5589628E0CFF6": {
+        "name": "NETWORK_HAS_SOCIAL_CLUB_ACCOUNT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x67A5589628E0CFF6",
+        "gta_jhash": "0x66EC713F"
+    }
+}

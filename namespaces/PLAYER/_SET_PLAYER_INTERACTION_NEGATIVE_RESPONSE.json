@@ -1,0 +1,18 @@
+{
+    "0x98CD760DE43B612E": {
+        "name": "_SET_PLAYER_INTERACTION_NEGATIVE_RESPONSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "const char*",
+                "name": "speech"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

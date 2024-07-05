@@ -1,0 +1,26 @@
+{
+    "0xBD3324281E8B9933": {
+        "name": "_ADD_VEG_MODIFIER_ZONE",
+        "comment": "Adds Vegetation Blocking Zone, Added Snow Flattening veg mod Zone\nReturns veg modifier handle",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

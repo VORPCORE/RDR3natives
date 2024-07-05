@@ -1,0 +1,9 @@
+{
+    "0xCC48FFBB45B54F71": {
+        "name": "_UILOG_HAS_DISPLAYED_CACHED_OBJECTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "0x4899CB088EDF59B8": {
+        "name": "REMOVE_WEAPON_FROM_PED",
+        "comment": "removeReason:\nenum eRemoveItemReason : Hash\n{\n\tREMOVE_REASON_CLIENT_PURGED = 0x4A4E94DC,\n\tREMOVE_REASON_COALESCE = 0x2ABE393E,\n\tREMOVE_REASON_DEBUG = 0xA07362E6,\n\tREMOVE_REASON_DEFAULT = 0xF77DE93D,\n\tREMOVE_REASON_DELETE_CHARACTER = 0x20AFBDE9,\n\tREMOVE_REASON_DROPPED = 0xEC7FB5D5,\n\tREMOVE_REASON_DUPLICATE = 0x19047132,\n\tREMOVE_REASON_GIFTED_INCORRECTLY = 0x9C4E3829,\n\tREMOVE_REASON_GIVEN = 0xAD5377D4,\n\tREMOVE_REASON_INSUFFICIENT_INVENTORY = 0x518D1AAE,\n\tREMOVE_REASON_ITEM_DOES_NOT_EXIST = 0xEAD5D889,\n\tREMOVE_REASON_LOADOUT = 0x1B94E3BA,\n\tREMOVE_REASON_SET_AMOUNT = 0x19D5CFA5,\n\tREMOVE_REASON_SOLD = 0x76C4B482,\n\tREMOVE_REASON_USED = 0x2188E0A3,\n\tREMOVE_REASON_USE_FAILED = 0x671F9EAD\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Hash",
+                "name": "removeReason"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4899CB088EDF59B8",
+        "gta_jhash": "0x9C37F220"
+    }
+}

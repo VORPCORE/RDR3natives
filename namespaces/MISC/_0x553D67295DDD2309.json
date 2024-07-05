@@ -1,0 +1,14 @@
+{
+    "0x553D67295DDD2309": {
+        "name": "_0x553D67295DDD2309",
+        "comment": "UPDATE_PICKUP_COLLECTIBLE: set Eagle Eye fountain\n_J*, _K*, _L*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

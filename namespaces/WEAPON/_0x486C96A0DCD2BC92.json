@@ -1,0 +1,18 @@
+{
+    "0x486C96A0DCD2BC92": {
+        "name": "_0x486C96A0DCD2BC92",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1232"
+    }
+}

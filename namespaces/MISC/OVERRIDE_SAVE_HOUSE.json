@@ -1,0 +1,44 @@
+{
+    "0xB2C69E11A37B5AF0": {
+        "name": "OVERRIDE_SAVE_HOUSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "override"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "BOOL",
+                "name": "isAutosave"
+            },
+            {
+                "type": "Vector3*",
+                "name": "returnCoords"
+            },
+            {
+                "type": "float*",
+                "name": "returnHeading"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1162EA8AE9D24EEA",
+        "gta_jhash": "0x47436C12"
+    }
+}

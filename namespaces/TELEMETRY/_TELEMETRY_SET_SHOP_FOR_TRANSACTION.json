@@ -1,0 +1,22 @@
+{
+    "0xCA9E42F437625A85": {
+        "name": "_TELEMETRY_SET_SHOP_FOR_TRANSACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "transactionId"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

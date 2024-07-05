@@ -1,0 +1,9 @@
+{
+    "0x225640E09EFFDC3F": {
+        "name": "NETWORK_GET_GAME_MODE",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

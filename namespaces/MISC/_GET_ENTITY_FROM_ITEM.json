@@ -1,0 +1,14 @@
+{
+    "0xEE04C0AFD4EFAF0E": {
+        "name": "_GET_ENTITY_FROM_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "item"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

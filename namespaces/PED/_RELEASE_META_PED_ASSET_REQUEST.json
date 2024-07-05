@@ -1,0 +1,14 @@
+{
+    "0x13E7320C762F0477": {
+        "name": "_RELEASE_META_PED_ASSET_REQUEST",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xCEDBF17EFCC0E4A4": {
+        "name": "_UI_FEED_POST_OBJECTIVE",
+        "comment": "Example : https://pastebin.com/13tuRa63",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

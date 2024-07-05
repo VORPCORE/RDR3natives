@@ -1,0 +1,14 @@
+{
+    "0xD6F6ACF4392187FB": {
+        "name": "NETWORK_IS_GANG_ID_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "gangId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

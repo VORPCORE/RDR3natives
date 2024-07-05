@@ -1,0 +1,9 @@
+{
+    "0x9EF07CFBB19A9733": {
+        "name": "_0x9EF07CFBB19A9733",
+        "comment": "Only used in shoprobberies R* Scripts",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x2B4CE170DE09F346": {
+        "name": "_0x2B4CE170DE09F346",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

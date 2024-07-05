@@ -1,0 +1,18 @@
+{
+    "0xD6C0A8C7C0B2F82C": {
+        "name": "_0xD6C0A8C7C0B2F82C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

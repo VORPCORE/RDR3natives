@@ -1,0 +1,26 @@
+{
+    "0x22E590F108289A9D": {
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_EQUIPPED_IN_SLOT_BY_REF",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "Hash",
+                "name": "slotId"
+            },
+            {
+                "type": "Any*",
+                "name": "outGuid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

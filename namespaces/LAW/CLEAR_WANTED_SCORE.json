@@ -1,0 +1,14 @@
+{
+    "0x062B4A4A3396351D": {
+        "name": "CLEAR_WANTED_SCORE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

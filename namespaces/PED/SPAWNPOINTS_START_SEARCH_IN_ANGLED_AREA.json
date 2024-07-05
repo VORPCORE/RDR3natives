@@ -1,0 +1,56 @@
+{
+    "0xB2AFF10216DEFA2F": {
+        "name": "SPAWNPOINTS_START_SEARCH_IN_ANGLED_AREA",
+        "comment": "Searching area between coords 1 and 2",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "int",
+                "name": "spawnpointsFlag"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB2AFF10216DEFA2F",
+        "gta_jhash": "0x4AAD0ECB"
+    }
+}

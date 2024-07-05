@@ -1,0 +1,20 @@
+{
+    "0x6E884BAB713A2A94": {
+        "name": "SET_VEHICLE_UNDRIVEABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8ABA6AF54B942B95",
+        "gta_jhash": "0x48D02A4E"
+    }
+}

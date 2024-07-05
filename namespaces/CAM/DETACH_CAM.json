@@ -1,0 +1,16 @@
+{
+    "0x05B41DDBEB559556": {
+        "name": "DETACH_CAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA2FABBE87F4BAD82",
+        "gta_jhash": "0xF4FBF14A"
+    }
+}

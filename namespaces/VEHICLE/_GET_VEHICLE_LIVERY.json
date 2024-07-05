@@ -1,0 +1,14 @@
+{
+    "0xBB765B8FD49A796C": {
+        "name": "_GET_VEHICLE_LIVERY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

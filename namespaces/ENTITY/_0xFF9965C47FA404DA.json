@@ -1,0 +1,18 @@
+{
+    "0xFF9965C47FA404DA": {
+        "name": "_0xFF9965C47FA404DA",
+        "comment": "SET_ENTITY_LO*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

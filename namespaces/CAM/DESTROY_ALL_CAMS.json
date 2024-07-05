@@ -1,0 +1,16 @@
+{
+    "0x163600D6E136C9F8": {
+        "name": "DESTROY_ALL_CAMS",
+        "comment": "BOOL param indicates whether the cam should be destroyed if it belongs to the calling script.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8E5FB15663F79120",
+        "gta_jhash": "0x10C151CE"
+    }
+}

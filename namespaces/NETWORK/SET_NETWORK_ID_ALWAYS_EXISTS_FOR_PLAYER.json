@@ -1,0 +1,24 @@
+{
+    "0xA8A024587329F36A": {
+        "name": "SET_NETWORK_ID_ALWAYS_EXISTS_FOR_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA8A024587329F36A",
+        "gta_jhash": "0x4D15FDB1"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0x57028FD99886F6F9": {
+        "name": "_0x57028FD99886F6F9",
+        "comment": "_IS_PLAYER_D* - _IS_PLAYER_F*",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

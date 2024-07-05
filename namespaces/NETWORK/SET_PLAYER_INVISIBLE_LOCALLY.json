@@ -1,0 +1,20 @@
+{
+    "0x12B37D54667DB0B8": {
+        "name": "SET_PLAYER_INVISIBLE_LOCALLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x12B37D54667DB0B8",
+        "gta_jhash": "0x18227209"
+    }
+}

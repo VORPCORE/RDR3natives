@@ -1,0 +1,14 @@
+{
+    "0x42A7EB5C814C2DE0": {
+        "name": "_GET_GLOBAL_BLOCK_CAN_BE_ACCESSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

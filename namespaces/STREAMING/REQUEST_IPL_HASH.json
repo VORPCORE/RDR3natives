@@ -1,0 +1,14 @@
+{
+    "0x59767C5A7A9AE6DA": {
+        "name": "REQUEST_IPL_HASH",
+        "comment": "Old name: _REQUEST_IMAP",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "iplHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

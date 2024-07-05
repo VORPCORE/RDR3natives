@@ -1,0 +1,14 @@
+{
+    "0x716F17F8A0419F95": {
+        "name": "_IS_BASE_A_PERSISTENT_CHARACTER",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "handle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

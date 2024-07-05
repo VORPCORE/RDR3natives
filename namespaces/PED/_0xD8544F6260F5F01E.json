@@ -1,0 +1,18 @@
+{
+    "0xD8544F6260F5F01E": {
+        "name": "_0xD8544F6260F5F01E",
+        "comment": "METAPED_PLAYER_COMPONENTS_SET_META_TYPE_TO_BE_BYPASSED: Setting visibility\np1 is mostly 10\n_CLEAR_PED_N* - _CLEAR_PED_W*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

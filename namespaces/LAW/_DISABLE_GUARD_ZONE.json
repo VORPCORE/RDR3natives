@@ -1,0 +1,14 @@
+{
+    "0x26D558692B25DD95": {
+        "name": "_DISABLE_GUARD_ZONE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

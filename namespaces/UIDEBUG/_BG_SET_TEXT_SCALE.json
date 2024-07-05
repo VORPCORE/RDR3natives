@@ -1,0 +1,19 @@
+{
+    "0xA1253A3C870B6843": {
+        "name": "_BG_SET_TEXT_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "scaleX"
+            },
+            {
+                "type": "float",
+                "name": "scaleY"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355",
+        "unused": true
+    }
+}

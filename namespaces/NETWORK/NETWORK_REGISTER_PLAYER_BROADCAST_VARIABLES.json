@@ -1,0 +1,24 @@
+{
+    "0x3364AA97340CA215": {
+        "name": "NETWORK_REGISTER_PLAYER_BROADCAST_VARIABLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3364AA97340CA215",
+        "gta_jhash": "0xBE3D32B4"
+    }
+}

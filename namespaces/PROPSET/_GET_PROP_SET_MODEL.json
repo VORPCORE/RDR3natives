@@ -1,0 +1,14 @@
+{
+    "0xA6A9712955F53D9C": {
+        "name": "_GET_PROP_SET_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "PropSet",
+                "name": "propSet"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

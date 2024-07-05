@@ -1,0 +1,14 @@
+{
+    "0x27A1B170AA8AF84C": {
+        "name": "_SET_DISPATCH_MIN_SPAWN_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "minSpawnDistance"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x26054EB81AC0893B": {
+        "name": "_0x26054EB81AC0893B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

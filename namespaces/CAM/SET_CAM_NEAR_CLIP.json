@@ -1,0 +1,20 @@
+{
+    "0xA924028272A61364": {
+        "name": "SET_CAM_NEAR_CLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "nearClip"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC7848EFCCC545182",
+        "gta_jhash": "0x46DB13B1"
+    }
+}

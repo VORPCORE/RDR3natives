@@ -1,0 +1,22 @@
+{
+    "0xD92FA81B64920E85": {
+        "name": "GET_THREAD_EXISTENCE_DETAILS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            },
+            {
+                "type": "BOOL*",
+                "name": "threadExists"
+            },
+            {
+                "type": "BOOL*",
+                "name": "hasScriptHandler"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x7AA80209BDA643EB": {
+        "name": "TASK_SHUFFLE_TO_NEXT_VEHICLE_SEAT",
+        "comment": "Makes the specified ped shuffle to the next vehicle seat.\nThe ped MUST be in a vehicle and the vehicle parameter MUST be the ped's current vehicle.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7AA80209BDA643EB",
+        "gta_jhash": "0xBEAF8F67"
+    }
+}

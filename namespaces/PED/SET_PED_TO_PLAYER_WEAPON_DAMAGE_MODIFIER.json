@@ -1,0 +1,18 @@
+{
+    "0xD77AE48611B7B10A": {
+        "name": "SET_PED_TO_PLAYER_WEAPON_DAMAGE_MODIFIER",
+        "comment": "Old name: _SET_PED_DAMAGE_MODIFIER",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "damageModifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "0x93E0DB8440B73A7D": {
+        "name": "GET_RANDOM_VEHICLE_NODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "minLanes"
+            },
+            {
+                "type": "BOOL",
+                "name": "avoidDeadEnds"
+            },
+            {
+                "type": "BOOL",
+                "name": "avoidHighways"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outPosition"
+            },
+            {
+                "type": "int*",
+                "name": "nodeId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x93E0DB8440B73A7D",
+        "gta_jhash": "0xAD1476EA"
+    }
+}

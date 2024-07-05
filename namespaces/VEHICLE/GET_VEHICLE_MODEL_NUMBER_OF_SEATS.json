@@ -1,0 +1,16 @@
+{
+    "0x9A578736FF3A17C3": {
+        "name": "GET_VEHICLE_MODEL_NUMBER_OF_SEATS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x2AD93716F184EDA4",
+        "gta_jhash": "0x838F7BF7"
+    }
+}

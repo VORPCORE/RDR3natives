@@ -1,0 +1,18 @@
+{
+    "0x9BBEAF8B0C007F1E": {
+        "name": "_0x9BBEAF8B0C007F1E",
+        "comment": "_SET_PLAYER_CAN_B* - _SET_PLAYER_CAN_U*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

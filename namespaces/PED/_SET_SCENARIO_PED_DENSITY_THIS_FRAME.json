@@ -1,0 +1,14 @@
+{
+    "0x95423627A9CA598E": {
+        "name": "_SET_SCENARIO_PED_DENSITY_THIS_FRAME",
+        "comment": "Sets the scenario ped density to the given config.\n\nValid configs:\n- BLACKWATER\n- DEFAULT\n- NEWBORDEAUX\n- RHODES\n- STRAWBERRY\n- TUMBLEWEED\n- VALENTINE\n- VANHORN\n\nSee common/data/ai/densityscoringconfigs.meta for more information.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "configHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

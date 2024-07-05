@@ -1,0 +1,14 @@
+{
+    "0xE54DC27571D5EDC5": {
+        "name": "MISSIONDATA_IS_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

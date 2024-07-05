@@ -1,0 +1,30 @@
+{
+    "0x886DFD3E185C8A89": {
+        "name": "INVENTORY_GET_GUID_FROM_ITEMID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            },
+            {
+                "type": "Hash",
+                "name": "slotId"
+            },
+            {
+                "type": "Any*",
+                "name": "outGuid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

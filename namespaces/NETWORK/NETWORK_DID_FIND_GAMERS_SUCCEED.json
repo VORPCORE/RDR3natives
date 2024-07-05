@@ -1,0 +1,11 @@
+{
+    "0xF9B83B77929D8863": {
+        "name": "NETWORK_DID_FIND_GAMERS_SUCCEED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF9B83B77929D8863",
+        "gta_jhash": "0xBEDC4503"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "0x3674F389B0FACD80": {
+        "name": "SET_PARTICLE_FX_LOOPED_EVOLUTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            },
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "BOOL",
+                "name": "noNetwork"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5F0C4B5B1C393BE2",
+        "gta_jhash": "0x1CBC1373"
+    }
+}

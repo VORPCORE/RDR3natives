@@ -1,0 +1,26 @@
+{
+    "0x9EFF3C91DF38304F": {
+        "name": "_SET_PLAYER_CURRENT_ANIMAL_DAMAGE_MODIFIER",
+        "comment": "Animal Skin Quality Modifier\nParams: p2 = 2, p3 = 3 in R* Scripts",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1311"
+    }
+}

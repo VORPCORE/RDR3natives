@@ -1,0 +1,24 @@
+{
+    "0x8BE1146DFD5D4468": {
+        "name": "NETWORK_ACCESS_TUNABLE_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "tunableContext"
+            },
+            {
+                "type": "Hash",
+                "name": "tunableName"
+            },
+            {
+                "type": "int*",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x8BE1146DFD5D4468",
+        "gta_jhash": "0xE4B3726A"
+    }
+}

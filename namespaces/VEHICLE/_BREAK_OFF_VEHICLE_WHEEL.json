@@ -1,0 +1,18 @@
+{
+    "0xD4F5EFB55769D272": {
+        "name": "_BREAK_OFF_VEHICLE_WHEEL",
+        "comment": "wheelIndex 0: left, wheelIndex 1: right, 4 & 5: unknown",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheelIndex"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

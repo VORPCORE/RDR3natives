@@ -1,0 +1,18 @@
+{
+    "0x11A7FF918EF6BC66": {
+        "name": "_SET_WEAPON_DEGRADATION_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

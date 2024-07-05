@@ -1,0 +1,14 @@
+{
+    "0xA9EB4D606076615D": {
+        "name": "UGC_HAS_REQUEST_FINISHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ugcRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

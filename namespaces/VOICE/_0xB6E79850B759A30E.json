@@ -1,0 +1,18 @@
+{
+    "0xB6E79850B759A30E": {
+        "name": "_0xB6E79850B759A30E",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "teamId"
+            },
+            {
+                "type": "BOOL",
+                "name": "allow"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

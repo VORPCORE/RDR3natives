@@ -1,0 +1,18 @@
+{
+    "0xDBC4B552B2AE9A83": {
+        "name": "_GET_PED_WEAPON_IN_SLOT",
+        "comment": "slotHash is usually just the weaponHash name, but WEAPON_* is replaced with SLOT_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "slotHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

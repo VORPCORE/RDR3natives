@@ -1,0 +1,11 @@
+{
+    "0xD0AFAFF5A51D72F7": {
+        "name": "NETWORK_END_TUTORIAL_SESSION",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD0AFAFF5A51D72F7",
+        "gta_jhash": "0xBA57E53E"
+    }
+}

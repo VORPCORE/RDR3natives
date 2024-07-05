@@ -1,0 +1,14 @@
+{
+    "0x22F2A386D43048A9": {
+        "name": "_GET_PED_STAMINA_NORMALIZED",
+        "comment": "Returns stamina normalizedValue / normalizedUnlockedMax",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

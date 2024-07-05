@@ -1,0 +1,18 @@
+{
+    "0x188F8071F244B9B8": {
+        "name": "_SET_SCENARIO_CONTAINER_OPENING_STATE",
+        "comment": "Opens/closes containers: ChestDugUp",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "open"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

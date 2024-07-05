@@ -1,0 +1,68 @@
+{
+    "0xA47BBFFFB83D4D0A": {
+        "name": "SET_CAM_PARAMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "fieldOfView"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            },
+            {
+                "type": "int",
+                "name": "p10"
+            },
+            {
+                "type": "int",
+                "name": "p11"
+            },
+            {
+                "type": "Any",
+                "name": "p12"
+            },
+            {
+                "type": "Any",
+                "name": "p13"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBFD8727AEA3CCEBA",
+        "gta_jhash": "0x2167CEBF"
+    }
+}

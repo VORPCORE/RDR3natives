@@ -1,0 +1,20 @@
+{
+    "0x886E37EC497200B6": {
+        "name": "IS_ENTITY_IN_AIR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x886E37EC497200B6",
+        "gta_jhash": "0xA4157987"
+    }
+}

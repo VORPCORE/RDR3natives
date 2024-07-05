@@ -1,0 +1,16 @@
+{
+    "0x7C06330BFDDA182E": {
+        "name": "STOP_BRINGING_VEHICLE_TO_HALT",
+        "comment": "Old name: _STOP_BRING_VEHICLE_TO_HALT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7C06330BFDDA182E",
+        "gta_jhash": ""
+    }
+}

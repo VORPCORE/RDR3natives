@@ -1,0 +1,28 @@
+{
+    "0xB2C30C3B4AFF718C": {
+        "name": "GET_NEAREST_PLAYER_TO_ENTITY_ON_TEAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "team"
+            },
+            {
+                "type": "Ped",
+                "name": "playerPedToIgnore"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1207",
+        "gta_hash": "0x4DC9A62F844D9337",
+        "gta_jhash": "0xB1808F56"
+    }
+}

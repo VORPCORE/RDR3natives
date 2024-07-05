@@ -1,0 +1,14 @@
+{
+    "0x9682F850056C9ADE": {
+        "name": "IS_PED_LASSOED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

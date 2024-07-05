@@ -1,0 +1,18 @@
+{
+    "0x29924EB8EE9DB926": {
+        "name": "_0x29924EB8EE9DB926",
+        "comment": "_SET_PED_K* or _SET_PED_L*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

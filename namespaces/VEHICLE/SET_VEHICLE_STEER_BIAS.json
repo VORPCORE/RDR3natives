@@ -1,0 +1,20 @@
+{
+    "0x84DAAE11E9EE4FC3": {
+        "name": "SET_VEHICLE_STEER_BIAS",
+        "comment": "Locks the vehicle's steering to the desired angle, explained below.\n\nRequires to be called onTick. Steering is unlocked the moment the function stops being called on the vehicle.\n\nSteer bias:\n-1.0 = full right\n0.0 = centered steering\n1.0 = full left",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x42A8EC77D5150CBE",
+        "gta_jhash": "0x7357C1EB"
+    }
+}

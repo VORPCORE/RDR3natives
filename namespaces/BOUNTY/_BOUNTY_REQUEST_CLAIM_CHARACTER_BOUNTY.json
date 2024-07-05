@@ -1,0 +1,22 @@
+{
+    "0xA9C3B0F746375162": {
+        "name": "_BOUNTY_REQUEST_CLAIM_CHARACTER_BOUNTY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outRpcGuid"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

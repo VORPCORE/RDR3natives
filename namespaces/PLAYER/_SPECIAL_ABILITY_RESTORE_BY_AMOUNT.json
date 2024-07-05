@@ -1,0 +1,30 @@
+{
+    "0x51345AE20F22C261": {
+        "name": "_SPECIAL_ABILITY_RESTORE_BY_AMOUNT",
+        "comment": "Restores Deadeye by given amount.\nParams: p2, p3, p4 = 0, 0, 1 in R* Scripts",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

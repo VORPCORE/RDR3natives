@@ -1,0 +1,16 @@
+{
+    "0x4CD38C78BD19A497": {
+        "name": "DELETE_ENTITY",
+        "comment": "Deletes the specified entity, then sets the handle pointed to by the pointer to NULL.",
+        "params": [
+            {
+                "type": "Entity*",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xAE3CBE5BF394C9C9",
+        "gta_jhash": "0xFAA3D236"
+    }
+}

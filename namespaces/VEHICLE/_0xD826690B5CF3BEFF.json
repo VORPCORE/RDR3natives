@@ -1,0 +1,18 @@
+{
+    "0xD826690B5CF3BEFF": {
+        "name": "_0xD826690B5CF3BEFF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

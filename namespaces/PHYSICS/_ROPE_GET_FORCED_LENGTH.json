@@ -1,0 +1,14 @@
+{
+    "0x3D69537039F8D824": {
+        "name": "_ROPE_GET_FORCED_LENGTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

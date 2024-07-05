@@ -1,0 +1,36 @@
+{
+    "0xCC23AA1A7CBFE840": {
+        "name": "SET_HIDOF_OVERRIDE",
+        "comment": "Old name: _SET_HIDOF_ENV_BLUR_PARAMS",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBA3D65906822BED5",
+        "gta_jhash": "0x513D444B"
+    }
+}

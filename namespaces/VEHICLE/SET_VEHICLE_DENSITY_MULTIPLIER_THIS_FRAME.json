@@ -1,0 +1,16 @@
+{
+    "0x606374EBFC27B133": {
+        "name": "SET_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x245A6883D966D537",
+        "gta_jhash": "0xF4187E51"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x8101D32A0A6B0F60": {
+        "name": "GET_CAM_FOV",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xC3330A45CCCDB26A",
+        "gta_jhash": "0xD6E9FCF5"
+    }
+}

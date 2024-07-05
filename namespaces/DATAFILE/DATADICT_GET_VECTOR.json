@@ -1,0 +1,20 @@
+{
+    "0xE459C941431E0FFA": {
+        "name": "DATADICT_GET_VECTOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x46CD3CB66E0825CC",
+        "gta_jhash": "0xE84A127A"
+    }
+}

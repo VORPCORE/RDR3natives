@@ -1,0 +1,14 @@
+{
+    "0x243E1B4607040057": {
+        "name": "GET_PED_MOTION_FOCUS_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

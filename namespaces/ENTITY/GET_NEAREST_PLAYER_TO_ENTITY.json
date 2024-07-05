@@ -1,0 +1,24 @@
+{
+    "0x990E294FC387FB88": {
+        "name": "GET_NEAREST_PLAYER_TO_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Ped",
+                "name": "playerPedToIgnore"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1207",
+        "gta_hash": "0x7196842CB375CDB3",
+        "gta_jhash": "0xCE17FDEC"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xC346A546612C49A9": {
+        "name": "_GET_IS_BIRD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

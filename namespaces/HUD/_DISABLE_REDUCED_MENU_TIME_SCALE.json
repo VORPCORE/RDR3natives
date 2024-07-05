@@ -1,0 +1,9 @@
+{
+    "0xC5C7A2F6567FCCBC": {
+        "name": "_DISABLE_REDUCED_MENU_TIME_SCALE",
+        "comment": "Disables reduced time scale while menus such as weapon wheel and satchel are open.",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x5758B1EE0C3FD4AC": {
+        "name": "_DELETE_PATCH_OBJECTS_FROM_HERB_COMPOSITES",
+        "comment": "Params: p1 is always false except in script nb_egg_protector",
+        "params": [
+            {
+                "type": "int",
+                "name": "compositeId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

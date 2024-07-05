@@ -1,0 +1,26 @@
+{
+    "0xCD1BDFF15EFA79F5": {
+        "name": "_UI_PROMPT_SET_MASH_WITH_RESISTANCE_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "int",
+                "name": "mashes"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x5659D87BE674AB17": {
+        "name": "_NETWORK_GET_GAMERTAG_FROM_FRIEND",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

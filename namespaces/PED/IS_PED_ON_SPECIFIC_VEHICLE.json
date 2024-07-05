@@ -1,0 +1,20 @@
+{
+    "0xEC5F66E459AF3BB2": {
+        "name": "IS_PED_ON_SPECIFIC_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xEC5F66E459AF3BB2",
+        "gta_jhash": "0x63CB4603"
+    }
+}

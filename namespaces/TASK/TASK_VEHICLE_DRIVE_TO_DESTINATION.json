@@ -1,0 +1,54 @@
+{
+    "0x7F241A0D14354583": {
+        "name": "TASK_VEHICLE_DRIVE_TO_DESTINATION",
+        "comment": "flags: 67108864, 2097152, 524564, 524675 (eDrivingFlags)\np7 = 6 or 3\np8 = x coordinate\np9 - 8.f\np10 = false",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "driver"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "int",
+                "name": "drivingFlags"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "stoppingRange1"
+            },
+            {
+                "type": "float",
+                "name": "stoppingRange2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p10"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

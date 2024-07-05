@@ -1,0 +1,14 @@
+{
+    "0x0F7F603BDE08C4D3": {
+        "name": "_0x0F7F603BDE08C4D3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

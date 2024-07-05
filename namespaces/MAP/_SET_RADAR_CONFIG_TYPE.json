@@ -1,0 +1,18 @@
+{
+    "0x9C113883487FD53C": {
+        "name": "_SET_RADAR_CONFIG_TYPE",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/minimap/radar/radar_configs.lua\nconfigHash: -1943724816, 347777538, -117986897, -789269373, -547506804, -1986542417, 2080113112\np1: usually 898171178 or 0 in R* scripts (doesn't seems to have any effect)",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "configHash"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

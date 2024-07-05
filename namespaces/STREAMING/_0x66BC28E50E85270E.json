@@ -1,0 +1,14 @@
+{
+    "0x66BC28E50E85270E": {
+        "name": "_0x66BC28E50E85270E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

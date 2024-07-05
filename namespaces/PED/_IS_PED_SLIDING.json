@@ -1,0 +1,14 @@
+{
+    "0xD6740E14E4CEFC0B": {
+        "name": "_IS_PED_SLIDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

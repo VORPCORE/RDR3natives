@@ -1,0 +1,20 @@
+{
+    "0xCFF869CBFA210D82": {
+        "name": "GET_PED_NEARBY_VEHICLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "sizeAndVehs"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xCFF869CBFA210D82",
+        "gta_jhash": "0xCB716F68"
+    }
+}

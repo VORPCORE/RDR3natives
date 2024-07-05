@@ -1,0 +1,26 @@
+{
+    "0xAF7F3099B9FEB535": {
+        "name": "_0xAF7F3099B9FEB535",
+        "comment": "SET_ENTITY_LO*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

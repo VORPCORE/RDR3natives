@@ -1,0 +1,18 @@
+{
+    "0xB440F4E35393FC39": {
+        "name": "_0xB440F4E35393FC39",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

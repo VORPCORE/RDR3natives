@@ -1,0 +1,14 @@
+{
+    "0x329772C47DBB2FBC": {
+        "name": "_0x329772C47DBB2FBC",
+        "comment": "_SET_PED_P* - _SET_PED_R*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

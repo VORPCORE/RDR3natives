@@ -1,0 +1,18 @@
+{
+    "0xC48AF420371C7407": {
+        "name": "_0xC48AF420371C7407",
+        "comment": "_SET_PED_M*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "grapple"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

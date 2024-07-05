@@ -1,0 +1,11 @@
+{
+    "0x202B1BBFC6AB5EE4": {
+        "name": "IS_WAYPOINT_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1DD1F58F493F1DA5",
+        "gta_jhash": "0x5E4DF47B"
+    }
+}

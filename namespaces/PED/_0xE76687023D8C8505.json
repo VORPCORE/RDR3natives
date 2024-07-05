@@ -1,0 +1,18 @@
+{
+    "0xE76687023D8C8505": {
+        "name": "_0xE76687023D8C8505",
+        "comment": "Used for AUDIO / ANIMSCENE (REFERENCE_REGIONAL_CHARACTER)\nParams: p1 = 0\n_GET_PED_IN*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "perscharModel"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

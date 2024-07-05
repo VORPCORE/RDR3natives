@@ -1,0 +1,40 @@
+{
+    "0xDFC1E4A44C0324CA": {
+        "name": "ATTACH_CAM_TO_PED_BONE",
+        "comment": "boneIndex: https://github.com/femga/rdr3_discoveries/tree/master/boneNames",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x61A3DBA14AB7F411",
+        "gta_jhash": "0x506BB35C"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x7FC60C94C83C5CD7": {
+        "name": "_0x7FC60C94C83C5CD7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

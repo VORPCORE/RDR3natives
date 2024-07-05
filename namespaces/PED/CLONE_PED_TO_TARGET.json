@@ -1,0 +1,20 @@
+{
+    "0xE952D6431689AD9A": {
+        "name": "CLONE_PED_TO_TARGET",
+        "comment": "Copies ped's components and props to targetPed.\nCan be used to clear anything from a ped by cloning it, including bullet holes.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE952D6431689AD9A",
+        "gta_jhash": "0xFC70EEC7"
+    }
+}

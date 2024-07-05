@@ -1,0 +1,14 @@
+{
+    "0x2412216FCC7B4E3E": {
+        "name": "_UNLOAD_CINEMATIC_CAMERA_LOCATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "dictionaryName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

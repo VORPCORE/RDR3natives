@@ -1,0 +1,14 @@
+{
+    "0xC8FC7F4E4CF4F581": {
+        "name": "LAUNCH_UIAPP_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "appNameHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

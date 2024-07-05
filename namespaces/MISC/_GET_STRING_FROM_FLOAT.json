@@ -1,0 +1,18 @@
+{
+    "0x2B6846401D68E563": {
+        "name": "_GET_STRING_FROM_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "digits"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

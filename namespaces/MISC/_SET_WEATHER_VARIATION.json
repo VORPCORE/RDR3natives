@@ -1,0 +1,18 @@
+{
+    "0x3373779BAF7CAF48": {
+        "name": "_SET_WEATHER_VARIATION",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/weather/weather_variations.lua",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "weatherType"
+            },
+            {
+                "type": "const char*",
+                "name": "variation"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

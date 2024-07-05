@@ -1,0 +1,24 @@
+{
+    "0xCD5003B097200F36": {
+        "name": "GET_DEAD_PED_PICKUP_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0xCD5003B097200F36",
+        "gta_jhash": "0x129F9DC1"
+    }
+}

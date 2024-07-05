@@ -1,0 +1,9 @@
+{
+    "0x41AFA5F228B0B6B0": {
+        "name": "_REQUEST_PHOTO_MODE_DEFREEZE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

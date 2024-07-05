@@ -1,0 +1,18 @@
+{
+    "0x9DAE1380CC5C6451": {
+        "name": "_UNREGISTER_EAGLE_EYE_FOR_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

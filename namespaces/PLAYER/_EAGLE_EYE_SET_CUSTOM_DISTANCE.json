@@ -1,0 +1,18 @@
+{
+    "0x907B16B3834C69E2": {
+        "name": "_EAGLE_EYE_SET_CUSTOM_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x7B204F88F6C3D287": {
+        "name": "_FORCE_DESPAWN_PERSCHAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

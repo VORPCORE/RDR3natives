@@ -1,0 +1,14 @@
+{
+    "0x919AF2D93E9AA89D": {
+        "name": "_0x919AF2D93E9AA89D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

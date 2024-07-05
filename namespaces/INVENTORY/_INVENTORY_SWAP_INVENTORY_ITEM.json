@@ -1,0 +1,22 @@
+{
+    "0xF2753D691BCDA314": {
+        "name": "_INVENTORY_SWAP_INVENTORY_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid1"
+            },
+            {
+                "type": "Any*",
+                "name": "guid2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

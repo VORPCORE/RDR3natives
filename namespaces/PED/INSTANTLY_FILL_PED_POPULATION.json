@@ -1,0 +1,11 @@
+{
+    "0x4759CC730F947C81": {
+        "name": "INSTANTLY_FILL_PED_POPULATION",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4759CC730F947C81",
+        "gta_jhash": "0x8C555ADD"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xB952A3AC41D58F2F": {
+        "name": "_STORE_GLOBAL_BLOCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x58A39BE597CE99CD": {
+        "name": "CANCEL_ONSCREEN_KEYBOARD",
+        "comment": "Old name: _CANCEL_ONSCREEN_KEYBOARD",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x58A39BE597CE99CD",
+        "gta_jhash": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x0D5B19C34068FEE7": {
+        "name": "_0x0D5B19C34068FEE7",
+        "comment": "Gets set to 1 when GET_STATUS_OF_TAKE_HIGH_QUALITY_PHOTO = PHOTO_OPERATION_SUCCEEDED",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

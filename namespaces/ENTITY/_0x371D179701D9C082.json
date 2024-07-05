@@ -1,0 +1,14 @@
+{
+    "0x371D179701D9C082": {
+        "name": "_0x371D179701D9C082",
+        "comment": "Called if entity is in water and submerged level is larger than 1f. If CARRYING_FLAG_FORCE_ALLOW_WARP_TO_SAFE_GROUND_LOCATION is true, it gets disabled as well.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1436"
+    }
+}

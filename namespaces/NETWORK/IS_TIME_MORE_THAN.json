@@ -1,0 +1,20 @@
+{
+    "0xDE350F8651E4346C": {
+        "name": "IS_TIME_MORE_THAN",
+        "comment": "Subtracts the first argument from the second, then returns whether the result is negative.",
+        "params": [
+            {
+                "type": "int",
+                "name": "timeA"
+            },
+            {
+                "type": "int",
+                "name": "timeB"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xDE350F8651E4346C",
+        "gta_jhash": "0xBBB6DF61"
+    }
+}

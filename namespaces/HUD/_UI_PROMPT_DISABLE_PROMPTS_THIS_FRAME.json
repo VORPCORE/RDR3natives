@@ -1,0 +1,9 @@
+{
+    "0xF1622CE88A1946FB": {
+        "name": "_UI_PROMPT_DISABLE_PROMPTS_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

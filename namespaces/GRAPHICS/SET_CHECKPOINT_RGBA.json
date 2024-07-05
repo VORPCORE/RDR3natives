@@ -1,0 +1,32 @@
+{
+    "0xCAAFC225E33B1D15": {
+        "name": "SET_CHECKPOINT_RGBA",
+        "comment": "Sets the checkpoint color.",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkpoint"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7167371E8AD747F7",
+        "gta_jhash": "0xEF9C8CB3"
+    }
+}

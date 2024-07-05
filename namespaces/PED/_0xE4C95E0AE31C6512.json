@@ -1,0 +1,18 @@
+{
+    "0xE4C95E0AE31C6512": {
+        "name": "_0xE4C95E0AE31C6512",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

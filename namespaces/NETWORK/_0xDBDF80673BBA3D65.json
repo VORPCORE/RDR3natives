@@ -1,0 +1,14 @@
+{
+    "0xDBDF80673BBA3D65": {
+        "name": "_0xDBDF80673BBA3D65",
+        "comment": "Note: this native was added in build 1491.50",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1491"
+    }
+}

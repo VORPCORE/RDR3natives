@@ -1,0 +1,14 @@
+{
+    "0xA44D65E6C624526F": {
+        "name": "_GET_VEHICLE_TINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

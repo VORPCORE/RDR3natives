@@ -1,0 +1,14 @@
+{
+    "0xEC116EDB683AD479": {
+        "name": "_0xEC116EDB683AD479",
+        "comment": "Only used for Special Event (XMAS).\n_SET_P*",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

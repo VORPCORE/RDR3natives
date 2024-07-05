@@ -1,0 +1,18 @@
+{
+    "0xA7A57E89E965D839": {
+        "name": "_SET_WEAPON_DEGRADATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            },
+            {
+                "type": "float",
+                "name": "level"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

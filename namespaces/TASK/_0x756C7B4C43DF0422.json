@@ -1,0 +1,14 @@
+{
+    "0x756C7B4C43DF0422": {
+        "name": "_0x756C7B4C43DF0422",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

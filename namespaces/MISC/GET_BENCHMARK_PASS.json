@@ -1,0 +1,11 @@
+{
+    "0x9297DACF3A2CDFF7": {
+        "name": "GET_BENCHMARK_PASS",
+        "comment": "Returns value of the '-benchmarkPass' command line option.\n\nOld name: _GET_BENCHMARK_PASS_FROM_COMMAND_LINE",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x1B2366C3F2A5C8DF",
+        "gta_jhash": ""
+    }
+}

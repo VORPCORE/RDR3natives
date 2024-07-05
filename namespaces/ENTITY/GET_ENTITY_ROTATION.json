@@ -1,0 +1,20 @@
+{
+    "0xE09CAF86C32CB48F": {
+        "name": "GET_ENTITY_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0xAFBD61CC738D9EB9",
+        "gta_jhash": "0x8FF45B04"
+    }
+}

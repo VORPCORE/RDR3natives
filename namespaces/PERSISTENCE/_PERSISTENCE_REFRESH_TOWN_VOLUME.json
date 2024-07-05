@@ -1,0 +1,14 @@
+{
+    "0xEFB5F34CC0953B27": {
+        "name": "_PERSISTENCE_REFRESH_TOWN_VOLUME",
+        "comment": "Only used in R* script long_update.ysc in script function REFRESH_CLOSEST_TOWN",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

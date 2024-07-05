@@ -1,0 +1,11 @@
+{
+    "0x430386FE9BF80B45": {
+        "name": "GET_SOUND_ID",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x430386FE9BF80B45",
+        "gta_jhash": "0x6AE0AD56"
+    }
+}

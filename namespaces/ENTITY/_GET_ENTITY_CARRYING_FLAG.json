@@ -1,0 +1,18 @@
+{
+    "0x808077647856DE62": {
+        "name": "_GET_ENTITY_CARRYING_FLAG",
+        "comment": "flagId: see _SET_ENTITY_CARRYING_FLAG",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "flagId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

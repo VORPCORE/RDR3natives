@@ -1,0 +1,14 @@
+{
+    "0x39D6DACE323A20B6": {
+        "name": "_DOES_POP_MULTIPLIER_AREA_EXIST_FOR_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

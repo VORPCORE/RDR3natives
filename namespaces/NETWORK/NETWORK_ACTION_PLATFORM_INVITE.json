@@ -1,0 +1,9 @@
+{
+    "0x3B82ACC3F4B6240C": {
+        "name": "NETWORK_ACTION_PLATFORM_INVITE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

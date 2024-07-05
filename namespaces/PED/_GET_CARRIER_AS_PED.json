@@ -1,0 +1,14 @@
+{
+    "0x09B83E68DE004CD4": {
+        "name": "_GET_CARRIER_AS_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

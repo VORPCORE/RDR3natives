@@ -1,0 +1,22 @@
+{
+    "0x10F96086123B939F": {
+        "name": "_0x10F96086123B939F",
+        "comment": "NB_CUSTOM_CLIENT_ON_CREATE_COMPLETE - set legendary to not avoid prey",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "legendaryPed"
+            },
+            {
+                "type": "Ped",
+                "name": "preyPed"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

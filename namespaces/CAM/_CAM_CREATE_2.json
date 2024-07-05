@@ -1,0 +1,14 @@
+{
+    "0x7B0279170961A73F": {
+        "name": "_CAM_CREATE_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cameraDictionary"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

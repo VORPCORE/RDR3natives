@@ -1,0 +1,18 @@
+{
+    "0x0EFA71F4B4330E04": {
+        "name": "GET_ATTRIBUTE_BONUS_RANK",
+        "comment": "attributeIndex: see SET_ATTRIBUTE_BASE_RANK",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "coreIndex"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

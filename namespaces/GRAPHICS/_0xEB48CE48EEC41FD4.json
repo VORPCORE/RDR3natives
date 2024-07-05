@@ -1,0 +1,14 @@
+{
+    "0xEB48CE48EEC41FD4": {
+        "name": "_0xEB48CE48EEC41FD4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

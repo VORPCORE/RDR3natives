@@ -1,0 +1,20 @@
+{
+    "0x2DB492222FB21E26": {
+        "name": "SET_PED_VISUAL_FIELD_MIN_ANGLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2DB492222FB21E26",
+        "gta_jhash": "0x72E2E18B"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x25B9C78A25105C35": {
+        "name": "_SET_MP_GAMER_TAG_TYPE",
+        "comment": "Found types: GENERIC_PLAYER, DEADDROP, HOTPROPERTY, MINIGAMES",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "Hash",
+                "name": "type"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

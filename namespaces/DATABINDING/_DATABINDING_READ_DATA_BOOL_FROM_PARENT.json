@@ -1,0 +1,18 @@
+{
+    "0xA8EDE09FE07BD77F": {
+        "name": "_DATABINDING_READ_DATA_BOOL_FROM_PARENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

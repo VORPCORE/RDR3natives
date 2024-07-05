@@ -1,0 +1,14 @@
+{
+    "0xE692D336F8A2A97F": {
+        "name": "_TELEMETRY_CREATE_UUID",
+        "comment": "Works in MP only.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "uuid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

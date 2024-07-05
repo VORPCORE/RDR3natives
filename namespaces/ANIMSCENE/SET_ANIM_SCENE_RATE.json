@@ -1,0 +1,18 @@
+{
+    "0x75820B801CFF262A": {
+        "name": "SET_ANIM_SCENE_RATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "float",
+                "name": "rate"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x8D3230A0ED7DE39F": {
+        "name": "SET_ALLOW_VEHICLE_EXPLODES_ON_CONTACT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3441CAD2F2231923",
+        "gta_jhash": "0xC306A9A3"
+    }
+}

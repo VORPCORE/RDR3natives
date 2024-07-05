@@ -1,0 +1,16 @@
+{
+    "0xD8515F5FEA14CB3F": {
+        "name": "NET_TO_OBJ",
+        "comment": "gets the object id of a network id",
+        "params": [
+            {
+                "type": "int",
+                "name": "netHandle"
+            }
+        ],
+        "return_type": "Object",
+        "build": "1207",
+        "gta_hash": "0xD8515F5FEA14CB3F",
+        "gta_jhash": "0x27AA14D8"
+    }
+}

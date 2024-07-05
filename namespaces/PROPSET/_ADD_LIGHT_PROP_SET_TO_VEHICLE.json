@@ -1,0 +1,18 @@
+{
+    "0xC0F0417A90402742": {
+        "name": "_ADD_LIGHT_PROP_SET_TO_VEHICLE",
+        "comment": "To remove propsets either parse a zero as hash or call 0xE31C0CB1C3186D40\n0xA6A9712955F53D9C returns lightPropset Hashes\nhttps://github.com/femga/rdr3_discoveries/blob/master/vehicles/vehicle_modding/vehicle_lantern_propsets.lua",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Hash",
+                "name": "lightPropset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

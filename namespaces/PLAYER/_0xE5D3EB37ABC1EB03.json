@@ -1,0 +1,14 @@
+{
+    "0xE5D3EB37ABC1EB03": {
+        "name": "_0xE5D3EB37ABC1EB03",
+        "comment": "_CLEAR_FACIAL_* - _CLEAR_PED_BLOOD*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

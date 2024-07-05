@@ -1,0 +1,18 @@
+{
+    "0x725D52F21A5E9E08": {
+        "name": "COMPENDIUM_GANG_HIDEOUT_FOUND",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

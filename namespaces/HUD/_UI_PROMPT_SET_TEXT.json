@@ -1,0 +1,18 @@
+{
+    "0x5DD02A8318420DD7": {
+        "name": "_UI_PROMPT_SET_TEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "const char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

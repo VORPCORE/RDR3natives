@@ -1,0 +1,14 @@
+{
+    "0xC0ABF784590798A9": {
+        "name": "_0xC0ABF784590798A9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

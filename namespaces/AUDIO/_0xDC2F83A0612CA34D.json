@@ -1,0 +1,14 @@
+{
+    "0xDC2F83A0612CA34D": {
+        "name": "_0xDC2F83A0612CA34D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x4B19F171450E0D4F": {
+        "name": "_0x4B19F171450E0D4F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

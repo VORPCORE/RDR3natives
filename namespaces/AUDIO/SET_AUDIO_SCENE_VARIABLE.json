@@ -1,0 +1,24 @@
+{
+    "0xEF21A9EF089A2668": {
+        "name": "SET_AUDIO_SCENE_VARIABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scene"
+            },
+            {
+                "type": "const char*",
+                "name": "variable"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEF21A9EF089A2668",
+        "gta_jhash": "0x19BB3CE8"
+    }
+}

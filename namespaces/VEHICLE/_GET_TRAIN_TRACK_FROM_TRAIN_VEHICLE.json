@@ -1,0 +1,14 @@
+{
+    "0x45853F4E17D847D5": {
+        "name": "_GET_TRAIN_TRACK_FROM_TRAIN_VEHICLE",
+        "comment": "Returns trackIndex",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

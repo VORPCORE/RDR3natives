@@ -1,0 +1,14 @@
+{
+    "0x1DA6CB02071055D5": {
+        "name": "_0x1DA6CB02071055D5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0xBFCEABDE34DA5085": {
+        "name": "SET_SWIM_MULTIPLIER_FOR_PLAYER",
+        "comment": "Swim speed multiplier.\nMultiplier goes up to 1.49f",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA91C6F0FF7D16A13",
+        "gta_jhash": "0xB986FF47"
+    }
+}

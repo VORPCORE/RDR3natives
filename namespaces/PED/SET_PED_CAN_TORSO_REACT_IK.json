@@ -1,0 +1,20 @@
+{
+    "0xF5846EDB26A98A24": {
+        "name": "SET_PED_CAN_TORSO_REACT_IK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF5846EDB26A98A24",
+        "gta_jhash": "0x7B0040A8"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x5A13586A9447931F": {
+        "name": "_0x5A13586A9447931F",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

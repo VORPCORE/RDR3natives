@@ -1,0 +1,18 @@
+{
+    "0x6F73EFAB11651D7F": {
+        "name": "_SET_VEHICLE_SNOW_LEVEL",
+        "comment": "snowLevel: 0.0 - 1.0",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "snowLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

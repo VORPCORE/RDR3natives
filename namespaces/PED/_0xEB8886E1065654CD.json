@@ -1,0 +1,26 @@
+{
+    "0xEB8886E1065654CD": {
+        "name": "_0xEB8886E1065654CD",
+        "comment": "Washing player's face/hands now\n_FA* - _FI*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

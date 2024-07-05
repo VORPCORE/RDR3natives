@@ -1,0 +1,11 @@
+{
+    "0x83FE8D7229593017": {
+        "name": "NETWORK_SHOW_ACCOUNT_UPGRADE_UI",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x83FE8D7229593017",
+        "gta_jhash": ""
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xAC84686C06184B0D": {
+        "name": "_SET_AUDIO_SCENESET",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioName"
+            },
+            {
+                "type": "const char*",
+                "name": "sceneset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

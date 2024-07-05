@@ -1,0 +1,14 @@
+{
+    "0x0D0DB2B6AF19A987": {
+        "name": "_DELETE_CARRIABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity*",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

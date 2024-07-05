@@ -1,0 +1,16 @@
+{
+    "0x6CD79468A1E595C6": {
+        "name": "HAVE_CONTROLS_CHANGED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x6CD79468A1E595C6",
+        "gta_jhash": ""
+    }
+}

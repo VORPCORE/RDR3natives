@@ -1,0 +1,14 @@
+{
+    "0x49A8C2CD97815215": {
+        "name": "_REVIVE_PERSCHAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x501354951CD942DE": {
+        "name": "SET_VEHICLE_AUTOMATICALLY_ATTACHES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207",
+        "gta_hash": "0x8BA6F76BC53A1493",
+        "gta_jhash": "0x4273A8D3"
+    }
+}

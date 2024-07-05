@@ -1,0 +1,18 @@
+{
+    "0x9772395CC73E8D1F": {
+        "name": "_0x9772395CC73E8D1F",
+        "comment": "Only used in loanshark_miner1 R* Script: name = ANNESBURG_MINES",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

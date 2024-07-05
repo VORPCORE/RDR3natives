@@ -1,0 +1,16 @@
+{
+    "0xE0DE43D290FB65F9": {
+        "name": "STOP_GAMEPLAY_CAM_SHAKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0EF93E9F3D08C178",
+        "gta_jhash": "0xFD569E4E"
+    }
+}

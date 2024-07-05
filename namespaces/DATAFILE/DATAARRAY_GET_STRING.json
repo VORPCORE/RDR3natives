@@ -1,0 +1,20 @@
+{
+    "0xB6790A8FF80F889F": {
+        "name": "DATAARRAY_GET_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "arrayData"
+            },
+            {
+                "type": "int",
+                "name": "arrayIndex"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207",
+        "gta_hash": "0xD3F2FFEB8D836F52",
+        "gta_jhash": "0x93F985A6"
+    }
+}

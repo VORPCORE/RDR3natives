@@ -1,0 +1,22 @@
+{
+    "0x11A7ADCD629E170F": {
+        "name": "NETWORK_GET_GLOBAL_CLOCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "hour"
+            },
+            {
+                "type": "int*",
+                "name": "minute"
+            },
+            {
+                "type": "int*",
+                "name": "second"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x93624B36E8851B42": {
+        "name": "_0x93624B36E8851B42",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

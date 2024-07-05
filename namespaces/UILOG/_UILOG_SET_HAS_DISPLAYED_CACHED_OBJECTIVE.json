@@ -1,0 +1,9 @@
+{
+    "0xA3108D6981A5CADC": {
+        "name": "_UILOG_SET_HAS_DISPLAYED_CACHED_OBJECTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

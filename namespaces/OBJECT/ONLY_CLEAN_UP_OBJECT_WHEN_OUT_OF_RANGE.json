@@ -1,0 +1,16 @@
+{
+    "0xADBE4809F19F927A": {
+        "name": "ONLY_CLEAN_UP_OBJECT_WHEN_OUT_OF_RANGE",
+        "comment": "Old name: _MARK_OBJECT_FOR_DELETION",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xADBE4809F19F927A",
+        "gta_jhash": "0x2048A7DD"
+    }
+}

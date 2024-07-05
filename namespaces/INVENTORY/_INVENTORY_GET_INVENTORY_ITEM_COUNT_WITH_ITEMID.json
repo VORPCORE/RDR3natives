@@ -1,0 +1,22 @@
+{
+    "0xE787F05DFC977BDE": {
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_COUNT_WITH_ITEMID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Hash",
+                "name": "eInventoryItem"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

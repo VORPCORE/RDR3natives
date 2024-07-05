@@ -1,0 +1,14 @@
+{
+    "0xDCC374913DE6AAA6": {
+        "name": "_IS_SCENARIO_GROUP_ENABLED_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scenarioGroup"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

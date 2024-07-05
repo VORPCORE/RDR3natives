@@ -1,0 +1,9 @@
+{
+    "0x2DB524750DC41ED4": {
+        "name": "_0x2DB524750DC41ED4",
+        "comment": "Used in SP R* Scripts only\n_IS_PED_* - _IS_SC*",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

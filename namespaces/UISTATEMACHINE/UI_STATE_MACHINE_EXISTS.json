@@ -1,0 +1,14 @@
+{
+    "0x5D15569C0FEBF757": {
+        "name": "UI_STATE_MACHINE_EXISTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

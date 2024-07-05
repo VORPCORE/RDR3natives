@@ -1,0 +1,14 @@
+{
+    "0x7B3FF2D193628126": {
+        "name": "_0x7B3FF2D193628126",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

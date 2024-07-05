@@ -1,0 +1,14 @@
+{
+    "0xB25E57FC8E37114D": {
+        "name": "_IS_META_PED_OUTFIT_REQUEST_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "0xF1C5310FEAA36B48": {
+        "name": "_PLAY_SOUND_FROM_ENTITY_WITH_SET",
+        "comment": "Params: p5 seems to be always 0",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            },
+            {
+                "type": "const char*",
+                "name": "soundName"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "soundsetName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

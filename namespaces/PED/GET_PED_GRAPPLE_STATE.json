@@ -1,0 +1,14 @@
+{
+    "0x2311F15D971AA680": {
+        "name": "GET_PED_GRAPPLE_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

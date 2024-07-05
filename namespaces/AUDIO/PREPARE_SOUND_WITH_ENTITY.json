@@ -1,0 +1,26 @@
+{
+    "0x4AD019591E94C064": {
+        "name": "PREPARE_SOUND_WITH_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "soundName"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "soundsetName"
+            },
+            {
+                "type": "int",
+                "name": "soundId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

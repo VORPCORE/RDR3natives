@@ -1,0 +1,14 @@
+{
+    "0xDFCE8CE9F3EBE93F": {
+        "name": "_ADD_BLOOD_POOLS_FOR_PED",
+        "comment": "Creates blood pools for the given ped in some interval for a few seconds.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "0x062842D61D0D53FD": {
+        "name": "_0x062842D61D0D53FD",
+        "comment": "Note: this native was added in build 1311.23",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1311",
+        "unused": true
+    }
+}

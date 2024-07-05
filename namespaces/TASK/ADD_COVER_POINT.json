@@ -1,0 +1,44 @@
+{
+    "0xD5C12A75C7B9497F": {
+        "name": "ADD_COVER_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            }
+        ],
+        "return_type": "ScrHandle",
+        "build": "1207",
+        "gta_hash": "0xD5C12A75C7B9497F",
+        "gta_jhash": "0xA0AF0B98"
+    }
+}

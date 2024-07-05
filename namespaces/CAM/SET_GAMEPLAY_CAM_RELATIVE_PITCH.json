@@ -1,0 +1,20 @@
+{
+    "0xFB760AF4F537B8BF": {
+        "name": "SET_GAMEPLAY_CAM_RELATIVE_PITCH",
+        "comment": "Sets the camera pitch.\n\nParameters:\nx = pitches the camera on the x axis.\nValue2 = always seems to be hex 0x3F800000 (1.000000 float).",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "Value2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6D0858B8EDFD2B7D",
+        "gta_jhash": "0x6381B963"
+    }
+}

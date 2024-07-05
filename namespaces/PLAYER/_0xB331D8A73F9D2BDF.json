@@ -1,0 +1,18 @@
+{
+    "0xB331D8A73F9D2BDF": {
+        "name": "_0xB331D8A73F9D2BDF",
+        "comment": "_IS_PLAYER_I* - _IS_PLAYER_P*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

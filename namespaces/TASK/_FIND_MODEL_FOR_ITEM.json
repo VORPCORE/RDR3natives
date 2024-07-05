@@ -1,0 +1,14 @@
+{
+    "0xE47DD64B9F02677D": {
+        "name": "_FIND_MODEL_FOR_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "item"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x337F88E3A063995F": {
+        "name": "_ITEMDATABASE_IS_OVERPOWERED_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "key"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

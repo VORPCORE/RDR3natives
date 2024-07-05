@@ -1,0 +1,14 @@
+{
+    "0xC9CAEAEEC1256E54": {
+        "name": "_ENABLE_HUD_CONTEXT_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "component"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

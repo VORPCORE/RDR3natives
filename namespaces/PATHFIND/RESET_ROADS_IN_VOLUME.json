@@ -1,0 +1,18 @@
+{
+    "0xD17672447692478E": {
+        "name": "RESET_ROADS_IN_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

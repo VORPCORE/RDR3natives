@@ -1,0 +1,26 @@
+{
+    "0xCE7A6C1D5CDE1F9D": {
+        "name": "_0xCE7A6C1D5CDE1F9D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "const char*",
+                "name": "propName"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "0xF6DF6E90DE7DF90F": {
+        "name": "SET_OBJECT_PHYSICS_PARAMS",
+        "comment": "Adjust the physics parameters of a prop, or otherwise known as \"object\". This is useful for simulated gravity.\n\nOther parameters seem to be unknown.\n\np2: seems to be weight and gravity related. Higher value makes the obj fall faster. Very sensitive?\np3: seems similar to p2\np4: makes obj fall slower the higher the value\np5: similar to p4",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "weight"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "gravity"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "float",
+                "name": "buoyancy"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF6DF6E90DE7DF90F",
+        "gta_jhash": "0xE8D11C58"
+    }
+}

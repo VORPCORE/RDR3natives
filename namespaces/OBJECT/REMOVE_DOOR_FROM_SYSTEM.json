@@ -1,0 +1,16 @@
+{
+    "0x464D8E1427156FE4": {
+        "name": "REMOVE_DOOR_FROM_SYSTEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x464D8E1427156FE4",
+        "gta_jhash": "0x00253286"
+    }
+}

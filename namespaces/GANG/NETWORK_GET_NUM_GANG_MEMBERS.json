@@ -1,0 +1,14 @@
+{
+    "0x149A2751AB66AC02": {
+        "name": "NETWORK_GET_NUM_GANG_MEMBERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "gangId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

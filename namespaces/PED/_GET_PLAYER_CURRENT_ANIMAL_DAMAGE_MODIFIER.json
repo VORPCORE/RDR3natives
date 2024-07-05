@@ -1,0 +1,14 @@
+{
+    "0xEE2D5C819A65BF26": {
+        "name": "_GET_PLAYER_CURRENT_ANIMAL_DAMAGE_MODIFIER",
+        "comment": "Returns animal skin quality modifier",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1311"
+    }
+}

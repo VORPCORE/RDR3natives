@@ -1,0 +1,20 @@
+{
+    "0xE41885592B08B097": {
+        "name": "TASK_VEHICLE_AIM_AT_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "target"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE41885592B08B097",
+        "gta_jhash": "0x920AE6DB"
+    }
+}

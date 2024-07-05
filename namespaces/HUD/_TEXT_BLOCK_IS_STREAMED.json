@@ -1,0 +1,14 @@
+{
+    "0x3CF96E16265B7DC8": {
+        "name": "_TEXT_BLOCK_IS_STREAMED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textBlock"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

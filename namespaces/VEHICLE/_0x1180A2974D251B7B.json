@@ -1,0 +1,14 @@
+{
+    "0x1180A2974D251B7B": {
+        "name": "_0x1180A2974D251B7B",
+        "comment": "Returns p1 for 0xBA958F68031DDBFC (stationIndex)\n_GET_N* (NEAREST_STATION_FOR_TRAIN?)",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xC8D523BF5BBD3808": {
+        "name": "IS_EVENT_IN_QUEUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "eventType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

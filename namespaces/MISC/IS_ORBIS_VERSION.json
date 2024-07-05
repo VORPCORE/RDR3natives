@@ -1,0 +1,11 @@
+{
+    "0x88CFAE250D3E0C71": {
+        "name": "IS_ORBIS_VERSION",
+        "comment": "Hardcoded to return false.\nChecks for PS4 Game Build.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xA72BC0B675B1519E",
+        "gta_jhash": "0x40282018"
+    }
+}

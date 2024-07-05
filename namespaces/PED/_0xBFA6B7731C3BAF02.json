@@ -1,0 +1,9 @@
+{
+    "0xBFA6B7731C3BAF02": {
+        "name": "_0xBFA6B7731C3BAF02",
+        "comment": "Only used in R* Script tg_p (CLIENT__AMBIENT_POPULATION - Player starts the populate in region)",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

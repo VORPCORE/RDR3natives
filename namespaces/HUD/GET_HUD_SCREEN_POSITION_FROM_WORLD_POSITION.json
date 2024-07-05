@@ -1,0 +1,32 @@
+{
+    "0xB39C81628EF10B42": {
+        "name": "GET_HUD_SCREEN_POSITION_FROM_WORLD_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "worldX"
+            },
+            {
+                "type": "float",
+                "name": "worldY"
+            },
+            {
+                "type": "float",
+                "name": "worldZ"
+            },
+            {
+                "type": "float*",
+                "name": "screenX"
+            },
+            {
+                "type": "float*",
+                "name": "screenY"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xF9904D11F1ACBEC3",
+        "gta_jhash": "0xFE9A39F8"
+    }
+}

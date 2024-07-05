@@ -1,0 +1,14 @@
+{
+    "0x1F298C7BD30D1240": {
+        "name": "_0x1F298C7BD30D1240",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

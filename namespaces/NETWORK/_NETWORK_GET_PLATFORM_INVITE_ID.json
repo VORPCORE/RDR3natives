@@ -1,0 +1,9 @@
+{
+    "0x9BCF28FB5D65A9BE": {
+        "name": "_NETWORK_GET_PLATFORM_INVITE_ID",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xEF6F2A35FAAF2ED7": {
+        "name": "_0xEF6F2A35FAAF2ED7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

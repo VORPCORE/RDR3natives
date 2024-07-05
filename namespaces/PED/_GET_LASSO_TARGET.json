@@ -1,0 +1,14 @@
+{
+    "0xB65A4DAB460A19BD": {
+        "name": "_GET_LASSO_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

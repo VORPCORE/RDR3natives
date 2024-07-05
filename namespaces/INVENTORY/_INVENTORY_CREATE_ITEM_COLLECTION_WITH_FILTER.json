@@ -1,0 +1,22 @@
+{
+    "0x640F890C3E5A3FFD": {
+        "name": "_INVENTORY_CREATE_ITEM_COLLECTION_WITH_FILTER",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "filter"
+            },
+            {
+                "type": "int*",
+                "name": "numInCollection"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

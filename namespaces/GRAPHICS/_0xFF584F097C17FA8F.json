@@ -1,0 +1,9 @@
+{
+    "0xFF584F097C17FA8F": {
+        "name": "_0xFF584F097C17FA8F",
+        "comment": "Returns whether the 'killFX' setting is enabled.\n\nANIMPOSTFX_*",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

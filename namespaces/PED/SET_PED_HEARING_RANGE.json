@@ -1,0 +1,20 @@
+{
+    "0x33A8F7F7D5F7F33C": {
+        "name": "SET_PED_HEARING_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x33A8F7F7D5F7F33C",
+        "gta_jhash": "0xB32087E0"
+    }
+}

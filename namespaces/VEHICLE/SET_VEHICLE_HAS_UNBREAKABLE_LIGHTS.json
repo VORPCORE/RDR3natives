@@ -1,0 +1,20 @@
+{
+    "0xC903855E028A05F2": {
+        "name": "SET_VEHICLE_HAS_UNBREAKABLE_LIGHTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1AA8A837D2169D94",
+        "gta_jhash": "0x009AB49E"
+    }
+}

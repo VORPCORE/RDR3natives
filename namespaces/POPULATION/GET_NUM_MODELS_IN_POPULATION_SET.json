@@ -1,0 +1,14 @@
+{
+    "0xA1E3171ED0E47564": {
+        "name": "GET_NUM_MODELS_IN_POPULATION_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "popSetHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

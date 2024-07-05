@@ -1,0 +1,18 @@
+{
+    "0x093A9D1F72DF0D19": {
+        "name": "SET_BOUNTY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

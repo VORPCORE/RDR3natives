@@ -1,0 +1,18 @@
+{
+    "0xC5303F460A40D21D": {
+        "name": "_0xC5303F460A40D21D",
+        "comment": "Returns boneIndex\n_GET_PED_N* - _GET_PED_R*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x7043D0681285BA2D": {
+        "name": "FADE_AND_DESTROY_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped*",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

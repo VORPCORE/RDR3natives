@@ -1,0 +1,18 @@
+{
+    "0xBE551C2CC421185D": {
+        "name": "_SET_ANTI_GRIEF_VOLUME_BLOCKS_HORSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

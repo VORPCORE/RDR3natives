@@ -1,0 +1,18 @@
+{
+    "0xBB28D1BC9EA8A6A5": {
+        "name": "TASK_BREAK_VEHICLE_DOOR_LOCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

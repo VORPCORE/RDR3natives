@@ -1,0 +1,18 @@
+{
+    "0x9B9B9FA0EA283E3D": {
+        "name": "_0x9B9B9FA0EA283E3D",
+        "comment": "Used in Script Function SKCS_PLAYER_ROBBING\n_SET_PED_SHOULD_PLAY_* - _SET_PED_SW*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

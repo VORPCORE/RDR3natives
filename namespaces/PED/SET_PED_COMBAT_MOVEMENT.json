@@ -1,0 +1,20 @@
+{
+    "0x4D9CA1009AFBD057": {
+        "name": "SET_PED_COMBAT_MOVEMENT",
+        "comment": "0 - Stationary (Will just stand in place)\n1 - Defensive (Will try to find cover and very likely to blind fire)\n2 - Offensive (Will attempt to charge at enemy but take cover as well)\n3 - Suicidal Offensive (Will try to flank enemy in a suicidal attack)",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "combatMovement"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4D9CA1009AFBD057",
+        "gta_jhash": "0x12E62F9E"
+    }
+}

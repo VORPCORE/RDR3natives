@@ -1,0 +1,38 @@
+{
+    "0xF0B67BAD53C35BD9": {
+        "name": "_LAW_WITNESS_RESPONSE_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "pedGroup1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "pedGroup2"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Hash",
+                "name": "crimeType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

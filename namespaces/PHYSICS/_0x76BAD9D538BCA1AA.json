@@ -1,0 +1,18 @@
+{
+    "0x76BAD9D538BCA1AA": {
+        "name": "_0x76BAD9D538BCA1AA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x16F2C8C084AB2092": {
+        "name": "_GET_NUM_RESERVED_HEALTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

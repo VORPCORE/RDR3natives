@@ -1,0 +1,18 @@
+{
+    "0x19C7567D2F2287D6": {
+        "name": "_ADD_NAVMESH_BLOCKING_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

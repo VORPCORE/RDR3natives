@@ -1,0 +1,22 @@
+{
+    "0x3CE932E737C145D6": {
+        "name": "_UI_PROMPT_SET_HOLD_AUTO_FILL_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "int",
+                "name": "autoFillTimeMs"
+            },
+            {
+                "type": "int",
+                "name": "holdTimeMs"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

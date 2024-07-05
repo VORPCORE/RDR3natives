@@ -1,0 +1,22 @@
+{
+    "0x7E6BC0B94F5928F0": {
+        "name": "_0x7E6BC0B94F5928F0",
+        "comment": "",
+        "params": [
+            {
+                "type": "PopZone",
+                "name": "popZone"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

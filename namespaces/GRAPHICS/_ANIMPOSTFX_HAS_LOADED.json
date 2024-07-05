@@ -1,0 +1,14 @@
+{
+    "0xBF2DD155B2ADCD0A": {
+        "name": "_ANIMPOSTFX_HAS_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

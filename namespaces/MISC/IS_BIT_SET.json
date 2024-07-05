@@ -1,0 +1,20 @@
+{
+    "0x4ED6CFDFE8D4131A": {
+        "name": "IS_BIT_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "address"
+            },
+            {
+                "type": "int",
+                "name": "offset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xA921AA820C25702F",
+        "gta_jhash": "0x902E26AC"
+    }
+}

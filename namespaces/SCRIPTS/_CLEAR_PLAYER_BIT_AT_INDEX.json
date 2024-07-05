@@ -1,0 +1,18 @@
+{
+    "0xD426E2E3288469D6": {
+        "name": "_CLEAR_PLAYER_BIT_AT_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "bitIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xF44D446D4E36DB87": {
+        "name": "SET_RANDOM_BOATS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x84436EC293B1415F",
+        "gta_jhash": "0xB505BD89"
+    }
+}

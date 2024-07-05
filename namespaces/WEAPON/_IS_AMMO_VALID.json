@@ -1,0 +1,14 @@
+{
+    "0x1F7977C9101F807F": {
+        "name": "_IS_AMMO_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "ammoHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

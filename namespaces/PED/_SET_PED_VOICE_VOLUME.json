@@ -1,0 +1,18 @@
+{
+    "0xD05AD61F242C626B": {
+        "name": "_SET_PED_VOICE_VOLUME",
+        "comment": "_SET_PED_S* - _SET_PED_T*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

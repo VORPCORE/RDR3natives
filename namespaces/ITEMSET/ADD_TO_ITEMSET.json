@@ -1,0 +1,20 @@
+{
+    "0xABE74510883C7950": {
+        "name": "ADD_TO_ITEMSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xE3945201F14637DD",
+        "gta_jhash": "0x6B0FE61B"
+    }
+}

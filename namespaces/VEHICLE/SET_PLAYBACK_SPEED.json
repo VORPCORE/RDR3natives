@@ -1,0 +1,20 @@
+{
+    "0xD78084EED4CD94C6": {
+        "name": "SET_PLAYBACK_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6683AB880E427778",
+        "gta_jhash": "0x684E26E4"
+    }
+}

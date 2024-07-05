@@ -1,0 +1,14 @@
+{
+    "0x4BF66F8878F67663": {
+        "name": "_GET_WEAPON_SOOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

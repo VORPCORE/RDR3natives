@@ -1,0 +1,9 @@
+{
+    "0x5A8B01199C3E79C3": {
+        "name": "LOAD_SCENE_STOP",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

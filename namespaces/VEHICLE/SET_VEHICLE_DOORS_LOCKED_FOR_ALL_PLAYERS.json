@@ -1,0 +1,20 @@
+{
+    "0x2381977DA948F8DC": {
+        "name": "SET_VEHICLE_DOORS_LOCKED_FOR_ALL_PLAYERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA2F80B8D040727CC",
+        "gta_jhash": "0x891BA8A4"
+    }
+}

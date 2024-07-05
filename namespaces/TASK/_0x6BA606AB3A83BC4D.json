@@ -1,0 +1,14 @@
+{
+    "0x6BA606AB3A83BC4D": {
+        "name": "_0x6BA606AB3A83BC4D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

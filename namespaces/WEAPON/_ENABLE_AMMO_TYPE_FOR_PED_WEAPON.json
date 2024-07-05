@@ -1,0 +1,22 @@
+{
+    "0x23FB9FACA28779C1": {
+        "name": "_ENABLE_AMMO_TYPE_FOR_PED_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

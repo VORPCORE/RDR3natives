@@ -1,0 +1,9 @@
+{
+    "0xF0D54E0651DD7E07": {
+        "name": "_TELEMETRY_START_GUN_LOCKER_INTERACTION",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

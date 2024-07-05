@@ -1,0 +1,14 @@
+{
+    "0x8952E857696B8A79": {
+        "name": "_SET_STATE_PHOTO_TAKEN_STAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

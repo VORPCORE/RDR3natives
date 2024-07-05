@@ -1,0 +1,22 @@
+{
+    "0x442B4347B6EC36E8": {
+        "name": "_SET_NETWORK_RESPOT_TIMER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "timer"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

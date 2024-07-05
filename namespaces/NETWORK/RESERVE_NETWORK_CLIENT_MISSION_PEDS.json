@@ -1,0 +1,14 @@
+{
+    "0x807E119F80231732": {
+        "name": "RESERVE_NETWORK_CLIENT_MISSION_PEDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x73B6F907B913C860": {
+        "name": "_SET_TOTAL_PED_DAMAGE_FROM_AI",
+        "comment": "_SET_W(EAPON?)*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "totalDamage"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

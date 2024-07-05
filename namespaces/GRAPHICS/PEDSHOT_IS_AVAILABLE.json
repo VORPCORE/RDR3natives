@@ -1,0 +1,9 @@
+{
+    "0xAF6E67D073D2DCE2": {
+        "name": "PEDSHOT_IS_AVAILABLE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

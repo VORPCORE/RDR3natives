@@ -1,0 +1,30 @@
+{
+    "0x02BCC0FE9EBA3529": {
+        "name": "_UI_FEED_POST_THREE_TEXT_SHARD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xB65E7F733956CF25": {
+        "name": "_0xB65E7F733956CF25",
+        "comment": "",
+        "params": [
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "0x8C109958C9BB559D": {
+        "name": "_UGC_QUERY_BY_CATEGORY",
+        "comment": "Returns ugcRequestId",
+        "params": [
+            {
+                "type": "int",
+                "name": "categoryType"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "maxGet"
+            },
+            {
+                "type": "const char*",
+                "name": "contentTypeName"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

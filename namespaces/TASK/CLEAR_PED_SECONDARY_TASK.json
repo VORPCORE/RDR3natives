@@ -1,0 +1,16 @@
+{
+    "0x176CECF6F920D707": {
+        "name": "CLEAR_PED_SECONDARY_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x176CECF6F920D707",
+        "gta_jhash": "0xA635F451"
+    }
+}

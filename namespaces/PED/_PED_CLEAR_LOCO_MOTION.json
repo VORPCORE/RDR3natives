@@ -1,0 +1,14 @@
+{
+    "0x935CF6E42BAF7F4D": {
+        "name": "_PED_CLEAR_LOCO_MOTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x71D4BF5890659B0C": {
+        "name": "GET_IS_LOADING_SCREEN_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x10D0A8F259E93EC9",
+        "gta_jhash": "0x517B601B"
+    }
+}

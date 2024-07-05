@@ -1,0 +1,14 @@
+{
+    "0xC6DE040378364798": {
+        "name": "_GOOGLE_ANALYTICS_POP_PAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "pageName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

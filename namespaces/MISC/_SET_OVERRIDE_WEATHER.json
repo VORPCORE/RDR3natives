@@ -1,0 +1,14 @@
+{
+    "0xBE83CAE8ED77A94F": {
+        "name": "_SET_OVERRIDE_WEATHER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weatherType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

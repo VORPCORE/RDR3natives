@@ -1,0 +1,16 @@
+{
+    "0xAA81B5F10BC43AC2": {
+        "name": "GET_NUM_RESERVED_MISSION_OBJECTS",
+        "comment": "p0 appears to be for MP",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xAA81B5F10BC43AC2",
+        "gta_jhash": "0x16A80CD6"
+    }
+}

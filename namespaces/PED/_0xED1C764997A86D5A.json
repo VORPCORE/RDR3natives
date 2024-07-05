@@ -1,0 +1,18 @@
+{
+    "0xED1C764997A86D5A": {
+        "name": "_0xED1C764997A86D5A",
+        "comment": "Only used in R* Script nb_stalking_hunter",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

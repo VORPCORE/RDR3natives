@@ -1,0 +1,20 @@
+{
+    "0x5EDA520F7A3BAF4E": {
+        "name": "SET_PLAYER_CAN_USE_COVER",
+        "comment": "Sets whether this player can take cover.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD465A8599DFF6814",
+        "gta_jhash": "0x13CAFAFA"
+    }
+}

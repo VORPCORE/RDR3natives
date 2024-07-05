@@ -1,0 +1,11 @@
+{
+    "0x1CE71FB33CA079FE": {
+        "name": "END_SRL",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0A41540E63C9EE17",
+        "gta_jhash": "0x1977C56A"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x87B974E54C71BA7B": {
+        "name": "_0x87B974E54C71BA7B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

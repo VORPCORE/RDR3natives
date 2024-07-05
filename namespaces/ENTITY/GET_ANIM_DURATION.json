@@ -1,0 +1,20 @@
+{
+    "0x9FFAF4940A54CC09": {
+        "name": "GET_ANIM_DURATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xFEDDF04D62B8D790",
+        "gta_jhash": "0x8B5E3E3D"
+    }
+}

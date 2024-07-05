@@ -1,0 +1,18 @@
+{
+    "0x8301D87B1B89E219": {
+        "name": "_SET_PED_GRAPPLE_ACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "grappleAction"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x7C907E8A725E5FD2": {
+        "name": "SET_SRL_LONG_JUMP_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x20C6C7E4EB082A7F",
+        "gta_jhash": "0xA6459CAA"
+    }
+}

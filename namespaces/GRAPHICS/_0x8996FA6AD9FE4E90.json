@@ -1,0 +1,14 @@
+{
+    "0x8996FA6AD9FE4E90": {
+        "name": "_0x8996FA6AD9FE4E90",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

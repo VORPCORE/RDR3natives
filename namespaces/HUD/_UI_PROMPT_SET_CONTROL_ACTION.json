@@ -1,0 +1,18 @@
+{
+    "0xB5352B7494A08258": {
+        "name": "_UI_PROMPT_SET_CONTROL_ACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "Hash",
+                "name": "action"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

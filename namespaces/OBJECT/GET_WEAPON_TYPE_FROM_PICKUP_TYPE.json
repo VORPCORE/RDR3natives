@@ -1,0 +1,16 @@
+{
+    "0x08F96CA6C551AD51": {
+        "name": "GET_WEAPON_TYPE_FROM_PICKUP_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207",
+        "gta_hash": "0x08F96CA6C551AD51",
+        "gta_jhash": "0xEDD01937"
+    }
+}

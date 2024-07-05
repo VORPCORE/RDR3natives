@@ -1,0 +1,14 @@
+{
+    "0xB727A847862CB00A": {
+        "name": "_LOAD_MGM_ASSETS",
+        "comment": "Used to request MiniGameMoments Assets.\n\nmgmFilename's:\nPoker\nPokerArthur\nPokerArthurCamp\nPokerJohn\nPokerJohnCamp",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "mgmFilename"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

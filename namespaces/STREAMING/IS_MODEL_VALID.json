@@ -1,0 +1,16 @@
+{
+    "0x392C8D8E07B70EFC": {
+        "name": "IS_MODEL_VALID",
+        "comment": "Returns whether the specified model is valid",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xC0296A2EDF545E92",
+        "gta_jhash": "0xAF8F8E9D"
+    }
+}

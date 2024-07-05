@@ -1,0 +1,9 @@
+{
+    "0x9E4EF615E307FBBE": {
+        "name": "IS_THREAD_EXIT_REQUESTED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

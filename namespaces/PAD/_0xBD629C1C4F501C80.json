@@ -1,0 +1,14 @@
+{
+    "0xBD629C1C4F501C80": {
+        "name": "_0xBD629C1C4F501C80",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x5DA36CCCB63C0895": {
+        "name": "_0x5DA36CCCB63C0895",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

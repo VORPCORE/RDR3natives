@@ -1,0 +1,9 @@
+{
+    "0x4F2D5FA23DB992DE": {
+        "name": "_0x4F2D5FA23DB992DE",
+        "comment": "Only used in R* Script net_char_creator",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

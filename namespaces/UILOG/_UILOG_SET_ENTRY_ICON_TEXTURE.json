@@ -1,0 +1,26 @@
+{
+    "0x6965469934958D8F": {
+        "name": "_UILOG_SET_ENTRY_ICON_TEXTURE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "icon"
+            },
+            {
+                "type": "Hash",
+                "name": "iconDictionary"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

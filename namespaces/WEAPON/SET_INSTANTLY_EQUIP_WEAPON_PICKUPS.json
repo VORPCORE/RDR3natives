@@ -1,0 +1,18 @@
+{
+    "0x739B9C6D0E7F7F93": {
+        "name": "SET_INSTANTLY_EQUIP_WEAPON_PICKUPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

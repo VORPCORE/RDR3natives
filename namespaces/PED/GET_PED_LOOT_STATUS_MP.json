@@ -1,0 +1,14 @@
+{
+    "0xC737697C41628340": {
+        "name": "GET_PED_LOOT_STATUS_MP",
+        "comment": "enum ePedLootStatus\n{\n\tPLS_NONE,\n\tPLS_PRE_LOOT,\n\tPLS_SAMPLING,\n\tPLS_SKINNING\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311"
+    }
+}

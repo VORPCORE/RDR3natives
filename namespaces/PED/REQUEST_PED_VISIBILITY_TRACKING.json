@@ -1,0 +1,16 @@
+{
+    "0x7D7A2E43E74E2EB8": {
+        "name": "REQUEST_PED_VISIBILITY_TRACKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7D7A2E43E74E2EB8",
+        "gta_jhash": "0x840D24D3"
+    }
+}

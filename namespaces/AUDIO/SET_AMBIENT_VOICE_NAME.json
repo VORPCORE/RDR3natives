@@ -1,0 +1,20 @@
+{
+    "0x6C8065A3B780185B": {
+        "name": "SET_AMBIENT_VOICE_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6C8065A3B780185B",
+        "gta_jhash": "0xBD2EA1A1"
+    }
+}

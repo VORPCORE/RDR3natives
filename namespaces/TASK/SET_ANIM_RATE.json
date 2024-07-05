@@ -1,0 +1,28 @@
+{
+    "0x032D49C5E359C847": {
+        "name": "SET_ANIM_RATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x032D49C5E359C847",
+        "gta_jhash": "0x6DB46584"
+    }
+}

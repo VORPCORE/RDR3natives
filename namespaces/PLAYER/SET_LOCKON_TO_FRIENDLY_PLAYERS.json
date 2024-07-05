@@ -1,0 +1,18 @@
+{
+    "0x4A056257802DD3E5": {
+        "name": "SET_LOCKON_TO_FRIENDLY_PLAYERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

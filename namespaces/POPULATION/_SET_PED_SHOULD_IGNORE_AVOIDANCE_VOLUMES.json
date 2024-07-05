@@ -1,0 +1,18 @@
+{
+    "0xF74E134F40192884": {
+        "name": "_SET_PED_SHOULD_IGNORE_AVOIDANCE_VOLUMES",
+        "comment": "Params: p1 = 1 & 2 in R* Scripts, 0 = Disable avoidance, 1 = Enabled avoidance, 2 = Enabled avoidance (?)",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

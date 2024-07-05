@@ -1,0 +1,14 @@
+{
+    "0x904103D5D2333977": {
+        "name": "_GET_WEAPON_DAMAGE",
+        "comment": "Related to weapon visual damage, not actual damage.",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

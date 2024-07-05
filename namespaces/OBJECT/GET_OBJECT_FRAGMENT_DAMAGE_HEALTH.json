@@ -1,0 +1,20 @@
+{
+    "0xB6FBFD079B8D0596": {
+        "name": "GET_OBJECT_FRAGMENT_DAMAGE_HEALTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xB6FBFD079B8D0596",
+        "gta_jhash": "0xF0B330AD"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xE79BA3BC265895DA": {
+        "name": "_0xE79BA3BC265895DA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

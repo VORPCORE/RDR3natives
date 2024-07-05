@@ -1,0 +1,18 @@
+{
+    "0x0C3CB2E600C8977D": {
+        "name": "IS_PED_EXITING_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

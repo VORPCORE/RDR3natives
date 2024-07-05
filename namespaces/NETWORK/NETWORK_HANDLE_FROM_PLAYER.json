@@ -1,0 +1,20 @@
+{
+    "0x388EB2B86C73B6B3": {
+        "name": "NETWORK_HANDLE_FROM_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x388EB2B86C73B6B3",
+        "gta_jhash": "0xD3498917"
+    }
+}

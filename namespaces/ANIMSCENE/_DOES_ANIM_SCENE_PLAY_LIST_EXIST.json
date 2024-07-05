@@ -1,0 +1,18 @@
+{
+    "0xA9016536015DE29D": {
+        "name": "_DOES_ANIM_SCENE_PLAY_LIST_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "playbackListName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

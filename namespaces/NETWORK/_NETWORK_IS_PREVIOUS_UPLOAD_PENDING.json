@@ -1,0 +1,9 @@
+{
+    "0xA21E3BAD0A42D199": {
+        "name": "_NETWORK_IS_PREVIOUS_UPLOAD_PENDING",
+        "comment": "_NETWORK_IS_T* - _NETWORK_RE*",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

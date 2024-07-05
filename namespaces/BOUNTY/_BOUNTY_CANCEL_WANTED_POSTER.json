@@ -1,0 +1,9 @@
+{
+    "0x6A9DF0FCD0C87FF9": {
+        "name": "_BOUNTY_CANCEL_WANTED_POSTER",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xDB48E99F8E064E56": {
+        "name": "_SET_SCENARIO_ANIMAL_DENSITY_MULTIPLIER_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

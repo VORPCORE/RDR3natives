@@ -1,0 +1,14 @@
+{
+    "0x67A43EA3F6FE0076": {
+        "name": "_0x67A43EA3F6FE0076",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

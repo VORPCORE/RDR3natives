@@ -1,0 +1,34 @@
+{
+    "0x79482C12482A860D": {
+        "name": "TASK_MOVE_FOLLOW_ROAD_USING_NAVMESH",
+        "comment": "Params: moveBlendRatio commonly 1.25f, p5 is always 0 in R* Scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "moveBlendRatio"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x1549BA7FE83A2383": {
+        "name": "SET_VEHICLE_KEEP_ENGINE_ON_WHEN_ABANDONED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB8FBC8B1330CA9B4",
+        "gta_jhash": "0x51E0064F"
+    }
+}

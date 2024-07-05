@@ -1,0 +1,14 @@
+{
+    "0xF7A4C571E572D237": {
+        "name": "TAKE_OWNERSHIP_OF_ANIM_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

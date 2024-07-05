@@ -1,0 +1,16 @@
+{
+    "0xCF8176912DDA4EA5": {
+        "name": "IS_ENTITY_A_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x524AC5ECEA15343E",
+        "gta_jhash": "0x55D33EAB"
+    }
+}

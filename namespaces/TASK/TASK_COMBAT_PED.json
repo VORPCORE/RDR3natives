@@ -1,0 +1,28 @@
+{
+    "0xF166E48407BAC484": {
+        "name": "TASK_COMBAT_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF166E48407BAC484",
+        "gta_jhash": "0xCB0D8932"
+    }
+}

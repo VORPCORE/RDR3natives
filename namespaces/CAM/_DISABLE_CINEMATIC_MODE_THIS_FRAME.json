@@ -1,0 +1,9 @@
+{
+    "0x8910C24B7E0046EC": {
+        "name": "_DISABLE_CINEMATIC_MODE_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

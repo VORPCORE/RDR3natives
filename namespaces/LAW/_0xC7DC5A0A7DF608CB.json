@@ -1,0 +1,14 @@
+{
+    "0xC7DC5A0A7DF608CB": {
+        "name": "_0xC7DC5A0A7DF608CB",
+        "comment": "_GET_DISPATCH_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

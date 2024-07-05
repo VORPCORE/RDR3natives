@@ -1,0 +1,14 @@
+{
+    "0x88A95BB640FC186F": {
+        "name": "_0x88A95BB640FC186F",
+        "comment": "Used in R* Script generic_weight_control_item\n_CLEAR_PED_E* - CLEAR_PED_(G?)L*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

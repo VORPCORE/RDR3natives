@@ -1,0 +1,20 @@
+{
+    "0x77A1EEC547E7FCF1": {
+        "name": "PLAY_ENTITY_SCRIPTED_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x77A1EEC547E7FCF1",
+        "gta_jhash": "0x02F72AE5"
+    }
+}

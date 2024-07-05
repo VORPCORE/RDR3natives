@@ -1,0 +1,11 @@
+{
+    "0x0EFC5DC62E67609B": {
+        "name": "CLEAR_LAST_DRIVEN_VEHICLE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE01903C47C7AC89E",
+        "gta_jhash": "0x07186AD9"
+    }
+}

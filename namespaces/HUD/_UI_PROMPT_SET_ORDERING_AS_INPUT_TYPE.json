@@ -1,0 +1,18 @@
+{
+    "0x2F385ECC5200938D": {
+        "name": "_UI_PROMPT_SET_ORDERING_AS_INPUT_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

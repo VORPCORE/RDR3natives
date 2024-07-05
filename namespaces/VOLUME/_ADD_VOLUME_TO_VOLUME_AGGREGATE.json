@@ -1,0 +1,54 @@
+{
+    "0x12FCAA23F2320422": {
+        "name": "_ADD_VOLUME_TO_VOLUME_AGGREGATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "aggregate"
+            },
+            {
+                "type": "Hash",
+                "name": "typeHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "scaleX"
+            },
+            {
+                "type": "float",
+                "name": "scaleY"
+            },
+            {
+                "type": "float",
+                "name": "scaleZ"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

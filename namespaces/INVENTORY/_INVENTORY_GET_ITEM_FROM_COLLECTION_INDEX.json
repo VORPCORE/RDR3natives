@@ -1,0 +1,22 @@
+{
+    "0x82FA24C3D3FCD9B7": {
+        "name": "_INVENTORY_GET_ITEM_FROM_COLLECTION_INDEX",
+        "comment": "collectionId is < outCollectionSize",
+        "params": [
+            {
+                "type": "int",
+                "name": "collectionId"
+            },
+            {
+                "type": "int",
+                "name": "itemIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "itemData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x516C6ABD18322B63": {
+        "name": "SET_ENTITY_MOTION_BLUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x295D82A8559F9150",
+        "gta_jhash": "0xE90005B8"
+    }
+}

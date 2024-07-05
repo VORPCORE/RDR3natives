@@ -1,0 +1,22 @@
+{
+    "0xCFB06801F5099B25": {
+        "name": "_ITEMDATABASE_GET_SHOP_INVENTORIES_ITEM_INFO_BY_KEY",
+        "comment": "Same Native Function as 0x17721003A66C72BF",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "shopType"
+            },
+            {
+                "type": "Hash",
+                "name": "key"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

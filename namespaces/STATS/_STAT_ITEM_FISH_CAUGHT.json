@@ -1,0 +1,26 @@
+{
+    "0xDA26263C87CCE9C1": {
+        "name": "_STAT_ITEM_FISH_CAUGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "fish"
+            },
+            {
+                "type": "float",
+                "name": "weight"
+            },
+            {
+                "type": "Hash",
+                "name": "category"
+            },
+            {
+                "type": "Hash",
+                "name": "subcategory"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

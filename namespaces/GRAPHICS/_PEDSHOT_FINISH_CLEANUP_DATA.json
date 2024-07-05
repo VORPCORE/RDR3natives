@@ -1,0 +1,9 @@
+{
+    "0xC2B8164C3BE871A4": {
+        "name": "_PEDSHOT_FINISH_CLEANUP_DATA",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

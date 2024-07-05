@@ -1,0 +1,23 @@
+{
+    "0xF63DF9EE16393343": {
+        "name": "CHAL_SET_GOAL_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            },
+            {
+                "type": "Hash",
+                "name": "goalHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1436",
+        "unused": true
+    }
+}

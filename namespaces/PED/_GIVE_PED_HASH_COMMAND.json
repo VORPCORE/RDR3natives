@@ -1,0 +1,22 @@
+{
+    "0xD65FDC686A031C83": {
+        "name": "_GIVE_PED_HASH_COMMAND",
+        "comment": "Ped Command Hash are special commands, that can be activated to change conditional anim variations or trigger transitions between conditional anims.\nhttps://github.com/femga/rdr3_discoveries/blob/master/animations/scenarios",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "commandHash"
+            },
+            {
+                "type": "float",
+                "name": "activationDuration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

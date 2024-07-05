@@ -1,0 +1,14 @@
+{
+    "0x79407D33328286C6": {
+        "name": "_IS_WEAPON_LANTERN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

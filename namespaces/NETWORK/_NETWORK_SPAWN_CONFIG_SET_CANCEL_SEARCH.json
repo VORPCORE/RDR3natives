@@ -1,0 +1,9 @@
+{
+    "0x765E60A1DCB8B1CE": {
+        "name": "_NETWORK_SPAWN_CONFIG_SET_CANCEL_SEARCH",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

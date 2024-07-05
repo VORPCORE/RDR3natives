@@ -1,0 +1,18 @@
+{
+    "0xBBADFB5E5E5766FB": {
+        "name": "_SET_PLAYER_STAMINA_SPRINT_DEPLETION_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

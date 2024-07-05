@@ -1,0 +1,18 @@
+{
+    "0xB89FCFF19DAFFF28": {
+        "name": "HAS_ENTITY_EXITED_ANIM_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "entityName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x141BC64C8D7C5529": {
+        "name": "_0x141BC64C8D7C5529",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

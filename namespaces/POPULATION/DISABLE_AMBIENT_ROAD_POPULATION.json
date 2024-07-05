@@ -1,0 +1,14 @@
+{
+    "0xC6DCC2A3A8825C85": {
+        "name": "DISABLE_AMBIENT_ROAD_POPULATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "unk"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

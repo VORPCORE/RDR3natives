@@ -1,0 +1,18 @@
+{
+    "0x8268B098F6FCA4E2": {
+        "name": "_SET_VEHICLE_TINT",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/vehicles/vehicle_modding/vehicle_tints.lua",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "tintId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

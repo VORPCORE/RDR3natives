@@ -1,0 +1,14 @@
+{
+    "0xF20B18A330E6DB5C": {
+        "name": "_NETWORK_SESSION_TRANSITION_TO_SESSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "sessionRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

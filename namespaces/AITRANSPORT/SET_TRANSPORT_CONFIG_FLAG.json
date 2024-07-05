@@ -1,0 +1,22 @@
+{
+    "0xBA8818212633500A": {
+        "name": "SET_TRANSPORT_CONFIG_FLAG",
+        "comment": "flagId:\nenum eTransportConfigFlags\n{\n\tTCF_NotConsideredForEntryByLocalPlayer,\n\tTCF_0xB78D6624,\n\tTCF_0xA9700425,\n\tTCF_0x8D7E4641,\n\tTCF_0xF24BAA1F,\n\tTCF_0x63B77935,\n\tTCF_NotConsideredForEntryByAllPlayers,\n\tTCF_0xD17A2AFD,\n\tTCF_0xD4E4FDD5,\n\tTCF_0x8227C929,\n\tTCF_0x812C1070,\n\tTCF_0x0E1AB26F,\n\tTCF_0xBF4EC863,\n\tTCF_0x75660C36,\n\tTCF_0xA2539E20,\n\tTCF_0x9162C633,\n\tTCF_DisableHonorModifiers,\n\tTCF_0xF9E71CB6,\n\tTCF_0x933ECD3F,\n\tTCF_0x18513A34\n};\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/TRANSPORT_CONFIG_FLAGS",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "int",
+                "name": "flagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

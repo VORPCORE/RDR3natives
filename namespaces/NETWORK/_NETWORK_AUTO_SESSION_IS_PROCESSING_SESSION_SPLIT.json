@@ -1,0 +1,9 @@
+{
+    "0xA021095C983F20D8": {
+        "name": "_NETWORK_AUTO_SESSION_IS_PROCESSING_SESSION_SPLIT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

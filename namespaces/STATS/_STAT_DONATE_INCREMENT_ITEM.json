@@ -1,0 +1,26 @@
+{
+    "0x7C2ABF6E556B21FC": {
+        "name": "_STAT_DONATE_INCREMENT_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "item"
+            },
+            {
+                "type": "int",
+                "name": "slot"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xEC0BD8736DCAF841": {
+        "name": "_0xEC0BD8736DCAF841",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

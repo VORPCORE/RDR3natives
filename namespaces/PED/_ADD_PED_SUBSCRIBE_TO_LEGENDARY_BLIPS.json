@@ -1,0 +1,14 @@
+{
+    "0xE37287EE358939C3": {
+        "name": "_ADD_PED_SUBSCRIBE_TO_LEGENDARY_BLIPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

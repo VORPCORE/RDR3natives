@@ -1,0 +1,18 @@
+{
+    "0xA0B7094629724974": {
+        "name": "_0xA0B7094629724974",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

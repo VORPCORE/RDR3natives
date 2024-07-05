@@ -1,0 +1,14 @@
+{
+    "0xCDCD7B2D49AEE73A": {
+        "name": "_0xCDCD7B2D49AEE73A",
+        "comment": "Used in SP R* Scripts only\n_SET_P*",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

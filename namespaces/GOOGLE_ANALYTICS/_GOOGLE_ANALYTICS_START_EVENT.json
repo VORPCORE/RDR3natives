@@ -1,0 +1,26 @@
+{
+    "0x1C54F031D7C0F7AC": {
+        "name": "_GOOGLE_ANALYTICS_START_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "eventCategory"
+            },
+            {
+                "type": "const char*",
+                "name": "eventAction"
+            },
+            {
+                "type": "const char*",
+                "name": "eventLabel"
+            },
+            {
+                "type": "int",
+                "name": "eventValue"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1355"
+    }
+}

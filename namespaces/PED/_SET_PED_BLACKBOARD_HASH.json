@@ -1,0 +1,26 @@
+{
+    "0xA762C9D6CF165E0D": {
+        "name": "_SET_PED_BLACKBOARD_HASH",
+        "comment": "p1:\nBodyPartChained\nOverloadMostInjuredBodyPart\n\np2:\nLeftLeg\nLegs\nRightArm",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "variableName"
+            },
+            {
+                "type": "const char*",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "removeTimer"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

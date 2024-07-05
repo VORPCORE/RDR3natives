@@ -1,0 +1,28 @@
+{
+    "0xD3DBCE61A490BE02": {
+        "name": "TASK_LEAVE_VEHICLE",
+        "comment": "flags: See TASK_ENTER_VEHICLE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "Ped",
+                "name": "unkPed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD3DBCE61A490BE02",
+        "gta_jhash": "0x7B1141C6"
+    }
+}

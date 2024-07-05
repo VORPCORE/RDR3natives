@@ -1,0 +1,14 @@
+{
+    "0x09A1C7DFDCE54FBC": {
+        "name": "_0x09A1C7DFDCE54FBC",
+        "comment": "Called together with REMOVE_EXTRA_CALMING_QUAD in rcm_crackpot1 R* Script: p0 = 0\n_REMOVE_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

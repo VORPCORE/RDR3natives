@@ -1,0 +1,14 @@
+{
+    "0xD3F943B88F55376A": {
+        "name": "_0xD3F943B88F55376A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weatherType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xAAB0FE202E9FC9F0": {
+        "name": "_IS_MOUNT_SEAT_FREE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "mount"
+            },
+            {
+                "type": "int",
+                "name": "seat"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

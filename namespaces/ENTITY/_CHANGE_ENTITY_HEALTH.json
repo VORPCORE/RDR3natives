@@ -1,0 +1,26 @@
+{
+    "0x835F131E7DC8F97A": {
+        "name": "_CHANGE_ENTITY_HEALTH",
+        "comment": "Alters entity's health by 'amount'. Can be negative (to drain health).\nIn the scripts entity2 and weaponHash are unused (zero).",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

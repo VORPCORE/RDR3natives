@@ -1,0 +1,26 @@
+{
+    "0xEF50E344A8F93784": {
+        "name": "_GET_EASING_CURVE_VALUE",
+        "comment": "https://easings.net/\n\nenum class eEasingCurveType\n{\n\tTYPE_LINEAR,\n\tTYPE_QUADRATIC_IN,\n\tTYPE_QUADRATIC_OUT,\n\tTYPE_QUADRATIC_INOUT,\n\tTYPE_CUBIC_IN,\n\tTYPE_CUBIC_OUT,\n\tTYPE_CUBIC_INOUT,\n\tTYPE_QUARTIC_IN,\n\tTYPE_QUARTIC_OUT,\n\tTYPE_QUARTIC_INOUT,\n\tTYPE_QUINTIC_IN,\n\tTYPE_QUINTIC_OUT,\n\tTYPE_QUINTIC_INOUT,\n\tTYPE_EXPONENTIAL_IN,\n\tTYPE_EXPONENTIAL_OUT,\n\tTYPE_EXPONENTIAL_INOUT,\n\tTYPE_SINE_IN,\n\tTYPE_SINE_OUT,\n\tTYPE_SINE_INOUT,\n\tTYPE_CIRCULAR_IN,\n\tTYPE_CIRCULAR_OUT,\n\tTYPE_CIRCULAR_INOUT,\n\tTYPE_BOUNCE_IN,\n\tTYPE_BOUNCE_OUT,\n\tTYPE_BOUNCE_INOUT,\n\tTYPE_CUSTOM\n};",
+        "params": [
+            {
+                "type": "float",
+                "name": "t"
+            },
+            {
+                "type": "float",
+                "name": "b"
+            },
+            {
+                "type": "float",
+                "name": "d"
+            },
+            {
+                "type": "int",
+                "name": "easingCurveType"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

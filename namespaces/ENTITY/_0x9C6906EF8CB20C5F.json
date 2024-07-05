@@ -1,0 +1,14 @@
+{
+    "0x9C6906EF8CB20C5F": {
+        "name": "_0x9C6906EF8CB20C5F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1436"
+    }
+}

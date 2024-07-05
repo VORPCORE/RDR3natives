@@ -1,0 +1,18 @@
+{
+    "0x4F63433CE3C08230": {
+        "name": "_0x4F63433CE3C08230",
+        "comment": "Only used in R* Script shop_harriet\n_SET_PED_F*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

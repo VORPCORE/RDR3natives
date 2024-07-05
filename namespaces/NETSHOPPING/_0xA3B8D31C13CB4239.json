@@ -1,0 +1,34 @@
+{
+    "0xA3B8D31C13CB4239": {
+        "name": "_0xA3B8D31C13CB4239",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "Any*",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

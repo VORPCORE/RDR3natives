@@ -1,0 +1,24 @@
+{
+    "0xBB9CE077274F6A1B": {
+        "name": "TASK_WANDER_STANDARD",
+        "comment": "Makes ped walk around the area.\n\nset p1 to 10.0f and p2 to 10 if you want the ped to walk anywhere without a duration.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBB9CE077274F6A1B",
+        "gta_jhash": "0xAF59151A"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xC7827959479DCC78": {
+        "name": "NETWORK_GET_ENTITY_IS_NETWORKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xC7827959479DCC78",
+        "gta_jhash": "0xD7F934F4"
+    }
+}

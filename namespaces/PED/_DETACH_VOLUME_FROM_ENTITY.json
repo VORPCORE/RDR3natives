@@ -1,0 +1,18 @@
+{
+    "0x19C975B81BE53C28": {
+        "name": "_DETACH_VOLUME_FROM_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

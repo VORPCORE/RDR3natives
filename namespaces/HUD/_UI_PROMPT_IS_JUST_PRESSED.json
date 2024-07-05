@@ -1,0 +1,14 @@
+{
+    "0x2787CC611D3FACC5": {
+        "name": "_UI_PROMPT_IS_JUST_PRESSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

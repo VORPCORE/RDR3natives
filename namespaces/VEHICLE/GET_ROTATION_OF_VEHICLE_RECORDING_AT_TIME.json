@@ -1,0 +1,24 @@
+{
+    "0x61787DD28B8CC0D5": {
+        "name": "GET_ROTATION_OF_VEHICLE_RECORDING_AT_TIME",
+        "comment": "This native does no interpolation between pathpoints. The same rotation will be returned for all times up to the next pathpoint in the recording.\n\nSee REQUEST_VEHICLE_RECORDING",
+        "params": [
+            {
+                "type": "int",
+                "name": "recording"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            },
+            {
+                "type": "const char*",
+                "name": "script"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x2058206FBE79A8AD",
+        "gta_jhash": "0xD96DEC68"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x4FB67D172C4476F3": {
+        "name": "_0x4FB67D172C4476F3",
+        "comment": "p1: AMB_ANN_COAL_CHUTE_DIVE, AMB_ANN_COAL_CHUTE\np2: EMIT\np3: either 0.0f or 1.0f",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

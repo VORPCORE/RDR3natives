@@ -1,0 +1,18 @@
+{
+    "0x8C0F6A3D7236DEEB": {
+        "name": "_0x8C0F6A3D7236DEEB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

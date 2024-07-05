@@ -1,0 +1,14 @@
+{
+    "0xE98D55C5983F2509": {
+        "name": "UNREGISTER_INTERACTION_LOCKON_PROMPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "0x06F8A202EB312A3C": {
+        "name": "SET_VEHICLE_DOOR_LATCHED",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA5A9653A8D2CAF48",
+        "gta_jhash": "0x4EB7BBFC"
+    }
+}

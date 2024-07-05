@@ -1,0 +1,18 @@
+{
+    "0xB93EA7184BAA85C3": {
+        "name": "_GET_SCENARIO_POINT_HEADING",
+        "comment": "Params: p1 is always true in R* Scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

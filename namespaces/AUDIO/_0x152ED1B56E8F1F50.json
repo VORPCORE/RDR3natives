@@ -1,0 +1,18 @@
+{
+    "0x152ED1B56E8F1F50": {
+        "name": "_0x152ED1B56E8F1F50",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "currentScriptedConvoLine"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

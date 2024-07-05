@@ -1,0 +1,22 @@
+{
+    "0xAC67098A1E54ABB0": {
+        "name": "_REGISTER_EAGLE_EYE_TRAILS_FOR_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

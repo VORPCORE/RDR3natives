@@ -1,0 +1,14 @@
+{
+    "0xFE5C6177064BD390": {
+        "name": "_0xFE5C6177064BD390",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

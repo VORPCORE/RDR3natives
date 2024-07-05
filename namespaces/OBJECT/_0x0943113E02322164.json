@@ -1,0 +1,18 @@
+{
+    "0x0943113E02322164": {
+        "name": "_0x0943113E02322164",
+        "comment": "Params: p1 = 23 in R* Scripts",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

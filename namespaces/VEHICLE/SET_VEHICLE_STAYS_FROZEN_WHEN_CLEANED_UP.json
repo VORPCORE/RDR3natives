@@ -1,0 +1,20 @@
+{
+    "0x23A3AB86E0807721": {
+        "name": "SET_VEHICLE_STAYS_FROZEN_WHEN_CLEANED_UP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1CF38D529D7441D9",
+        "gta_jhash": "0xDF594D8D"
+    }
+}

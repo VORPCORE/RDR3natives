@@ -1,0 +1,22 @@
+{
+    "0x80D6524190258C3E": {
+        "name": "_UILOG_UPDATE_ENTRY_SUBHEADER",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xF336E9F989B3518F": {
+        "name": "_0xF336E9F989B3518F",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

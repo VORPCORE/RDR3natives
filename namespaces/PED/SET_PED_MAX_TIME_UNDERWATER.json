@@ -1,0 +1,20 @@
+{
+    "0x6BA428C528D9E522": {
+        "name": "SET_PED_MAX_TIME_UNDERWATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6BA428C528D9E522",
+        "gta_jhash": "0x082EF240"
+    }
+}

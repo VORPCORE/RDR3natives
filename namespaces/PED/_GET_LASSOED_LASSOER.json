@@ -1,0 +1,14 @@
+{
+    "0x0C31C51168E80365": {
+        "name": "_GET_LASSOED_LASSOER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

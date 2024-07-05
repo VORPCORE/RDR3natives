@@ -1,0 +1,14 @@
+{
+    "0x0E5C9FB9ED5DFF1C": {
+        "name": "_0x0E5C9FB9ED5DFF1C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

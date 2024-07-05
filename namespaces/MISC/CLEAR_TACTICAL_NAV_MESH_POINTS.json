@@ -1,0 +1,11 @@
+{
+    "0xD93B6516C6878267": {
+        "name": "CLEAR_TACTICAL_NAV_MESH_POINTS",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB3CD58CCA6CDA852",
+        "gta_jhash": "0x66C3C59C"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0xECBABD0307FB216F": {
+        "name": "RESET_END_USER_BENCHMARK",
+        "comment": "Begins with RESET_*. Next character in the name is either D or E.\n\nOld name: _RESET_BENCHMARK_RECORDING",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x437138B6A830166A",
+        "gta_jhash": ""
+    }
+}

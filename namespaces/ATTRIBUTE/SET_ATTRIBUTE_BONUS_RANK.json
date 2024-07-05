@@ -1,0 +1,22 @@
+{
+    "0x920F9488BD115EFB": {
+        "name": "SET_ATTRIBUTE_BONUS_RANK",
+        "comment": "attributeIndex: see SET_ATTRIBUTE_BASE_RANK",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attributeIndex"
+            },
+            {
+                "type": "int",
+                "name": "newValue"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

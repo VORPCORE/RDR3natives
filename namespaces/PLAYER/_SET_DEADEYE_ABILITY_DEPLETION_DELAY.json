@@ -1,0 +1,18 @@
+{
+    "0x870634493CB4372C": {
+        "name": "_SET_DEADEYE_ABILITY_DEPLETION_DELAY",
+        "comment": "Only used in R* SP Script short_update",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "delay"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

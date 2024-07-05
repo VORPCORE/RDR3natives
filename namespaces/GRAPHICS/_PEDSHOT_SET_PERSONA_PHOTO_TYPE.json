@@ -1,0 +1,14 @@
+{
+    "0x196D3ACBEBA4A44B": {
+        "name": "_PEDSHOT_SET_PERSONA_PHOTO_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "personaPhotoLocalCacheType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x80A02D9F948A8BCA": {
+        "name": "_TELEMETRY_TRIGGER_TRANSACTION_REQUEST",
+        "comment": "Returns false when transaction request is failing",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "requestId"
+            },
+            {
+                "type": "Any*",
+                "name": "transactionId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xB72999D3120599DF": {
+        "name": "_NETWORK_PERSONA_PHOTO_WRITE_SC_PROFILE",
+        "comment": "Returns false if pedshot push failed",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "texture"
+            },
+            {
+                "type": "int",
+                "name": "personaPhotoType"
+            },
+            {
+                "type": "int",
+                "name": "formatIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

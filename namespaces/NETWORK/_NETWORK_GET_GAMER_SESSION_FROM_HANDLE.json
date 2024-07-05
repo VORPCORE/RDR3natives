@@ -1,0 +1,18 @@
+{
+    "0xFBDFE1C1356E12E8": {
+        "name": "_NETWORK_GET_GAMER_SESSION_FROM_HANDLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            },
+            {
+                "type": "int",
+                "name": "count"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

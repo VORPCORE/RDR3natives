@@ -1,0 +1,20 @@
+{
+    "0x80646744FA88F9D7": {
+        "name": "SET_CAN_AUTO_VAULT_ON_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE12ABE5E3A389A6C",
+        "gta_jhash": "0x44767B31"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xB427911EA6DFFEF3": {
+        "name": "_SET_RECEIVED_HORSEBACK_DAMAGE_DECREASE",
+        "comment": "Decreases the damage the player receives while on horseback",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "damageDecrease"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

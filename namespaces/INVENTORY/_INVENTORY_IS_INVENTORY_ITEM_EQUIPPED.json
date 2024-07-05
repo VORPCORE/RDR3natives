@@ -1,0 +1,22 @@
+{
+    "0x3D10D7179D7034AF": {
+        "name": "_INVENTORY_IS_INVENTORY_ITEM_EQUIPPED",
+        "comment": "Alternative Name: _INVENTORY_IS_ITEM_DISABLED",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

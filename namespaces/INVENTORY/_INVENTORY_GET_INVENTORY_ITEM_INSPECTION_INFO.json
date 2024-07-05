@@ -1,0 +1,18 @@
+{
+    "0x0C093C1787F18519": {
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_INSPECTION_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "Any*",
+                "name": "info"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xAF61B3CD8C3B82C3": {
+        "name": "_IS_USING_SLIPSTREAM",
+        "comment": "_IS_TRACKED_* - IS_V*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

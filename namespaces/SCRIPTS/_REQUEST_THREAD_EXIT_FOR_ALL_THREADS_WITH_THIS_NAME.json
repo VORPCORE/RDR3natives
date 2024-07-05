@@ -1,0 +1,14 @@
+{
+    "0x7423F7835770F619": {
+        "name": "_REQUEST_THREAD_EXIT_FOR_ALL_THREADS_WITH_THIS_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "nameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

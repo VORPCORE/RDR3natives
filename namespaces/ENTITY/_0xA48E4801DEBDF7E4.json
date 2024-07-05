@@ -1,0 +1,18 @@
+{
+    "0xA48E4801DEBDF7E4": {
+        "name": "_0xA48E4801DEBDF7E4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x3CE3FB167E837D7C": {
+        "name": "SCRIPT_THREAD_ITERATOR_GET_NEXT_THREAD_ID",
+        "comment": "If the function returns 0, the end of the iteration has been reached.",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x30B4FA1C82DD4B9F",
+        "gta_jhash": "0x1E28B28F"
+    }
+}

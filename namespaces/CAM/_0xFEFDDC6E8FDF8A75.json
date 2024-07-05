@@ -1,0 +1,18 @@
+{
+    "0xFEFDDC6E8FDF8A75": {
+        "name": "_0xFEFDDC6E8FDF8A75",
+        "comment": "_SET_GAMEPLAY_P* - _SET_GAMEPLAY_V*",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "shakeName"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

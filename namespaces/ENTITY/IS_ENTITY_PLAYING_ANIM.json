@@ -1,0 +1,28 @@
+{
+    "0xDEE49D5CA6C49148": {
+        "name": "IS_ENTITY_PLAYING_ANIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "int",
+                "name": "animType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1F0B79228E461EC9",
+        "gta_jhash": "0x0D130D34"
+    }
+}

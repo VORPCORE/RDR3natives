@@ -1,0 +1,18 @@
+{
+    "0x8101BA1C0B462412": {
+        "name": "_0x8101BA1C0B462412",
+        "comment": "_ATTACH_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

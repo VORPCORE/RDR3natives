@@ -1,0 +1,14 @@
+{
+    "0x592BC00BF6629BE7": {
+        "name": "_CASHINVENTORY_TRANSACTION_CHECKOUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

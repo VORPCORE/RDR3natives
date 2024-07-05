@@ -1,0 +1,14 @@
+{
+    "0x0455546F23FF08E4": {
+        "name": "_0x0455546F23FF08E4",
+        "comment": "_DOES_GROUP_* - _DOES_N*",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

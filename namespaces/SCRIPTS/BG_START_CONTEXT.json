@@ -1,0 +1,17 @@
+{
+    "0x49BA5678BA040CA7": {
+        "name": "BG_START_CONTEXT",
+        "comment": "Inserts the given context into the background scripts context map.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contextName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x9D5A25BADB742ACD",
+        "gta_jhash": "0xF3F1D953"
+    }
+}

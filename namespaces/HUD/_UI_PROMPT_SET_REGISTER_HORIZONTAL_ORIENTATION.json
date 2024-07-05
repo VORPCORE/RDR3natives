@@ -1,0 +1,9 @@
+{
+    "0xD9459157EB22C895": {
+        "name": "_UI_PROMPT_SET_REGISTER_HORIZONTAL_ORIENTATION",
+        "comment": "This returns an id that can be used with 0x6095358C4142932A.",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

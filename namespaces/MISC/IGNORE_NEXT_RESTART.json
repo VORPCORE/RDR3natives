@@ -1,0 +1,16 @@
+{
+    "0x6C9FF40FF1B69F8F": {
+        "name": "IGNORE_NEXT_RESTART",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x21FFB63D8C615361",
+        "gta_jhash": "0xDA13A4B6"
+    }
+}

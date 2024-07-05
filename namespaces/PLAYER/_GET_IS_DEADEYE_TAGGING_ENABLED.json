@@ -1,0 +1,14 @@
+{
+    "0x32348719DCED2969": {
+        "name": "_GET_IS_DEADEYE_TAGGING_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

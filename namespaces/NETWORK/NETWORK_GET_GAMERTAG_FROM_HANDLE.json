@@ -1,0 +1,17 @@
+{
+    "0x426141162EBE5CDB": {
+        "name": "NETWORK_GET_GAMERTAG_FROM_HANDLE",
+        "comment": "Always returns a null string.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x426141162EBE5CDB",
+        "gta_jhash": "0xA18A1B26"
+    }
+}

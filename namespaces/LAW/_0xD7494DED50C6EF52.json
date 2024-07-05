@@ -1,0 +1,22 @@
+{
+    "0xD7494DED50C6EF52": {
+        "name": "_0xD7494DED50C6EF52",
+        "comment": "Only used in R* SP Scripts\nParams: p2 either 1 or 2",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "crimeType"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

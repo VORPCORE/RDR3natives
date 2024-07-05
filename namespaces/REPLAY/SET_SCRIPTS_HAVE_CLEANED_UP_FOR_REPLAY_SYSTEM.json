@@ -1,0 +1,11 @@
+{
+    "0x57C6525034E76EB0": {
+        "name": "SET_SCRIPTS_HAVE_CLEANED_UP_FOR_REPLAY_SYSTEM",
+        "comment": "nullsub, doesn't do anything",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5AD3932DAEB1E5D3",
+        "gta_jhash": ""
+    }
+}

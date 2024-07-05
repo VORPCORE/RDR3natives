@@ -1,0 +1,22 @@
+{
+    "0xF039EC27F4490E96": {
+        "name": "_CASHINVENTORY_TRANSACTION_START",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "id"
+            },
+            {
+                "type": "Hash",
+                "name": "type"
+            },
+            {
+                "type": "Hash",
+                "name": "actionHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

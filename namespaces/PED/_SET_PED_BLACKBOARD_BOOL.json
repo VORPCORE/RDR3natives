@@ -1,0 +1,26 @@
+{
+    "0xCB9401F918CB0F75": {
+        "name": "_SET_PED_BLACKBOARD_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "variableName"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "removeTimer"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

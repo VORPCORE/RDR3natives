@@ -1,0 +1,22 @@
+{
+    "0xB2B42607F7867576": {
+        "name": "_PARSEDDATA_GET_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

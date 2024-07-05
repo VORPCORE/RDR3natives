@@ -1,0 +1,14 @@
+{
+    "0xAFC887BA7A7756D6": {
+        "name": "_UI_PROMPT_IS_RELEASED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

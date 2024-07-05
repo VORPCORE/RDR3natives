@@ -1,0 +1,20 @@
+{
+    "0xEB6F1A9B5510A5D2": {
+        "name": "SET_OBJECT_TAKES_DAMAGE_FROM_COLLIDING_WITH_BUILDINGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEB6F1A9B5510A5D2",
+        "gta_jhash": "0xAF016CC1"
+    }
+}

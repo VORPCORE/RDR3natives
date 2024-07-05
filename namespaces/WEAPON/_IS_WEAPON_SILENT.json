@@ -1,0 +1,14 @@
+{
+    "0x5809DBCA0A37C82B": {
+        "name": "_IS_WEAPON_SILENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x0556C784FA056628": {
+        "name": "_GET_LOADED_STREAM_ID_FROM_CREATION",
+        "comment": "Creates stream and returns streamId handle to be used with PLAY_STREAM_* natives\nhttps://github.com/femga/rdr3_discoveries/tree/master/audio/create_stream",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "streamName"
+            },
+            {
+                "type": "const char*",
+                "name": "soundSet"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

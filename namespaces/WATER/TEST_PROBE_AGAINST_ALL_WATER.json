@@ -1,0 +1,44 @@
+{
+    "0x8974647ED222EA5F": {
+        "name": "TEST_PROBE_AGAINST_ALL_WATER",
+        "comment": "enum eScriptWaterTestResult\n{\n\tSCRIPT_WATER_TEST_RESULT_NONE,\n\tSCRIPT_WATER_TEST_RESULT_WATER,\n\tSCRIPT_WATER_TEST_RESULT_BLOCKED,\n};",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "Vector3*",
+                "name": "intersectionPos"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x8974647ED222EA5F",
+        "gta_jhash": "0x4A962D55"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x2E78D822208E740A": {
+        "name": "_GET_AI_PLAYER_DEFENSE_MODIFIER_AGAINST_AI",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

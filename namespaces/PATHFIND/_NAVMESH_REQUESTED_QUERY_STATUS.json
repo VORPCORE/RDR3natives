@@ -1,0 +1,14 @@
+{
+    "0x3A0F82F6EE2291C8": {
+        "name": "_NAVMESH_REQUESTED_QUERY_STATUS",
+        "comment": "Returns eNavMeshQueryStatus\nenum eNavMeshQueryStatus\n{\n\tQS_NOT_FOUND,\n\tQS_COMPLETE,\n\tQS_PENDING\n};\n\nIt appears that the pending state of 2 is at least also used when cleaning up a request (_NAVMESH_CLEAR_REQUESTED_PATH) or if a request never completes. Eventually queries are invalidated and return 0.\n\nOld name: _NAVMESH_QUERY_STATUS",
+        "params": [
+            {
+                "type": "int",
+                "name": "path"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

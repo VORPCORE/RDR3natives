@@ -1,0 +1,18 @@
+{
+    "0x7689CD255655BFD7": {
+        "name": "REQUEST_UIAPP_TRANSITION_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "appNameHash"
+            },
+            {
+                "type": "Hash",
+                "name": "transitionHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

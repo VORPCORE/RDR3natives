@@ -1,0 +1,18 @@
+{
+    "0xF97C34C33487D569": {
+        "name": "_REQUEST_META_PED",
+        "comment": "Returns requestId\nParams: p1 = 1 in R* Scripts (Used in SP only)",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

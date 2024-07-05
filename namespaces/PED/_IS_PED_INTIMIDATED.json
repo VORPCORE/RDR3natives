@@ -1,0 +1,14 @@
+{
+    "0x57779B55B83E2BEA": {
+        "name": "_IS_PED_INTIMIDATED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

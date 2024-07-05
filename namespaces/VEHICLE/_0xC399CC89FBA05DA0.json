@@ -1,0 +1,18 @@
+{
+    "0xC399CC89FBA05DA0": {
+        "name": "_0xC399CC89FBA05DA0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xCBFC7725DE6CE2E0": {
+        "name": "IS_ANIM_SCENE_RUNNING",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

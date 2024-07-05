@@ -1,0 +1,14 @@
+{
+    "0x4CC5F2FC1332577F": {
+        "name": "_ENABLE_HUD_CONTEXT",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/graphics/HUD/hud_presets\nOld name: _HIDE_HUD_COMPONENT",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "component"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

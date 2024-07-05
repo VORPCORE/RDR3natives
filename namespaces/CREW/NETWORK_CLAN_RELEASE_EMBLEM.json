@@ -1,0 +1,16 @@
+{
+    "0x113E6E3E50E286B0": {
+        "name": "NETWORK_CLAN_RELEASE_EMBLEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x113E6E3E50E286B0",
+        "gta_jhash": "0xD6E3D5EA"
+    }
+}

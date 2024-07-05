@@ -1,0 +1,30 @@
+{
+    "0x3C6490D940FF5D0B": {
+        "name": "_CREATE_ROPE_WINDING_ABILITY",
+        "comment": "Combining this with ADD_ROPE enables winding\np1: mostly empty (0)\nropeModelType: RB_L_Wrist02, RB_R_Wrist02, ropeAttach, noose01x_Rope_03, SKEL_Neck0, SKEL_L_FOOT, SKEL_Neck1, Root_s_meatbit_Chunck_Xlarge01x\n_CREATE_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "ropeModelType"
+            },
+            {
+                "type": "float",
+                "name": "length"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

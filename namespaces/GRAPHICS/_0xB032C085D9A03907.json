@@ -1,0 +1,9 @@
+{
+    "0xB032C085D9A03907": {
+        "name": "_0xB032C085D9A03907",
+        "comment": "_SET_D* or _SET_E*",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

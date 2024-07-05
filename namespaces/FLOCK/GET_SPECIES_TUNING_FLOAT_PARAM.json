@@ -1,0 +1,22 @@
+{
+    "0xE108489621422F91": {
+        "name": "GET_SPECIES_TUNING_FLOAT_PARAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

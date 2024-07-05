@@ -1,0 +1,22 @@
+{
+    "0x522FA3F490E2F7AC": {
+        "name": "_0x522FA3F490E2F7AC",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

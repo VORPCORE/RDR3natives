@@ -1,0 +1,18 @@
+{
+    "0xBD861AE8A5181ED7": {
+        "name": "_STAT_ID_DECREMENT_INT",
+        "comment": "statId: see STAT_ID_IS_VALID",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

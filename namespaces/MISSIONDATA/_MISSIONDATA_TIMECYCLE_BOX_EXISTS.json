@@ -1,0 +1,9 @@
+{
+    "0x7E8F86A4FA33033C": {
+        "name": "_MISSIONDATA_TIMECYCLE_BOX_EXISTS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

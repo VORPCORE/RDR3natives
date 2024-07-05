@@ -1,0 +1,14 @@
+{
+    "0xAC9FF854BD4BA9B5": {
+        "name": "_NET_RPC_GUID_TO_STRING",
+        "comment": "Returns \"INVALID_NET_RPC_GUID\" if netRpcGuid is invalid.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "netRpcGuid"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1311"
+    }
+}

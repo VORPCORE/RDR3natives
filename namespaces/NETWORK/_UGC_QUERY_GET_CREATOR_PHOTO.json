@@ -1,0 +1,22 @@
+{
+    "0x409FE0CA6A4D1D49": {
+        "name": "_UGC_QUERY_GET_CREATOR_PHOTO",
+        "comment": "Returns string for GET_STATUS_OF_LOAD_MISSION_CREATOR_PHOTO",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

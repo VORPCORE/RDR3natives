@@ -1,0 +1,20 @@
+{
+    "0x6049966A94FBE706": {
+        "name": "SET_BLIP_ROTATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "int",
+                "name": "rotation"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF87683CDF73C3F6E",
+        "gta_jhash": "0x6B8F44FE"
+    }
+}

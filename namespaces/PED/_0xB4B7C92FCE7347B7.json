@@ -1,0 +1,14 @@
+{
+    "0xB4B7C92FCE7347B7": {
+        "name": "_0xB4B7C92FCE7347B7",
+        "comment": "_RESET_PED_C*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

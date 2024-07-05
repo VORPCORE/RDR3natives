@@ -1,0 +1,11 @@
+{
+    "0x634F4A0562CF19B8": {
+        "name": "INVALIDATE_CINEMATIC_VEHICLE_IDLE_MODE",
+        "comment": "Old name: _INVALIDATE_VEHICLE_IDLE_CAM",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9E4CFFF989258472",
+        "gta_jhash": "0x65DDE8AF"
+    }
+}

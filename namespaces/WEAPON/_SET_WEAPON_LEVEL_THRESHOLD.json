@@ -1,0 +1,18 @@
+{
+    "0xD4071EFC83794B2F": {
+        "name": "_SET_WEAPON_LEVEL_THRESHOLD",
+        "comment": "every other level will have the max value of (brokeLevel - threshold)",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            },
+            {
+                "type": "float",
+                "name": "threshold"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

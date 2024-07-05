@@ -1,0 +1,14 @@
+{
+    "0xD9267375834C5EAB": {
+        "name": "_NETWORK_GET_PLAYER_FAST_INSTANCE_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

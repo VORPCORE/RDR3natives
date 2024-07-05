@@ -1,0 +1,18 @@
+{
+    "0x819ADD5EF1742F47": {
+        "name": "_SET_PED_LAW_BEHAVIOUR",
+        "comment": "behaviour: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/CLawBehavior__Flags",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "behaviour"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

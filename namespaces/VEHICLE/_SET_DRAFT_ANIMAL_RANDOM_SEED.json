@@ -1,0 +1,18 @@
+{
+    "0x8C6D9A399126C194": {
+        "name": "_SET_DRAFT_ANIMAL_RANDOM_SEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

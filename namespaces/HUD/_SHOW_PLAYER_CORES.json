@@ -1,0 +1,14 @@
+{
+    "0x50C803A4CD5932C5": {
+        "name": "_SHOW_PLAYER_CORES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

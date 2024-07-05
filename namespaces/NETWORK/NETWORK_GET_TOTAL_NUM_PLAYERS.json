@@ -1,0 +1,11 @@
+{
+    "0xCF61D4B4702EE9EB": {
+        "name": "NETWORK_GET_TOTAL_NUM_PLAYERS",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xCF61D4B4702EE9EB",
+        "gta_jhash": "0xF4F13B06"
+    }
+}

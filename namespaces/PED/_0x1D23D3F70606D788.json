@@ -1,0 +1,18 @@
+{
+    "0x1D23D3F70606D788": {
+        "name": "_0x1D23D3F70606D788",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

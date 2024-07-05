@@ -1,0 +1,16 @@
+{
+    "0x2DF170B1185AF777": {
+        "name": "CAN_PLAYER_START_MISSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xDE7465A27D403C06",
+        "gta_jhash": "0x39E3CB3F"
+    }
+}

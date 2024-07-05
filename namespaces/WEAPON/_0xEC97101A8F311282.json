@@ -1,0 +1,14 @@
+{
+    "0xEC97101A8F311282": {
+        "name": "_0xEC97101A8F311282",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

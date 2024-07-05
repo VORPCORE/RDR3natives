@@ -1,0 +1,20 @@
+{
+    "0x9DE986FC9A87C474": {
+        "name": "NETWORK_ARE_PLAYERS_IN_SAME_TUTORIAL_SESSION",
+        "comment": "Old name: _NETWORK_IS_PLAYER_EQUAL_TO_INDEX",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x9DE986FC9A87C474",
+        "gta_jhash": "0xE66A0B40"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x595320200B98596E": {
+        "name": "GET_GAMEPLAY_CAM_COORD",
+        "comment": "",
+        "params": [],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x14D6F5678D8F1B37",
+        "gta_jhash": "0x9388CF79"
+    }
+}

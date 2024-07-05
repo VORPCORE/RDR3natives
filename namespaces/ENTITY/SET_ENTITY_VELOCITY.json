@@ -1,0 +1,28 @@
+{
+    "0x1C99BB7B6E96D16F": {
+        "name": "SET_ENTITY_VELOCITY",
+        "comment": "Note that the third parameter(denoted as z) is \"up and down\" with positive numbers encouraging upwards movement.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1C99BB7B6E96D16F",
+        "gta_jhash": "0xFF5A1988"
+    }
+}

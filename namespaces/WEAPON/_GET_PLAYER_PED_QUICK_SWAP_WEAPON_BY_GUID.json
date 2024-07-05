@@ -1,0 +1,22 @@
+{
+    "0xB7E52A058B07C7E2": {
+        "name": "_GET_PLAYER_PED_QUICK_SWAP_WEAPON_BY_GUID",
+        "comment": "Outputs cached guids",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "guidPrimary"
+            },
+            {
+                "type": "Any*",
+                "name": "guidSecondary"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

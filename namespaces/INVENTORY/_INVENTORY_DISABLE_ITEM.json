@@ -1,0 +1,22 @@
+{
+    "0x766315A564594401": {
+        "name": "_INVENTORY_DISABLE_ITEM",
+        "comment": "Example: (1, WEAPON_REVOLVER_CATTLEMAN, 0) - disables cattleman revolver on weapon wheel",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "Hash",
+                "name": "gtxReason"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

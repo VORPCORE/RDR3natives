@@ -1,0 +1,18 @@
+{
+    "0xE24C64D9ADED2EF5": {
+        "name": "_IS_PLAYER_FOLLOWING_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

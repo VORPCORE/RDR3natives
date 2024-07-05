@@ -1,0 +1,14 @@
+{
+    "0xC273A5B8488F7838": {
+        "name": "TASK_EXIT_TRANSPORT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

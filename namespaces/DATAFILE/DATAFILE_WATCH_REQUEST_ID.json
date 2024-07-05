@@ -1,0 +1,16 @@
+{
+    "0xA5834834CA8FD7FC": {
+        "name": "DATAFILE_WATCH_REQUEST_ID",
+        "comment": "Adds the given request ID to the watch list.",
+        "params": [
+            {
+                "type": "int",
+                "name": "id"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xAD6875BBC0FC899C",
+        "gta_jhash": "0x621388FF"
+    }
+}

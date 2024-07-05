@@ -1,0 +1,14 @@
+{
+    "0x9FF5F9B24E870748": {
+        "name": "_0x9FF5F9B24E870748",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

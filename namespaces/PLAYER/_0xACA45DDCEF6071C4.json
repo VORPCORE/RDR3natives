@@ -1,0 +1,18 @@
+{
+    "0xACA45DDCEF6071C4": {
+        "name": "_0xACA45DDCEF6071C4",
+        "comment": "_SET_PLAYER_CAN_BE_* - _SET_PLAYER_CAN_USE_*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

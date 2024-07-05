@@ -1,0 +1,16 @@
+{
+    "0xCFCC78391C8B3814": {
+        "name": "SET_SCRIPT_GFX_DRAW_ORDER",
+        "comment": "Sets the draw order for script draw commands.",
+        "params": [
+            {
+                "type": "int",
+                "name": "drawOrder"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x61BB1D9B3A95D802",
+        "gta_jhash": "0xADF81D24"
+    }
+}

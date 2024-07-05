@@ -1,0 +1,16 @@
+{
+    "0x2595DD4236549CE3": {
+        "name": "SET_PED_AS_NO_LONGER_NEEDED",
+        "comment": "This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.",
+        "params": [
+            {
+                "type": "Ped*",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2595DD4236549CE3",
+        "gta_jhash": "0x9A388380"
+    }
+}

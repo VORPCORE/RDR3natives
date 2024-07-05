@@ -1,0 +1,18 @@
+{
+    "0x292F0B6EDC82E3A4": {
+        "name": "_SET_PLAYER_MANAGE_BUFF_SUPER_JUMP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xB4FD7446BAB2F394": {
+        "name": "ANIMPOSTFX_STOP",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x068E835A1D0DC0E3",
+        "gta_jhash": "0x06BB5CDA"
+    }
+}

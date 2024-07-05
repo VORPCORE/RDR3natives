@@ -1,0 +1,14 @@
+{
+    "0x527B97C203BB8606": {
+        "name": "_NAVMESH_DEACTIVATE_SWAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

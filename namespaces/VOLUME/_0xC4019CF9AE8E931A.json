@@ -1,0 +1,14 @@
+{
+    "0xC4019CF9AE8E931A": {
+        "name": "_0xC4019CF9AE8E931A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "volLockRequestId"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

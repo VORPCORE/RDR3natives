@@ -1,0 +1,14 @@
+{
+    "0x4DAC398297981B87": {
+        "name": "_0x4DAC398297981B87",
+        "comment": "Only used in R* SP Scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

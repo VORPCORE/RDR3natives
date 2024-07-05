@@ -1,0 +1,30 @@
+{
+    "0x23D9C1F2E4098EDC": {
+        "name": "_NETWORK_SESSION_REQUEST_SESSION_ON_CALL",
+        "comment": "category:\nenum eOnCallType\n{\n\tNETWORK_SESSION_REQUEST_ON_CALL_TYPE_STORY = 2,\n\tNETWORK_SESSION_REQUEST_ON_CALL_TYPE_MATCH = 3\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "category"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "userHash"
+            },
+            {
+                "type": "Any*",
+                "name": "sessionRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

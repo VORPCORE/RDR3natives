@@ -1,0 +1,11 @@
+{
+    "0xFEE4A5459472A9F8": {
+        "name": "SPAWNPOINTS_CANCEL_SEARCH",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xFEE4A5459472A9F8",
+        "gta_jhash": "0x492C9E46"
+    }
+}

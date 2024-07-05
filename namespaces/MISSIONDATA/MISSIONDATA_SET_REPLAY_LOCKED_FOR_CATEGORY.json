@@ -1,0 +1,18 @@
+{
+    "0x957A830C9B4B99EA": {
+        "name": "MISSIONDATA_SET_REPLAY_LOCKED_FOR_CATEGORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "category"
+            },
+            {
+                "type": "BOOL",
+                "name": "locked"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x83FCD6921FC8FD05": {
+        "name": "_SET_DEADEYE_TAGGING_CONFIG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "filter"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x901E0DC25080C8B9": {
+        "name": "NETWORK_GET_GANG_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

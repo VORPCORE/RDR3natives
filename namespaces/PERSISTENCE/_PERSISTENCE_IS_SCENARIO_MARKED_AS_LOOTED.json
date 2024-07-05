@@ -1,0 +1,14 @@
+{
+    "0xFB7CF1DE938A3E22": {
+        "name": "_PERSISTENCE_IS_SCENARIO_MARKED_AS_LOOTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

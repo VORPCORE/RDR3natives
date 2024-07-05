@@ -1,0 +1,18 @@
+{
+    "0xB285AD0EC870B2DF": {
+        "name": "_SET_PED_ACTIVE_PLAYER_TYPE",
+        "comment": "Params: hash - ARTHUR or JOHN\n_SET_PED_(A-D)*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "playerType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "0x01708E8DD3FF8C65": {
+        "name": "GET_NUM_NAVMESHES_EXISTING_IN_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x01708E8DD3FF8C65",
+        "gta_jhash": "0x76AFFBB5"
+    }
+}

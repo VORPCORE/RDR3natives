@@ -1,0 +1,14 @@
+{
+    "0xF9F14080D80937BD": {
+        "name": "_TELEMETRY_SLEEP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

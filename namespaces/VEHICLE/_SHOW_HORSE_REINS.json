@@ -1,0 +1,14 @@
+{
+    "0x41CDA90EE3450921": {
+        "name": "_SHOW_HORSE_REINS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

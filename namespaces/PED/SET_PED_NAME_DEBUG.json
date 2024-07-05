@@ -1,0 +1,20 @@
+{
+    "0x98EFA132A4117BE1": {
+        "name": "SET_PED_NAME_DEBUG",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x98EFA132A4117BE1",
+        "gta_jhash": "0x20D6273E"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xE8770EE02AEE45C2": {
+        "name": "_SET_WORLD_WATER_TYPE",
+        "comment": "0 = World\n1 = Guarma",
+        "params": [
+            {
+                "type": "int",
+                "name": "waterType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

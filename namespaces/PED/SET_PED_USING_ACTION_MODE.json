@@ -1,0 +1,28 @@
+{
+    "0xD75ACCF5E0FB5367": {
+        "name": "SET_PED_USING_ACTION_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "bActionModeEnabled"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "action"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD75ACCF5E0FB5367",
+        "gta_jhash": "0x8802F696"
+    }
+}

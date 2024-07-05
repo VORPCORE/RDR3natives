@@ -1,0 +1,16 @@
+{
+    "0xDEA92412FCAEB3F5": {
+        "name": "GET_PED_COMBAT_MOVEMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xDEA92412FCAEB3F5",
+        "gta_jhash": "0xF3E7730E"
+    }
+}

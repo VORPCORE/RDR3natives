@@ -1,0 +1,24 @@
+{
+    "0xE037BF068223C38D": {
+        "name": "SET_ENTITY_NO_COLLISION_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "BOOL",
+                "name": "thisFrameOnly"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA53ED5520C07654A",
+        "gta_jhash": "0x1E11BFE9"
+    }
+}

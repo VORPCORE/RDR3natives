@@ -1,0 +1,9 @@
+{
+    "0xFCC24220FDDAC929": {
+        "name": "_CASHINVENTORY_IS_SESSION_READY",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

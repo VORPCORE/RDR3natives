@@ -1,0 +1,24 @@
+{
+    "0x0AC679B2342F14F2": {
+        "name": "GET_CURR_WEATHER_STATE",
+        "comment": "Params: percentWeather2: 0f - 0.75f in R* Scripts\n\nOld name: _GET_WEATHER_TYPE_TRANSITION",
+        "params": [
+            {
+                "type": "Hash*",
+                "name": "weatherType1"
+            },
+            {
+                "type": "Hash*",
+                "name": "weatherType2"
+            },
+            {
+                "type": "float*",
+                "name": "percentWeather2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF3BBE884A14BB413",
+        "gta_jhash": "0x9A5C1D56"
+    }
+}

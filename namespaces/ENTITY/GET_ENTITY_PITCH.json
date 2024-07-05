@@ -1,0 +1,16 @@
+{
+    "0xEF355ABEFF7F5005": {
+        "name": "GET_ENTITY_PITCH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xD45DC2893621E1FE",
+        "gta_jhash": "0xFCE6ECE5"
+    }
+}

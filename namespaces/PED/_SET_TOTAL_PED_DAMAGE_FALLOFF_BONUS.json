@@ -1,0 +1,18 @@
+{
+    "0x932786CE3C76477C": {
+        "name": "_SET_TOTAL_PED_DAMAGE_FALLOFF_BONUS",
+        "comment": "_SET_W(EAPON?)*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "bonus"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

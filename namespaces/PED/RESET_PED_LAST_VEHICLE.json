@@ -1,0 +1,16 @@
+{
+    "0xBB8DE8CF6A8DD8BB": {
+        "name": "RESET_PED_LAST_VEHICLE",
+        "comment": "Resets the value for the last vehicle driven by the Ped.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBB8DE8CF6A8DD8BB",
+        "gta_jhash": "0x5E3B5942"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x7C4AC9573587F2DF": {
+        "name": "IS_SUBTITLE_PREFERENCE_SWITCHED_ON",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1355",
+        "gta_hash": "0xAD6DACA4BA53E0A4",
+        "gta_jhash": "0x63BA19F5"
+    }
+}

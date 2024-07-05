@@ -1,0 +1,18 @@
+{
+    "0x28A13BF6B05C3D83": {
+        "name": "_MODIFY_INFINITE_TRAIL_VISION",
+        "comment": "Toggle handles wether Deadeye and Eagleeye are infinite or not.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

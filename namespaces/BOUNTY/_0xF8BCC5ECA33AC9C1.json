@@ -1,0 +1,9 @@
+{
+    "0xF8BCC5ECA33AC9C1": {
+        "name": "_0xF8BCC5ECA33AC9C1",
+        "comment": "_BOUNTY_GET_*",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

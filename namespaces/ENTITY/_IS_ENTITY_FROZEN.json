@@ -1,0 +1,14 @@
+{
+    "0x083D497D57B7400F": {
+        "name": "_IS_ENTITY_FROZEN",
+        "comment": "Getter for FREEZE_ENTITY_POSITION",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

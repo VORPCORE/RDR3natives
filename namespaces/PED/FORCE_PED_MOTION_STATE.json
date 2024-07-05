@@ -1,0 +1,32 @@
+{
+    "0xF28965D04F570DCA": {
+        "name": "FORCE_PED_MOTION_STATE",
+        "comment": "motionStateHash: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/FORCE_PED_MOTION_STATE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "motionStateHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF28965D04F570DCA",
+        "gta_jhash": "0x164DDEFF"
+    }
+}

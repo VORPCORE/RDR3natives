@@ -1,0 +1,14 @@
+{
+    "0x8822F139408B8D0A": {
+        "name": "_0x8822F139408B8D0A",
+        "comment": "If returned true, SET_ENABLE_BOUND_ANKLES is called in R* Script guama2\n_GET_D* - _GET_E*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

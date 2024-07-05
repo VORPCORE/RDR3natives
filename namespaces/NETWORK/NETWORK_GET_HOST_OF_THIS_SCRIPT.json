@@ -1,0 +1,11 @@
+{
+    "0xC7B4D79B01FA7A5C": {
+        "name": "NETWORK_GET_HOST_OF_THIS_SCRIPT",
+        "comment": "",
+        "params": [],
+        "return_type": "Player",
+        "build": "1232",
+        "gta_hash": "0xC7B4D79B01FA7A5C",
+        "gta_jhash": "0x89EA7B54"
+    }
+}

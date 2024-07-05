@@ -1,0 +1,14 @@
+{
+    "0x65E65CA6A0FE59D4": {
+        "name": "GET_LAUNCH_PARAM_VALUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "paramName"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

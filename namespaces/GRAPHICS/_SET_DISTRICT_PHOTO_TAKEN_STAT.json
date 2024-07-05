@@ -1,0 +1,14 @@
+{
+    "0x9937FACBBF267244": {
+        "name": "_SET_DISTRICT_PHOTO_TAKEN_STAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

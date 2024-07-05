@@ -1,0 +1,14 @@
+{
+    "0x378D3B1B11D9385B": {
+        "name": "_0x378D3B1B11D9385B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

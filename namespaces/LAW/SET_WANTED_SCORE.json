@@ -1,0 +1,18 @@
+{
+    "0xA80FF73F772ACF6A": {
+        "name": "SET_WANTED_SCORE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

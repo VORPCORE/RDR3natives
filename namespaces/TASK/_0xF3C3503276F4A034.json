@@ -1,0 +1,18 @@
+{
+    "0xF3C3503276F4A034": {
+        "name": "_0xF3C3503276F4A034",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1436"
+    }
+}

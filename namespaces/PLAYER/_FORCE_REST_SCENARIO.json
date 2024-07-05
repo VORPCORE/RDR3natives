@@ -1,0 +1,14 @@
+{
+    "0xE5A3DD2FF84E1A4B": {
+        "name": "_FORCE_REST_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

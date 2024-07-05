@@ -1,0 +1,22 @@
+{
+    "0xB2920B9760F0F36B": {
+        "name": "_UI_FEED_POST_FEED_TICKER",
+        "comment": "Display text on right of the screen, Example : https://pastebin.com/n1YmNe25",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

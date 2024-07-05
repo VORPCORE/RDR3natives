@@ -1,0 +1,17 @@
+{
+    "0x0E3A041ED6AC2B45": {
+        "name": "NETWORK_GET_AVERAGE_PING",
+        "comment": "Same as NETWORK_GET_AVERAGE_LATENCY (0xD414BE129BB81B32)\n\nOld name: _NETWORK_GET_AVERAGE_LATENCY_FOR_PLAYER_2",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x0E3A041ED6AC2B45",
+        "gta_jhash": ""
+    }
+}

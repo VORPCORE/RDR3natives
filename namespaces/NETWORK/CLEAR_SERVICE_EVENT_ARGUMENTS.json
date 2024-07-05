@@ -1,0 +1,11 @@
+{
+    "0x966DD84FB6A46017": {
+        "name": "CLEAR_SERVICE_EVENT_ARGUMENTS",
+        "comment": "Old name: _CLEAR_LAUNCH_PARAMS",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x966DD84FB6A46017",
+        "gta_jhash": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x1B83C0DEEBCBB214": {
+        "name": "_REMOVE_ALL_PED_AMMO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "0x524B54361229154F": {
+        "name": "TASK_START_SCENARIO_IN_PLACE_HASH",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/animations/scenarios\nParams: duration in milliseconds\n\nconditionalHash (optionally):\n0 = play random conditional anim.\nEvery conditional anim has requirements to play it.\nIf requirements are not met, ped plays random allowed conditional anim or can be stuck.\nFor example, this scenario type has possible conditional anim WORLD_HUMAN_LEAN_BACK_WALL_SMOKING_MALE_D, but it can not be played by player, because condition is set to NOT be CAIConditionIsPlayer (check file amb_rest.meta and amb_rest_CA.meta with OPENIV to clarify requirements).",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "scenarioHash"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "BOOL",
+                "name": "playEnterAnim"
+            },
+            {
+                "type": "Hash",
+                "name": "conditionalHash"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

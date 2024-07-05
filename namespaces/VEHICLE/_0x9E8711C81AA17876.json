@@ -1,0 +1,18 @@
+{
+    "0x9E8711C81AA17876": {
+        "name": "_0x9E8711C81AA17876",
+        "comment": "Forcing high LOD buoyancy for vehicle: p1 = false\n_SET_A*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "0xEDFC6C1FD1C964F5": {
+        "name": "_0xEDFC6C1FD1C964F5",
+        "comment": "_SET_C* - _SET_D*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "crimeType"
+            },
+            {
+                "type": "int",
+                "name": "bounty"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

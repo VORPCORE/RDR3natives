@@ -1,0 +1,20 @@
+{
+    "0xC9D55B1A358A5BF7": {
+        "name": "IS_PED_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xC9D55B1A358A5BF7",
+        "gta_jhash": "0x5F1DDFCB"
+    }
+}

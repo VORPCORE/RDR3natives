@@ -1,0 +1,18 @@
+{
+    "0xA69899995997A63B": {
+        "name": "_SET_MOUNT_BONDING_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "bondingLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

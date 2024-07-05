@@ -1,0 +1,16 @@
+{
+    "0xB65B60556E2A9225": {
+        "name": "IS_AUDIO_SCENE_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB65B60556E2A9225",
+        "gta_jhash": "0xACBED05C"
+    }
+}

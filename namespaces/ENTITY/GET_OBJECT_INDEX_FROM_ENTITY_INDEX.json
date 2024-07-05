@@ -1,0 +1,16 @@
+{
+    "0x280BBE5601EAA983": {
+        "name": "GET_OBJECT_INDEX_FROM_ENTITY_INDEX",
+        "comment": "Simply returns whatever is passed to it (Regardless of whether the handle is valid or not).",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Object",
+        "build": "1207",
+        "gta_hash": "0xD7E3B9735C0F89D6",
+        "gta_jhash": "0xBC5A9C58"
+    }
+}

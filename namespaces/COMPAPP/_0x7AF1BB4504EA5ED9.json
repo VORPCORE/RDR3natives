@@ -1,0 +1,9 @@
+{
+    "0x7AF1BB4504EA5ED9": {
+        "name": "_0x7AF1BB4504EA5ED9",
+        "comment": "Hardcoded to return false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

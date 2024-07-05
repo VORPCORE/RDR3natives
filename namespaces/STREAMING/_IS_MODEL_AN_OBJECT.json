@@ -1,0 +1,14 @@
+{
+    "0x274EE1B90CFA669E": {
+        "name": "_IS_MODEL_AN_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

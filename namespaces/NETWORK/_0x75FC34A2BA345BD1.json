@@ -1,0 +1,23 @@
+{
+    "0x75FC34A2BA345BD1": {
+        "name": "_0x75FC34A2BA345BD1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true
+    }
+}

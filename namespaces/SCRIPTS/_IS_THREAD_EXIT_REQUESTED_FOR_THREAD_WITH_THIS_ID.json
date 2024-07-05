@@ -1,0 +1,14 @@
+{
+    "0x30BED53646C86D11": {
+        "name": "_IS_THREAD_EXIT_REQUESTED_FOR_THREAD_WITH_THIS_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

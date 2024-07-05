@@ -1,0 +1,32 @@
+{
+    "0x100E7007D13E3687": {
+        "name": "SET_ENTITY_QUATERNION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "w"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x77B21BE7AC540F07",
+        "gta_jhash": "0x83B6046F"
+    }
+}

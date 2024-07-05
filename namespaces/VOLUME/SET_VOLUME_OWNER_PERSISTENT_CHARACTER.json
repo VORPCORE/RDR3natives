@@ -1,0 +1,22 @@
+{
+    "0xE2BE6FFA4A13CBB0": {
+        "name": "SET_VOLUME_OWNER_PERSISTENT_CHARACTER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x2C5BD9A43987AA27": {
+        "name": "NETWORK_SET_COMPLETED_MP_INTRO_FLOW_ON_CURRENT_SLOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "completed"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xF8D1D2DAB6007EEF": {
+        "name": "_IS_ANIM_SCENE_METADATA_ASSET_IN_RANGE_LOADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

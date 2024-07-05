@@ -1,0 +1,22 @@
+{
+    "0xA24C1D341C6E0D53": {
+        "name": "IS_FIRST_PERSON_CAMERA_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

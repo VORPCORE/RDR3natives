@@ -1,0 +1,18 @@
+{
+    "0x1E804EA9B12030A4": {
+        "name": "_GET_SCRIPT_OVERRIDE_ENTITY_LOOT_TABLE_PERMANENT",
+        "comment": "Returns false if entity is not a ped or object.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash*",
+                "name": "lootTable"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

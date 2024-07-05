@@ -1,0 +1,18 @@
+{
+    "0x7CC2186C32D3540A": {
+        "name": "_GET_PED_ATTITUDE",
+        "comment": "AI_ATTITUDE_NEUTRAL = 0,\nAI_ATTITUDE_FRIENDLY,\nAI_ATTITUDE_WARY,\nAI_ATTITUDE_COMBATIVE,\nAI_ATTITUDE_NEVER_MET",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0xD6663EC374092383": {
+        "name": "GET_STATUS_OF_SAVE_HIGH_QUALITY_PHOTO",
+        "comment": "0 = succeeded\n1 = getting status\n2 = failed",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x0C0C4E81E1AC60A0",
+        "gta_jhash": "0xEC5D0317"
+    }
+}

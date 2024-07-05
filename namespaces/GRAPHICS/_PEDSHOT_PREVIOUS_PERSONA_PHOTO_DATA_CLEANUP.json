@@ -1,0 +1,9 @@
+{
+    "0x3E2FDDBE435A8787": {
+        "name": "_PEDSHOT_PREVIOUS_PERSONA_PHOTO_DATA_CLEANUP",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

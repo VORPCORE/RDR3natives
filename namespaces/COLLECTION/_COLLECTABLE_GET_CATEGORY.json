@@ -1,0 +1,14 @@
+{
+    "0x725D52F21A5E9EF6": {
+        "name": "_COLLECTABLE_GET_CATEGORY",
+        "comment": "Used in Script Function NET_COLLECTABLES_HANDLE_ITEM_ADDED\nReturns collectableCategory Hash",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableItem"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xFFA1594703ED27CA": {
+        "name": "_0xFFA1594703ED27CA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

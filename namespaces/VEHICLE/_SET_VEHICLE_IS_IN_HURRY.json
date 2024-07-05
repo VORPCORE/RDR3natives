@@ -1,0 +1,18 @@
+{
+    "0xCE1531927AD6C9F8": {
+        "name": "_SET_VEHICLE_IS_IN_HURRY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

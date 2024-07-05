@@ -1,0 +1,9 @@
+{
+    "0x3FE141FDB990E3D1": {
+        "name": "NETWORK_ACTIVITY_RESET_TO_IDLE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

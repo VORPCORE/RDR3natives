@@ -1,0 +1,14 @@
+{
+    "0xA6C0787443C9583E": {
+        "name": "_NETWORK_GET_PLAYER_OWNER_OF_NETWORK_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1207"
+    }
+}

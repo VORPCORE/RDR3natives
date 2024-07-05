@@ -1,0 +1,14 @@
+{
+    "0x0760D6F70EBCC05C": {
+        "name": "_NETWORK_HAS_PLAYER_VALID_PED",
+        "comment": "Returns true if the given player has a valid ped.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

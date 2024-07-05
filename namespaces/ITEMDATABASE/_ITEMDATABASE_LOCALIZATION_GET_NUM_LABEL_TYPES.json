@@ -1,0 +1,14 @@
+{
+    "0xCEC6A41E8910486A": {
+        "name": "_ITEMDATABASE_LOCALIZATION_GET_NUM_LABEL_TYPES",
+        "comment": "Returns docData.iNumTotalLabelTypes",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

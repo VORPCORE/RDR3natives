@@ -1,0 +1,14 @@
+{
+    "0x9B1FC259187C97C0": {
+        "name": "SET_AUDIO_ONLINE_TRANSITION_STAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xFAEC088D28B1DE4A": {
+        "name": "SET_GAME_PAUSED",
+        "comment": "Make sure to call this from the correct thread if you're using multiple threads because all other threads except the one which is calling SET_GAME_PAUSED will be paused.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x577D1284D6873711",
+        "gta_jhash": "0x8230FF6C"
+    }
+}

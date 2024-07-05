@@ -1,0 +1,18 @@
+{
+    "0x899A04AFCC725D04": {
+        "name": "_GIVE_WEAPON_COLLECTION_TO_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponCollection"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "0x83ED1FC9DF3411F5": {
+        "name": "_SPAWNPOINTS_START_SEARCH_WITH_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "int",
+                "name": "spawnpointsFlag"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

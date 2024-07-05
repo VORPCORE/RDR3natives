@@ -1,0 +1,14 @@
+{
+    "0x8FB7C254CFCBF78E": {
+        "name": "NETWORK_SESSION_IS_REQUEST_IN_PROGRESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "sessionRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

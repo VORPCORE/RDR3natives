@@ -1,0 +1,14 @@
+{
+    "0x48A88FC684C55FDC": {
+        "name": "_HAS_PROP_SET_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

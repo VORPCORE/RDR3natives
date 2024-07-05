@@ -1,0 +1,20 @@
+{
+    "0xF7D82B0D66777611": {
+        "name": "REMOVE_WEAPON_COMPONENT_FROM_WEAPON_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            },
+            {
+                "type": "Hash",
+                "name": "component"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF7D82B0D66777611",
+        "gta_jhash": "0xA6E7ED3C"
+    }
+}

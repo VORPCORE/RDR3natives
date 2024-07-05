@@ -1,0 +1,14 @@
+{
+    "0x21E60E230086697F": {
+        "name": "_UI_PROMPT_IS_PRESSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

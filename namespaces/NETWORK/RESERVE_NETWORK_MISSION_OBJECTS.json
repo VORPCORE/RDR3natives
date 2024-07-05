@@ -1,0 +1,16 @@
+{
+    "0x4E5C93BD0C32FBF8": {
+        "name": "RESERVE_NETWORK_MISSION_OBJECTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4E5C93BD0C32FBF8",
+        "gta_jhash": "0x391DF4F3"
+    }
+}

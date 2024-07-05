@@ -1,0 +1,14 @@
+{
+    "0x8D913E493BAFE0A3": {
+        "name": "_IS_HERD_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "herdHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

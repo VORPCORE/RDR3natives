@@ -1,0 +1,18 @@
+{
+    "0x8886D83A430537FD": {
+        "name": "SET_PED_OFF_TRANSPORT_SEAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

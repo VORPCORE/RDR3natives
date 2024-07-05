@@ -1,0 +1,16 @@
+{
+    "0xB56C4F5F57A45600": {
+        "name": "SET_WIND_DIRECTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "direction"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEB0F4468467B4528",
+        "gta_jhash": "0x381AEEE9"
+    }
+}

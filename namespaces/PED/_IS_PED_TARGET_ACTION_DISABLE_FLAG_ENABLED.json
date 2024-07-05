@@ -1,0 +1,18 @@
+{
+    "0x02AA2096FE00F3E1": {
+        "name": "_IS_PED_TARGET_ACTION_DISABLE_FLAG_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "actionDisableFlag"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

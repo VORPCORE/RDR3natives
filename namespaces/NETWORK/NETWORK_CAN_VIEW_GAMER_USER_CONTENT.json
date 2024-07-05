@@ -1,0 +1,14 @@
+{
+    "0x246545C37C27A717": {
+        "name": "NETWORK_CAN_VIEW_GAMER_USER_CONTENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

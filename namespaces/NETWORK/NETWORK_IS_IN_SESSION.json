@@ -1,0 +1,11 @@
+{
+    "0xCA97246103B63917": {
+        "name": "NETWORK_IS_IN_SESSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xCA97246103B63917",
+        "gta_jhash": "0x4BC4105E"
+    }
+}

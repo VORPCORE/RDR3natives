@@ -1,0 +1,14 @@
+{
+    "0xFBE782B3165AC8EC": {
+        "name": "NETWORK_AWARD_HAS_REACHED_MAXCLAIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

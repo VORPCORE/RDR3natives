@@ -1,0 +1,14 @@
+{
+    "0x94FCADCF9F0C368E": {
+        "name": "_0x94FCADCF9F0C368E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

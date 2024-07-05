@@ -1,0 +1,16 @@
+{
+    "0x1BCEC33D54CFCA8A": {
+        "name": "STOP_GAMEPLAY_HINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF46C581C61718916",
+        "gta_jhash": "0x1BC28B7B"
+    }
+}

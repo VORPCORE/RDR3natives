@@ -1,0 +1,18 @@
+{
+    "0x0B7CB1300CBFE19C": {
+        "name": "_IS_ENTITY_PLAYING_ANY_ANIM",
+        "comment": "Params: p1 (probably animType) = 1, 0",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

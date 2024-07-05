@@ -1,0 +1,20 @@
+{
+    "0x139E35755418F6AA": {
+        "name": "REMOVE_VEHICLE_RECORDING",
+        "comment": "See REQUEST_VEHICLE_RECORDING",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF1160ACCF98A3FC8",
+        "gta_jhash": "0xD3C05B00"
+    }
+}

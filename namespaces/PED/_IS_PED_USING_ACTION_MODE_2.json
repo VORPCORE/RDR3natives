@@ -1,0 +1,14 @@
+{
+    "0xEBB208D6AE712C03": {
+        "name": "_IS_PED_USING_ACTION_MODE_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

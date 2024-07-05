@@ -1,0 +1,32 @@
+{
+    "0x42718CC559BD7776": {
+        "name": "FIND_ANIM_EVENT_PHASE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "animDictionary"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "Any*",
+                "name": "p3"
+            },
+            {
+                "type": "Any*",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x07F1BE2BCCAA27A7",
+        "gta_jhash": "0xC41DDA62"
+    }
+}

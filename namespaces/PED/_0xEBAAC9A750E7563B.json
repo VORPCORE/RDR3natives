@@ -1,0 +1,14 @@
+{
+    "0xEBAAC9A750E7563B": {
+        "name": "_0xEBAAC9A750E7563B",
+        "comment": "If returned true: PROCESS_RESIZING_TRACKING_BOUNDS_VOLUME - Scaling UP the bounds due to tracking\nIf returned false: PROCESS_RESIZING_TRACKING_BOUNDS_VOLUME - Scaling DOWN the bounds due to tracking\n_IS_PED_T* - _IS_PED_U*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

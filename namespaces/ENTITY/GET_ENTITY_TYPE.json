@@ -1,0 +1,16 @@
+{
+    "0x97F696ACA466B4E0": {
+        "name": "GET_ENTITY_TYPE",
+        "comment": "Returns entityType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eEntityType",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x8ACD366038D14505",
+        "gta_jhash": "0x0B1BD08D"
+    }
+}

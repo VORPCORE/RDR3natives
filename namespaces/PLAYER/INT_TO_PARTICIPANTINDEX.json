@@ -1,0 +1,16 @@
+{
+    "0x58FF971FC8F2702C": {
+        "name": "INT_TO_PARTICIPANTINDEX",
+        "comment": "Simply returns whatever is passed to it (Regardless of whether the handle is valid or not).",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x9EC6603812C24710",
+        "gta_jhash": "0x98F3B274"
+    }
+}

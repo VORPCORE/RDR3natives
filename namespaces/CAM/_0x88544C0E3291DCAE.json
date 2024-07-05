@@ -1,0 +1,14 @@
+{
+    "0x88544C0E3291DCAE": {
+        "name": "_0x88544C0E3291DCAE",
+        "comment": "UPDATE_PLAYER_PLAYING_STATE - Releasing Lasso Hint Cam\nReturn type char in ida\n_SET_GAMEPLAY_HINT_*",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

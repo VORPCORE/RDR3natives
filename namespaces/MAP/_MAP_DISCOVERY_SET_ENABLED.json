@@ -1,0 +1,14 @@
+{
+    "0xDA98246C7A3C2189": {
+        "name": "_MAP_DISCOVERY_SET_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "discoveryHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

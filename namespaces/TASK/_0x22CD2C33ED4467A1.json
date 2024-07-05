@@ -1,0 +1,14 @@
+{
+    "0x22CD2C33ED4467A1": {
+        "name": "_0x22CD2C33ED4467A1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

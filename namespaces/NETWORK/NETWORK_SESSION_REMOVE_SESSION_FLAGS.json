@@ -1,0 +1,14 @@
+{
+    "0x78335E12DB0BF961": {
+        "name": "NETWORK_SESSION_REMOVE_SESSION_FLAGS",
+        "comment": "See _NETWORK_SESSION_ADD_SESSION_FLAGS",
+        "params": [
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

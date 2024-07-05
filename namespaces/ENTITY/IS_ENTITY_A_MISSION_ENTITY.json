@@ -1,0 +1,16 @@
+{
+    "0x138190F64DB4BBD1": {
+        "name": "IS_ENTITY_A_MISSION_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x0A7B270912999B3C",
+        "gta_jhash": "0x2632E124"
+    }
+}

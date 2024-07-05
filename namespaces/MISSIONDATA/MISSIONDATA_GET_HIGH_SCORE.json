@@ -1,0 +1,14 @@
+{
+    "0x9AABABF8313C3516": {
+        "name": "MISSIONDATA_GET_HIGH_SCORE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "missionId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

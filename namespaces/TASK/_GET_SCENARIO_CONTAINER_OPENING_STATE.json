@@ -1,0 +1,14 @@
+{
+    "0xB219612B5568E9EC": {
+        "name": "_GET_SCENARIO_CONTAINER_OPENING_STATE",
+        "comment": "Returns m_eContainerState",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

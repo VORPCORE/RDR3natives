@@ -1,0 +1,18 @@
+{
+    "0xA7479FB665361EDB": {
+        "name": "_0xA7479FB665361EDB",
+        "comment": "_SET_SCENARIO_*",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

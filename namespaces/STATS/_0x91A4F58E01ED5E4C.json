@@ -1,0 +1,18 @@
+{
+    "0x91A4F58E01ED5E4C": {
+        "name": "_0x91A4F58E01ED5E4C",
+        "comment": "statId: see STAT_ID_IS_VALID",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

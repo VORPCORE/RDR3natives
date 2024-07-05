@@ -1,0 +1,20 @@
+{
+    "0x2126C740A4AC370B": {
+        "name": "SET_THIRD_PERSON_CAM_ORBIT_DISTANCE_LIMITS_THIS_UPDATE",
+        "comment": "Old name: _ANIMATE_GAMEPLAY_CAM_ZOOM",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDF2E1F7742402E81",
+        "gta_jhash": "0x77340650"
+    }
+}

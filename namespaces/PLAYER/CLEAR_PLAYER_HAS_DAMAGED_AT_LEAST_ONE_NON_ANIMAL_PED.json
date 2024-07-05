@@ -1,0 +1,16 @@
+{
+    "0x0361096D6CE4372C": {
+        "name": "CLEAR_PLAYER_HAS_DAMAGED_AT_LEAST_ONE_NON_ANIMAL_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4AACB96203D11A31",
+        "gta_jhash": "0x7E3BFBC5"
+    }
+}

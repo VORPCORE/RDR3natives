@@ -1,0 +1,16 @@
+{
+    "0x9FA4664CF62E47E8": {
+        "name": "RESET_PED_RAGDOLL_TIMER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9FA4664CF62E47E8",
+        "gta_jhash": "0xF2865370"
+    }
+}

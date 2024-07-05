@@ -1,0 +1,18 @@
+{
+    "0x34F008A7E48C496B": {
+        "name": "_GET_OPTIMAL_CARRY_CONFIG",
+        "comment": "Valid indices: 0 - 3\nIndex 1 always returns a `hogtied` config, doesn't matter the entity.\nIt's for humans only and the ped must be resurrected first if it's dead.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

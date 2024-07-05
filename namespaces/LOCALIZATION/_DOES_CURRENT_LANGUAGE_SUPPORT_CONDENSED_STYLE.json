@@ -1,0 +1,9 @@
+{
+    "0x45D50415E4D885FF": {
+        "name": "_DOES_CURRENT_LANGUAGE_SUPPORT_CONDENSED_STYLE",
+        "comment": "Returns true if the current language is american, french, german, italian, spanish, brazilian or mexican.\n_DOES_*",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

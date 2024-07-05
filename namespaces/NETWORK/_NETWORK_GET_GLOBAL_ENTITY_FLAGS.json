@@ -1,0 +1,15 @@
+{
+    "0xDD7806FD0543BC3D": {
+        "name": "_NETWORK_GET_GLOBAL_ENTITY_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "unused": true
+    }
+}

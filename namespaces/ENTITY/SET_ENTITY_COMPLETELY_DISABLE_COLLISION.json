@@ -1,0 +1,24 @@
+{
+    "0xE0580EC84813875A": {
+        "name": "SET_ENTITY_COMPLETELY_DISABLE_COLLISION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "BOOL",
+                "name": "keepPhysics"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9EBC85ED0FFFE51C",
+        "gta_jhash": "0xBD0D4831"
+    }
+}

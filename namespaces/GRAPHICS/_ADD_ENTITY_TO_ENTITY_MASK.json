@@ -1,0 +1,18 @@
+{
+    "0xC6F81FCD15350323": {
+        "name": "_ADD_ENTITY_TO_ENTITY_MASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "mask"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

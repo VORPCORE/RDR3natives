@@ -1,0 +1,14 @@
+{
+    "0xFFDE295662405B25": {
+        "name": "_0xFFDE295662405B25",
+        "comment": "_GET_PED_COMBAT_M* - _GET_PED_C*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

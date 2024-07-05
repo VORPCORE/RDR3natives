@@ -1,0 +1,16 @@
+{
+    "0x193DFC0526830FD6": {
+        "name": "SET_RAIN",
+        "comment": "Old name: _SET_RAIN_LEVEL",
+        "params": [
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x643E26EA6E024D92",
+        "gta_jhash": ""
+    }
+}

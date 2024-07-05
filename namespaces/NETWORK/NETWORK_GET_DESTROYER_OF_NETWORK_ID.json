@@ -1,0 +1,20 @@
+{
+    "0x7A1ADEEF01740A24": {
+        "name": "NETWORK_GET_DESTROYER_OF_NETWORK_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            },
+            {
+                "type": "Hash*",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x7A1ADEEF01740A24",
+        "gta_jhash": "0x4FCA6436"
+    }
+}

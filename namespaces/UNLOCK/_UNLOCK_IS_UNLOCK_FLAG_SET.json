@@ -1,0 +1,18 @@
+{
+    "0x6B6369647F26F09F": {
+        "name": "_UNLOCK_IS_UNLOCK_FLAG_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "unlockHash"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xC900A465364A85D6": {
+        "name": "_0xC900A465364A85D6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

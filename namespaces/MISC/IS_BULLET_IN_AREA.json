@@ -1,0 +1,32 @@
+{
+    "0xC652FD308772D79E": {
+        "name": "IS_BULLET_IN_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x3F2023999AD51C1F",
+        "gta_jhash": "0xB54F46CA"
+    }
+}

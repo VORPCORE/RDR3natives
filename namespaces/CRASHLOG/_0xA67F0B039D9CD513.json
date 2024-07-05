@@ -1,0 +1,15 @@
+{
+    "0xA67F0B039D9CD513": {
+        "name": "_0xA67F0B039D9CD513",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true
+    }
+}

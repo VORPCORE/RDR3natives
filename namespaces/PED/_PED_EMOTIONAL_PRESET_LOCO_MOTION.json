@@ -1,0 +1,30 @@
+{
+    "0xAAB050DA48B57978": {
+        "name": "_PED_EMOTIONAL_PRESET_LOCO_MOTION",
+        "comment": "target: 0 affects everyone\nduration: -1 indefinite\nflag: always 4 in R* Scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "presetName"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

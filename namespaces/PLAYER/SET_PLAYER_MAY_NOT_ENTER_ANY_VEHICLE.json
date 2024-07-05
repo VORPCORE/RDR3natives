@@ -1,0 +1,16 @@
+{
+    "0xBEC463B3A11C909E": {
+        "name": "SET_PLAYER_MAY_NOT_ENTER_ANY_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1DE37BBF9E9CC14A",
+        "gta_jhash": "0xAF7AFCC4"
+    }
+}

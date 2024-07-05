@@ -1,0 +1,28 @@
+{
+    "0x73348402566ECB6E": {
+        "name": "SET_MINIMAP_FOW_REVEAL_COORDINATE",
+        "comment": "Up to eight coordinates may be revealed per frame",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Hash",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0923DBF87DFF735E",
+        "gta_jhash": "0xE010F081"
+    }
+}

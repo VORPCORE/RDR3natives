@@ -1,0 +1,16 @@
+{
+    "0xE60100389E50EADE": {
+        "name": "DATAFILE_HAS_VALID_FILE_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF8CC1EBE0B62E29F",
+        "gta_jhash": "0x2A9411DA"
+    }
+}

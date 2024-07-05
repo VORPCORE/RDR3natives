@@ -1,0 +1,14 @@
+{
+    "0xF0FBF193F1F5C0EA": {
+        "name": "_0xF0FBF193F1F5C0EA",
+        "comment": "Only used in fishing_core R* Script",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

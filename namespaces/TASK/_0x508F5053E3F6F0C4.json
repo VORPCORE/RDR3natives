@@ -1,0 +1,30 @@
+{
+    "0x508F5053E3F6F0C4": {
+        "name": "_0x508F5053E3F6F0C4",
+        "comment": "Only used in R* SP Scripts\nParams: p4 = 1.0f - 30.0f",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

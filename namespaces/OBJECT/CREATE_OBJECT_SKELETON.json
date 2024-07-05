@@ -1,0 +1,14 @@
+{
+    "0xB6CBD40F8EA69E8A": {
+        "name": "CREATE_OBJECT_SKELETON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

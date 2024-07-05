@@ -1,0 +1,9 @@
+{
+    "0xDB7ABDD203FA3704": {
+        "name": "NETWORK_GET_TOTAL_NUM_FRIENDS",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x25557E324489393C": {
+        "name": "DOES_ANIM_SCENE_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

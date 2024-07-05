@@ -1,0 +1,16 @@
+{
+    "0xDF18751EC74F90FF": {
+        "name": "HAS_ENTITY_COLLIDED_WITH_ANYTHING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x8BAD02F0368D9E14",
+        "gta_jhash": "0x662A2F41"
+    }
+}

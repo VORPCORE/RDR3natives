@@ -1,0 +1,14 @@
+{
+    "0x7157B82D60E4BC46": {
+        "name": "TASK_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xB190BCA3F4042F95": {
+        "name": "_ADD_AMMO_TO_PED",
+        "comment": "addReason:\nenum eAddItemReason : Hash\n{\n\tADD_REASON_AWARDS = 0xB784AD1E,\n\tADD_REASON_CREATE_CHARACTER = 0xE2C4FF71,\n\tADD_REASON_DEBUG = 0x5C05C64D,\n\tADD_REASON_DEFAULT = 0x2CD419DC,\n\tADD_REASON_GET_INVENTORY = 0xD8188685,\n\tADD_REASON_INCENTIVE = 0x8ADC2E95,\n\tADD_REASON_LOADOUT = 0xCA3454E6,\n\tADD_REASON_LOAD_SAVEGAME = 0x56212906,\n\tADD_REASON_LOOTED = 0xCA806A55,\n\tADD_REASON_MELEE = 0x7B9BDCE7,\n\tADD_REASON_MP_MISSION = 0xEC0E0194,\n\tADD_REASON_NOTIFICATION = 0xC56292D2,\n\tADD_REASON_PICKUP = 0x1A770E22,\n\tADD_REASON_PURCHASED = 0x4A6726C9,\n\tADD_REASON_SET_AMOUNT = 0x4504731E,\n\tADD_REASON_SYNCING = 0x8D4B4FF4,\n\tADD_REASON_USE_FAILED = 0xD385B670\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "addReason"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

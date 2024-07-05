@@ -1,0 +1,18 @@
+{
+    "0xF092B6030D6FD49C": {
+        "name": "_0xF092B6030D6FD49C",
+        "comment": "Name: ROPE_SETTINGS_DEFAULT",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

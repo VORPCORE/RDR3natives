@@ -1,0 +1,20 @@
+{
+    "0x0045A54EC7A22455": {
+        "name": "IS_VEHICLE_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x423E8DE37D934D89",
+        "gta_jhash": "0x013B10B6"
+    }
+}

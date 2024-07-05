@@ -1,0 +1,52 @@
+{
+    "0x40C23491CE83708E": {
+        "name": "CREATE_CAM_WITH_PARAMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "camName"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "fov"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            }
+        ],
+        "return_type": "Cam",
+        "build": "1207",
+        "gta_hash": "0xB51194800B257161",
+        "gta_jhash": "0x23B02F15"
+    }
+}

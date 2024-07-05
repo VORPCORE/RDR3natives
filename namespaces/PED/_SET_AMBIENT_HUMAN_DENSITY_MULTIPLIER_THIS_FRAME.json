@@ -1,0 +1,14 @@
+{
+    "0xBA0980B5C0A11924": {
+        "name": "_SET_AMBIENT_HUMAN_DENSITY_MULTIPLIER_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xA5950E16B8F31052": {
+        "name": "_SET_PED_TRAIL_EFFECT",
+        "comment": "duration in seconds",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

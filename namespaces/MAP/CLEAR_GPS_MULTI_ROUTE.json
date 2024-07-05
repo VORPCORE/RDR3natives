@@ -1,0 +1,11 @@
+{
+    "0x9E0AB9AAEE87CE28": {
+        "name": "CLEAR_GPS_MULTI_ROUTE",
+        "comment": "Does the same as SET_GPS_MULTI_ROUTE_RENDER(false);",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x67EEDEA1B9BAFD94",
+        "gta_jhash": "0x0D9969E4"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0x1411A7CBC3A6EB7B": {
+        "name": "RESET_SCRIPT_TIME_WITHIN_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

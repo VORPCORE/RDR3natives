@@ -1,0 +1,18 @@
+{
+    "0xE9BD19F8121ADE3E": {
+        "name": "_SEND_WEAPON_TO_INVENTORY",
+        "comment": "Appears to just send specified weapon to your horse holster without having to be close\nHowever, the weapon is not visible on the horse holster, but you can reach the weapon on the weapon wheel",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

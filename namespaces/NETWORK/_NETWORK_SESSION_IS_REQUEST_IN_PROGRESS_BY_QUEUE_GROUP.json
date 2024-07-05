@@ -1,0 +1,14 @@
+{
+    "0x9E762A595CF88E4A": {
+        "name": "_NETWORK_SESSION_IS_REQUEST_IN_PROGRESS_BY_QUEUE_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "queueGroup"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

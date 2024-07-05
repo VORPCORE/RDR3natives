@@ -1,0 +1,18 @@
+{
+    "0x735662994E60A710": {
+        "name": "_0x735662994E60A710",
+        "comment": "_SET_PED_F*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

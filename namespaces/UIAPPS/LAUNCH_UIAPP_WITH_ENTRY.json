@@ -1,0 +1,18 @@
+{
+    "0x7B2027BAC5C8EC89": {
+        "name": "LAUNCH_UIAPP_WITH_ENTRY",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "appName"
+            },
+            {
+                "type": "const char*",
+                "name": "entry"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

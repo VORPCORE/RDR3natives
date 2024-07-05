@@ -1,0 +1,62 @@
+{
+    "0x5E3BDDBCB83F3D84": {
+        "name": "GIVE_WEAPON_TO_PED",
+        "comment": "Gives the ped the weapon.\nList: https://github.com/femga/rdr3_discoveries/blob/master/weapons/weapons.lua\n\nParams: p7 is 0.5f, and p8 is 1.0f. p11 and p12 are both 0 in R* Scripts\nattachPoint: see SET_CURRENT_PED_WEAPON\naddReason: see _ADD_AMMO_TO_PED\npermanentDegradation: default 0.5, any higher than 0 it will automatically make the weapon worn, you can also adjust the value to change the weapons maximum cleanliness",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "int",
+                "name": "ammoCount"
+            },
+            {
+                "type": "BOOL",
+                "name": "bForceInHand"
+            },
+            {
+                "type": "BOOL",
+                "name": "bForceInHolster"
+            },
+            {
+                "type": "int",
+                "name": "attachPoint"
+            },
+            {
+                "type": "BOOL",
+                "name": "bAllowMultipleCopies"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "Hash",
+                "name": "addReason"
+            },
+            {
+                "type": "BOOL",
+                "name": "bIgnoreUnlocks"
+            },
+            {
+                "type": "float",
+                "name": "permanentDegradation"
+            },
+            {
+                "type": "BOOL",
+                "name": "p12"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

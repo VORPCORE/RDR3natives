@@ -1,0 +1,20 @@
+{
+    "0x6647C5F6F5792496": {
+        "name": "SET_PED_CAN_TORSO_VEHICLE_IK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6647C5F6F5792496",
+        "gta_jhash": "0x0FDA62DE"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x9EBD34958AB6F824": {
+        "name": "_0x9EBD34958AB6F824",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

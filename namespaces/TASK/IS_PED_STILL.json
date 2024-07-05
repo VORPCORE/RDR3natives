@@ -1,0 +1,16 @@
+{
+    "0xAC29253EEF8F0180": {
+        "name": "IS_PED_STILL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xAC29253EEF8F0180",
+        "gta_jhash": "0x09E3418D"
+    }
+}

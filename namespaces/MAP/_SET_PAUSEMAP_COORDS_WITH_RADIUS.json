@@ -1,0 +1,26 @@
+{
+    "0xE0884C184728C75B": {
+        "name": "_SET_PAUSEMAP_COORDS_WITH_RADIUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

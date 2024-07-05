@@ -1,0 +1,18 @@
+{
+    "0x678D3226CF70B9C8": {
+        "name": "_0x678D3226CF70B9C8",
+        "comment": "Only used in R* SP Script beat_washed_ashore\nReturns Object prop for TASK::_TASK_ITEM_INTERACTION_2",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Object",
+        "build": "1207"
+    }
+}

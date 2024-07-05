@@ -1,0 +1,22 @@
+{
+    "0xD710A5007C2AC539": {
+        "name": "REMOVE_TAG_FROM_META_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "component"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

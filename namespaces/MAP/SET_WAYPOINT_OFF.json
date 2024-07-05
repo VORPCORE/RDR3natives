@@ -1,0 +1,11 @@
+{
+    "0xFA8C41E8020D3439": {
+        "name": "SET_WAYPOINT_OFF",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA7E4E2D361C2627F",
+        "gta_jhash": "0xB3496E1B"
+    }
+}

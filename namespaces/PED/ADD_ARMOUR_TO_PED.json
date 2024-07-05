@@ -1,0 +1,20 @@
+{
+    "0x5BA652A0CD14DF2F": {
+        "name": "ADD_ARMOUR_TO_PED",
+        "comment": "Same as SET_PED_ARMOUR, but ADDS 'amount' to the armor the Ped already has.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5BA652A0CD14DF2F",
+        "gta_jhash": "0xF686B26E"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x0A3720F162A033C9": {
+        "name": "REQUEST_COLLISION_AT_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x07503F7948F491A7",
+        "gta_jhash": "0xCD9805E7"
+    }
+}

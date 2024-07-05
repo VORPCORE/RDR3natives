@@ -1,0 +1,14 @@
+{
+    "0x025E98E317652CDD": {
+        "name": "_0x025E98E317652CDD",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

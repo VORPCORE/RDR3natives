@@ -1,0 +1,14 @@
+{
+    "0x506F1DE1BFC75304": {
+        "name": "_IS_WEAPON_TORCH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

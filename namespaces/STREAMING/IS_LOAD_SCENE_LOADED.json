@@ -1,0 +1,9 @@
+{
+    "0x0909F71B5C070797": {
+        "name": "IS_LOAD_SCENE_LOADED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

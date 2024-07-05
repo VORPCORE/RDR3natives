@@ -1,0 +1,14 @@
+{
+    "0x4EB122210A90E2D8": {
+        "name": "UI_STATE_MACHINE_DESTROY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

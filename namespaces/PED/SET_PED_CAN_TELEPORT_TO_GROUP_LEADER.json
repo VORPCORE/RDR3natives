@@ -1,0 +1,24 @@
+{
+    "0x2E2F4240B3F24647": {
+        "name": "SET_PED_CAN_TELEPORT_TO_GROUP_LEADER",
+        "comment": "This only will teleport the ped to the group leader if the group leader teleports (sets coords).\n\nOnly works in singleplayer",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "pedHandle"
+            },
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2E2F4240B3F24647",
+        "gta_jhash": "0xD0D8BDBC"
+    }
+}

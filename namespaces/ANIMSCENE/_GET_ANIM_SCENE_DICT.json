@@ -1,0 +1,14 @@
+{
+    "0xAE5ADA4FE3E21ADC": {
+        "name": "_GET_ANIM_SCENE_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

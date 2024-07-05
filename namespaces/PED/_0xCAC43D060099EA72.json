@@ -1,0 +1,14 @@
+{
+    "0xCAC43D060099EA72": {
+        "name": "_0xCAC43D060099EA72",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

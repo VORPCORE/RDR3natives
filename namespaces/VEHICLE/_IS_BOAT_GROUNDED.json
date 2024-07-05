@@ -1,0 +1,14 @@
+{
+    "0x30D86B2B7622D0EB": {
+        "name": "_IS_BOAT_GROUNDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

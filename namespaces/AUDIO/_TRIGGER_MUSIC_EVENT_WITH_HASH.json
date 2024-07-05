@@ -1,0 +1,14 @@
+{
+    "0x05D6195FB4D428F4": {
+        "name": "_TRIGGER_MUSIC_EVENT_WITH_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "eventName"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

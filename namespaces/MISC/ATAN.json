@@ -1,0 +1,16 @@
+{
+    "0x503054DED0B78027": {
+        "name": "ATAN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xA9D1795CD5043663",
+        "gta_jhash": "0x7A03CC8E"
+    }
+}

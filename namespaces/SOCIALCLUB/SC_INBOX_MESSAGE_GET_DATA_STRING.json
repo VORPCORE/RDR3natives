@@ -1,0 +1,24 @@
+{
+    "0x66F77FD58506FF6B": {
+        "name": "SC_INBOX_MESSAGE_GET_DATA_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "context"
+            },
+            {
+                "type": "char*",
+                "name": "out"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x7572EF42FC6A9B6D",
+        "gta_jhash": "0x15607620"
+    }
+}

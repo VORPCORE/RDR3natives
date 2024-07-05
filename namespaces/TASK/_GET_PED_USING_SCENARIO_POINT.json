@@ -1,0 +1,14 @@
+{
+    "0x5BA659955369B0E2": {
+        "name": "_GET_PED_USING_SCENARIO_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

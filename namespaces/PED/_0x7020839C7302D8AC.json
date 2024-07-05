@@ -1,0 +1,14 @@
+{
+    "0x7020839C7302D8AC": {
+        "name": "_0x7020839C7302D8AC",
+        "comment": "_HAS_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

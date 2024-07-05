@@ -1,0 +1,14 @@
+{
+    "0x7A4E00364B5D727B": {
+        "name": "_GET_PED_CAN_BE_INCAPACITATED_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

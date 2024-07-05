@@ -1,0 +1,14 @@
+{
+    "0x51D99497ABF3F451": {
+        "name": "_SET_DOOR_NETWORKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

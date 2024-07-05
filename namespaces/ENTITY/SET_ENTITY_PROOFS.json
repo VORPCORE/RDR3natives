@@ -1,0 +1,24 @@
+{
+    "0xFAEE099C6F890BB8": {
+        "name": "SET_ENTITY_PROOFS",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/AI/ENTITY_PROOFS\nBOOL p2: handles an additional special proofs flag, so it simply indicates whether it should be enabled or disabled, not sure what exactly it proofs the entity from though",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "proofsBitset"
+            },
+            {
+                "type": "BOOL",
+                "name": "specialFlag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xFAEE099C6F890BB8",
+        "gta_jhash": "0x7E9EAB66"
+    }
+}

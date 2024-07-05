@@ -1,0 +1,18 @@
+{
+    "0x9D746964E0CF2C5F": {
+        "name": "_RELEASE_SHARD_SOUNDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "soundName"
+            },
+            {
+                "type": "const char*",
+                "name": "soundsetName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

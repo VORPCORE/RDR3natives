@@ -1,0 +1,14 @@
+{
+    "0xFB6E111908502871": {
+        "name": "_SET_STATUS_EFFECT_PERIODIC_ICON",
+        "comment": "Starts core periodic icon.\nstatusEffectType: see 0xA4D3A1C008F250DF",
+        "params": [
+            {
+                "type": "int",
+                "name": "statusEffectType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

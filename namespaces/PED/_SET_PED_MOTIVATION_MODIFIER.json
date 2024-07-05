@@ -1,0 +1,22 @@
+{
+    "0xA1EB5D029E0191D3": {
+        "name": "_SET_PED_MOTIVATION_MODIFIER",
+        "comment": "The higher the modifier, the slower the motivationState value will decrease",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "motivationState"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xA19447D83294E29F": {
+        "name": "GET_DRAFT_ANIMAL_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "expected"
+            },
+            {
+                "type": "int*",
+                "name": "actual"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

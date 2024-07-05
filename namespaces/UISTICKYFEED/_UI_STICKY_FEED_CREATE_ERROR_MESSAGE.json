@@ -1,0 +1,22 @@
+{
+    "0x9F2CC2439A04E7BA": {
+        "name": "_UI_STICKY_FEED_CREATE_ERROR_MESSAGE",
+        "comment": "Example: https://pastebin.com/EJD7ytnz",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

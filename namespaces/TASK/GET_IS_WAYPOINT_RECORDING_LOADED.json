@@ -1,0 +1,16 @@
+{
+    "0xCB4E8BE8A0063C5D": {
+        "name": "GET_IS_WAYPOINT_RECORDING_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xCB4E8BE8A0063C5D",
+        "gta_jhash": "0x87125F5D"
+    }
+}

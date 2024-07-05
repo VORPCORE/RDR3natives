@@ -1,0 +1,16 @@
+{
+    "0xFB6BA510A533DF81": {
+        "name": "GET_ENTITY_SPEED",
+        "comment": "Result is in meters per second (m/s)",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xD5037BA82E12416F",
+        "gta_jhash": "0x9E1E4798"
+    }
+}

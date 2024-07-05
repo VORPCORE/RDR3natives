@@ -1,0 +1,18 @@
+{
+    "0xA8A74AA79FB67159": {
+        "name": "_SET_GUARD_ZONE_VOLUME_REGISTRATION_END",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

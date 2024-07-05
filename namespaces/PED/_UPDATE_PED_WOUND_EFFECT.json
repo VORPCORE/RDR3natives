@@ -1,0 +1,18 @@
+{
+    "0x66B1CB778D911F49": {
+        "name": "_UPDATE_PED_WOUND_EFFECT",
+        "comment": "Params: 0.0f to remove wound effects",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

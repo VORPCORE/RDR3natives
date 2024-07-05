@@ -1,0 +1,16 @@
+{
+    "0xBDBACB52A03CC760": {
+        "name": "UPDATE_LIGHTS_ON_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDEADC0DEDEADC0DE",
+        "gta_jhash": "0xC12AC47A"
+    }
+}

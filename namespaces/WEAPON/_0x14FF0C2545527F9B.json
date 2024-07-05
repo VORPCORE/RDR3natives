@@ -1,0 +1,22 @@
+{
+    "0x14FF0C2545527F9B": {
+        "name": "_0x14FF0C2545527F9B",
+        "comment": "Puts the gun visibly in your horse's holster without having to be close to the horse. Use 0xE9BD19F8121ADE3E before using this native\n_A* or _B*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "horse"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

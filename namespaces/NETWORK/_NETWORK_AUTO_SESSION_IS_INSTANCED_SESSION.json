@@ -1,0 +1,9 @@
+{
+    "0x277865A734918AE6": {
+        "name": "_NETWORK_AUTO_SESSION_IS_INSTANCED_SESSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

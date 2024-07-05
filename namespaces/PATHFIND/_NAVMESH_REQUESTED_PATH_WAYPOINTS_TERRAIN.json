@@ -1,0 +1,14 @@
+{
+    "0xF61CFEDEAB627BFA": {
+        "name": "_NAVMESH_REQUESTED_PATH_WAYPOINTS_TERRAIN",
+        "comment": "Returns a bit flag for seemingly terrain within the waypoints in the path. Checked against bit value 2 to match water in the path, seems to always contain at least 1 though regardless of location/ped.",
+        "params": [
+            {
+                "type": "int",
+                "name": "path"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

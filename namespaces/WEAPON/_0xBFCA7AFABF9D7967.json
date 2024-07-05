@@ -1,0 +1,18 @@
+{
+    "0xBFCA7AFABF9D7967": {
+        "name": "_0xBFCA7AFABF9D7967",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

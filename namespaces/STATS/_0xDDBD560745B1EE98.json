@@ -1,0 +1,22 @@
+{
+    "0xDDBD560745B1EE98": {
+        "name": "_0xDDBD560745B1EE98",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            },
+            {
+                "type": "Hash",
+                "name": "goalHash"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x4B8F743A4A6D2FF8": {
+        "name": "SET_MINIMAP_HIDE_FOW",
+        "comment": "Reveals the entire minimap (FOW = Fog of War)",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF8DEE0A5600CBB93",
+        "gta_jhash": "0xD8D77733"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0xACAD101E1FB66689": {
+        "name": "SET_ENTITY_ALWAYS_PRERENDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xACAD101E1FB66689",
+        "gta_jhash": "0xD8FF798A"
+    }
+}

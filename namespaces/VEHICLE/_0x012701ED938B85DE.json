@@ -1,0 +1,18 @@
+{
+    "0x012701ED938B85DE": {
+        "name": "_0x012701ED938B85DE",
+        "comment": "Only used in SP Scripts.\nRelated to Vehicle Speed.",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

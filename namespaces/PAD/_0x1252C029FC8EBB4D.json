@@ -1,0 +1,9 @@
+{
+    "0x1252C029FC8EBB4D": {
+        "name": "_0x1252C029FC8EBB4D",
+        "comment": "_IS_R* - _IS_S*",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

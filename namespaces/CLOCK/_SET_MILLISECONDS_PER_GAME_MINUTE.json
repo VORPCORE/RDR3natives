@@ -1,0 +1,14 @@
+{
+    "0x04EEDB3848DACF68": {
+        "name": "_SET_MILLISECONDS_PER_GAME_MINUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ms"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xD955FEE4B87AFA07": {
+        "name": "_IS_WEAPON_ONE_HANDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

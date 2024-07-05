@@ -1,0 +1,20 @@
+{
+    "0xCC7FC854B956A128": {
+        "name": "ACTIVITY_FEED_CREATE",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4DCDF92BF64236CD",
+        "gta_jhash": ""
+    }
+}

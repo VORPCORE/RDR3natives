@@ -1,0 +1,18 @@
+{
+    "0x0B9F7A01EC50448D": {
+        "name": "_0x0B9F7A01EC50448D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

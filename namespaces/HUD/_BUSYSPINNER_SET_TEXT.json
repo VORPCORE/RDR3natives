@@ -1,0 +1,14 @@
+{
+    "0x7F78CD75CC4539E4": {
+        "name": "_BUSYSPINNER_SET_TEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "text"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

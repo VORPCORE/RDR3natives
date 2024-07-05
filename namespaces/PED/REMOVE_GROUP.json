@@ -1,0 +1,16 @@
+{
+    "0x8EB2F69076AF7053": {
+        "name": "REMOVE_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8EB2F69076AF7053",
+        "gta_jhash": "0x48D72B88"
+    }
+}

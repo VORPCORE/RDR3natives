@@ -1,0 +1,20 @@
+{
+    "0x78C4E9961DB3EB5B": {
+        "name": "SET_PED_CLOTH_PIN_FRAMES",
+        "comment": "Old name: SET_PED_CLOTH_PACKAGE_INDEX",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x78C4E9961DB3EB5B",
+        "gta_jhash": ""
+    }
+}

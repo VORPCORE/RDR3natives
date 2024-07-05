@@ -1,0 +1,14 @@
+{
+    "0x84848E1C0FC67DBB": {
+        "name": "_HAS_SOUND_ID_FINISHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "soundId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

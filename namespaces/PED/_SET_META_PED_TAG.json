@@ -1,0 +1,46 @@
+{
+    "0xBC6DF00D7A4A6819": {
+        "name": "_SET_META_PED_TAG",
+        "comment": "Use to apply metaped player components\nReplaces asset, alternatively you can remove assets using REMOVE_TAG_FROM_META_PED",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "drawable"
+            },
+            {
+                "type": "Hash",
+                "name": "albedo"
+            },
+            {
+                "type": "Hash",
+                "name": "normal"
+            },
+            {
+                "type": "Hash",
+                "name": "material"
+            },
+            {
+                "type": "Hash",
+                "name": "palette"
+            },
+            {
+                "type": "int",
+                "name": "tint0"
+            },
+            {
+                "type": "int",
+                "name": "tint1"
+            },
+            {
+                "type": "int",
+                "name": "tint2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

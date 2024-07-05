@@ -1,0 +1,14 @@
+{
+    "0x113857D66A9CABE6": {
+        "name": "_IS_PROXY_INTERIOR_INDEX_ARTIFICIAL_LIGHTS_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "proxyInteriorIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

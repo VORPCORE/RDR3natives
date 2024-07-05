@@ -1,0 +1,18 @@
+{
+    "0xD041A32992A55F84": {
+        "name": "_SET_LOCAL_PLAYER_DAMAGE_MULTIPLIER_FOR_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "damageMultiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

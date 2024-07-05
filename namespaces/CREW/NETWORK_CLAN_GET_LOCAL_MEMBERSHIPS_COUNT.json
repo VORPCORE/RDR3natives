@@ -1,0 +1,11 @@
+{
+    "0x1F471B79ACC90BEF": {
+        "name": "NETWORK_CLAN_GET_LOCAL_MEMBERSHIPS_COUNT",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x1F471B79ACC90BEF",
+        "gta_jhash": "0x807B3450"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0x138398153824E332": {
+        "name": "_SET_ALL_JUNCTIONS_CLEARED",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x4972A022AE6DAFA1": {
+        "name": "TASK_ENTER_COVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

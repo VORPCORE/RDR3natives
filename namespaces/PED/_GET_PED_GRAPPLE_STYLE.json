@@ -1,0 +1,14 @@
+{
+    "0x753B15AD0FD6F3E3": {
+        "name": "_GET_PED_GRAPPLE_STYLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

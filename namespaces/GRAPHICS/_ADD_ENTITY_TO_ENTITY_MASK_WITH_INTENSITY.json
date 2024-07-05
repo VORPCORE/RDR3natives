@@ -1,0 +1,22 @@
+{
+    "0x958DEBD9353C0935": {
+        "name": "_ADD_ENTITY_TO_ENTITY_MASK_WITH_INTENSITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "mask"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

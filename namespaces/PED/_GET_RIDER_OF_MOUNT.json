@@ -1,0 +1,18 @@
+{
+    "0xB676EFDA03DADA52": {
+        "name": "_GET_RIDER_OF_MOUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "mount"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x8E7CE19219669AEB": {
+        "name": "NETWORK_IS_AIM_CAM_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

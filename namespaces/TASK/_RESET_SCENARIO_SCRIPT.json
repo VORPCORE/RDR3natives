@@ -1,0 +1,14 @@
+{
+    "0x5A40040BB5AE3EA2": {
+        "name": "_RESET_SCENARIO_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

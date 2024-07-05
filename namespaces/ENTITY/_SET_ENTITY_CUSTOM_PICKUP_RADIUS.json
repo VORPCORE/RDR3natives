@@ -1,0 +1,18 @@
+{
+    "0x482D17E45665DA44": {
+        "name": "_SET_ENTITY_CUSTOM_PICKUP_RADIUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

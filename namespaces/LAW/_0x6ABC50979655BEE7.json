@@ -1,0 +1,22 @@
+{
+    "0x6ABC50979655BEE7": {
+        "name": "_0x6ABC50979655BEE7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash*",
+                "name": "crimeType"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xBD70108D01875299": {
+        "name": "_0xBD70108D01875299",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

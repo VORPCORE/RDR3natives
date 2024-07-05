@@ -1,0 +1,18 @@
+{
+    "0x7F034FC3E891B57A": {
+        "name": "_PARSEDDATA_RQ_FILLOUT_FLOAT",
+        "comment": "Old name: _DATAFILE_GET_FLOAT",
+        "params": [
+            {
+                "type": "float*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

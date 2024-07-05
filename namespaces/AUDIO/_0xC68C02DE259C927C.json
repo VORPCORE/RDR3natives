@@ -1,0 +1,14 @@
+{
+    "0xC68C02DE259C927C": {
+        "name": "_0xC68C02DE259C927C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1232"
+    }
+}

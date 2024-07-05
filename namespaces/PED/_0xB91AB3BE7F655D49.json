@@ -1,0 +1,14 @@
+{
+    "0xB91AB3BE7F655D49": {
+        "name": "_0xB91AB3BE7F655D49",
+        "comment": "_IS_PED_J* - _IS_PED_L*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

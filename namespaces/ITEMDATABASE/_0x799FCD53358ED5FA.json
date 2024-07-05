@@ -1,0 +1,18 @@
+{
+    "0x799FCD53358ED5FA": {
+        "name": "_0x799FCD53358ED5FA",
+        "comment": "Returns Item Count",
+        "params": [
+            {
+                "type": "Any",
+                "name": "bundle"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1355"
+    }
+}

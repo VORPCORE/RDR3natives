@@ -1,0 +1,18 @@
+{
+    "0xBB7F4273C186BC4B": {
+        "name": "_SAVEGAME_GET_BOOL",
+        "comment": "Does the exact same as 0x529B9CCD0972AF4E",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "variableName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

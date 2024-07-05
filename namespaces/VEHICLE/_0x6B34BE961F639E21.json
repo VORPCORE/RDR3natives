@@ -1,0 +1,18 @@
+{
+    "0x6B34BE961F639E21": {
+        "name": "_0x6B34BE961F639E21",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

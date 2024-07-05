@@ -1,0 +1,14 @@
+{
+    "0x08FF1099ED2E6E21": {
+        "name": "_GET_DEFAULT_UNARMED_WEAPON_HASH",
+        "comment": "Returns the ped's default unarmed weapon hash as defined in CPedModelInfo (DefaultUnarmedWeapon).\nFalls back to WEAPON_UNARMED if the ped doesn't have a valid model info pointer, or 0 if the ped doesn't exist.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

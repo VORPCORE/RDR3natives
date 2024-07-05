@@ -1,0 +1,11 @@
+{
+    "0xA42EDF1E88734A7E": {
+        "name": "QUEUE_OPERATION_TO_CREATE_SORTED_LIST_OF_PHOTOS",
+        "comment": "",
+        "params": [],
+        "return_type": "Any",
+        "build": "1207",
+        "gta_hash": "0x2A893980E96B659A",
+        "gta_jhash": "0x199FABF0"
+    }
+}

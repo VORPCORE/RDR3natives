@@ -1,0 +1,36 @@
+{
+    "0xADF692B254977C0C": {
+        "name": "SET_CURRENT_PED_WEAPON",
+        "comment": "attachPoint:\nenum eWeaponAttachPoint\n{\n\tWEAPON_ATTACH_POINT_INVALID = -1,\n\tWEAPON_ATTACH_POINT_HAND_PRIMARY = 0,\n\tWEAPON_ATTACH_POINT_HAND_SECONDARY = 1,\n\tWEAPON_ATTACH_POINT_PISTOL_R = 2,\n\tMAX_HAND_WEAPON_ATTACH_POINTS = 2,\n\tWEAPON_ATTACH_POINT_PISTOL_L = 3,\n\tWEAPON_ATTACH_POINT_KNIFE = 4,\n\tWEAPON_ATTACH_POINT_LASSO = 5,\n\tWEAPON_ATTACH_POINT_THROWER = 6,\n\tWEAPON_ATTACH_POINT_BOW = 7,\n\tWEAPON_ATTACH_POINT_BOW_ALTERNATE = 8,\n\tWEAPON_ATTACH_POINT_RIFLE = 9,\n\tWEAPON_ATTACH_POINT_RIFLE_ALTERNATE = 10,\n\tWEAPON_ATTACH_POINT_LANTERN = 11,\n\tWEAPON_ATTACH_POINT_TEMP_LANTERN = 12,\n\tWEAPON_ATTACH_POINT_MELEE = 13,\n\tMAX_SYNCED_WEAPON_ATTACH_POINTS = 13,\n\tWEAPON_ATTACH_POINT_HIP = 14,\n\tWEAPON_ATTACH_POINT_BOOT = 15,\n\tWEAPON_ATTACH_POINT_BACK = 16,\n\tWEAPON_ATTACH_POINT_FRONT = 17,\n\tWEAPON_ATTACH_POINT_SHOULDERSLING = 18,\n\tWEAPON_ATTACH_POINT_LEFTBREAST = 19,\n\tWEAPON_ATTACH_POINT_RIGHTBREAST = 20,\n\tWEAPON_ATTACH_POINT_LEFTARMPIT = 21,\n\tWEAPON_ATTACH_POINT_RIGHTARMPIT = 22,\n\tWEAPON_ATTACH_POINT_LEFTARMPIT_RIFLE = 23,\n\tWEAPON_ATTACH_POINT_SATCHEL = 24,\n\tWEAPON_ATTACH_POINT_LEFTARMPIT_BOW = 25,\n\tWEAPON_ATTACH_POINT_RIGHT_HAND_EXTRA = 26,\n\tWEAPON_ATTACH_POINT_LEFT_HAND_EXTRA = 27,\n\tWEAPON_ATTACH_POINT_RIGHT_HAND_AUX = 28,\n\tMAX_WEAPON_ATTACH_POINTS = 29\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "equipNow"
+            },
+            {
+                "type": "int",
+                "name": "attachPoint"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xADF692B254977C0C",
+        "gta_jhash": "0xB8278882"
+    }
+}

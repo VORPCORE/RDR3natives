@@ -1,0 +1,14 @@
+{
+    "0xEF2D9ED7CE684F08": {
+        "name": "_0xEF2D9ED7CE684F08",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

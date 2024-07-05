@@ -1,0 +1,14 @@
+{
+    "0x2BB8D58E88777499": {
+        "name": "_0x2BB8D58E88777499",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

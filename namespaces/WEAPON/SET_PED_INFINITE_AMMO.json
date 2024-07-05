@@ -1,0 +1,24 @@
+{
+    "0x3EDCB0505123623B": {
+        "name": "SET_PED_INFINITE_AMMO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3EDCB0505123623B",
+        "gta_jhash": "0x9CB8D278"
+    }
+}

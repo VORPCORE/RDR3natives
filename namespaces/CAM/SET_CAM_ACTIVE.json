@@ -1,0 +1,20 @@
+{
+    "0x87295BCA613800C8": {
+        "name": "SET_CAM_ACTIVE",
+        "comment": "Set camera as active/inactive.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x026FB97D0A425F84",
+        "gta_jhash": "0x064659C2"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xBE72591D1509FFE4": {
+        "name": "HAS_STREAMED_TXD_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "txdHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

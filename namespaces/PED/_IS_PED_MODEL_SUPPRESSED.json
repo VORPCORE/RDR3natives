@@ -1,0 +1,14 @@
+{
+    "0xAA9F048DCF69B6DC": {
+        "name": "_IS_PED_MODEL_SUPPRESSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

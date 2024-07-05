@@ -1,0 +1,20 @@
+{
+    "0x9AC577F5A12AD8A9": {
+        "name": "SET_PED_FIRING_PATTERN",
+        "comment": "Used in various R* MP & SP Scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "patternHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9AC577F5A12AD8A9",
+        "gta_jhash": "0xB4629D66"
+    }
+}

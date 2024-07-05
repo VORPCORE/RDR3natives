@@ -1,0 +1,16 @@
+{
+    "0x42113B857E33C16E": {
+        "name": "GET_VEHICLE_BODY_HEALTH",
+        "comment": "Seems related to vehicle health, like the one in IV.\nMax 1000, min 0.\nVehicle does not necessarily explode or become undrivable at 0.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xF271147EB7B40F12",
+        "gta_jhash": "0x2B2FCC28"
+    }
+}

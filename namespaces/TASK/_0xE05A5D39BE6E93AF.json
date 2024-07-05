@@ -1,0 +1,14 @@
+{
+    "0xE05A5D39BE6E93AF": {
+        "name": "_0xE05A5D39BE6E93AF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

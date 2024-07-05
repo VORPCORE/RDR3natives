@@ -1,0 +1,14 @@
+{
+    "0x6968CE7AC32F6788": {
+        "name": "_0x6968CE7AC32F6788",
+        "comment": "Only used in R* SP Scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

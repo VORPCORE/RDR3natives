@@ -1,0 +1,14 @@
+{
+    "0x671A07C9A1CD50A5": {
+        "name": "_GET_TRAIN_CAR",
+        "comment": "Returns train car, use GET_TRAIN_CARRIAGE when trailerNumber is bigger than 0",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xBFFB35986CAAE58C": {
+        "name": "IS_PLAYER_PLAYING",
+        "comment": "Checks whether the specified player has a Ped, the Ped is not dead, is not injured and is not arrested.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x5E9564D8246B909A",
+        "gta_jhash": "0xE15D777F"
+    }
+}

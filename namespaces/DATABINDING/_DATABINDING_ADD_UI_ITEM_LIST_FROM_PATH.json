@@ -1,0 +1,18 @@
+{
+    "0xDB5B9A474148F699": {
+        "name": "_DATABINDING_ADD_UI_ITEM_LIST_FROM_PATH",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

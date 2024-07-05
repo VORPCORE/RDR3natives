@@ -1,0 +1,14 @@
+{
+    "0xB4A25351D79B444C": {
+        "name": "NETWORK_GET_HOST_OF_THREAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "threadId"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1207"
+    }
+}

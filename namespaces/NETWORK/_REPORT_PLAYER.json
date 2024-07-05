@@ -1,0 +1,26 @@
+{
+    "0xA197C35F73AC0F12": {
+        "name": "_REPORT_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "reportType"
+            },
+            {
+                "type": "const char*",
+                "name": "description"
+            },
+            {
+                "type": "const char*",
+                "name": "horseName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x40AB73092C95B5F5": {
+        "name": "_EAGLE_EYE_DISABLE_TRACKING_TRAIL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "trail"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

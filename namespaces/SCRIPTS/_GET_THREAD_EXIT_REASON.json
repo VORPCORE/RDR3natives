@@ -1,0 +1,9 @@
+{
+    "0x54AE4FDEEFEAB77E": {
+        "name": "_GET_THREAD_EXIT_REASON",
+        "comment": "enum eThreadExitReason\n{\n\tTHREAD_EXIT_REASON_NONE,\n\tTHREAD_EXIT_REASON_BACKGROUND_THREAD_STOPPED,\n\tTHREAD_EXIT_REASON_SESSION_MERGE,\n\tTHREAD_EXIT_REASON_SCENARIO_OUT_OF_SCOPE,\n\tTHREAD_EXIT_REASON_REQUESTED_BY_SCRIPT\n};",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

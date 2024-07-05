@@ -1,0 +1,22 @@
+{
+    "0x6569F31A01B4C097": {
+        "name": "SET_LOOTING_FLAG",
+        "comment": "https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/CLootingFlags__Flags\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/LOOTING_FLAGS\n\nlootFlag:\nenum eLootFlag\n{\n\tLOOT_FLAG_IS_CRITICAL_LOOT_TARGET = 7,\n\tLOOT_FLAG_IGNORE_WATER_CHECKS = 8,\n\tLOOT_FLAG_ANIMAL_FLAGGED_FOR_TAGGING = 23,\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "lootFlag"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

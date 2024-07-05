@@ -1,0 +1,18 @@
+{
+    "0x06FBF89B12DA279C": {
+        "name": "_PARSEDDATA_RQ_FILLOUT_VECTOR",
+        "comment": "Old name: _DATAFILE_GET_VECTOR",
+        "params": [
+            {
+                "type": "Vector3*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

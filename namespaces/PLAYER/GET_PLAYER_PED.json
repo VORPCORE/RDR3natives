@@ -1,0 +1,16 @@
+{
+    "0x275F255ED201B937": {
+        "name": "GET_PLAYER_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207",
+        "gta_hash": "0x43A66C31C68491C0",
+        "gta_jhash": "0x6E31E993"
+    }
+}

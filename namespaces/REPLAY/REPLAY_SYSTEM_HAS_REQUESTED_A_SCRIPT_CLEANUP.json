@@ -1,0 +1,11 @@
+{
+    "0x0F838D47DE58EDB2": {
+        "name": "REPLAY_SYSTEM_HAS_REQUESTED_A_SCRIPT_CLEANUP",
+        "comment": "Hardcoded to return false.\n\nOld name: _IS_INTERIOR_RENDERING_DISABLED",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x95AB8B5C992C7B58",
+        "gta_jhash": ""
+    }
+}

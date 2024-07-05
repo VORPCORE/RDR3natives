@@ -1,0 +1,18 @@
+{
+    "0xE39600E50D608693": {
+        "name": "_0xE39600E50D608693",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

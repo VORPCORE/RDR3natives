@@ -1,0 +1,14 @@
+{
+    "0xFC094EF26DD153FA": {
+        "name": "_UI_PROMPT_DISABLE_PROMPT_TYPE_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

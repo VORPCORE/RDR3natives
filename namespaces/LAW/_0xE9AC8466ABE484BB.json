@@ -1,0 +1,18 @@
+{
+    "0xE9AC8466ABE484BB": {
+        "name": "_0xE9AC8466ABE484BB",
+        "comment": "Only used in R* SP Scripts\nParams: p1 = 0",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

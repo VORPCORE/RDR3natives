@@ -1,0 +1,20 @@
+{
+    "0x9BF96B57254E7889": {
+        "name": "GET_CAM_ROT",
+        "comment": "rotationOrder: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eEulerRotationOrder",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x7D304C1C955E3E12",
+        "gta_jhash": "0xDAC84C9F"
+    }
+}

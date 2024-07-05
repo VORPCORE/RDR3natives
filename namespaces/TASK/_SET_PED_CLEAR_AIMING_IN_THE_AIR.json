@@ -1,0 +1,18 @@
+{
+    "0x34C0010188D7C54A": {
+        "name": "_SET_PED_CLEAR_AIMING_IN_THE_AIR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

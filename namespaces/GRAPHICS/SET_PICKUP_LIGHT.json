@@ -1,0 +1,18 @@
+{
+    "0x7DFB49BCDB73089A": {
+        "name": "SET_PICKUP_LIGHT",
+        "comment": "https://imgur.com/a/I2swSDJ\n\nOld name: _SET_PICKUP_OBJECT_GLOW_ENABLED",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

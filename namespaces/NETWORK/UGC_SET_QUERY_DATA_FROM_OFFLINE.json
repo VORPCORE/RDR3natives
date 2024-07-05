@@ -1,0 +1,16 @@
+{
+    "0xF98DDE0A8ED09323": {
+        "name": "UGC_SET_QUERY_DATA_FROM_OFFLINE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF98DDE0A8ED09323",
+        "gta_jhash": "0x213C6D36"
+    }
+}

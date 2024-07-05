@@ -1,0 +1,17 @@
+{
+    "0xFF8FCF9FFC458A1C": {
+        "name": "NETWORK_GET_NUM_UNACKED_RELIABLES",
+        "comment": "Old name: _NETWORK_GET_NUM_UNACKED_FOR_PLAYER",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0xFF8FCF9FFC458A1C",
+        "gta_jhash": ""
+    }
+}

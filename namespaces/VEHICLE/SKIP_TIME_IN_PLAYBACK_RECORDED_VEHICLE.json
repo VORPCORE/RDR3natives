@@ -1,0 +1,20 @@
+{
+    "0x5F5E6379C59EFC56": {
+        "name": "SKIP_TIME_IN_PLAYBACK_RECORDED_VEHICLE",
+        "comment": "SET_TIME_POSITION_IN_RECORDING can be emulated by: desired_time - GET_TIME_POSITION_IN_RECORDING(vehicle)",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9438F7AD68771A20",
+        "gta_jhash": "0xCF3EFA4B"
+    }
+}

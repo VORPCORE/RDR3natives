@@ -1,0 +1,16 @@
+{
+    "0x17279C820464CEE0": {
+        "name": "DATAFILE_HAS_LOADED_FILE_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x15FF52B809DB2353",
+        "gta_jhash": "0x36FB8B3F"
+    }
+}

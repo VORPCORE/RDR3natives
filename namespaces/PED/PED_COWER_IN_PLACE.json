@@ -1,0 +1,18 @@
+{
+    "0xF6E1E9F47A7686F8": {
+        "name": "PED_COWER_IN_PLACE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

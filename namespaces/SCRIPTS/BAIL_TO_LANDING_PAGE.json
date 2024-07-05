@@ -1,0 +1,14 @@
+{
+    "0xBC2C927F5C264243": {
+        "name": "BAIL_TO_LANDING_PAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "bailCode"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

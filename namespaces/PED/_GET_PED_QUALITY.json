@@ -1,0 +1,14 @@
+{
+    "0x7BCC6087D130312A": {
+        "name": "_GET_PED_QUALITY",
+        "comment": "Returns Ped Quality to be used to calculate Skinning Quality\n\nenum ePedQuality\n{\n\tPQ_INVALID = -1,\n\tPQ_LOW,\n\tPQ_MEDIUM,\n\tPQ_HIGH,\n\tPQ_MAX\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

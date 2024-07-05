@@ -1,0 +1,20 @@
+{
+    "0xE361C5C71C431A4F": {
+        "name": "SET_PED_PATH_CAN_DROP_FROM_HEIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE361C5C71C431A4F",
+        "gta_jhash": "0x394B7AC9"
+    }
+}

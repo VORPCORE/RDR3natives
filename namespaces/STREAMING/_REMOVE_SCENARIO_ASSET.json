@@ -1,0 +1,14 @@
+{
+    "0x4EDDD9E9CA5AF985": {
+        "name": "_REMOVE_SCENARIO_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scenarioType"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

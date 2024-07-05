@@ -1,0 +1,14 @@
+{
+    "0x3660BCAB3A6BB734": {
+        "name": "_SET_TRAIN_HALT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

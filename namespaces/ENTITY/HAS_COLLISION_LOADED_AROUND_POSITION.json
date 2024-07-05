@@ -1,0 +1,22 @@
+{
+    "0x6BFBDC46139C45AB": {
+        "name": "HAS_COLLISION_LOADED_AROUND_POSITION",
+        "comment": "Old name: _HAS_COLLISION_LOADED_AT_COORDS",
+        "params": [
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

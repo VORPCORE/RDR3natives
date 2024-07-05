@@ -1,0 +1,18 @@
+{
+    "0x43F50A7CD2482156": {
+        "name": "_SET_PLAYER_LASSO_DAMAGE_PER_SECOND",
+        "comment": "_SET_PLAYER_A* - _SET_PLAYER_C*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "damage"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

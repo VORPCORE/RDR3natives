@@ -1,0 +1,18 @@
+{
+    "0x9C54041BB66BCF9E": {
+        "name": "IS_PED_USING_THIS_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

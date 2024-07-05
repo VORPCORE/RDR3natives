@@ -1,0 +1,30 @@
+{
+    "0xAFF5BE9BA496CE40": {
+        "name": "_0xAFF5BE9BA496CE40",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "Hash",
+                "name": "collectableCategory"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "0x309BBEBEA8A3986C": {
+        "name": "NETWORK_SESSION_REQUEST_SESSION_COMPETITIVE",
+        "comment": "matchType:\nenum eMatchType\n{\n\tMATCHTYPE_DEPRECATED,\n\tMATCHTYPE_UGCPLAYLIST,\n\tMATCHTYPE_UGCMISSION,\n\tMATCHTYPE_MINIGAME,\n\tMATCHTYPE_SEAMLESS,\n\tMATCHTYPE_PRIVATE_DO_NOT_USE\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "matchType"
+            },
+            {
+                "type": "int",
+                "name": "userHash"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "Any*",
+                "name": "sessionRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xA4718A1419D18151": {
+        "name": "STOP_STREAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "streamId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA4718A1419D18151",
+        "gta_jhash": "0xD1E364DE"
+    }
+}

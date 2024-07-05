@@ -1,0 +1,36 @@
+{
+    "0x53CB4B502E1C57EA": {
+        "name": "CREATE_FAKE_MP_GAMER_TAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "username"
+            },
+            {
+                "type": "BOOL",
+                "name": "pointedClanTag"
+            },
+            {
+                "type": "BOOL",
+                "name": "isRockstarClan"
+            },
+            {
+                "type": "const char*",
+                "name": "clanTag"
+            },
+            {
+                "type": "int",
+                "name": "clanFlag"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xBFEFE3321A3F5015",
+        "gta_jhash": "0xF5CD2AA4"
+    }
+}

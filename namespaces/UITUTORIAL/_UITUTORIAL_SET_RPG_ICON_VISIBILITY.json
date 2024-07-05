@@ -1,0 +1,18 @@
+{
+    "0xC116E6DF68DCE667": {
+        "name": "_UITUTORIAL_SET_RPG_ICON_VISIBILITY",
+        "comment": "enum eRpgIcons\n{\n\tICON_STAMINA,\n\tICON_STAMINA_CORE,\n\tICON_DEADEYE,\n\tICON_DEADEYE_CORE,\n\tICON_HEALTH,\n\tICON_HEALTH_CORE,\n\tICON_HORSE_HEALTH,\n\tICON_HORSE_HEALTH_CORE,\n\tICON_HORSE_STAMINA,\n\tICON_HORSE_STAMINA_CORE,\n\tICON_HORSE_COURAGE,\n\tICON_HORSE_COURAGE_CORE\n};\n\nenum eRpgIconVisibility\n{\n\tICON_VISIBILITY_WAIT_TO_HIDE,\n\tICON_VISIBILITY_ALWAYS_SHOW,\n\tICON_VISIBILITY_ALWAYS_HIDE,\n\tICON_VISIBILITY_ALWAYS_BLINK\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "rpgIcon"
+            },
+            {
+                "type": "int",
+                "name": "visibility"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

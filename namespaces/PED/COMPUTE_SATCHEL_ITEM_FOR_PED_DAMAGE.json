@@ -1,0 +1,22 @@
+{
+    "0x9E7738B291706746": {
+        "name": "COMPUTE_SATCHEL_ITEM_FOR_PED_DAMAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Ped",
+                "name": "pedAttached"
+            },
+            {
+                "type": "int",
+                "name": "damageCleanliness"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

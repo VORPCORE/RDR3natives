@@ -1,0 +1,20 @@
+{
+    "0xF2DB09816A419DC5": {
+        "name": "GET_ENTITY_SPEED_VECTOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "relative"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x9A8D700A51CB7B0D",
+        "gta_jhash": "0x3ED2B997"
+    }
+}

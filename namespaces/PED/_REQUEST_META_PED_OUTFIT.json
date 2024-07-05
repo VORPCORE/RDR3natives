@@ -1,0 +1,18 @@
+{
+    "0x13154A76CE0CF9AB": {
+        "name": "_REQUEST_META_PED_OUTFIT",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/clothes/metaped_outfits.lua\nReturns requestId, to be used with 0x74F512E29CB717E2",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            },
+            {
+                "type": "Hash",
+                "name": "outfit"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

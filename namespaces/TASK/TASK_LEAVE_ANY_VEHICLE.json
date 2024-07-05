@@ -1,0 +1,24 @@
+{
+    "0x504D54DF3F6F2247": {
+        "name": "TASK_LEAVE_ANY_VEHICLE",
+        "comment": "flags: See TASK_ENTER_VEHICLE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "taskFlag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x504D54DF3F6F2247",
+        "gta_jhash": "0xDBDD79FA"
+    }
+}

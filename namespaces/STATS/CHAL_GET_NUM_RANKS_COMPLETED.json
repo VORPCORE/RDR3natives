@@ -1,0 +1,14 @@
+{
+    "0x58CB53DB63F84DE9": {
+        "name": "CHAL_GET_NUM_RANKS_COMPLETED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

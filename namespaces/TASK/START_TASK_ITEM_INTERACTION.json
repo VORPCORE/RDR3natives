@@ -1,0 +1,34 @@
+{
+    "0xAE72E7DF013AAA61": {
+        "name": "START_TASK_ITEM_INTERACTION",
+        "comment": "Params: p3 = 0, 1; p5 = 0.0f, -1.0f\nhttps://github.com/femga/rdr3_discoveries/tree/master/tasks/TASK_ITEM_INTERACTION",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "itemHash"
+            },
+            {
+                "type": "Hash",
+                "name": "interactionAnimHash"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x3E8CCE6769DB5F34": {
+        "name": "_0x3E8CCE6769DB5F34",
+        "comment": "Stadia only; always returns -1 on other platforms. p0 may be a BOOL.",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

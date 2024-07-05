@@ -1,0 +1,18 @@
+{
+    "0x78030C7867D8B9B6": {
+        "name": "SET_ALLOW_ANY_WEAPON_DROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

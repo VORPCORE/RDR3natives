@@ -1,0 +1,14 @@
+{
+    "0xFFF6579CF0139FCE": {
+        "name": "_MP_GAMER_TAG_ENABLE_REVIVE_TOP_ICON",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

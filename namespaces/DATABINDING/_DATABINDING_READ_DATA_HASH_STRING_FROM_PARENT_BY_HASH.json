@@ -1,0 +1,18 @@
+{
+    "0x1F43BC25A119B252": {
+        "name": "_DATABINDING_READ_DATA_HASH_STRING_FROM_PARENT_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

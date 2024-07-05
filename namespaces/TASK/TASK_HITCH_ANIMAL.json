@@ -1,0 +1,22 @@
+{
+    "0x9030AD4B6207BFE8": {
+        "name": "TASK_HITCH_ANIMAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "scenarioPoint"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

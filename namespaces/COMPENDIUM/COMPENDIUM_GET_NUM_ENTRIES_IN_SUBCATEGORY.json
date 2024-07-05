@@ -1,0 +1,18 @@
+{
+    "0xF58A0C0E086E8E36": {
+        "name": "COMPENDIUM_GET_NUM_ENTRIES_IN_SUBCATEGORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "category"
+            },
+            {
+                "type": "Hash",
+                "name": "subcategory"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311"
+    }
+}

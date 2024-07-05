@@ -1,0 +1,16 @@
+{
+    "0xED74007FFB146BC2": {
+        "name": "REMOVE_PED_FROM_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xED74007FFB146BC2",
+        "gta_jhash": "0x82697713"
+    }
+}

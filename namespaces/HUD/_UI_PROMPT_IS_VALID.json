@@ -1,0 +1,14 @@
+{
+    "0x347469FBDD1589A9": {
+        "name": "_UI_PROMPT_IS_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

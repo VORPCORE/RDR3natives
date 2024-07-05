@@ -1,0 +1,14 @@
+{
+    "0xDD0BC0EDCB2162F6": {
+        "name": "_DISABLE_STATIC_VEG_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

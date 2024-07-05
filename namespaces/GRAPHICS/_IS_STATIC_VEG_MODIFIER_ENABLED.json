@@ -1,0 +1,14 @@
+{
+    "0xDE9BAD3292AA6D5E": {
+        "name": "_IS_STATIC_VEG_MODIFIER_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

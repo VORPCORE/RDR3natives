@@ -1,0 +1,20 @@
+{
+    "0xE3261532550D6A9F": {
+        "name": "SET_BOAT_LOW_LOD_ANCHOR_DISTANCE",
+        "comment": "Value: mostly 99999.9f\n\nOld name: _SET_BOAT_MOVEMENT_RESISTANCE",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE842A9398079BD82",
+        "gta_jhash": "0x66FA450C"
+    }
+}

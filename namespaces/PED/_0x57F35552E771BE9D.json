@@ -1,0 +1,18 @@
+{
+    "0x57F35552E771BE9D": {
+        "name": "_0x57F35552E771BE9D",
+        "comment": "_SET_PED_M*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x424B17A7DC5C90BC": {
+        "name": "NETWORK_IS_GANG_LEADER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xE404BFF0ABA23CDC": {
+        "name": "NETWORK_AUTO_SESSION_CAN_SPLIT_SESSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

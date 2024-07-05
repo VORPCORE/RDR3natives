@@ -1,0 +1,18 @@
+{
+    "0x390710D2DAFA6BFF": {
+        "name": "_0x390710D2DAFA6BFF",
+        "comment": "_CLEAR*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

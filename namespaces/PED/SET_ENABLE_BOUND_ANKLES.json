@@ -1,0 +1,20 @@
+{
+    "0xC52E0F855C58FC2E": {
+        "name": "SET_ENABLE_BOUND_ANKLES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC52E0F855C58FC2E",
+        "gta_jhash": "0x9208D689"
+    }
+}

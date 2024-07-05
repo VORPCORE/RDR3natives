@@ -1,0 +1,36 @@
+{
+    "0x5AD23D40115353AC": {
+        "name": "TASK_TURN_PED_TO_FACE_ENTITY",
+        "comment": "duration: the amount of time in milliseconds to do the task. -1 will keep the task going until either another task is applied, or CLEAR_ALL_TASKS() is called with the ped",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "targetEntity"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5AD23D40115353AC",
+        "gta_jhash": "0x3C37C767"
+    }
+}

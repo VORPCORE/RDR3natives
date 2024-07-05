@@ -1,0 +1,14 @@
+{
+    "0xAE693EC3A178F6C2": {
+        "name": "_TELEMETRY_HERB_PICKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "herbType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

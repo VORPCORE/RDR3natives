@@ -1,0 +1,14 @@
+{
+    "0xE145864DECC34219": {
+        "name": "_MISSIONDATA_IS_REPLAY_CATEGORY_LOCKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "category"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

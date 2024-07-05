@@ -1,0 +1,18 @@
+{
+    "0x3A50753042B6891B": {
+        "name": "_REMOVE_PED_PROP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "propName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x1948BBE561A2375A": {
+        "name": "_GET_PED_IS_IGNORING_DEAD_BODIES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

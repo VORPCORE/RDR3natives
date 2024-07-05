@@ -1,0 +1,11 @@
+{
+    "0x99AADEBBA803F827": {
+        "name": "GET_GAMEPLAY_CAM_RELATIVE_PITCH",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x3A6867B4845BEDA2",
+        "gta_jhash": "0xFC5A4946"
+    }
+}

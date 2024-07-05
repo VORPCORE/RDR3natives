@@ -1,0 +1,52 @@
+{
+    "0x28579D1B8F8AAC80": {
+        "name": "START_SHAPE_TEST_CAPSULE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "Entity",
+                "name": "entityToIgnore"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            }
+        ],
+        "return_type": "ScrHandle",
+        "build": "1207",
+        "gta_hash": "0x28579D1B8F8AAC80",
+        "gta_jhash": "0x591EA833"
+    }
+}

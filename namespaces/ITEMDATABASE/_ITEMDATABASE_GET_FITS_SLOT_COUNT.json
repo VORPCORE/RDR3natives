@@ -1,0 +1,14 @@
+{
+    "0x2970D1D6BFCF9B46": {
+        "name": "_ITEMDATABASE_GET_FITS_SLOT_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "category"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

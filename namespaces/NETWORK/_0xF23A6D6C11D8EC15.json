@@ -1,0 +1,14 @@
+{
+    "0xF23A6D6C11D8EC15": {
+        "name": "_0xF23A6D6C11D8EC15",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

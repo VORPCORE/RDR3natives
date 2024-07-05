@@ -1,0 +1,18 @@
+{
+    "0xC1E1A3D5ED7617B8": {
+        "name": "_SET_DOOR_UNNETWORKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xC5286FFC176F28A2": {
+        "name": "IS_PED_RUNNING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xC5286FFC176F28A2",
+        "gta_jhash": "0xE9A5578F"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x84B81EF78BD22357": {
+        "name": "REQUEST_VEHICLE_HIGH_DETAIL_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA6E9FDCB2C76785E",
+        "gta_jhash": "0x9DA21956"
+    }
+}

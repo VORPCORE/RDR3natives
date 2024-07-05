@@ -1,0 +1,14 @@
+{
+    "0x67F35C7C9F2BDCFE": {
+        "name": "COMPENDIUM_ANIMAL_SET_DISCOVERED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "compendiumEntry"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

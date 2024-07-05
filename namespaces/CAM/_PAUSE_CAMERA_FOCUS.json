@@ -1,0 +1,18 @@
+{
+    "0x9F97E85EC142255E": {
+        "name": "_PAUSE_CAMERA_FOCUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "pause"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

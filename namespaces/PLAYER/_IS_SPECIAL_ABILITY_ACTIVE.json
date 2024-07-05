@@ -1,0 +1,14 @@
+{
+    "0xB16223CB7DA965F0": {
+        "name": "_IS_SPECIAL_ABILITY_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

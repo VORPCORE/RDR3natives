@@ -1,0 +1,20 @@
+{
+    "0x252253C8A45AA1FC": {
+        "name": "SET_VEHICLE_HAS_STRONG_AXLES",
+        "comment": "if true, axles won't bend.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x92F0CF722BC4202F",
+        "gta_jhash": "0x0D1CBC65"
+    }
+}

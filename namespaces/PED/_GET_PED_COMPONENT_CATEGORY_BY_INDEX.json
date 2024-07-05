@@ -1,0 +1,18 @@
+{
+    "0xCCB97B51893C662F": {
+        "name": "_GET_PED_COMPONENT_CATEGORY_BY_INDEX",
+        "comment": "Returns category hash that each ped component has. Hash examples: MASKS, HATS, HEADS, HORSE_MANES",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xB5485E4907B53019": {
+        "name": "SET_PED_WETNESS_ENABLED_THIS_FRAME",
+        "comment": "combined with PED::SET_PED_WETNESS_HEIGHT(), this native makes the ped drenched in water up to the height specified in the other function",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB5485E4907B53019",
+        "gta_jhash": "0xBDE749F7"
+    }
+}

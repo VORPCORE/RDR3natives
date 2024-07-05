@@ -1,0 +1,20 @@
+{
+    "0x9D896A3B87D96E2B": {
+        "name": "DATADICT_GET_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x78F06F6B1FB5A80C",
+        "gta_jhash": "0xA6C68693"
+    }
+}

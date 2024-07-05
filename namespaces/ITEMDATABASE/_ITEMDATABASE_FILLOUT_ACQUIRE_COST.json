@@ -1,0 +1,22 @@
+{
+    "0x74F7928816E4E181": {
+        "name": "_ITEMDATABASE_FILLOUT_ACQUIRE_COST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "key"
+            },
+            {
+                "type": "Hash",
+                "name": "costtype"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

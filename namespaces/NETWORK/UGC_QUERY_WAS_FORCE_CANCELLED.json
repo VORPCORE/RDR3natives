@@ -1,0 +1,14 @@
+{
+    "0xF8F0705E77A0E705": {
+        "name": "UGC_QUERY_WAS_FORCE_CANCELLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ugcRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x15D757606D170C3C": {
+        "name": "GET_ENTITY_MAX_HEALTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x15D757606D170C3C",
+        "gta_jhash": "0xC7AE6AA1"
+    }
+}

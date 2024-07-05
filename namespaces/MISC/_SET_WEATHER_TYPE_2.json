@@ -1,0 +1,30 @@
+{
+    "0x2C6A07AF9AEDABD8": {
+        "name": "_SET_WEATHER_TYPE_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weatherType"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

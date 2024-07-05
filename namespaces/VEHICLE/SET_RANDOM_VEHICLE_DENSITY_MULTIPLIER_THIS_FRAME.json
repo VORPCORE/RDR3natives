@@ -1,0 +1,16 @@
+{
+    "0x1F91D44490E1EA0C": {
+        "name": "SET_RANDOM_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB3B3359379FE77D3",
+        "gta_jhash": "0x543F712B"
+    }
+}

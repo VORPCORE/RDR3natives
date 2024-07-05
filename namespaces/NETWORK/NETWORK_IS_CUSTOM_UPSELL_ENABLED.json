@@ -1,0 +1,9 @@
+{
+    "0x78A9535AF83715C6": {
+        "name": "NETWORK_IS_CUSTOM_UPSELL_ENABLED",
+        "comment": "Hardcoded to return false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

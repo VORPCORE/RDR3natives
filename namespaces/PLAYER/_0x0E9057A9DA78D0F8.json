@@ -1,0 +1,18 @@
+{
+    "0x0E9057A9DA78D0F8": {
+        "name": "_0x0E9057A9DA78D0F8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "bitflag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

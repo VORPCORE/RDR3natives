@@ -1,0 +1,16 @@
+{
+    "0x1283B8B89DD5D1B6": {
+        "name": "HAS_MODEL_LOADED",
+        "comment": "Checks if the specified model has loaded into memory.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x98A4EB5D89A0C952",
+        "gta_jhash": "0x62BFDB37"
+    }
+}

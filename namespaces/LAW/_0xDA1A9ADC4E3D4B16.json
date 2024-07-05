@@ -1,0 +1,22 @@
+{
+    "0xDA1A9ADC4E3D4B16": {
+        "name": "_0xDA1A9ADC4E3D4B16",
+        "comment": "Only used in R* SP Scripts\nParams: p1 = true, p2 = false",
+        "params": [
+            {
+                "type": "ItemSet",
+                "name": "itemSet"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

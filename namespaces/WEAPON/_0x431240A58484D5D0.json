@@ -1,0 +1,18 @@
+{
+    "0x431240A58484D5D0": {
+        "name": "_0x431240A58484D5D0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

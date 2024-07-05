@@ -1,0 +1,14 @@
+{
+    "0x466BC8769CF26A7A": {
+        "name": "_MONEY_DECREMENT_CASH_BALANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xC372B6A88F6E4AD8": {
+        "name": "_BREAK_OFF_DRAFT_WHEEL",
+        "comment": "Params: destroyingForce is usually 100f in R* Scripts\nSimilar to 0xD4F5EFB55769D272, _A*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "wheelIndex"
+            },
+            {
+                "type": "float",
+                "name": "destroyingForce"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

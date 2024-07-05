@@ -1,0 +1,14 @@
+{
+    "0x380FFA15B72408FB": {
+        "name": "HAVE_ALL_CHILD_SCRIPTS_TERMINATED",
+        "comment": "Waiting for child scripts to terminate / waiting for collapse of child scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

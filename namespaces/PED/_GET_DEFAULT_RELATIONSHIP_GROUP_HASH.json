@@ -1,0 +1,14 @@
+{
+    "0x3CC4A718C258BDD0": {
+        "name": "_GET_DEFAULT_RELATIONSHIP_GROUP_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

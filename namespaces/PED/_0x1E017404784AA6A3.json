@@ -1,0 +1,18 @@
+{
+    "0x1E017404784AA6A3": {
+        "name": "_0x1E017404784AA6A3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

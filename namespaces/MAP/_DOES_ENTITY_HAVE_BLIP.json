@@ -1,0 +1,14 @@
+{
+    "0x9FA00E2FC134A9D0": {
+        "name": "_DOES_ENTITY_HAVE_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

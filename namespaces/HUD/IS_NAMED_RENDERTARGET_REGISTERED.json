@@ -1,0 +1,16 @@
+{
+    "0x3EE32F7964C40FE6": {
+        "name": "IS_NAMED_RENDERTARGET_REGISTERED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x78DCDC15C9F116B4",
+        "gta_jhash": "0x284057F5"
+    }
+}

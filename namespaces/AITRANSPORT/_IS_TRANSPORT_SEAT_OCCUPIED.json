@@ -1,0 +1,18 @@
+{
+    "0x2E2E06023D07631E": {
+        "name": "_IS_TRANSPORT_SEAT_OCCUPIED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

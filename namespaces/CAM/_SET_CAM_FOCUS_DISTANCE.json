@@ -1,0 +1,18 @@
+{
+    "0x11F32BB61B756732": {
+        "name": "_SET_CAM_FOCUS_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

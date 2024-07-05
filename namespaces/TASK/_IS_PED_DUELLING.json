@@ -1,0 +1,14 @@
+{
+    "0xC8B29D18022EA2B7": {
+        "name": "_IS_PED_DUELLING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

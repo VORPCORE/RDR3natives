@@ -1,0 +1,18 @@
+{
+    "0x72E30372E7CC4415": {
+        "name": "_SET_PEARLESCENT_FX_ENABLED",
+        "comment": "Enables/disables a kind of 'shiny' effect on metals.",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

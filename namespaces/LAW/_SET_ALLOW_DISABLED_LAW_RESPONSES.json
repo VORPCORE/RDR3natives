@@ -1,0 +1,14 @@
+{
+    "0x4B52BF96E225D230": {
+        "name": "_SET_ALLOW_DISABLED_LAW_RESPONSES",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x58BAA5F635DA2FF4": {
+        "name": "_DATABINDING_ADD_DATA_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

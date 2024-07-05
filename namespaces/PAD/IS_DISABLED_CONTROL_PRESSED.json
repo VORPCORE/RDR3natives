@@ -1,0 +1,20 @@
+{
+    "0xE2587F8CBBD87B1D": {
+        "name": "IS_DISABLED_CONTROL_PRESSED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "Hash",
+                "name": "action"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xE2587F8CBBD87B1D",
+        "gta_jhash": "0x32A93544"
+    }
+}

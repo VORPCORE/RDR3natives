@@ -1,0 +1,16 @@
+{
+    "0xB07D3185E11657A5": {
+        "name": "NETWORK_HAS_ENTITY_BEEN_REGISTERED_WITH_THIS_THREAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB07D3185E11657A5",
+        "gta_jhash": "0xEDA68956"
+    }
+}

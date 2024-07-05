@@ -1,0 +1,16 @@
+{
+    "0x354F62672DE7DB0A": {
+        "name": "IS_MODEL_A_VEHICLE",
+        "comment": "Returns whether the specified model represents a vehicle.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x19AAC8F07BFEC53E",
+        "gta_jhash": "0xFFFC85D4"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x6585D955A68452A5": {
+        "name": "CLEAR_PED_ENV_DIRT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6585D955A68452A5",
+        "gta_jhash": "0xA993915F"
+    }
+}

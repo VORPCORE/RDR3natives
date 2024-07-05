@@ -1,0 +1,16 @@
+{
+    "0xDEB6D52126E7D640": {
+        "name": "IS_PED_IN_WRITHE",
+        "comment": "This native checks if a ped is on the ground, in pain from a (gunshot) wound.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xDEB6D52126E7D640",
+        "gta_jhash": "0x09E61921"
+    }
+}

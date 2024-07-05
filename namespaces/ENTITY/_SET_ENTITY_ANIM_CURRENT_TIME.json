@@ -1,0 +1,26 @@
+{
+    "0x11CDABDC7783B2BC": {
+        "name": "_SET_ENTITY_ANIM_CURRENT_TIME",
+        "comment": "https://gfycat.com/amazingmiserlyamericanquarterhorse",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "float",
+                "name": "time"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x0D3B1568917EBDA0": {
+        "name": "_0x0D3B1568917EBDA0",
+        "comment": "_IS_PED_M*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

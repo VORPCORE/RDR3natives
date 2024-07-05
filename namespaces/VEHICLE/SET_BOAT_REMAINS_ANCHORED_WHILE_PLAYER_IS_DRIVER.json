@@ -1,0 +1,24 @@
+{
+    "0x286771F3059A37A7": {
+        "name": "SET_BOAT_REMAINS_ANCHORED_WHILE_PLAYER_IS_DRIVER",
+        "comment": "Old name: _SET_BOAT_FROZEN_WHEN_ANCHORED",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE3EBAAE484798530",
+        "gta_jhash": "0x0ED84792"
+    }
+}

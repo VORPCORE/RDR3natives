@@ -1,0 +1,14 @@
+{
+    "0xFCF96CCBD81B24C8": {
+        "name": "_NETWORK_IS_GANG_OPEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "gangId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

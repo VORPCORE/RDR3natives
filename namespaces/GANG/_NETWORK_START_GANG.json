@@ -1,0 +1,18 @@
+{
+    "0xD1A226F2E05E58FC": {
+        "name": "_NETWORK_START_GANG",
+        "comment": "openStatus = true -> sets privacyType = 2 (PUBLIC_ADVERTISED)\nopenStatus = false -> sets privacyType = 1 (INVITE_ONLY)\n\ncampSize: NET_CAMP_SIZE_SMALLEST = 4, NET_CAMP_SIZE_LARGEST = 7",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "openStatus"
+            },
+            {
+                "type": "int",
+                "name": "campSize"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

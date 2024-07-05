@@ -1,0 +1,16 @@
+{
+    "0xD2C91A0B572AAE56": {
+        "name": "CREATE_NEW_SCRIPTED_CONVERSATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "convoRoot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD2C91A0B572AAE56",
+        "gta_jhash": "0xB2BC25F8"
+    }
+}

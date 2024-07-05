@@ -1,0 +1,22 @@
+{
+    "0x7D0F2014DB28DD00": {
+        "name": "_DATABINDING_ADD_DATA_GANG_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "gangId"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

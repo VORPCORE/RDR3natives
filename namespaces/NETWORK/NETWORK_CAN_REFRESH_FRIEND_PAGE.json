@@ -1,0 +1,9 @@
+{
+    "0x1AF5E28E64A76A9F": {
+        "name": "NETWORK_CAN_REFRESH_FRIEND_PAGE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x5737199AF2DC609F": {
+        "name": "_GET_VOLUME_BOUNDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "Vector3*",
+                "name": "min"
+            },
+            {
+                "type": "Vector3*",
+                "name": "max"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

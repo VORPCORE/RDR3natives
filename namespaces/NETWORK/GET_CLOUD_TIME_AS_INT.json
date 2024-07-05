@@ -1,0 +1,11 @@
+{
+    "0x9A73240B49945C76": {
+        "name": "GET_CLOUD_TIME_AS_INT",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x9A73240B49945C76",
+        "gta_jhash": "0xF2FDF2E0"
+    }
+}

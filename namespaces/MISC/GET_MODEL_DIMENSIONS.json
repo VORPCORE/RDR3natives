@@ -1,0 +1,24 @@
+{
+    "0xDCB8DDD5D054A7E7": {
+        "name": "GET_MODEL_DIMENSIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "Vector3*",
+                "name": "minimum"
+            },
+            {
+                "type": "Vector3*",
+                "name": "maximum"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x03E8D3D5F549087A",
+        "gta_jhash": "0x91ABB8E0"
+    }
+}

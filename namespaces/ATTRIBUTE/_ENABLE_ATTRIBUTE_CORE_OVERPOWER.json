@@ -1,0 +1,26 @@
+{
+    "0x4AF5A4C7B9157D14": {
+        "name": "_ENABLE_ATTRIBUTE_CORE_OVERPOWER",
+        "comment": "coreIndex: see _SET_ATTRIBUTE_CORE_VALUE\n\nPreviously incorrectly named ENABLE_ATTRIBUTE_OVERPOWER",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "coreIndex"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "makeSound"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

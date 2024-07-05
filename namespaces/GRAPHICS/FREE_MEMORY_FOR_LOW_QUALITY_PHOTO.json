@@ -1,0 +1,11 @@
+{
+    "0x614682E715ADBAAC": {
+        "name": "FREE_MEMORY_FOR_LOW_QUALITY_PHOTO",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6A12D88881435DCA",
+        "gta_jhash": "0x108F36CC"
+    }
+}

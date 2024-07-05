@@ -1,0 +1,18 @@
+{
+    "0xB71B91B398F8F067": {
+        "name": "GET_PED_BLACKBOARD_SCRIPT_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "variableName"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

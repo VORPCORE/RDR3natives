@@ -1,0 +1,14 @@
+{
+    "0xEC3959E9950BF56B": {
+        "name": "_0xEC3959E9950BF56B",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

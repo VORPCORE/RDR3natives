@@ -1,0 +1,14 @@
+{
+    "0x1F1DD794908C2BFA": {
+        "name": "_COLLECTABLE_GET_PLACEMENT_LOCATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableItem"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

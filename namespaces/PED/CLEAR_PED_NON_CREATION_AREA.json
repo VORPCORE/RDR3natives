@@ -1,0 +1,11 @@
+{
+    "0x2E05208086BA0651": {
+        "name": "CLEAR_PED_NON_CREATION_AREA",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2E05208086BA0651",
+        "gta_jhash": "0x6F7043A3"
+    }
+}

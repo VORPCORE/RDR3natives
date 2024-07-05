@@ -1,0 +1,18 @@
+{
+    "0xEC60D1D225BC50AA": {
+        "name": "_0xEC60D1D225BC50AA",
+        "comment": "_SET_C*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

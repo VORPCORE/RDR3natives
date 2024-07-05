@@ -1,0 +1,14 @@
+{
+    "0x58D3803FA639A3BB": {
+        "name": "_ADD_ENTRY_VOLUME_LOCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

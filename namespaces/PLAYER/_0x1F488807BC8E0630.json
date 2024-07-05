@@ -1,0 +1,14 @@
+{
+    "0x1F488807BC8E0630": {
+        "name": "_0x1F488807BC8E0630",
+        "comment": "_RESET_PLAYER_A* - _RESET_PLAYER_I*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

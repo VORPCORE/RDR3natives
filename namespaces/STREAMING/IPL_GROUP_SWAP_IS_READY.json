@@ -1,0 +1,11 @@
+{
+    "0xC2C05DEFE85A0B64": {
+        "name": "IPL_GROUP_SWAP_IS_READY",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xFB199266061F820A",
+        "gta_jhash": "0x17B0A1CD"
+    }
+}

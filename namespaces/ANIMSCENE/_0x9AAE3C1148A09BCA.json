@@ -1,0 +1,14 @@
+{
+    "0x9AAE3C1148A09BCA": {
+        "name": "_0x9AAE3C1148A09BCA",
+        "comment": "Used in SP R* Scripts only\n_IS_ANIM_SCENE_*",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

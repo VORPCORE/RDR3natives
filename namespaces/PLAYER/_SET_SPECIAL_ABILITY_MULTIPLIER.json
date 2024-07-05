@@ -1,0 +1,18 @@
+{
+    "0x5A498FCA232F71E1": {
+        "name": "_SET_SPECIAL_ABILITY_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xEAE3B5B019C8D23F": {
+        "name": "_CLEAR_PED_GRAPPLE_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

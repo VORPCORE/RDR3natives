@@ -1,0 +1,22 @@
+{
+    "0x790EC421078F5C4E": {
+        "name": "DATAFILE_UGC_SELECT_DATA",
+        "comment": "Reloops value returned by UGC_QUERY_GET_CONTENT_NUM",
+        "params": [
+            {
+                "type": "Any",
+                "name": "ugcRequestId"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x011A42FD923D41CA": {
+        "name": "_REMOVE_PED_SUBSCRIBE_TO_LEGENDARY_BLIPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

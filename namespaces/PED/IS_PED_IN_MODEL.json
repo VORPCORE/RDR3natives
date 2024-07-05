@@ -1,0 +1,20 @@
+{
+    "0x796D90EFB19AA332": {
+        "name": "IS_PED_IN_MODEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x796D90EFB19AA332",
+        "gta_jhash": "0xA6438D4B"
+    }
+}

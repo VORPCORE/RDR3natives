@@ -1,0 +1,18 @@
+{
+    "0x6BCF5F3D8FFE988D": {
+        "name": "_SET_ENTITY_FULLY_LOOTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "looted"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

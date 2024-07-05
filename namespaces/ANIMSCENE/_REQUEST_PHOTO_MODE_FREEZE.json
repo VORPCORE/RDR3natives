@@ -1,0 +1,9 @@
+{
+    "0x7C709C01D43D94CD": {
+        "name": "_REQUEST_PHOTO_MODE_FREEZE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

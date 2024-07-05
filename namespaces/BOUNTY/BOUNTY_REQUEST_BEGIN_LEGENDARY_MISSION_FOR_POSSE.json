@@ -1,0 +1,22 @@
+{
+    "0x48E4E23F1739E197": {
+        "name": "BOUNTY_REQUEST_BEGIN_LEGENDARY_MISSION_FOR_POSSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outRpcGuid"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

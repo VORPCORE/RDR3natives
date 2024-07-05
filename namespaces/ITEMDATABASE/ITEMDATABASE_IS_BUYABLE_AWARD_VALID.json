@@ -1,0 +1,14 @@
+{
+    "0x4CE753203FA42214": {
+        "name": "ITEMDATABASE_IS_BUYABLE_AWARD_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "award"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

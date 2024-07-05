@@ -1,0 +1,14 @@
+{
+    "0xD97D8D905F1562F2": {
+        "name": "_PARSEDDATA_LOAD_FILE_HASH",
+        "comment": "LOAD_PARSEDDATA_FILE_FAILSAFE_HASH\nReturns parseddata script fileHandle",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

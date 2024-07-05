@@ -1,0 +1,11 @@
+{
+    "0x43AB9D5A7D415478": {
+        "name": "IS_INTERPOLATING_TO_SCRIPT_CAMS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x705A276EBFF3133D",
+        "gta_jhash": "0x60C23785"
+    }
+}

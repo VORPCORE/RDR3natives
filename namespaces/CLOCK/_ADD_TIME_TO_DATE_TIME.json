@@ -1,0 +1,22 @@
+{
+    "0x28EEACE9B43D9597": {
+        "name": "_ADD_TIME_TO_DATE_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "inDateTime"
+            },
+            {
+                "type": "Any*",
+                "name": "timeToAdd"
+            },
+            {
+                "type": "Any*",
+                "name": "outDateTime"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

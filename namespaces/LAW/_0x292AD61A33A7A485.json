@@ -1,0 +1,9 @@
+{
+    "0x292AD61A33A7A485": {
+        "name": "_0x292AD61A33A7A485",
+        "comment": "Only used in R* Script fm_mission_controller\n_CLEAR_WANTED_*",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

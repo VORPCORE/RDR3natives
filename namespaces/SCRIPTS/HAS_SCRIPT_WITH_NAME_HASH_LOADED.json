@@ -1,0 +1,16 @@
+{
+    "0xA5D8E0C2F3C7EEBC": {
+        "name": "HAS_SCRIPT_WITH_NAME_HASH_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scriptHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x5F0F0C783EB16C04",
+        "gta_jhash": "0x06674818"
+    }
+}

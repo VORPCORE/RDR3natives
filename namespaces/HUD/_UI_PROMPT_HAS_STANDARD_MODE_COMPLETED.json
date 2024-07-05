@@ -1,0 +1,18 @@
+{
+    "0xC92AC953F0A982AE": {
+        "name": "_UI_PROMPT_HAS_STANDARD_MODE_COMPLETED",
+        "comment": "Params: p1 is 0",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

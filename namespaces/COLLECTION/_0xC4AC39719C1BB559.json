@@ -1,0 +1,18 @@
+{
+    "0xC4AC39719C1BB559": {
+        "name": "_0xC4AC39719C1BB559",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableCategory"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1232"
+    }
+}

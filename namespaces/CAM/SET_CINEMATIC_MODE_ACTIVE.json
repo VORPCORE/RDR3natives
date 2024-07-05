@@ -1,0 +1,16 @@
+{
+    "0xCE7A90B160F75046": {
+        "name": "SET_CINEMATIC_MODE_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDCF0754AC3D6FD4E",
+        "gta_jhash": "0x2009E747"
+    }
+}

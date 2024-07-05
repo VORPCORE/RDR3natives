@@ -1,0 +1,18 @@
+{
+    "0xDE1B1907A83A1550": {
+        "name": "_SET_HEALTH_RECHARGE_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

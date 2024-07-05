@@ -1,0 +1,26 @@
+{
+    "0x160921255327C591": {
+        "name": "_GENERATE_SWATCH_TEXTURE",
+        "comment": "Example:\nlocal hash = GetHashKey(\"CLOTHING_ITEM_M_EYES_001_TINT_001\")\n_GENERATE_SWATCH_TEXTURE(0, hash, 0, true)\nmetapedType: see 0xEC9A1261BF0CE510",
+        "params": [
+            {
+                "type": "int",
+                "name": "slotId"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "int",
+                "name": "metapedType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

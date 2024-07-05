@@ -1,0 +1,34 @@
+{
+    "0x345EC3B7EBDE1CB5": {
+        "name": "GET_SCENARIO_POINTS_IN_AREA",
+        "comment": "Note: scenariosInRadius is an array, and its size and values should be aligned to 8 bytes.",
+        "params": [
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "Any*",
+                "name": "scenariosInRadius"
+            },
+            {
+                "type": "int",
+                "name": "size"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x87344305778E5415": {
+        "name": "_SET_DRAFT_VEHICLE_ALLOW_DRAFT_ANIMAL_AUTO_CREATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "allow"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

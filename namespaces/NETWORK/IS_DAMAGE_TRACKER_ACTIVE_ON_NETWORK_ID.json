@@ -1,0 +1,16 @@
+{
+    "0x6E192E33AD436366": {
+        "name": "IS_DAMAGE_TRACKER_ACTIVE_ON_NETWORK_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x6E192E33AD436366",
+        "gta_jhash": "0x597063BA"
+    }
+}

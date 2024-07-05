@@ -1,0 +1,26 @@
+{
+    "0x028F76B6E78246EB": {
+        "name": "SET_PED_ONTO_MOUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "mount"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

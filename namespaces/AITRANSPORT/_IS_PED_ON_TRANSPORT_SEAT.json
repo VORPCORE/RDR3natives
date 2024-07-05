@@ -1,0 +1,18 @@
+{
+    "0xDC44F405A6B98D03": {
+        "name": "_IS_PED_ON_TRANSPORT_SEAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

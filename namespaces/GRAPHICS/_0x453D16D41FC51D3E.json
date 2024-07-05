@@ -1,0 +1,14 @@
+{
+    "0x453D16D41FC51D3E": {
+        "name": "_0x453D16D41FC51D3E",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

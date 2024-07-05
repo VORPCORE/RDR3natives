@@ -1,0 +1,18 @@
+{
+    "0x51BEA356B1C60225": {
+        "name": "GET_IS_PLAYER_UI_PROMPT_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

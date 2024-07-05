@@ -1,0 +1,14 @@
+{
+    "0x621D1B289CAF5978": {
+        "name": "_0x621D1B289CAF5978",
+        "comment": "_IS_PLAYER_S* - _IS_PLAYER_T*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

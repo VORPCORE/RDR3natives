@@ -1,0 +1,14 @@
+{
+    "0xEDA5CBECF56E1386": {
+        "name": "_ANIMPOSTFX_STOP_STACKHASH_POSTFX",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "effectNameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

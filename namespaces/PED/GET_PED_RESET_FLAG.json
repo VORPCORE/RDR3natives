@@ -1,0 +1,20 @@
+{
+    "0xAF9E59B1B1FBF2A0": {
+        "name": "GET_PED_RESET_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flagId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xAF9E59B1B1FBF2A0",
+        "gta_jhash": "0x2FC10D11"
+    }
+}

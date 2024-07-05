@@ -1,0 +1,18 @@
+{
+    "0xF634E2892220EF34": {
+        "name": "_0xF634E2892220EF34",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

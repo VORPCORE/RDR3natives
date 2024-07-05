@@ -1,0 +1,14 @@
+{
+    "0xEA44E97849E9F3DD": {
+        "name": "IS_DRAFT_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x6452B1D357D81742": {
+        "name": "_GET_DEFAULT_ITEM_SLOT_INFO",
+        "comment": "p1: WARDROBE, KIT_CAMP, CHARACTER, KIT_MOONSHINER_PROPERTY\nReturns slot hash",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

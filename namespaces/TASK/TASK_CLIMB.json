@@ -1,0 +1,20 @@
+{
+    "0x89D9FCC2435112F1": {
+        "name": "TASK_CLIMB",
+        "comment": "Climbs or vaults the nearest thing.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "unused"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x89D9FCC2435112F1",
+        "gta_jhash": "0x90847790"
+    }
+}

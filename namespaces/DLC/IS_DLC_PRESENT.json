@@ -1,0 +1,16 @@
+{
+    "0x2763DC12BBE2BB6F": {
+        "name": "IS_DLC_PRESENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "dlcHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x812595A0644CE1DE",
+        "gta_jhash": "0x1F321943"
+    }
+}

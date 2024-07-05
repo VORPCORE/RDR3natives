@@ -1,0 +1,14 @@
+{
+    "0xBEDBE39B5FD98FD6": {
+        "name": "_0xBEDBE39B5FD98FD6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x3215BBE34D3418C5": {
+        "name": "_NETWORK_SESSION_REMOVE_PLAYER_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

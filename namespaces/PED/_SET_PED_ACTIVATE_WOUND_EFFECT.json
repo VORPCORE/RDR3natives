@@ -1,0 +1,50 @@
+{
+    "0xFFD54D9FE71B966A": {
+        "name": "_SET_PED_ACTIVATE_WOUND_EFFECT",
+        "comment": "bloodFountainPressure: visible effect from 0.0 till 20.0\nyaw: visible effect from -3.0 till 3.0\nbloodFountainDirection: 1.0 left side, -1.0 right side\nbloodFountainPulse: from 0.1 (low) till 1.0 (fast)\nmake blood fountain from your stomach: _SET_PED_ACTIVATE_WOUND_EFFECT(ped, unk, 2, 14411, 0.0, 0.1, 0.0, 0.0, 3.0, -1.0, 1.0)",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "boneId"
+            },
+            {
+                "type": "float",
+                "name": "moveWoundLeftRight"
+            },
+            {
+                "type": "float",
+                "name": "bloodFountainPressure"
+            },
+            {
+                "type": "float",
+                "name": "yaw"
+            },
+            {
+                "type": "float",
+                "name": "bloodFountainDirection"
+            },
+            {
+                "type": "float",
+                "name": "bloodFountainPulse"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

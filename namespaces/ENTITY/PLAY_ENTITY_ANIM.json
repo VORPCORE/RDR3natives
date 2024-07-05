@@ -1,0 +1,48 @@
+{
+    "0xDC6D22FAB76D4874": {
+        "name": "PLAY_ENTITY_ANIM",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/animations",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "loop"
+            },
+            {
+                "type": "BOOL",
+                "name": "stayInAnim"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "delta"
+            },
+            {
+                "type": "Any",
+                "name": "bitset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x7FB218262B810701",
+        "gta_jhash": "0x878753D5"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x37DF360F235A3893": {
+        "name": "UPDATE_ONSCREEN_KEYBOARD",
+        "comment": "Returns the current status of the onscreen keyboard, and updates the output.\n\nStatus Codes:\n\n0 - User still editing\n1 - User has finished editing\n2 - User has canceled editing\n3 - Keyboard isn't active",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x0CF2B696BBF945AE",
+        "gta_jhash": "0x23D0A1CE"
+    }
+}

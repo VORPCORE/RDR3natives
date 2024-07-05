@@ -1,0 +1,42 @@
+{
+    "0x6B12ED8C77E8567B": {
+        "name": "GET_RANDOM_MODEL_FROM_POPULATION_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "popSetHash"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "Hash",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x27FF6FE8009B40CA": {
+        "name": "HAS_ANIM_DICT_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "animDict"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD031A9162D01088C",
+        "gta_jhash": "0x05E6763C"
+    }
+}

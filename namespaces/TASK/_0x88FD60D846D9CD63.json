@@ -1,0 +1,14 @@
+{
+    "0x88FD60D846D9CD63": {
+        "name": "_0x88FD60D846D9CD63",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

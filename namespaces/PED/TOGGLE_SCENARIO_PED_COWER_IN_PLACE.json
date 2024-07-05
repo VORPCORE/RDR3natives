@@ -1,0 +1,20 @@
+{
+    "0x9A77DFD295E29B09": {
+        "name": "TOGGLE_SCENARIO_PED_COWER_IN_PLACE",
+        "comment": "If toggle is true, when the ped is using a scenario he will stop it and become scared\nIf toggle is false, the ped will not be scared anymore and continue his scenario\n\nOld name: _SET_PED_SCARED_WHEN_USING_SCENARIO",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9A77DFD295E29B09",
+        "gta_jhash": "0xC08FE5F6"
+    }
+}

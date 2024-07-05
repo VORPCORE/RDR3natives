@@ -1,0 +1,14 @@
+{
+    "0x30E7C16B12DA8211": {
+        "name": "_IS_WEAPON_THROWABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

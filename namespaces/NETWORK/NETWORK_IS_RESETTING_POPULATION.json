@@ -1,0 +1,9 @@
+{
+    "0x1BB50CD340A996E6": {
+        "name": "NETWORK_IS_RESETTING_POPULATION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

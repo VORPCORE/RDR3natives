@@ -1,0 +1,14 @@
+{
+    "0x9B8D5D4CB8AF58B3": {
+        "name": "_ANIMPOSTFX_PLAY_TAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "effectNameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

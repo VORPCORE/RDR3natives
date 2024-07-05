@@ -1,0 +1,16 @@
+{
+    "0x3F5029A8FC060C48": {
+        "name": "IS_VEHICLE_IN_BURNOUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1297A88E081430EB",
+        "gta_jhash": "0x6632BC12"
+    }
+}

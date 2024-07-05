@@ -1,0 +1,14 @@
+{
+    "0xC0258742B034DFAF": {
+        "name": "_SET_AMBIENT_ANIMAL_DENSITY_MULTIPLIER_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x72B7F65F11FC8896": {
+        "name": "_DEACTIVATE_COMPANION_ANALYSIS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

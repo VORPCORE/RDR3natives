@@ -1,0 +1,14 @@
+{
+    "0x90E9A5DADBABC918": {
+        "name": "_STAT_ADD_ANIMAL_SAMPLE_TARGET",
+        "comment": "Related to animal tagging",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "animalType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355"
+    }
+}

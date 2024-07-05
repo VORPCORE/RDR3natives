@@ -1,0 +1,18 @@
+{
+    "0x13F138225C202F66": {
+        "name": "_SET_TRANSPORT_PRIORITY_SEAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

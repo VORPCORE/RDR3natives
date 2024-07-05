@@ -1,0 +1,20 @@
+{
+    "0xB782F8238512BAD5": {
+        "name": "SPAWNPOINTS_GET_SEARCH_RESULT_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB782F8238512BAD5",
+        "gta_jhash": "0xBA699DDF"
+    }
+}

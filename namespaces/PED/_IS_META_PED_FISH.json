@@ -1,0 +1,14 @@
+{
+    "0x118D476A6F1A13F1": {
+        "name": "_IS_META_PED_FISH",
+        "comment": "Returns true if given ped is a fish.\n_IS_ME* - _IS_MO*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x597F571DDEE3FFAC": {
+        "name": "_SET_USE_MISSION_INVENTORY",
+        "comment": "This native has no functionality.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

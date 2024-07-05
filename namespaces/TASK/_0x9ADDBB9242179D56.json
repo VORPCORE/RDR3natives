@@ -1,0 +1,18 @@
+{
+    "0x9ADDBB9242179D56": {
+        "name": "_0x9ADDBB9242179D56",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

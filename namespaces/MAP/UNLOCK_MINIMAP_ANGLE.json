@@ -1,0 +1,11 @@
+{
+    "0x5373DE8E179BC2A0": {
+        "name": "UNLOCK_MINIMAP_ANGLE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8183455E16C42E3A",
+        "gta_jhash": "0x742043F9"
+    }
+}

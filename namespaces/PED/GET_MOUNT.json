@@ -1,0 +1,16 @@
+{
+    "0xE7E11B8DCBED1058": {
+        "name": "GET_MOUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207",
+        "gta_hash": "0xE7E11B8DCBED1058",
+        "gta_jhash": "0xDD31EC4E"
+    }
+}

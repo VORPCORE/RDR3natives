@@ -1,0 +1,16 @@
+{
+    "0xDDE5C125AC446723": {
+        "name": "IS_ENTITY_IN_WATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xCFB0A0D8EDD145A3",
+        "gta_jhash": "0x4C3C2508"
+    }
+}

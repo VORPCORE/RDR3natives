@@ -1,0 +1,11 @@
+{
+    "0xEA600AABAF4B9084": {
+        "name": "HIDE_LOADING_ON_FADE_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4B0311D3CDC4648F",
+        "gta_jhash": "0x35087963"
+    }
+}

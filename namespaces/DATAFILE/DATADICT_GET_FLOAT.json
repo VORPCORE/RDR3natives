@@ -1,0 +1,20 @@
+{
+    "0x814643ECA258ADF5": {
+        "name": "DATADICT_GET_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x06610343E73B9727",
+        "gta_jhash": "0xA92C1AF4"
+    }
+}

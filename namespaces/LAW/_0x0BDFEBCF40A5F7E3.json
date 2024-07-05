@@ -1,0 +1,14 @@
+{
+    "0x0BDFEBCF40A5F7E3": {
+        "name": "_0x0BDFEBCF40A5F7E3",
+        "comment": "Only used in net_fetch R* Script",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "crimeType"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

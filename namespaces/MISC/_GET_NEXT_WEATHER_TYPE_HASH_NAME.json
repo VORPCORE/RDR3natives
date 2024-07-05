@@ -1,0 +1,9 @@
+{
+    "0x51021D36F62AAA83": {
+        "name": "_GET_NEXT_WEATHER_TYPE_HASH_NAME",
+        "comment": "",
+        "params": [],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

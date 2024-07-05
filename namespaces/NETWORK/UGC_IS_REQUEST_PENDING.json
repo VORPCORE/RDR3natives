@@ -1,0 +1,14 @@
+{
+    "0xF4AC4FA844FD559A": {
+        "name": "UGC_IS_REQUEST_PENDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ugcRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

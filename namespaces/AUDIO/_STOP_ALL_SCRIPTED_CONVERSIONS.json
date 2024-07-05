@@ -1,0 +1,22 @@
+{
+    "0x36559148B78853B3": {
+        "name": "_STOP_ALL_SCRIPTED_CONVERSIONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

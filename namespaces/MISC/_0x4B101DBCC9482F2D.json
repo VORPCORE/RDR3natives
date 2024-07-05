@@ -1,0 +1,14 @@
+{
+    "0x4B101DBCC9482F2D": {
+        "name": "_0x4B101DBCC9482F2D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xCAF6489DA2C8DD9E": {
+        "name": "SET_RADAR_ZOOM",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "zoomLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x096EF57A0C999BBA",
+        "gta_jhash": "0x2A50D1A6"
+    }
+}

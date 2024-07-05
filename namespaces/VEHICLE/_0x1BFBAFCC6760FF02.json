@@ -1,0 +1,18 @@
+{
+    "0x1BFBAFCC6760FF02": {
+        "name": "_0x1BFBAFCC6760FF02",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

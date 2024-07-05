@@ -1,0 +1,30 @@
+{
+    "0xD3A7B003ED343FD9": {
+        "name": "_APPLY_SHOP_ITEM_TO_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "immediately"
+            },
+            {
+                "type": "BOOL",
+                "name": "isMp"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

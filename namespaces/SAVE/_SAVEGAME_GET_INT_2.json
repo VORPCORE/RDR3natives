@@ -1,0 +1,18 @@
+{
+    "0x529B9CCD0972AF4D": {
+        "name": "_SAVEGAME_GET_INT_2",
+        "comment": "Does the exact same as 0x529B9CCD0972AF4E\nCommonly used with time/timestamps",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "variableName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

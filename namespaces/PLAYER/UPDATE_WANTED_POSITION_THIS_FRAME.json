@@ -1,0 +1,16 @@
+{
+    "0xD0B0B044112BF424": {
+        "name": "UPDATE_WANTED_POSITION_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBC9490CA15AEA8FB",
+        "gta_jhash": "0x6B34A160"
+    }
+}

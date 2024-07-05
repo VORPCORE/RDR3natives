@@ -1,0 +1,14 @@
+{
+    "0xE98204D3C25AE14C": {
+        "name": "BAIL_WITH_PASS_THROUGH_PARAMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "params"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

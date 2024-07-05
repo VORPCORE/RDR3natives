@@ -1,0 +1,11 @@
+{
+    "0xB0FB6CFAA5A1C833": {
+        "name": "IS_PC_VERSION",
+        "comment": "Hardcoded to return true.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x48AF36444B965238",
+        "gta_jhash": "0x4D5D9EE3"
+    }
+}

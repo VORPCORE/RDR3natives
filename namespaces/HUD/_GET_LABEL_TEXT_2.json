@@ -1,0 +1,14 @@
+{
+    "0x3429670F9B9EF2D3": {
+        "name": "_GET_LABEL_TEXT_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "label"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

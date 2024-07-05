@@ -1,0 +1,16 @@
+{
+    "0x768C017FB878E4F4": {
+        "name": "FORCE_CLEANUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "cleanupFlags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBC8983F38F78ED51",
+        "gta_jhash": "0xFDAAEA2B"
+    }
+}

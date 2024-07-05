@@ -1,0 +1,20 @@
+{
+    "0x4D7A30130F46AC9C": {
+        "name": "DATADICT_GET_DICT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "objectData"
+            },
+            {
+                "type": "const char*",
+                "name": "key"
+            }
+        ],
+        "return_type": "Any*",
+        "build": "1207",
+        "gta_hash": "0xB6B9DDC412FCEEE2",
+        "gta_jhash": "0xC9C13D8D"
+    }
+}

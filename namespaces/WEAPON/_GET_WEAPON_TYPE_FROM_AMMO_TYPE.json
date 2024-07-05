@@ -1,0 +1,14 @@
+{
+    "0x7AA043F6C41D151E": {
+        "name": "_GET_WEAPON_TYPE_FROM_AMMO_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "ammoType"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

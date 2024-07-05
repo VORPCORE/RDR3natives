@@ -1,0 +1,30 @@
+{
+    "0xE3144B932DFDFF65": {
+        "name": "_SET_PED_DIRT_CLEANED",
+        "comment": "Params: ped, 0f, -1, true, true in R* MP Scripts\n_SET_PED_DE* - _SET_PED_F*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

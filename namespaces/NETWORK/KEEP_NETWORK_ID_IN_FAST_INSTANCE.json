@@ -1,0 +1,22 @@
+{
+    "0xE1BC73D6815BA361": {
+        "name": "KEEP_NETWORK_ID_IN_FAST_INSTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

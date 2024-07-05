@@ -1,0 +1,18 @@
+{
+    "0x11E6B9629C46D6EC": {
+        "name": "_SET_MOUNT_SECURITY_ENABLED",
+        "comment": "Note: this native was added in build 1232.40",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

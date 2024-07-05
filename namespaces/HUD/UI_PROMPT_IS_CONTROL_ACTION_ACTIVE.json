@@ -1,0 +1,14 @@
+{
+    "0x1BE19185B8AFE299": {
+        "name": "UI_PROMPT_IS_CONTROL_ACTION_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "controlAction"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

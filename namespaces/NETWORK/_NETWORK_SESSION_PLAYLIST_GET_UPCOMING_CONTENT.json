@@ -1,0 +1,9 @@
+{
+    "0x8F9DB6CD03B42B58": {
+        "name": "_NETWORK_SESSION_PLAYLIST_GET_UPCOMING_CONTENT",
+        "comment": "Only used in R* Script net_rolling_playlist",
+        "params": [],
+        "return_type": "void",
+        "build": "1436"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x50723A1567C8361E": {
+        "name": "SET_SCRIPT_WITH_NAME_HASH_AS_NO_LONGER_NEEDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scriptHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC5BC038960E9DB27",
+        "gta_jhash": "0x96C26F66"
+    }
+}

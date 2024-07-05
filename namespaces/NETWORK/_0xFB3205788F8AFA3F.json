@@ -1,0 +1,10 @@
+{
+    "0xFB3205788F8AFA3F": {
+        "name": "_0xFB3205788F8AFA3F",
+        "comment": "Note: this native was added in build 1311.23",
+        "params": [],
+        "return_type": "int",
+        "build": "1311",
+        "unused": true
+    }
+}

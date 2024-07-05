@@ -1,0 +1,18 @@
+{
+    "0x9D1ECA9337BE9FC3": {
+        "name": "_DOES_ANIM_SCENE_OWNERSHIP_OF_ENTITY_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "entityName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

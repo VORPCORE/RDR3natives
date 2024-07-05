@@ -1,0 +1,18 @@
+{
+    "0x5240864E847C691C": {
+        "name": "SET_PED_CAN_BE_INCAPACITATED",
+        "comment": "When set on a player ped, its just like when you die in RDO",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

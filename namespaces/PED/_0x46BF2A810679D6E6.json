@@ -1,0 +1,18 @@
+{
+    "0x46BF2A810679D6E6": {
+        "name": "_0x46BF2A810679D6E6",
+        "comment": "Returns vehicle (desired) speed\n_COMPUTE_(VEHICLE_SPEED_USING_BLEND_RATIO?)*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "maxMoveBlendRatio"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

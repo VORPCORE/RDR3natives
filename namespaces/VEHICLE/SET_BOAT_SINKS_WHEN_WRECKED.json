@@ -1,0 +1,20 @@
+{
+    "0x62A6D317A011EA1D": {
+        "name": "SET_BOAT_SINKS_WHEN_WRECKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8F719973E1445BA2",
+        "gta_jhash": "0x35614622"
+    }
+}

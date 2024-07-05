@@ -1,0 +1,24 @@
+{
+    "0xA9F1D75195CC40F6": {
+        "name": "SET_VEHICLE_INDIVIDUAL_DOORS_LOCKED",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            },
+            {
+                "type": "int",
+                "name": "doorLockStatus"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBE70724027F85BCD",
+        "gta_jhash": "0xD61D182D"
+    }
+}

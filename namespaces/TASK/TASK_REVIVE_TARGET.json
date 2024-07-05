@@ -1,0 +1,22 @@
+{
+    "0x356088527D9EBAAD": {
+        "name": "TASK_REVIVE_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "reviver"
+            },
+            {
+                "type": "Hash",
+                "name": "tool"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

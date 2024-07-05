@@ -1,0 +1,20 @@
+{
+    "0x6C3B4D6D13B4C841": {
+        "name": "SET_PED_CAN_ARM_IK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6C3B4D6D13B4C841",
+        "gta_jhash": "0x343B4DE0"
+    }
+}

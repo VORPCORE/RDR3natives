@@ -1,0 +1,14 @@
+{
+    "0x3C7A9C2C953128FE": {
+        "name": "_0x3C7A9C2C953128FE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xC867FD144F2469D3": {
+        "name": "GET_VEHICLE_DOOR_LOCK_STATUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x25BC98A59C2EA962",
+        "gta_jhash": "0x0D72CEF2"
+    }
+}

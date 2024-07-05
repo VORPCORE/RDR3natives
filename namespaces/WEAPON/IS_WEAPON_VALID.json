@@ -1,0 +1,16 @@
+{
+    "0x937C71165CF334B3": {
+        "name": "IS_WEAPON_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x937C71165CF334B3",
+        "gta_jhash": "0x38CA2954"
+    }
+}

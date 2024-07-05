@@ -1,0 +1,40 @@
+{
+    "0xD96E82AEBFFAAFF0": {
+        "name": "IS_EXPLOSION_ACTIVE_IN_AREA",
+        "comment": "explosionType: see ADD_EXPLOSION",
+        "params": [
+            {
+                "type": "int",
+                "name": "explosionType"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x6070104B699B2EF4",
+        "gta_jhash": "0x37C388DB"
+    }
+}

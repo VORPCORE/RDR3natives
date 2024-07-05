@@ -1,0 +1,14 @@
+{
+    "0x1D491CCF7211FB74": {
+        "name": "_GET_PED_HEIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

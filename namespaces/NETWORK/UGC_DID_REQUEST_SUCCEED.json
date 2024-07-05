@@ -1,0 +1,14 @@
+{
+    "0x0B6009A90B8495F1": {
+        "name": "UGC_DID_REQUEST_SUCCEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ugcRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

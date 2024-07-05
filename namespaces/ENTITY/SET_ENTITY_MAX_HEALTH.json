@@ -1,0 +1,20 @@
+{
+    "0x166E7CF68597D8B5": {
+        "name": "SET_ENTITY_MAX_HEALTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x166E7CF68597D8B5",
+        "gta_jhash": "0x96F84DF8"
+    }
+}

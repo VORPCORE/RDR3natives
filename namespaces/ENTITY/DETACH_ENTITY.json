@@ -1,0 +1,24 @@
+{
+    "0x64CDE9D6BF8ECAD3": {
+        "name": "DETACH_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "collision"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x961AC54BF0613F5D",
+        "gta_jhash": "0xC8EFCB41"
+    }
+}

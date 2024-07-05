@@ -1,0 +1,18 @@
+{
+    "0x39A2FC5AF55A52B1": {
+        "name": "_SET_REMOVE_PED_NETWORKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

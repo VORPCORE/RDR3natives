@@ -1,0 +1,18 @@
+{
+    "0xB909149F2BB5F6DA": {
+        "name": "_CLEAR_BIT_FLAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "bitFlags"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

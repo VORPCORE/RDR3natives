@@ -1,0 +1,18 @@
+{
+    "0xC2266AA617668AD3": {
+        "name": "_SET_ACCURACY_AGAINST_LOCAL_PLAYER_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xCDC25355C0D65963": {
+        "name": "_IS_ENTITY_CONSUMED_BY_FIRE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

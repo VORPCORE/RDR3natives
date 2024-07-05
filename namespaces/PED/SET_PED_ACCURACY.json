@@ -1,0 +1,20 @@
+{
+    "0x7AEFB85C1D49DEB6": {
+        "name": "SET_PED_ACCURACY",
+        "comment": "accuracy = 0-100, 100 being perfectly accurate",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "accuracy"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7AEFB85C1D49DEB6",
+        "gta_jhash": "0x6C17122E"
+    }
+}

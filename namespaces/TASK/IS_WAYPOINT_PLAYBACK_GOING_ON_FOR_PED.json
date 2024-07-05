@@ -1,0 +1,20 @@
+{
+    "0xE03B3F2D3DC59B64": {
+        "name": "IS_WAYPOINT_PLAYBACK_GOING_ON_FOR_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xE03B3F2D3DC59B64",
+        "gta_jhash": "0x85B7725F"
+    }
+}

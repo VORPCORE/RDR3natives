@@ -1,0 +1,14 @@
+{
+    "0x29FE035D35B8589C": {
+        "name": "NETWORK_SET_RECENT_GAMERS_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

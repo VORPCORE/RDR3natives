@@ -1,0 +1,18 @@
+{
+    "0xF620F47B4F4A78C4": {
+        "name": "_TELEMETRY_MATCH_STARTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

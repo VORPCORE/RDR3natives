@@ -1,0 +1,14 @@
+{
+    "0x2C729F2B94CEA911": {
+        "name": "_DOES_TEXT_BLOCK_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textDatabase"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

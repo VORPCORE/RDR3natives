@@ -1,0 +1,14 @@
+{
+    "0x1FC6C727D30FFDDE": {
+        "name": "_0x1FC6C727D30FFDDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

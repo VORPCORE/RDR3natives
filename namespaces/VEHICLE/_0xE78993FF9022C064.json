@@ -1,0 +1,14 @@
+{
+    "0xE78993FF9022C064": {
+        "name": "_0xE78993FF9022C064",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0xFFC24B988B938B38": {
+        "name": "SET_FACIAL_IDLE_ANIM_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xFFC24B988B938B38",
+        "gta_jhash": "0x9BA19C13"
+    }
+}

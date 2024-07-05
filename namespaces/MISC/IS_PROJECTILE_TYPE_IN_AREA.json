@@ -1,0 +1,44 @@
+{
+    "0x04965FB9E14235C7": {
+        "name": "IS_PROJECTILE_TYPE_IN_AREA",
+        "comment": "Determines whether there is a projectile of a specific type within the specified coordinates. The coordinates form a rectangle.",
+        "params": [
+            {
+                "type": "float",
+                "name": "xMin"
+            },
+            {
+                "type": "float",
+                "name": "yMin"
+            },
+            {
+                "type": "float",
+                "name": "zMin"
+            },
+            {
+                "type": "float",
+                "name": "xMax"
+            },
+            {
+                "type": "float",
+                "name": "yMax"
+            },
+            {
+                "type": "float",
+                "name": "zMax"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponType"
+            },
+            {
+                "type": "BOOL",
+                "name": "isPlayer"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x2E0DC353342C4A6D",
+        "gta_jhash": "0x2B73BCF6"
+    }
+}

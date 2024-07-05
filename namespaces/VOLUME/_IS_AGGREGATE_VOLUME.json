@@ -1,0 +1,14 @@
+{
+    "0xFEFF01B5725BCD22": {
+        "name": "_IS_AGGREGATE_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0x415FE28ED44BFF14": {
+        "name": "_TELEMETRY_GUN_LOCKER",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

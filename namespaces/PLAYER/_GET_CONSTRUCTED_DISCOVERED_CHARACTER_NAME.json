@@ -1,0 +1,22 @@
+{
+    "0x8E84119A23C16623": {
+        "name": "_GET_CONSTRUCTED_DISCOVERED_CHARACTER_NAME",
+        "comment": "p0: mostly Ped Hashes",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "model"
+            },
+            {
+                "type": "BOOL",
+                "name": "outfit"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

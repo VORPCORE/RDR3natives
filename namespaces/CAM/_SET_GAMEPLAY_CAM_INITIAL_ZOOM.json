@@ -1,0 +1,14 @@
+{
+    "0xBCDA0BA8762FACB9": {
+        "name": "_SET_GAMEPLAY_CAM_INITIAL_ZOOM",
+        "comment": "Used in Script Function SHOP_CAMERA_SUPPORT_START_NEW_ORBIT",
+        "params": [
+            {
+                "type": "float",
+                "name": "camInitialZoom"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x1017582BCD3832DC": {
+        "name": "GET_CURRENT_PED_VEHICLE_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash*",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1017582BCD3832DC",
+        "gta_jhash": "0xF26C5D65"
+    }
+}

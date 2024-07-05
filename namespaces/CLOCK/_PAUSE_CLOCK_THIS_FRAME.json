@@ -1,0 +1,14 @@
+{
+    "0x568D998A9FF96774": {
+        "name": "_PAUSE_CLOCK_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

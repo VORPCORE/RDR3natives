@@ -1,0 +1,16 @@
+{
+    "0x421192A2DA48FD01": {
+        "name": "SET_GAMEPLAY_HINT_BASE_ORBIT_PITCH_OFFSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD1F8363DFAD03848",
+        "gta_jhash": "0x79472AE3"
+    }
+}

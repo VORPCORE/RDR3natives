@@ -1,0 +1,18 @@
+{
+    "0xF8F7DA13CFBD4532": {
+        "name": "_0xF8F7DA13CFBD4532",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

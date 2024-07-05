@@ -1,0 +1,14 @@
+{
+    "0x6ABAD7B0A854F8FB": {
+        "name": "_IS_WEAPON_KIT",
+        "comment": "Returns true when the weapon passed is either a lasso, the camera or the binoculars\n_IS_WEAPON_M* - _IS_WEAPON_P*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

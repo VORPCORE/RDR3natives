@@ -1,0 +1,18 @@
+{
+    "0x7A54D82227A139DB": {
+        "name": "_ROPE_CHANGE_VISIBILITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "ropeId"
+            },
+            {
+                "type": "BOOL",
+                "name": "visible"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

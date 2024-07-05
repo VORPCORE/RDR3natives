@@ -1,0 +1,14 @@
+{
+    "0x0FF421E467373FCF": {
+        "name": "_GET_PLAYER_STAMINA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

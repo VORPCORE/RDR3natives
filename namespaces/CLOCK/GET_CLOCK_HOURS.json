@@ -1,0 +1,11 @@
+{
+    "0xC82CF208C2B19199": {
+        "name": "GET_CLOCK_HOURS",
+        "comment": "Gets the current ingame hour, expressed without zeros. (09:34 will be represented as 9)",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x25223CA6B4D20B7F",
+        "gta_jhash": "0x7EF8316F"
+    }
+}

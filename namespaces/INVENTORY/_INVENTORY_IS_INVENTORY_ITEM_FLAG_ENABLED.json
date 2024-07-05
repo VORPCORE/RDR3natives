@@ -1,0 +1,18 @@
+{
+    "0x245D07651B1D183B": {
+        "name": "_INVENTORY_IS_INVENTORY_ITEM_FLAG_ENABLED",
+        "comment": "flag: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ItemDatabaseItemFlags\n2097152 (is item read?), 8388608 (is item sent/received/mailable?), 16777216 (is item consumable?)",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

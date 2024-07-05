@@ -1,0 +1,34 @@
+{
+    "0xA9C28516A6DC9D56": {
+        "name": "GET_META_PED_ASSET_GUIDS",
+        "comment": "This is a way to get what drawables a ped has equipped\nExample: you are able to tell if the ped has the drawable PLAYER_ZERO_HAT_017 attached\nNote: this works with non shop components, direct .ydd files.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Hash*",
+                "name": "drawable"
+            },
+            {
+                "type": "Hash*",
+                "name": "albedo"
+            },
+            {
+                "type": "Hash*",
+                "name": "normal"
+            },
+            {
+                "type": "Hash*",
+                "name": "material"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

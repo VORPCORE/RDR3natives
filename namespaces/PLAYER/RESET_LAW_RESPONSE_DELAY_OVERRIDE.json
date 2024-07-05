@@ -1,0 +1,11 @@
+{
+    "0x5CE5CACC01D0F985": {
+        "name": "RESET_LAW_RESPONSE_DELAY_OVERRIDE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0032A6DBA562C518",
+        "gta_jhash": "0x47CAB814"
+    }
+}

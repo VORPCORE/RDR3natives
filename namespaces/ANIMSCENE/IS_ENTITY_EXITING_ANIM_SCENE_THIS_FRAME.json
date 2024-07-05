@@ -1,0 +1,18 @@
+{
+    "0x005E6F28DD7ED58D": {
+        "name": "IS_ENTITY_EXITING_ANIM_SCENE_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "entityName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

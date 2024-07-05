@@ -1,0 +1,18 @@
+{
+    "0xBD1C3C0F271C39D3": {
+        "name": "_0xBD1C3C0F271C39D3",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

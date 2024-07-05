@@ -1,0 +1,14 @@
+{
+    "0x8588A14B75AF096B": {
+        "name": "UNLOCK_IS_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "unlockHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

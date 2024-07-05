@@ -1,0 +1,16 @@
+{
+    "0x29E74F819150CC32": {
+        "name": "SET_GAMEPLAY_HINT_CAMERA_RELATIVE_VERTICAL_OFFSET",
+        "comment": "Old name: _SET_GAMEPLAY_HINT_ANIM_OFFSETY",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC92717EF615B6704",
+        "gta_jhash": "0x3554AA0E"
+    }
+}

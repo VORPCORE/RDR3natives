@@ -1,0 +1,14 @@
+{
+    "0xE483BB6BE686F632": {
+        "name": "NETWORK_REQUEST_JOIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

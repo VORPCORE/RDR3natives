@@ -1,0 +1,20 @@
+{
+    "0x0D06D522B90E861F": {
+        "name": "SET_ENTITY_CAN_BE_DAMAGED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1760FFA8AB074D66",
+        "gta_jhash": "0x60B6E744"
+    }
+}

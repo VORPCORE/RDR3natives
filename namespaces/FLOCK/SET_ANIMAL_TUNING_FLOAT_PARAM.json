@@ -1,0 +1,22 @@
+{
+    "0xCBDA22C87977244F": {
+        "name": "SET_ANIMAL_TUNING_FLOAT_PARAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animal"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

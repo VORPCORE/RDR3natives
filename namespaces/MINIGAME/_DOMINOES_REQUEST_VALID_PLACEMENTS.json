@@ -1,0 +1,14 @@
+{
+    "0xE26AEE7E67D9E21D": {
+        "name": "_DOMINOES_REQUEST_VALID_PLACEMENTS",
+        "comment": "Hardcoded to return zero/false.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

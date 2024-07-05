@@ -1,0 +1,11 @@
+{
+    "0x3D0EAC6385DD6100": {
+        "name": "NETWORK_SET_SCRIPT_IS_SAFE_FOR_NETWORK_GAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9243BAC96D64C050",
+        "gta_jhash": "0x878486CE"
+    }
+}

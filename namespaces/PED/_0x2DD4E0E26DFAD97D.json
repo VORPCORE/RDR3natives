@@ -1,0 +1,22 @@
+{
+    "0x2DD4E0E26DFAD97D": {
+        "name": "_0x2DD4E0E26DFAD97D",
+        "comment": "_IS_PED_M* - _IS_PED_O*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

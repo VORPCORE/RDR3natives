@@ -1,0 +1,16 @@
+{
+    "0x0D5D119529654EE0": {
+        "name": "IS_VEHICLE_ON_ALL_WHEELS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB104CD1BABF302E2",
+        "gta_jhash": "0x10089F8E"
+    }
+}

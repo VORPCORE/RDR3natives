@@ -1,0 +1,16 @@
+{
+    "0x28A4BD2CEE236E19": {
+        "name": "SET_MAX_WANTED_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "maxWantedLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xAA5F02DB48D704B9",
+        "gta_jhash": "0x665A06F5"
+    }
+}

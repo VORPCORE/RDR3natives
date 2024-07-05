@@ -1,0 +1,22 @@
+{
+    "0x67E21ACC5C0C970C": {
+        "name": "_SET_PED_WEAPON_ATTACH_POINT_VISIBILITY",
+        "comment": "attachPoint: see SET_CURRENT_PED_WEAPON",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attachPoint"
+            },
+            {
+                "type": "BOOL",
+                "name": "visible"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

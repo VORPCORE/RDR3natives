@@ -1,0 +1,20 @@
+{
+    "0xF92099527DB8E2A7": {
+        "name": "SUPPRESS_PICKUP_REWARD_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "rewardType"
+            },
+            {
+                "type": "BOOL",
+                "name": "suppress"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF92099527DB8E2A7",
+        "gta_jhash": "0xA7E936FD"
+    }
+}

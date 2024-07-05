@@ -1,0 +1,14 @@
+{
+    "0x0FEE2561120F3333": {
+        "name": "_0x0FEE2561120F3333",
+        "comment": "statId: see STAT_ID_IS_VALID",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

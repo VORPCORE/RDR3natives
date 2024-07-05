@@ -1,0 +1,18 @@
+{
+    "0xCD9E2D9BC52FD80F": {
+        "name": "_NETWORK_KICK_GANG_MEMBER",
+        "comment": "banTimeSeconds is 120 in R* Scripts",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "banTimeSeconds"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

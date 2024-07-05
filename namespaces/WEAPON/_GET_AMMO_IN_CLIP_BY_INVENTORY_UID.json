@@ -1,0 +1,22 @@
+{
+    "0x678F00858980F516": {
+        "name": "_GET_AMMO_IN_CLIP_BY_INVENTORY_UID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int*",
+                "name": "ammo"
+            },
+            {
+                "type": "Any*",
+                "name": "inventoryUid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

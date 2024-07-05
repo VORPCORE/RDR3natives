@@ -1,0 +1,14 @@
+{
+    "0x6554ECCE226F2A2A": {
+        "name": "_GET_CAN_TWIRL_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

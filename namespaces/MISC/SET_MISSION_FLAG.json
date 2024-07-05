@@ -1,0 +1,16 @@
+{
+    "0x36694B456BE80D0A": {
+        "name": "SET_MISSION_FLAG",
+        "comment": "If true, the player can't save the game.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC4301E5121A0ED73",
+        "gta_jhash": "0x57592D52"
+    }
+}

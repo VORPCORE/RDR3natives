@@ -1,0 +1,24 @@
+{
+    "0x5E29243FB56FC6D4": {
+        "name": "CLEAR_RELATIONSHIP_BETWEEN_GROUPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "relationship"
+            },
+            {
+                "type": "Hash",
+                "name": "group1"
+            },
+            {
+                "type": "Hash",
+                "name": "group2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5E29243FB56FC6D4",
+        "gta_jhash": "0x994B8C2D"
+    }
+}

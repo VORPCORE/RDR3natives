@@ -1,0 +1,26 @@
+{
+    "0x9821B68CD3E05F2B": {
+        "name": "_SET_VARIABLE_ON_SOUND_WITH_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "variableName"
+            },
+            {
+                "type": "float",
+                "name": "variableValue"
+            },
+            {
+                "type": "const char*",
+                "name": "audioName"
+            },
+            {
+                "type": "const char*",
+                "name": "audioRef"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

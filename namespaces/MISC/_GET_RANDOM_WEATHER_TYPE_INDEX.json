@@ -1,0 +1,9 @@
+{
+    "0x7F4CE164D9A11DFE": {
+        "name": "_GET_RANDOM_WEATHER_TYPE_INDEX",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

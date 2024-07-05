@@ -1,0 +1,20 @@
+{
+    "0x76D683C108594D0E": {
+        "name": "SET_HORN_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x76D683C108594D0E",
+        "gta_jhash": "0x6EB92D05"
+    }
+}

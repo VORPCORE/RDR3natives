@@ -1,0 +1,16 @@
+{
+    "0xFA08722A5EA82DA7": {
+        "name": "SET_TIMECYCLE_MODIFIER",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/timecycles",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "modifierName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2C933ABF17A1DF41",
+        "gta_jhash": "0xA81F3638"
+    }
+}

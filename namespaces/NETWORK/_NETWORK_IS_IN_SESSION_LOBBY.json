@@ -1,0 +1,9 @@
+{
+    "0xC5196C42DE19F646": {
+        "name": "_NETWORK_IS_IN_SESSION_LOBBY",
+        "comment": "Hardcoded to return false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

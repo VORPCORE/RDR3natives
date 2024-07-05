@@ -1,0 +1,30 @@
+{
+    "0xDDFAD4DEAA7FA362": {
+        "name": "_0xDDFAD4DEAA7FA362",
+        "comment": "_SET_FORMATION_P*",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

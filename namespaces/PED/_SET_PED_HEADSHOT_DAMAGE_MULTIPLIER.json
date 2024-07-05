@@ -1,0 +1,18 @@
+{
+    "0x2BA918C823B8BA56": {
+        "name": "_SET_PED_HEADSHOT_DAMAGE_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

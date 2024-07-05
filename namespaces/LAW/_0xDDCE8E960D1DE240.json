@@ -1,0 +1,14 @@
+{
+    "0xDDCE8E960D1DE240": {
+        "name": "_0xDDCE8E960D1DE240",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

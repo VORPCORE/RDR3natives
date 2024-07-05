@@ -1,0 +1,22 @@
+{
+    "0xB5E2EDA2135E0FA1": {
+        "name": "_0xB5E2EDA2135E0FA1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Hash*",
+                "name": "scheduleLocation"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

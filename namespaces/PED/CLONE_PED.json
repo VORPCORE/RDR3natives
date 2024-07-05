@@ -1,0 +1,28 @@
+{
+    "0xEF29A16337FACADB": {
+        "name": "CLONE_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            },
+            {
+                "type": "BOOL",
+                "name": "bScriptHostPed"
+            },
+            {
+                "type": "BOOL",
+                "name": "copyHeadBlendFlag"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207",
+        "gta_hash": "0xEF29A16337FACADB",
+        "gta_jhash": "0x8C8A8D6E"
+    }
+}

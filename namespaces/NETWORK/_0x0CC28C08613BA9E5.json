@@ -1,0 +1,14 @@
+{
+    "0x0CC28C08613BA9E5": {
+        "name": "_0x0CC28C08613BA9E5",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

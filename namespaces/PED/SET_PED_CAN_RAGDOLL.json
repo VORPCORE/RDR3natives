@@ -1,0 +1,20 @@
+{
+    "0xB128377056A54E2A": {
+        "name": "SET_PED_CAN_RAGDOLL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB128377056A54E2A",
+        "gta_jhash": "0xCF1384C4"
+    }
+}

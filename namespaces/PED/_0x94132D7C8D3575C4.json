@@ -1,0 +1,14 @@
+{
+    "0x94132D7C8D3575C4": {
+        "name": "_0x94132D7C8D3575C4",
+        "comment": "_GET_IS_PED_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

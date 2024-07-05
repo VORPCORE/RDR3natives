@@ -1,0 +1,14 @@
+{
+    "0x0FD25587BB306C86": {
+        "name": "_GET_ENTITY_CARRY_CONFIG",
+        "comment": "Returns zero if the entity is not a carriable",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

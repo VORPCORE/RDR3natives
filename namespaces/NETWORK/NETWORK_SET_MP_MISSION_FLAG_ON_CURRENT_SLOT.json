@@ -1,0 +1,18 @@
+{
+    "0x86FD10251A7118A4": {
+        "name": "NETWORK_SET_MP_MISSION_FLAG_ON_CURRENT_SLOT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            },
+            {
+                "type": "int",
+                "name": "flagIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

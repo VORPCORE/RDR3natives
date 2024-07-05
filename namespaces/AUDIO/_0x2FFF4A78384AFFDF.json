@@ -1,0 +1,14 @@
+{
+    "0x2FFF4A78384AFFDF": {
+        "name": "_0x2FFF4A78384AFFDF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1436"
+    }
+}

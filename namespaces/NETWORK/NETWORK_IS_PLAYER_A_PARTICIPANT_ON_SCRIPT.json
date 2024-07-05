@@ -1,0 +1,24 @@
+{
+    "0x1AD5B71586B94820": {
+        "name": "NETWORK_IS_PLAYER_A_PARTICIPANT_ON_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1AD5B71586B94820",
+        "gta_jhash": "0xCEA55F4C"
+    }
+}

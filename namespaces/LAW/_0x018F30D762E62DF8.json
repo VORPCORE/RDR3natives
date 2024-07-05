@@ -1,0 +1,18 @@
+{
+    "0x018F30D762E62DF8": {
+        "name": "_0x018F30D762E62DF8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x9F0E1892C7F228A8": {
+        "name": "_0x9F0E1892C7F228A8",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

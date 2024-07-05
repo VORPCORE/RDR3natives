@@ -1,0 +1,18 @@
+{
+    "0xAB5F12746A099A0E": {
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_WEAPON_COPY_ID",
+        "comment": "Returns CopyID",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

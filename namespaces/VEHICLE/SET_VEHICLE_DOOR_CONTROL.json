@@ -1,0 +1,28 @@
+{
+    "0xD57F10EBBA814ECF": {
+        "name": "SET_VEHICLE_DOOR_CONTROL",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            },
+            {
+                "type": "int",
+                "name": "speed"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF2BFA0430F0A0FCB",
+        "gta_jhash": "0x572DD360"
+    }
+}

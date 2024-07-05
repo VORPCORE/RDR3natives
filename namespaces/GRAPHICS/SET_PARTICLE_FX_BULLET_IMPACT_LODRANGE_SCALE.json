@@ -1,0 +1,16 @@
+{
+    "0x8DCCC98DC0DBF9E4": {
+        "name": "SET_PARTICLE_FX_BULLET_IMPACT_LODRANGE_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBB90E12CAC1DAB25",
+        "gta_jhash": "0x3968E915"
+    }
+}

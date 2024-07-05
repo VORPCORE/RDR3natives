@@ -1,0 +1,44 @@
+{
+    "0x2FDFF4107B8C1147": {
+        "name": "SLIDE_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "toX"
+            },
+            {
+                "type": "float",
+                "name": "toY"
+            },
+            {
+                "type": "float",
+                "name": "toZ"
+            },
+            {
+                "type": "float",
+                "name": "speedX"
+            },
+            {
+                "type": "float",
+                "name": "speedY"
+            },
+            {
+                "type": "float",
+                "name": "speedZ"
+            },
+            {
+                "type": "BOOL",
+                "name": "collision"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x2FDFF4107B8C1147",
+        "gta_jhash": "0x63BFA7A0"
+    }
+}

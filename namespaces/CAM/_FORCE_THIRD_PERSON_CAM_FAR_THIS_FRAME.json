@@ -1,0 +1,9 @@
+{
+    "0x1CFB749AD4317BDE": {
+        "name": "_FORCE_THIRD_PERSON_CAM_FAR_THIS_FRAME",
+        "comment": "Forces camera position to furthest 3rd person",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

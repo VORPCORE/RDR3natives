@@ -1,0 +1,20 @@
+{
+    "0x8A7391690F5AFD81": {
+        "name": "SET_OBJECT_TARGETTABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "targettable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x8A7391690F5AFD81",
+        "gta_jhash": "0x3F88CD86"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0xAAA34F8A7CB32098": {
+        "name": "CLEAR_PED_TASKS_IMMEDIATELY",
+        "comment": "Immediately stops the pedestrian from whatever it's doing. They stop fighting, animations, etc. they forget what they were doing.\n\nresetCrouch TRUE = ped will stand up if crouching, FALSE = ped will remain crouching if crouched",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "resetCrouch"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xAAA34F8A7CB32098",
+        "gta_jhash": "0xBC045625"
+    }
+}

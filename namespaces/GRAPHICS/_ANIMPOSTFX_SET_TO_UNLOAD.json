@@ -1,0 +1,14 @@
+{
+    "0x37D7BDBA89F13959": {
+        "name": "_ANIMPOSTFX_SET_TO_UNLOAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

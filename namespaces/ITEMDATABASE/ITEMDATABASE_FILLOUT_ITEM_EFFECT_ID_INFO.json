@@ -1,0 +1,18 @@
+{
+    "0xCF2D360D27FD1ABF": {
+        "name": "ITEMDATABASE_FILLOUT_ITEM_EFFECT_ID_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "key"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

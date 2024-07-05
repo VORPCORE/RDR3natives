@@ -1,0 +1,10 @@
+{
+    "0x5133CF81924F1129": {
+        "name": "_0x5133CF81924F1129",
+        "comment": "Hardcoded to return zero.",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "unused": true
+    }
+}

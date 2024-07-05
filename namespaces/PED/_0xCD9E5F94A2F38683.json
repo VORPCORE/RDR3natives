@@ -1,0 +1,18 @@
+{
+    "0xCD9E5F94A2F38683": {
+        "name": "_0xCD9E5F94A2F38683",
+        "comment": "_SET_PED_R* - _SET_PED_S*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

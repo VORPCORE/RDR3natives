@@ -1,0 +1,26 @@
+{
+    "0xE124889AE0521FCF": {
+        "name": "SET_CUSTOM_TEXTURES_ON_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "Hash",
+                "name": "txdHash"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

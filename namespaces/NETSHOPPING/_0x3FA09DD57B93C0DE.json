@@ -1,0 +1,30 @@
+{
+    "0x3FA09DD57B93C0DE": {
+        "name": "_0x3FA09DD57B93C0DE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

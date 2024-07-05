@@ -1,0 +1,9 @@
+{
+    "0x189739A7631C1867": {
+        "name": "_GET_WORLD_WATER_TYPE",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

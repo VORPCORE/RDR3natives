@@ -1,0 +1,18 @@
+{
+    "0x767931C727DF2ED7": {
+        "name": "_0x767931C727DF2ED7",
+        "comment": "Returns p2 value of 0x4791899615D70FA2",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x1F5E07E14A86FAFC": {
+        "name": "_0x1F5E07E14A86FAFC",
+        "comment": "_SET_A(MBIENT_PICKUP_?)*",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

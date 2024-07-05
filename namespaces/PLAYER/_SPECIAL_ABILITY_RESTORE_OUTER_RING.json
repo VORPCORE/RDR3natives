@@ -1,0 +1,18 @@
+{
+    "0x2498035289B5688F": {
+        "name": "_SPECIAL_ABILITY_RESTORE_OUTER_RING",
+        "comment": "Only used in R* SP Script short_update\nRestores Deadeye Outer Ring",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

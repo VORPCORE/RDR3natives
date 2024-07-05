@@ -1,0 +1,32 @@
+{
+    "0x697157CED63F18D4": {
+        "name": "APPLY_DAMAGE_TO_PED",
+        "comment": "damages a ped with the given amount",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "damageAmount"
+            },
+            {
+                "type": "BOOL",
+                "name": "damageArmour"
+            },
+            {
+                "type": "int",
+                "name": "boneId"
+            },
+            {
+                "type": "Ped",
+                "name": "pedKiller"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x697157CED63F18D4",
+        "gta_jhash": "0x4DC27FCF"
+    }
+}

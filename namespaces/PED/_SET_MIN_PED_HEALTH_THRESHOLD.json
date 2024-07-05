@@ -1,0 +1,18 @@
+{
+    "0x7883AA809DF43D98": {
+        "name": "_SET_MIN_PED_HEALTH_THRESHOLD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "healthAmount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355"
+    }
+}

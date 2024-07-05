@@ -1,0 +1,14 @@
+{
+    "0x2C04D89A0FB4E244": {
+        "name": "HAS_MOVE_NETWORK_DEF_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

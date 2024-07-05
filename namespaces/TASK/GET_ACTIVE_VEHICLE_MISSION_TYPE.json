@@ -1,0 +1,16 @@
+{
+    "0x534AEBA6E5ED4CAB": {
+        "name": "GET_ACTIVE_VEHICLE_MISSION_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x534AEBA6E5ED4CAB",
+        "gta_jhash": "0xAFA914EF"
+    }
+}

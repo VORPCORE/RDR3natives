@@ -1,0 +1,11 @@
+{
+    "0x579CCED0265D4896": {
+        "name": "NETWORK_CLAN_SERVICE_IS_VALID",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x579CCED0265D4896",
+        "gta_jhash": "0xF5F4BD95"
+    }
+}

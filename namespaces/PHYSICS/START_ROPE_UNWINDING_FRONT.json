@@ -1,0 +1,16 @@
+{
+    "0x538D1179EC1AA9A9": {
+        "name": "START_ROPE_UNWINDING_FRONT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x538D1179EC1AA9A9",
+        "gta_jhash": "0xFC0DB4C3"
+    }
+}

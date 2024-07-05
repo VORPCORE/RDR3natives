@@ -1,0 +1,24 @@
+{
+    "0x1913FE4CBF41C463": {
+        "name": "SET_PED_CONFIG_FLAG",
+        "comment": "flagId: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePedScriptConfigFlags\nhttps://alloc8or.re/rdr3/doc/enums/ePedScriptConfigFlags.txt\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/CPED_CONFIG_FLAGS",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1913FE4CBF41C463",
+        "gta_jhash": "0x9CFBE10D"
+    }
+}

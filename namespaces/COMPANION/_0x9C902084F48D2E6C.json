@@ -1,0 +1,14 @@
+{
+    "0x9C902084F48D2E6C": {
+        "name": "_0x9C902084F48D2E6C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

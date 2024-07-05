@@ -1,0 +1,18 @@
+{
+    "0x580D71DFE0088E34": {
+        "name": "_0x580D71DFE0088E34",
+        "comment": "_IS_SOUND_RUNNING(?)",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioName"
+            },
+            {
+                "type": "const char*",
+                "name": "audioRef"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

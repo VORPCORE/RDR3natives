@@ -1,0 +1,14 @@
+{
+    "0xD8C7162AB2E2AF45": {
+        "name": "_MAP_DISCOVER_REGION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "discoveryHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

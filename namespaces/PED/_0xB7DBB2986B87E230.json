@@ -1,0 +1,18 @@
+{
+    "0xB7DBB2986B87E230": {
+        "name": "_0xB7DBB2986B87E230",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

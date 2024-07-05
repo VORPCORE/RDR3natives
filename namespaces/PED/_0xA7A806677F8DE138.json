@@ -1,0 +1,14 @@
+{
+    "0xA7A806677F8DE138": {
+        "name": "_0xA7A806677F8DE138",
+        "comment": "Washing player's face/hands now\n_CLEAR_PED_E* - _CLEAR_PED_L*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

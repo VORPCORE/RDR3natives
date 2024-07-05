@@ -1,0 +1,16 @@
+{
+    "0x6C0E2E0125610278": {
+        "name": "NETWORK_GET_PLAYER_INDEX_FROM_PED",
+        "comment": "Returns the Player associated to a given Ped when in an online session.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1207",
+        "gta_hash": "0x6C0E2E0125610278",
+        "gta_jhash": "0x40DBF464"
+    }
+}

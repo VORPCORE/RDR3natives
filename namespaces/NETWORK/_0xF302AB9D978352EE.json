@@ -1,0 +1,15 @@
+{
+    "0xF302AB9D978352EE": {
+        "name": "_0xF302AB9D978352EE",
+        "comment": "Returns the entity's network ID.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "unused": true
+    }
+}

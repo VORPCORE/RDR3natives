@@ -1,0 +1,14 @@
+{
+    "0x666C2F53ABEFC952": {
+        "name": "_GET_VOLUME_RELATIONSHIP",
+        "comment": "Returns relationshipGroup Hash",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

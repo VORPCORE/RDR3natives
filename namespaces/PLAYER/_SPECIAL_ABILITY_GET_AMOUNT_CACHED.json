@@ -1,0 +1,14 @@
+{
+    "0x029884FB65821B07": {
+        "name": "_SPECIAL_ABILITY_GET_AMOUNT_CACHED",
+        "comment": "Returns Deadeye value from player",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

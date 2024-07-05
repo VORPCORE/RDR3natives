@@ -1,0 +1,16 @@
+{
+    "0x64437C98FCC5F291": {
+        "name": "SET_TV_AUDIO_FRONTEND",
+        "comment": "Probably changes tvs from being a 3d audio to being \"global\" audio",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x113D2C5DC57E1774",
+        "gta_jhash": "0x2E0DFA35"
+    }
+}

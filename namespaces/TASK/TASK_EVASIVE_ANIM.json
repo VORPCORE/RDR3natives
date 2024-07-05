@@ -1,0 +1,22 @@
+{
+    "0x5F22926E1BCE9B08": {
+        "name": "TASK_EVASIVE_ANIM",
+        "comment": "Params: p2 is returned by BUILTIN::SHIFT_LEFT",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

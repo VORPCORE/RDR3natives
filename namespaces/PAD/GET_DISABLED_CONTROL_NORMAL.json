@@ -1,0 +1,20 @@
+{
+    "0x11E65974A982637C": {
+        "name": "GET_DISABLED_CONTROL_NORMAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "Hash",
+                "name": "action"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x11E65974A982637C",
+        "gta_jhash": "0x66FF4FAA"
+    }
+}

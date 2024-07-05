@@ -1,0 +1,16 @@
+{
+    "0x71BC8E838B9C6035": {
+        "name": "RESURRECT_PED",
+        "comment": "This function will simply bring the dead ped back to life.\n\nBefore calling this function, you may want to declare the position, where your Resurrected ped to be spawn at because theres a chance the ped will fall through the map\n\nAlso, disabling any assigned task immediately helped in the number of scenarios, where If you want peds to perform certain decided tasks.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x71BC8E838B9C6035",
+        "gta_jhash": "0xA4B82097"
+    }
+}

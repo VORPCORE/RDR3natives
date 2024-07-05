@@ -1,0 +1,16 @@
+{
+    "0x481FBF588B0B76DB": {
+        "name": "GET_LENGTH_OF_LITERAL_STRING",
+        "comment": "Returns the length of the string passed (much like strlen).",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xF030907CCBB8A9FD",
+        "gta_jhash": "0x99379D55"
+    }
+}

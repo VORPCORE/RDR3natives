@@ -1,0 +1,14 @@
+{
+    "0xDCA4A74135E1DEA5": {
+        "name": "_0xDCA4A74135E1DEA5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

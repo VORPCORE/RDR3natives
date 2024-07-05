@@ -1,0 +1,16 @@
+{
+    "0x225B8B35C88029B3": {
+        "name": "GET_PICKUP_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x225B8B35C88029B3",
+        "gta_jhash": "0xC2E1E2C5"
+    }
+}

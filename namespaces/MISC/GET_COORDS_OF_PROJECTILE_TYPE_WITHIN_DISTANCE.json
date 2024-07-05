@@ -1,0 +1,36 @@
+{
+    "0xD73C960A681052DF": {
+        "name": "GET_COORDS_OF_PROJECTILE_TYPE_WITHIN_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outCoords"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "mustBeOwnedByThisPed"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xDFB4138EEFED7B81",
+        "gta_jhash": "0x6BDE5CE4"
+    }
+}

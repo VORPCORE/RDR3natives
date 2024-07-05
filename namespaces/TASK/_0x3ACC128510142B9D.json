@@ -1,0 +1,26 @@
+{
+    "0x3ACC128510142B9D": {
+        "name": "_0x3ACC128510142B9D",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

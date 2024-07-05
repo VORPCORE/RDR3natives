@@ -1,0 +1,22 @@
+{
+    "0x4C39C95AE5DB1329": {
+        "name": "_ADD_SCENARIO_BLOCKING_VOLUME",
+        "comment": "flag: see ADD_SCENARIO_BLOCKING_AREA",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

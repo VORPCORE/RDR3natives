@@ -1,0 +1,22 @@
+{
+    "0xCFFC3ECCD7A5CCEB": {
+        "name": "_0xCFFC3ECCD7A5CCEB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "weapon"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

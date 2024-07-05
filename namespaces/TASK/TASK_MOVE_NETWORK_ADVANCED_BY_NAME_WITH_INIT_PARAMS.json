@@ -1,0 +1,70 @@
+{
+    "0x7B6A04F98BBAFB2C": {
+        "name": "TASK_MOVE_NETWORK_ADVANCED_BY_NAME_WITH_INIT_PARAMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "moveNetworkDefName"
+            },
+            {
+                "type": "Any*",
+                "name": "taskData"
+            },
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "int",
+                "name": "p11"
+            },
+            {
+                "type": "int",
+                "name": "p12"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "int",
+                "name": "p14"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

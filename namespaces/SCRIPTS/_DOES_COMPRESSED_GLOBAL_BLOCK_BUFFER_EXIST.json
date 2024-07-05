@@ -1,0 +1,14 @@
+{
+    "0x66EE5B93C308F734": {
+        "name": "_DOES_COMPRESSED_GLOBAL_BLOCK_BUFFER_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

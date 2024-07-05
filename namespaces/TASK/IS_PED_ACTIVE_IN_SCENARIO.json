@@ -1,0 +1,20 @@
+{
+    "0xAA135F9482C82CC3": {
+        "name": "IS_PED_ACTIVE_IN_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "scenario"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xAA135F9482C82CC3",
+        "gta_jhash": "0x05038F1A"
+    }
+}

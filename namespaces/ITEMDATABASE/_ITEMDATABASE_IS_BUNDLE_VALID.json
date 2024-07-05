@@ -1,0 +1,18 @@
+{
+    "0x4308812A6E9CA62E": {
+        "name": "_ITEMDATABASE_IS_BUNDLE_VALID",
+        "comment": "Params: mode is 0",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "bundle"
+            },
+            {
+                "type": "int",
+                "name": "mode"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

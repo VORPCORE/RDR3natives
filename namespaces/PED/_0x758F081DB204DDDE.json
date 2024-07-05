@@ -1,0 +1,14 @@
+{
+    "0x758F081DB204DDDE": {
+        "name": "_0x758F081DB204DDDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

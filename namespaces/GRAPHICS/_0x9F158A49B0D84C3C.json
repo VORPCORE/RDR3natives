@@ -1,0 +1,14 @@
+{
+    "0x9F158A49B0D84C3C": {
+        "name": "_0x9F158A49B0D84C3C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

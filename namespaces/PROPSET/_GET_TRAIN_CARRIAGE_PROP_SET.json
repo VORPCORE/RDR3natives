@@ -1,0 +1,14 @@
+{
+    "0xCFC0BD09BB1B73FF": {
+        "name": "_GET_TRAIN_CARRIAGE_PROP_SET",
+        "comment": "Example before/after deleting a train carriage's propset: https://imgur.com/a/qRNrIrK",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "trainCarriage"
+            }
+        ],
+        "return_type": "PropSet",
+        "build": "1207"
+    }
+}

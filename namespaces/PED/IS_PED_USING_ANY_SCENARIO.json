@@ -1,0 +1,16 @@
+{
+    "0x57AB4A3080F85143": {
+        "name": "IS_PED_USING_ANY_SCENARIO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x57AB4A3080F85143",
+        "gta_jhash": "0x195EF5B7"
+    }
+}

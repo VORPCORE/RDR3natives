@@ -1,0 +1,14 @@
+{
+    "0x2B6529C54D29037A": {
+        "name": "REQUEST_MOVE_NETWORK_DEF",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

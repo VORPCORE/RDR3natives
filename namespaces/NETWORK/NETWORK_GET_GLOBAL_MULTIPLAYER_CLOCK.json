@@ -1,0 +1,24 @@
+{
+    "0x6D03BFBD643B2A02": {
+        "name": "NETWORK_GET_GLOBAL_MULTIPLAYER_CLOCK",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "hours"
+            },
+            {
+                "type": "int*",
+                "name": "minutes"
+            },
+            {
+                "type": "int*",
+                "name": "seconds"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6D03BFBD643B2A02",
+        "gta_jhash": "0x74E8C53E"
+    }
+}

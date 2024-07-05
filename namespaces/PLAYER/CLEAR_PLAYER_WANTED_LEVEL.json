@@ -1,0 +1,16 @@
+{
+    "0x4E4B996C928C7AA6": {
+        "name": "CLEAR_PLAYER_WANTED_LEVEL",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB302540597885499",
+        "gta_jhash": "0x54EA5BCC"
+    }
+}

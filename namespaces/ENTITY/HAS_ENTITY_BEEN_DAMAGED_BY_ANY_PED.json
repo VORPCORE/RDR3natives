@@ -1,0 +1,16 @@
+{
+    "0x9934E9C42D52D87E": {
+        "name": "HAS_ENTITY_BEEN_DAMAGED_BY_ANY_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x605F5A140F202491",
+        "gta_jhash": "0x53FD4A25"
+    }
+}

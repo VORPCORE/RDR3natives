@@ -1,0 +1,18 @@
+{
+    "0xDEC85C174751292B": {
+        "name": "_UI_PROMPT_SET_TAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

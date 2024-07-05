@@ -1,0 +1,36 @@
+{
+    "0xFA0C063C422C4355": {
+        "name": "SIMULATE_PLAYER_INPUT_GAIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x477D5D63E63ECA5D",
+        "gta_jhash": "0x0D77CC34"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x61BEFBA3CE7A3BC8": {
+        "name": "_0x61BEFBA3CE7A3BC8",
+        "comment": "Params: collectableCategory = WEEKLY_COLLECTABLES",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableCategory"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

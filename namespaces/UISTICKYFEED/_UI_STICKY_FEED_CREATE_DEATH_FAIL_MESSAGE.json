@@ -1,0 +1,22 @@
+{
+    "0x815C4065AE6E6071": {
+        "name": "_UI_STICKY_FEED_CREATE_DEATH_FAIL_MESSAGE",
+        "comment": "Example: https://pastebin.com/JygJShNU",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x0BF3B3BD47D79C08": {
+        "name": "SET_MAX_NUM_PORTABLE_PICKUPS_CARRIED_BY_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0BF3B3BD47D79C08",
+        "gta_jhash": "0x7EFBA039"
+    }
+}

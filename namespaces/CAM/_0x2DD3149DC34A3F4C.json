@@ -1,0 +1,14 @@
+{
+    "0x2DD3149DC34A3F4C": {
+        "name": "_0x2DD3149DC34A3F4C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

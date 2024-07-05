@@ -1,0 +1,16 @@
+{
+    "0x140188E884645624": {
+        "name": "IS_ENTITY_OCCLUDED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xE31C2C72B8692B64",
+        "gta_jhash": "0x46BC5B40"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x424FFCB9F0D2D4B5": {
+        "name": "_SET_ALL_VEHICLE_GENERATORS_DISABLED_FOR_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

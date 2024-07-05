@@ -1,0 +1,18 @@
+{
+    "0xC3CA424E1F12ED0C": {
+        "name": "_0xC3CA424E1F12ED0C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableCategory"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1232"
+    }
+}

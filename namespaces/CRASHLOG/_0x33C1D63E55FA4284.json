@@ -1,0 +1,15 @@
+{
+    "0x33C1D63E55FA4284": {
+        "name": "_0x33C1D63E55FA4284",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true
+    }
+}

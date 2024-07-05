@@ -1,0 +1,11 @@
+{
+    "0xA5929C2E57AC90D1": {
+        "name": "DISABLE_CINEMATIC_BONNET_CAMERA_THIS_UPDATE",
+        "comment": "Old name: _DISABLE_VEHICLE_FIRST_PERSON_CAM_THIS_FRAME",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xADFF1B2A555F5FBA",
+        "gta_jhash": "0x5AC6DAC9"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x62FDF4E678E40CC6": {
+        "name": "_0x62FDF4E678E40CC6",
+        "comment": "Returns p1 value for 0x8E84119A23C16623",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x1902C4CFCC5BE57C": {
+        "name": "_EQUIP_META_PED_OUTFIT",
+        "comment": "Note: you have to update your ped's variation after calling (using 0xCC8CA3E88256E58F)\n\nBody Types:\nMPCREATOR_NEUTRAL\nMPCREATOR_SKINNY\nMPCREATOR_SKINNY_MUSCULAR\nMPCREATOR_HEAVY\nMPCREATOR_HEAVY_MUSCULAR\n\neBodyWeightOutfit (pedattributes.ymt):\n-2045421226 (smallest)\n-1745814259\n-325933489\n-1065791927\n-844699484\n-1273449080\n927185840\n149872391\n399015098\n-644349862\n1745919061 (default)\n1004225511\n1278600348\n502499352\n-2093198664\n-1837436619\n1736416063\n2040610690\n-1173634986\n-867801909\n1960266524 (biggest)\n\nhttps://github.com/femga/rdr3_discoveries/blob/master/peds_customization/ped_outfits.lua\n\nAlt name: _EQUIP_META_PED_OUTFIT_COMPONENT",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

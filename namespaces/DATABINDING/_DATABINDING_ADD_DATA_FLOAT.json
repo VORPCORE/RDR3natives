@@ -1,0 +1,22 @@
+{
+    "0x5154228273ADB9A6": {
+        "name": "_DATABINDING_ADD_DATA_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

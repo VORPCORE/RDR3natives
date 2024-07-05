@@ -1,0 +1,24 @@
+{
+    "0x3658E8CD94FC121A": {
+        "name": "NETWORK_GET_NUM_SCRIPT_PARTICIPANTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "int",
+                "name": "instanceId"
+            },
+            {
+                "type": "Hash",
+                "name": "position"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x3658E8CD94FC121A",
+        "gta_jhash": "0x8F7D9F46"
+    }
+}

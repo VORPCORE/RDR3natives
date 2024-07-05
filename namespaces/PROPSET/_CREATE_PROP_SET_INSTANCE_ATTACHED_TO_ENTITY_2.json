@@ -1,0 +1,46 @@
+{
+    "0xACA7FB30269096D4": {
+        "name": "_CREATE_PROP_SET_INSTANCE_ATTACHED_TO_ENTITY_2",
+        "comment": "Same as CREATE_PROP_SET_INSTANCE_ATTACHED_TO_ENTITY",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            }
+        ],
+        "return_type": "PropSet",
+        "build": "1207"
+    }
+}

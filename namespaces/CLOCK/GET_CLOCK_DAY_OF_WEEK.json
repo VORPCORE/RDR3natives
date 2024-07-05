@@ -1,0 +1,11 @@
+{
+    "0x4DD02D4C7FB30076": {
+        "name": "GET_CLOCK_DAY_OF_WEEK",
+        "comment": "Gets the current day of the week.\n\n0: Sunday\n1: Monday\n2: Tuesday\n3: Wednesday\n4: Thursday\n5: Friday\n6: Saturday",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xD972E4BD7AEB235F",
+        "gta_jhash": "0x84E4A289"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x2804658EB7D8A50B": {
+        "name": "_SET_CONTROL_CONTEXT",
+        "comment": "Sets the current control context. Must be called every frame.\n\ncontext: https://alloc8or.re/rdr3/doc/misc/input_contexts.txt\nFor more information, see common:/data/control/settings.meta\nhttps://github.com/femga/rdr3_discoveries/tree/master/Controls",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "Hash",
+                "name": "context"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

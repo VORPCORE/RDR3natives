@@ -1,0 +1,22 @@
+{
+    "0x545BF19F86E80F11": {
+        "name": "SET_TEAM_CARRIABLE_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

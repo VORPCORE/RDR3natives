@@ -1,0 +1,14 @@
+{
+    "0x37D238BE69F7378A": {
+        "name": "_0x37D238BE69F7378A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xA10DB07FC234DD12": {
+        "name": "USE_PARTICLE_FX_ASSET",
+        "comment": "fxName: see data_0/data/effects/ptfx/fxlists/",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "fxName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6C38AF3693A69A91",
+        "gta_jhash": "0x9C720B61"
+    }
+}

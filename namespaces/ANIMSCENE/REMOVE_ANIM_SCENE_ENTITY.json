@@ -1,0 +1,22 @@
+{
+    "0x2BF96692C67F3E53": {
+        "name": "REMOVE_ANIM_SCENE_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "entityName"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

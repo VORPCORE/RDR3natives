@@ -1,0 +1,38 @@
+{
+    "0xCB5D11F9508A928D": {
+        "name": "_INVENTORY_ADD_ITEM_WITH_GUID",
+        "comment": "inventoryItemSlotHash: https://pastebin.com/P6fyr3vr",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid1"
+            },
+            {
+                "type": "Any*",
+                "name": "guid2"
+            },
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "Hash",
+                "name": "inventoryItemSlot"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            },
+            {
+                "type": "Hash",
+                "name": "addReason"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

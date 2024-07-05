@@ -1,0 +1,14 @@
+{
+    "0x325434C68358D282": {
+        "name": "_0x325434C68358D282",
+        "comment": "Only used in script function UPDATE_PLAYER_JUST_DIED_STATE",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

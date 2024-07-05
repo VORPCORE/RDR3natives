@@ -1,0 +1,14 @@
+{
+    "0x88EFFED5FE8B0B4A": {
+        "name": "_GET_PED_DAMAGE_CLEANLINESS",
+        "comment": "enum ePedDamageCleanliness\n{\n\tPED_DAMAGE_CLEANLINESS_POOR,\n\tPED_DAMAGE_CLEANLINESS_GOOD,\n\tPED_DAMAGE_CLEANLINESS_PERFECT\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xA785A52B59B7E7B2": {
+        "name": "CHAL_MISSION_GET_NUM_GOALS_COMPLETE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "missionHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

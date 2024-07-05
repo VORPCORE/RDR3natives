@@ -1,0 +1,24 @@
+{
+    "0xFB6EB8785F808551": {
+        "name": "GET_PLAYER_RECEIVED_BATTLE_EVENT_RECENTLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xBC0753C9CA14B506",
+        "gta_jhash": "0x9DF75B2A"
+    }
+}

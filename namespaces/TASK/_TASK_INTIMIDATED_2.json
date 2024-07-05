@@ -1,0 +1,46 @@
+{
+    "0x933ACC1A1771A288": {
+        "name": "_TASK_INTIMIDATED_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "victim"
+            },
+            {
+                "type": "Ped",
+                "name": "attacker"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "everyFrame"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

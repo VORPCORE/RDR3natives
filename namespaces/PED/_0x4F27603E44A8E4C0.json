@@ -1,0 +1,22 @@
+{
+    "0x4F27603E44A8E4C0": {
+        "name": "_0x4F27603E44A8E4C0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

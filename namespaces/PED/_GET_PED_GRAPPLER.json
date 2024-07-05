@@ -1,0 +1,14 @@
+{
+    "0xD0B7AEB56229D317": {
+        "name": "_GET_PED_GRAPPLER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

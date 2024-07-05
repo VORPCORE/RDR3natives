@@ -1,0 +1,20 @@
+{
+    "0x971D38760FBC02EF": {
+        "name": "SET_PED_KEEP_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x971D38760FBC02EF",
+        "gta_jhash": "0xA7EC79CE"
+    }
+}

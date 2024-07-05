@@ -1,0 +1,15 @@
+{
+    "0x87F005C969EF1563": {
+        "name": "_0x87F005C969EF1563",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true
+    }
+}

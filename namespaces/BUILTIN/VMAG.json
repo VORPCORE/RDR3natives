@@ -1,0 +1,24 @@
+{
+    "0x652D2EEEF1D3E62C": {
+        "name": "VMAG",
+        "comment": "Calculates the magnitude of a vector.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x652D2EEEF1D3E62C",
+        "gta_jhash": "0x1FCF1ECD"
+    }
+}

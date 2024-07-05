@@ -1,0 +1,14 @@
+{
+    "0xD3750CCC00635FC2": {
+        "name": "GET_WEAPON_CLIP_SIZE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

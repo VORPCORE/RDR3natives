@@ -1,0 +1,14 @@
+{
+    "0xE931354FEA710038": {
+        "name": "UGC_CLEAR_QUERY_RESULTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ugcRequestId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

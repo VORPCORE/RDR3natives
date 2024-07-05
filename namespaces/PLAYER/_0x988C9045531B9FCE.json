@@ -1,0 +1,18 @@
+{
+    "0x988C9045531B9FCE": {
+        "name": "_0x988C9045531B9FCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

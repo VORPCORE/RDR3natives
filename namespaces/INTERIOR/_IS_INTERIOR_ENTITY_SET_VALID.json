@@ -1,0 +1,18 @@
+{
+    "0xD56FF170710FC826": {
+        "name": "_IS_INTERIOR_ENTITY_SET_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "const char*",
+                "name": "entitySetName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

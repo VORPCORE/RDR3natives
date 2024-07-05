@@ -1,0 +1,14 @@
+{
+    "0x957D7E750216D74B": {
+        "name": "_0x957D7E750216D74B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xC568B1A0F17C7025": {
+        "name": "_ITEMDATABASE_GET_SHOP_INVENTORIES_ITEMS_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "shopType"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

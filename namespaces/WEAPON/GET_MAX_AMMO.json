@@ -1,0 +1,24 @@
+{
+    "0xDC16122C7A20C933": {
+        "name": "GET_MAX_AMMO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int*",
+                "name": "ammo"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xDC16122C7A20C933",
+        "gta_jhash": "0x0B294796"
+    }
+}

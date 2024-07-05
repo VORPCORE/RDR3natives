@@ -1,0 +1,22 @@
+{
+    "0x0772F87D7B07719A": {
+        "name": "_GET_HAS_PLAYER_DISCOVERED_CHARACTER_NAME_SP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Hash",
+                "name": "discoveryHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

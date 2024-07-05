@@ -1,0 +1,17 @@
+{
+    "0x829CD22E043A2577": {
+        "name": "BG_GET_SCRIPT_ID_FROM_NAME_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x829CD22E043A2577",
+        "gta_jhash": "0xC515E735"
+    }
+}

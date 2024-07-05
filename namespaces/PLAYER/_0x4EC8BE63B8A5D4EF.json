@@ -1,0 +1,18 @@
+{
+    "0x4EC8BE63B8A5D4EF": {
+        "name": "_0x4EC8BE63B8A5D4EF",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

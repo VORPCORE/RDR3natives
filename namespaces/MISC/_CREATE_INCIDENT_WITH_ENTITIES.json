@@ -1,0 +1,38 @@
+{
+    "0xAB3D3F45436DB1D8": {
+        "name": "_CREATE_INCIDENT_WITH_ENTITIES",
+        "comment": "dispatchService: see ENABLE_DISPATCH_SERVICE\n\nThe entities must be added to itemSet.",
+        "params": [
+            {
+                "type": "int",
+                "name": "dispatchService"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemSet"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int*",
+                "name": "outIncidentID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

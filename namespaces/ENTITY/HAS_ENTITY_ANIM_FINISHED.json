@@ -1,0 +1,28 @@
+{
+    "0xAEB40615337EF1E3": {
+        "name": "HAS_ENTITY_ANIM_FINISHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x20B711662962B472",
+        "gta_jhash": "0x1D9CAB92"
+    }
+}

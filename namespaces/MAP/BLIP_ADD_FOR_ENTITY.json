@@ -1,0 +1,18 @@
+{
+    "0x23F74C2FDA6E7C61": {
+        "name": "BLIP_ADD_FOR_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "blipHash"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Blip",
+        "build": "1207"
+    }
+}

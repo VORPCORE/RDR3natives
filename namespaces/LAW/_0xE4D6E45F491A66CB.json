@@ -1,0 +1,18 @@
+{
+    "0xE4D6E45F491A66CB": {
+        "name": "_0xE4D6E45F491A66CB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

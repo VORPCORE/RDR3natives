@@ -1,0 +1,34 @@
+{
+    "0x8398438D8F14F56D": {
+        "name": "GET_ANIM_SCENE_ENTITY_LOCATION_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "entityName"
+            },
+            {
+                "type": "Vector3*",
+                "name": "matrix"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "const char*",
+                "name": "playbackListName"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x452419CBD838065B": {
+        "name": "TASK_SHOCKING_EVENT_REACT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x452419CBD838065B",
+        "gta_jhash": "0x9BD00ACF"
+    }
+}

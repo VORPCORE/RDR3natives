@@ -1,0 +1,9 @@
+{
+    "0x63219768C586667C": {
+        "name": "GET_SCRIPT_TIME_WITHIN_FRAME_IN_MICROSECONDS",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

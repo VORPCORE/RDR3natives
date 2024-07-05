@@ -1,0 +1,24 @@
+{
+    "0x3A52C59FFB2DEED8": {
+        "name": "SET_CLOCK_TIME",
+        "comment": "SET_CLOCK_TIME(12, 34, 56);",
+        "params": [
+            {
+                "type": "int",
+                "name": "hour"
+            },
+            {
+                "type": "int",
+                "name": "minute"
+            },
+            {
+                "type": "int",
+                "name": "second"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x47C3B5848C3E45D8",
+        "gta_jhash": "0x26F6AF14"
+    }
+}

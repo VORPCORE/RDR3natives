@@ -1,0 +1,14 @@
+{
+    "0xC0B21F235C02139C": {
+        "name": "_SPECIAL_ABILITY_SET_EAGLE_EYE_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

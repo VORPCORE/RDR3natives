@@ -1,0 +1,11 @@
+{
+    "0xDF2FD796C54480A5": {
+        "name": "GET_CLOCK_DAY_OF_MONTH",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x3D10BC92A4DB1D35",
+        "gta_jhash": "0xC7A5ACB7"
+    }
+}

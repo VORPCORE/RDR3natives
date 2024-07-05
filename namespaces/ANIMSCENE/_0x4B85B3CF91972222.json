@@ -1,0 +1,14 @@
+{
+    "0x4B85B3CF91972222": {
+        "name": "_0x4B85B3CF91972222",
+        "comment": "Used in Script Function CUTSCENE_MANAGE_SKIP\n_CHECK_* (?)",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

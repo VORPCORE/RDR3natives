@@ -1,0 +1,14 @@
+{
+    "0x42429C674B61238B": {
+        "name": "IS_PED_HOGTYING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

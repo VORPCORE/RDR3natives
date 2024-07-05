@@ -1,0 +1,14 @@
+{
+    "0xBDC6E364C9C78178": {
+        "name": "_DOES_ITEM_HAVE_VALID_BASE",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "item"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

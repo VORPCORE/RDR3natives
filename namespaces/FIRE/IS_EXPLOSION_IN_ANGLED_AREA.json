@@ -1,0 +1,44 @@
+{
+    "0x5AE661ECD18524C9": {
+        "name": "IS_EXPLOSION_IN_ANGLED_AREA",
+        "comment": "explosionType: see ADD_EXPLOSION",
+        "params": [
+            {
+                "type": "int",
+                "name": "explosionType"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            },
+            {
+                "type": "float",
+                "name": "angle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xA079A6C51525DC4B",
+        "gta_jhash": "0x0128FED9"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x07EA5B053FA60AC7": {
+        "name": "_0x07EA5B053FA60AC7",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x9CF1836C03FB67A2": {
+        "name": "REMOVE_VEG_MODIFIER_SPHERE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "vegModifierHandle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

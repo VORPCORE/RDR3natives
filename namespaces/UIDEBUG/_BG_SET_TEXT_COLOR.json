@@ -1,0 +1,27 @@
+{
+    "0x16FA5CE47F184F1E": {
+        "name": "_BG_SET_TEXT_COLOR",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/useful_info_from_rpfs/colours",
+        "params": [
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355",
+        "unused": true
+    }
+}

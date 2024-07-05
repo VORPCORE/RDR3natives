@@ -1,0 +1,18 @@
+{
+    "0xB5BC69D9C4060BC3": {
+        "name": "TASK_COMBAT_HATED_TARGETS_NO_LOS_TEST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

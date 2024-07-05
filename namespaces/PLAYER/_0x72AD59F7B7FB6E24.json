@@ -1,0 +1,18 @@
+{
+    "0x72AD59F7B7FB6E24": {
+        "name": "_0x72AD59F7B7FB6E24",
+        "comment": "_HAS_PLAYER_D*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xFD41D1D4350F6413": {
+        "name": "_SET_ITEM_PROMPT_INFO_REQUEST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

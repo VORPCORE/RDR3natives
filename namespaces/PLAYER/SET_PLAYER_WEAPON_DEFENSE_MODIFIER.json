@@ -1,0 +1,20 @@
+{
+    "0xD15CC2D493160BE3": {
+        "name": "SET_PLAYER_WEAPON_DEFENSE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2D83BC011CA14A3C",
+        "gta_jhash": "0xAE446344"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0xEE08C992D238C5D1": {
+        "name": "STOP_ANIM_PLAYBACK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEE08C992D238C5D1",
+        "gta_jhash": "0xE5F16398"
+    }
+}

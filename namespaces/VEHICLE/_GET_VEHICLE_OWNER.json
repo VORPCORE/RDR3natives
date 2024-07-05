@@ -1,0 +1,14 @@
+{
+    "0xB729679356A889AE": {
+        "name": "_GET_VEHICLE_OWNER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x92AEFB5F6E294023": {
+        "name": "PREVENT_COLLECTION_OF_PORTABLE_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x92AEFB5F6E294023",
+        "gta_jhash": "0xCBB5F9B6"
+    }
+}

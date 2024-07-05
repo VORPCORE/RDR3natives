@@ -1,0 +1,14 @@
+{
+    "0x546E342E01DE71CF": {
+        "name": "_UI_PROMPT_IS_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x3923EC958249657D": {
+        "name": "ADD_FLEE_TARGET_PED",
+        "comment": "Params: p2 is always -1.f in R* Scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

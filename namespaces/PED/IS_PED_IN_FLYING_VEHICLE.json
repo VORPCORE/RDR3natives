@@ -1,0 +1,16 @@
+{
+    "0x9134873537FA419C": {
+        "name": "IS_PED_IN_FLYING_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x9134873537FA419C",
+        "gta_jhash": "0xCA072485"
+    }
+}

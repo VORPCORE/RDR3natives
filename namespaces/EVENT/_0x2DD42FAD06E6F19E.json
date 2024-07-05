@@ -1,0 +1,22 @@
+{
+    "0x2DD42FAD06E6F19E": {
+        "name": "_0x2DD42FAD06E6F19E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

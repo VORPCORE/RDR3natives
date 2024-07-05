@@ -1,0 +1,16 @@
+{
+    "0x6094AD011A2EA87D": {
+        "name": "GET_VEHICLE_PED_IS_USING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207",
+        "gta_hash": "0x6094AD011A2EA87D",
+        "gta_jhash": "0x6DE3AADA"
+    }
+}

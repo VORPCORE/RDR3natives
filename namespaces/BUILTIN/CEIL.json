@@ -1,0 +1,16 @@
+{
+    "0x11E019C8F43ACC8A": {
+        "name": "CEIL",
+        "comment": "Rounds a float value up to the next whole number",
+        "params": [
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x11E019C8F43ACC8A",
+        "gta_jhash": "0xD536A1DF"
+    }
+}

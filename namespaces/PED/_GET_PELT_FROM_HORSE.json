@@ -1,0 +1,18 @@
+{
+    "0x0CEEB6F4780B1F2F": {
+        "name": "_GET_PELT_FROM_HORSE",
+        "comment": "Returns peltId",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "horse"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

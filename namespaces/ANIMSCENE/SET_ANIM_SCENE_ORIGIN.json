@@ -1,0 +1,42 @@
+{
+    "0x020894BF17A02EF2": {
+        "name": "SET_ANIM_SCENE_ORIGIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "int",
+                "name": "order"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

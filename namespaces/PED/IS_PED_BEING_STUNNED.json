@@ -1,0 +1,20 @@
+{
+    "0x4FBACCE3B4138EE8": {
+        "name": "IS_PED_BEING_STUNNED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4FBACCE3B4138EE8",
+        "gta_jhash": "0x0A66CE30"
+    }
+}

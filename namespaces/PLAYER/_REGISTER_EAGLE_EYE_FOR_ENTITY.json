@@ -1,0 +1,22 @@
+{
+    "0x543DFE14BE720027": {
+        "name": "_REGISTER_EAGLE_EYE_FOR_ENTITY",
+        "comment": "Used for setting up eagle eye for entity\nParams: p2 = re-register or not?",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

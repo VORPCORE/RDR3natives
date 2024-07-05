@@ -1,0 +1,14 @@
+{
+    "0x48D82C83987E18E4": {
+        "name": "_0x48D82C83987E18E4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

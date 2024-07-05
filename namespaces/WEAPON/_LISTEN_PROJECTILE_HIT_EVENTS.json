@@ -1,0 +1,14 @@
+{
+    "0xDA5D3F2C6DD5B5D4": {
+        "name": "_LISTEN_PROJECTILE_HIT_EVENTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "listen"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

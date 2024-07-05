@@ -1,0 +1,26 @@
+{
+    "0x75CBF20BA47E4F89": {
+        "name": "_CREATE_LAW_DISPATCH_RESPONSE_FOR_COORDS",
+        "comment": "dispatchResponseHash: see common/data/dispatchresponses/..",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Hash",
+                "name": "dispatchResponseHash"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

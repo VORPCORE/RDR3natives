@@ -1,0 +1,26 @@
+{
+    "0xA90684ED185CCB4B": {
+        "name": "_0xA90684ED185CCB4B",
+        "comment": "Only used in R* Script mob4 and rcm_mason4\n_SET_PED_DEFENSIVE_* - _SET_PED_DESIRED_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "animal"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

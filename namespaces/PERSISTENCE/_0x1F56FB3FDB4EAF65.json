@@ -1,0 +1,14 @@
+{
+    "0x1F56FB3FDB4EAF65": {
+        "name": "_0x1F56FB3FDB4EAF65",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

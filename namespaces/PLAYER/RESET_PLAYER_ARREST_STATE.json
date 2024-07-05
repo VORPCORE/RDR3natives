@@ -1,0 +1,16 @@
+{
+    "0x12917931C31F1750": {
+        "name": "RESET_PLAYER_ARREST_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2D03E13C460760D6",
+        "gta_jhash": "0x453C7CAB"
+    }
+}

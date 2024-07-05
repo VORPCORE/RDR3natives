@@ -1,0 +1,32 @@
+{
+    "0x99AFF17222D4DEB4": {
+        "name": "SET_CHECKPOINT_RGBA2",
+        "comment": "Sets the checkpoint icon color.",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkpoint"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB9EA40907C680580",
+        "gta_jhash": "0xA5456DBB"
+    }
+}

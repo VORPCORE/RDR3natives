@@ -1,0 +1,22 @@
+{
+    "0x27E8A84C12B0B7D1": {
+        "name": "_0x27E8A84C12B0B7D1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

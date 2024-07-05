@@ -1,0 +1,18 @@
+{
+    "0xCF342503CA4C8DF1": {
+        "name": "_0xCF342503CA4C8DF1",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

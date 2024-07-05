@@ -1,0 +1,18 @@
+{
+    "0x8822F124788B8D0A": {
+        "name": "_0x8822F124788B8D0A",
+        "comment": "Only used in R* Script train_robbery4\n_SET_PED_D*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

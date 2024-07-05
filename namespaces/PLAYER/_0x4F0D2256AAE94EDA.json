@@ -1,0 +1,14 @@
+{
+    "0x4F0D2256AAE94EDA": {
+        "name": "_0x4F0D2256AAE94EDA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

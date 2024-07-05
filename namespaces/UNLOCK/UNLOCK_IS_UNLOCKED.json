@@ -1,0 +1,14 @@
+{
+    "0xC4B660C7B6040E75": {
+        "name": "UNLOCK_IS_UNLOCKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "unlockHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

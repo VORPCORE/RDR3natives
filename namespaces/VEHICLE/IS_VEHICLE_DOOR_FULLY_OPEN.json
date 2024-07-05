@@ -1,0 +1,20 @@
+{
+    "0x7AE191143C7A9107": {
+        "name": "IS_VEHICLE_DOOR_FULLY_OPEN",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x3E933CFF7B111C22",
+        "gta_jhash": "0xC2385B6F"
+    }
+}

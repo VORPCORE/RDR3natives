@@ -1,0 +1,11 @@
+{
+    "0x42FB3B532D526E6C": {
+        "name": "NETWORK_REQUEST_CLOUD_TUNABLES",
+        "comment": "Note: this native was added in build 1311.23, but was only used after build 1436.25",
+        "params": [],
+        "return_type": "void",
+        "build": "1311",
+        "gta_hash": "0x42FB3B532D526E6C",
+        "gta_jhash": "0xD760CAD5"
+    }
+}

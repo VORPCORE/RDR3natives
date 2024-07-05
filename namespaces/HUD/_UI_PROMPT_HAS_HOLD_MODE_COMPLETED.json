@@ -1,0 +1,14 @@
+{
+    "0xE0F65F0640EF0617": {
+        "name": "_UI_PROMPT_HAS_HOLD_MODE_COMPLETED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

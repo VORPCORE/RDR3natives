@@ -1,0 +1,14 @@
+{
+    "0x7933754F260B428A": {
+        "name": "_0x7933754F260B428A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

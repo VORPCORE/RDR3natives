@@ -1,0 +1,16 @@
+{
+    "0xF92691AED837A5FC": {
+        "name": "GET_VEHICLE_PED_IS_ENTERING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207",
+        "gta_hash": "0xF92691AED837A5FC",
+        "gta_jhash": "0x56E0C163"
+    }
+}

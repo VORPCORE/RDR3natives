@@ -1,0 +1,14 @@
+{
+    "0xEC7E480FF8BD0BED": {
+        "name": "IS_PED_RUNNING_TASK_ITEM_INTERACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

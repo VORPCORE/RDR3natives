@@ -1,0 +1,18 @@
+{
+    "0x8B6F0F59B1B99801": {
+        "name": "_SET_ANIMAL_RARITY",
+        "comment": "rarityLevel: see _GET_ANIMAL_RARITY",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "rarityLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

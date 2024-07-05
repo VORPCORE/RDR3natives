@@ -1,0 +1,16 @@
+{
+    "0x863B23EFDE9C5DF2": {
+        "name": "IS_PED_BEING_STEALTH_KILLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x863B23EFDE9C5DF2",
+        "gta_jhash": "0xD044C8AF"
+    }
+}

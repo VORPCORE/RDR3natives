@@ -1,0 +1,22 @@
+{
+    "0xBAD6545608CECA6E": {
+        "name": "TASK_GO_TO_WHISTLE",
+        "comment": "enum eWhistleType\n{\n\tWHISTLE_MAIN,\n\tWHISTLE_SECONDARY,\n\tWHISTLE_DOUBLE,\n\tWHISTLE_URGENT,\n\tWHISTLE_LONG\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "whistleType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

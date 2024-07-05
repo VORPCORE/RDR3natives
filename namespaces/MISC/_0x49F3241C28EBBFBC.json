@@ -1,0 +1,14 @@
+{
+    "0x49F3241C28EBBFBC": {
+        "name": "_0x49F3241C28EBBFBC",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

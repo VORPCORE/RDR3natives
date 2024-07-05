@@ -1,0 +1,26 @@
+{
+    "0x7C511E91738A0828": {
+        "name": "_0x7C511E91738A0828",
+        "comment": "Only used in R* SP Scripts\nHash only used in R* Script mob3.ysc: ROBBERY\n_ADD_PED*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "Hash",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

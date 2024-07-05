@@ -1,0 +1,16 @@
+{
+    "0xA34E89749F628284": {
+        "name": "DOES_SCRIPT_WITH_NAME_HASH_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scriptHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF86AA3C56BA31381",
+        "gta_jhash": "0x19EAE282"
+    }
+}

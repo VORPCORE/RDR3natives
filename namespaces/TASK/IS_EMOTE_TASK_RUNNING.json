@@ -1,0 +1,18 @@
+{
+    "0xCF9B71C0AF824036": {
+        "name": "IS_EMOTE_TASK_RUNNING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1355"
+    }
+}

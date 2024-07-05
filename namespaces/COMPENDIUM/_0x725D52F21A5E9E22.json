@@ -1,0 +1,14 @@
+{
+    "0x725D52F21A5E9E22": {
+        "name": "_0x725D52F21A5E9E22",
+        "comment": "Only used in R* SP Scripts, category = GANGS\n_COMPENDIUM_GET_*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "category"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x4AD96EF928BD4F9A": {
+        "name": "SET_MODEL_AS_NO_LONGER_NEEDED",
+        "comment": "Marks the model as no longer needed.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE532F5D78798DAAB",
+        "gta_jhash": "0xAE0F069E"
+    }
+}

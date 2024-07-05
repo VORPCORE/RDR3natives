@@ -1,0 +1,14 @@
+{
+    "0xBCC2CFADEA1AEA6C": {
+        "name": "_CREATE_COLOR_STRING",
+        "comment": "Returns a formatted string (0x%x)",
+        "params": [
+            {
+                "type": "int",
+                "name": "rgb"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

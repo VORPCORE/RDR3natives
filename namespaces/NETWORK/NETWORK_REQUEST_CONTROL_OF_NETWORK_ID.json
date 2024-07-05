@@ -1,0 +1,16 @@
+{
+    "0xA670B3662FAFFBD0": {
+        "name": "NETWORK_REQUEST_CONTROL_OF_NETWORK_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xA670B3662FAFFBD0",
+        "gta_jhash": "0x9262A60A"
+    }
+}

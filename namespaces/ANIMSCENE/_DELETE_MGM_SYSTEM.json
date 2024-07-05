@@ -1,0 +1,14 @@
+{
+    "0x53CB3970BA02E3CC": {
+        "name": "_DELETE_MGM_SYSTEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "mgmHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

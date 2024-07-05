@@ -1,0 +1,50 @@
+{
+    "0xBCE668AAF83608BE": {
+        "name": "_ADD_CYLINDER_VOLUME_TO_VOLUME_AGGREGATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "aggregate"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

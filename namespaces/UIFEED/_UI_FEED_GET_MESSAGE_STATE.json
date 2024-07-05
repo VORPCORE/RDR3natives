@@ -1,0 +1,14 @@
+{
+    "0x59FA676177DBE4C9": {
+        "name": "_UI_FEED_GET_MESSAGE_STATE",
+        "comment": "Returns messageState, see https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eUIMessageState",
+        "params": [
+            {
+                "type": "int",
+                "name": "feedMessage"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x27829AFD3E03AC1A": {
+        "name": "TASK_HOGTIE_TARGET_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

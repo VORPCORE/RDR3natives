@@ -1,0 +1,26 @@
+{
+    "0x0D7FFA1B2F69ED82": {
+        "name": "_REMOVE_SHOP_ITEM_FROM_PED",
+        "comment": "Directly removes a shop item component from a ped\nParams: p2 and p3 are always 0",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355"
+    }
+}

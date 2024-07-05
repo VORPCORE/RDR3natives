@@ -1,0 +1,20 @@
+{
+    "0x40F7E66472DF3E5C": {
+        "name": "UGC_GET_CACHED_DESCRIPTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "description"
+            },
+            {
+                "type": "int",
+                "name": "length"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207",
+        "gta_hash": "0x40F7E66472DF3E5C",
+        "gta_jhash": "0x70A2845C"
+    }
+}

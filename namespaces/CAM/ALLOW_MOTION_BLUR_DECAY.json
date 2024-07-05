@@ -1,0 +1,20 @@
+{
+    "0x42ED56B02E05D109": {
+        "name": "ALLOW_MOTION_BLUR_DECAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x271017B9BA825366",
+        "gta_jhash": "0x43220969"
+    }
+}

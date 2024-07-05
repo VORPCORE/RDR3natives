@@ -1,0 +1,18 @@
+{
+    "0xE525878A35B9EEBD": {
+        "name": "_NETWORK_IS_TRACKED_PLAYER_VISIBLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Player",
+                "name": "trackedPlayer"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x36F69E7A22655653": {
+        "name": "_GET_VEHICLE_PROP_SET_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

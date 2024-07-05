@@ -1,0 +1,20 @@
+{
+    "0xB4F47213DF45A64C": {
+        "name": "GET_TASK_MOVE_NETWORK_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "eventName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB4F47213DF45A64C",
+        "gta_jhash": "0x72FA5EF2"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x4E76CB57222A00E5": {
+        "name": "GET_SEAT_PED_IS_USING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

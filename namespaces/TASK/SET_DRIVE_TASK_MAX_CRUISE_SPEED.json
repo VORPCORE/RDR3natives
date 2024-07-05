@@ -1,0 +1,20 @@
+{
+    "0x404A5AA9B9F0B746": {
+        "name": "SET_DRIVE_TASK_MAX_CRUISE_SPEED",
+        "comment": "Not implemented.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "maxCruiseSpeed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x404A5AA9B9F0B746",
+        "gta_jhash": "0x7FDF6131"
+    }
+}

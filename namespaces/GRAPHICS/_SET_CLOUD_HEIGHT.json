@@ -1,0 +1,14 @@
+{
+    "0xC332C91388F5580B": {
+        "name": "_SET_CLOUD_HEIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "height"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

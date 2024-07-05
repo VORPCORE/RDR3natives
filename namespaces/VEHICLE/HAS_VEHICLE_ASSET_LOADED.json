@@ -1,0 +1,16 @@
+{
+    "0xB935F3154BC913C8": {
+        "name": "HAS_VEHICLE_ASSET_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "vehicleAsset"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x1BBE0523B8DB9A21",
+        "gta_jhash": "0x8DAAC3CB"
+    }
+}

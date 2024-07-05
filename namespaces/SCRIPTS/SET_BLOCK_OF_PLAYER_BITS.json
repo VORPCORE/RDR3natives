@@ -1,0 +1,22 @@
+{
+    "0xC6DFB8C04C86D5A5": {
+        "name": "SET_BLOCK_OF_PLAYER_BITS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

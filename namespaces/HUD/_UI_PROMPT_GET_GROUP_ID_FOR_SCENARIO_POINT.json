@@ -1,0 +1,18 @@
+{
+    "0xCB73D7521E7103F0": {
+        "name": "_UI_PROMPT_GET_GROUP_ID_FOR_SCENARIO_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

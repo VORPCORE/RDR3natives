@@ -1,0 +1,18 @@
+{
+    "0xFE7C9CF376D23342": {
+        "name": "_SET_BOW_STAMINA_DRAIN_SPEED",
+        "comment": "Decreases Stamina bar drain speed by % when drawing a bow.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "staminaDrain"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xF1E9045F5AA9E428": {
+        "name": "_LOOT_GET_LOOT_CLAIM_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "rpcGuid"
+            },
+            {
+                "type": "int",
+                "name": "dataIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "outLootData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

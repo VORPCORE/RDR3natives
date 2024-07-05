@@ -1,0 +1,14 @@
+{
+    "0x1D9F72DD4FD9A9D7": {
+        "name": "_0x1D9F72DD4FD9A9D7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "0xD9F8455409B525E9": {
+        "name": "ADD_SHOCKING_EVENT_AT_POSITION",
+        "comment": "eventType: https://alloc8or.re/rdr3/doc/enums/eEventType.txt\nhttps://github.com/femga/rdr3_discoveries/blob/master/AI/EVENTS",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "eventType"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            },
+            {
+                "type": "int",
+                "name": "p10"
+            }
+        ],
+        "return_type": "ScrHandle",
+        "build": "1207",
+        "gta_hash": "0xD9F8455409B525E9",
+        "gta_jhash": "0x0B30F779"
+    }
+}

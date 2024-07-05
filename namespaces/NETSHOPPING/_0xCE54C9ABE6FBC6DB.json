@@ -1,0 +1,14 @@
+{
+    "0xCE54C9ABE6FBC6DB": {
+        "name": "_0xCE54C9ABE6FBC6DB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

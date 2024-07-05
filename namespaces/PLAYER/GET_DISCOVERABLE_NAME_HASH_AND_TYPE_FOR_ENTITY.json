@@ -1,0 +1,18 @@
+{
+    "0x0139637A3BFF8B6D": {
+        "name": "GET_DISCOVERABLE_NAME_HASH_AND_TYPE_FOR_ENTITY",
+        "comment": "Returns name hash (name) and outHash includes the type.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash*",
+                "name": "type"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

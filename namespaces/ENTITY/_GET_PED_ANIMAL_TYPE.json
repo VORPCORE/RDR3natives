@@ -1,0 +1,14 @@
+{
+    "0x964000D355219FC0": {
+        "name": "_GET_PED_ANIMAL_TYPE",
+        "comment": "Returns the ped's animal type hash: https://alloc8or.re/rdr3/doc/enums/eAnimalType.txt\nCombine this with GET_STRING_FROM_HASH_KEY to display localized entity names",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

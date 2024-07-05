@@ -1,0 +1,22 @@
+{
+    "0xBFC83DA249BEFCC9": {
+        "name": "_0xBFC83DA249BEFCC9",
+        "comment": "_DATABINDING_WRITE_DATA_*",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

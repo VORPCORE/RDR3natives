@@ -1,0 +1,20 @@
+{
+    "0xE4CB5A3F18170381": {
+        "name": "SET_PLAYER_MELEE_WEAPON_DAMAGE_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4A3DC7ECCC321032",
+        "gta_jhash": "0x362E69AD"
+    }
+}

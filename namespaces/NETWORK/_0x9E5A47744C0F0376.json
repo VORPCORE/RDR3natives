@@ -1,0 +1,15 @@
+{
+    "0x9E5A47744C0F0376": {
+        "name": "_0x9E5A47744C0F0376",
+        "comment": "Note: this native was added in build 1311.23",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311",
+        "unused": true
+    }
+}

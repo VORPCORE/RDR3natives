@@ -1,0 +1,40 @@
+{
+    "0x240A18690AE96513": {
+        "name": "GET_CLOSEST_VEHICLE_NODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outPosition"
+            },
+            {
+                "type": "int",
+                "name": "nodeType"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x240A18690AE96513",
+        "gta_jhash": "0x6F5F1E6C"
+    }
+}

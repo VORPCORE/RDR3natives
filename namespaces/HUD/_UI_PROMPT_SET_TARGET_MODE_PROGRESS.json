@@ -1,0 +1,18 @@
+{
+    "0x00123054BEC8A30F": {
+        "name": "_UI_PROMPT_SET_TARGET_MODE_PROGRESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "float",
+                "name": "progress"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

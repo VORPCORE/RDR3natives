@@ -1,0 +1,18 @@
+{
+    "0x3ACAC8832E77BC93": {
+        "name": "_0x3ACAC8832E77BC93",
+        "comment": "Used in script function INIT_DEADEYE_SLOWDOWN",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

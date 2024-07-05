@@ -1,0 +1,14 @@
+{
+    "0x6C27442A225A241A": {
+        "name": "_0x6C27442A225A241A",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

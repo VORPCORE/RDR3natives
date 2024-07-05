@@ -1,0 +1,18 @@
+{
+    "0xE4B7945EF4F1BFB2": {
+        "name": "_0xE4B7945EF4F1BFB2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

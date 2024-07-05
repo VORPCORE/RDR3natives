@@ -1,0 +1,18 @@
+{
+    "0xFFEC4B0A1A3ED515": {
+        "name": "_GET_PED_IN_TRANSPORT_SEAT",
+        "comment": "seatIndex: see CREATE_PED_INSIDE_VEHICLE",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

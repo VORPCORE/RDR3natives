@@ -1,0 +1,16 @@
+{
+    "0x5E1CC2E8DC3111DD": {
+        "name": "IS_ENTITY_WAITING_FOR_WORLD_COLLISION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD05BFF0C0A12C68F",
+        "gta_jhash": "0x00AB7A4A"
+    }
+}

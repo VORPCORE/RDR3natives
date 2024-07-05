@@ -1,0 +1,18 @@
+{
+    "0x478F6B9920446CE2": {
+        "name": "_SET_FORMATION_AUTO_ASSIGN_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

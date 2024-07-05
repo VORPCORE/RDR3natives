@@ -1,0 +1,11 @@
+{
+    "0x86ED21BDB2791CE8": {
+        "name": "GET_TOGGLE_PAUSED_RENDERPHASES_STATUS",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xEB3DAC2C86001E5E",
+        "gta_jhash": "0xD4F5D07D"
+    }
+}

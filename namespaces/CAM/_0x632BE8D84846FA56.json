@@ -1,0 +1,9 @@
+{
+    "0x632BE8D84846FA56": {
+        "name": "_0x632BE8D84846FA56",
+        "comment": "Zooms in the gameplay camera to the next zoom level?\nUSE_* - WAS_*",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

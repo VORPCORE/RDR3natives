@@ -1,0 +1,14 @@
+{
+    "0x8BC7C1F929D07BF3": {
+        "name": "_DISABLE_HUD_CONTEXT",
+        "comment": "Old name: _DISPLAY_HUD_COMPONENT",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "component"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

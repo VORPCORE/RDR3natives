@@ -1,0 +1,26 @@
+{
+    "0xF27F01BBF5ACD3F3": {
+        "name": "_ITEMDATABASE_FILLOUT_AWARD_ACQUIRE_COST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "award"
+            },
+            {
+                "type": "Hash",
+                "name": "costtype"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

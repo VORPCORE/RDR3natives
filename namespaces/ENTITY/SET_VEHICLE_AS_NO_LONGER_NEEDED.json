@@ -1,0 +1,16 @@
+{
+    "0x629BFA74418D6239": {
+        "name": "SET_VEHICLE_AS_NO_LONGER_NEEDED",
+        "comment": "This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.",
+        "params": [
+            {
+                "type": "Vehicle*",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x629BFA74418D6239",
+        "gta_jhash": "0x9B0E10BE"
+    }
+}

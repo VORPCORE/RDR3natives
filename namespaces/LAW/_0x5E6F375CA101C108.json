@@ -1,0 +1,18 @@
+{
+    "0x5E6F375CA101C108": {
+        "name": "_0x5E6F375CA101C108",
+        "comment": "Only used in R* SP Scripts",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

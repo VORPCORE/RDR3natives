@@ -1,0 +1,14 @@
+{
+    "0xBDD9C235D8D1052E": {
+        "name": "_IS_PED_CURRENT_WEAPON_HOLSTERED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

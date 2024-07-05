@@ -1,0 +1,9 @@
+{
+    "0x6506BFA755FB209C": {
+        "name": "_UGC_HAS_PRIVILEGE",
+        "comment": "Checks if the user has ROS privilege 14.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

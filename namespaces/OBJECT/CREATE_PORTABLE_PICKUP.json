@@ -1,0 +1,36 @@
+{
+    "0x2EAF1FDB2FB55698": {
+        "name": "CREATE_PORTABLE_PICKUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "pickupHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "placeOnGround"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            }
+        ],
+        "return_type": "Object",
+        "build": "1207",
+        "gta_hash": "0x2EAF1FDB2FB55698",
+        "gta_jhash": "0x8C886BE5"
+    }
+}

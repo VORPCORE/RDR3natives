@@ -1,0 +1,18 @@
+{
+    "0xAB7993BA61A4674F": {
+        "name": "_IS_PED_SHOCKING_EVENT_ACTIVE",
+        "comment": "Tested with fire & dynamite. Only returns true using value p1 = 1 and when the ped is affected by fire.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

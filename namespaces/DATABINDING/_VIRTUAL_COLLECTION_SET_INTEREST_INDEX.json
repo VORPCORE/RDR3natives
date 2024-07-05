@@ -1,0 +1,18 @@
+{
+    "0x49A8447533308BCF": {
+        "name": "_VIRTUAL_COLLECTION_SET_INTEREST_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "interestIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

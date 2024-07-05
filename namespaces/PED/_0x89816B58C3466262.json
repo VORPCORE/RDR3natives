@@ -1,0 +1,14 @@
+{
+    "0x89816B58C3466262": {
+        "name": "_0x89816B58C3466262",
+        "comment": "_GET_PED_B* - _GET_PED_C*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

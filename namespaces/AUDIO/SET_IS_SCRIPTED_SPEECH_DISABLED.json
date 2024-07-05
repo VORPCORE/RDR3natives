@@ -1,0 +1,18 @@
+{
+    "0xB2DE3AEBE31150E2": {
+        "name": "SET_IS_SCRIPTED_SPEECH_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x3FAA928A79591761": {
+        "name": "_ITEMDATABASE_GET_AWARD_ITEM_COUNT",
+        "comment": "Returns iAwardItemCount",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "award"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

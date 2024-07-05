@@ -1,0 +1,9 @@
+{
+    "0x8DC9AA3B508B1A85": {
+        "name": "_NETWORK_GET_SESSION_HOST",
+        "comment": "",
+        "params": [],
+        "return_type": "Player",
+        "build": "1207"
+    }
+}

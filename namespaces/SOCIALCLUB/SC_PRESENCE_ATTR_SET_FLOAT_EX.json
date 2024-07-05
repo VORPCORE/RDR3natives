@@ -1,0 +1,23 @@
+{
+    "0x00000000467F4CAA": {
+        "name": "SC_PRESENCE_ATTR_SET_FLOAT_EX",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "attrName"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true
+    }
+}

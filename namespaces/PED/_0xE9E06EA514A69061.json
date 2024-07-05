@@ -1,0 +1,18 @@
+{
+    "0xE9E06EA514A69061": {
+        "name": "_0xE9E06EA514A69061",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

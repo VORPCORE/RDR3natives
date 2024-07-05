@@ -1,0 +1,18 @@
+{
+    "0x77B97A827739D434": {
+        "name": "CHAL_ACHIEVEMENT_IS_COMPLETE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xC0940AC858C1E126": {
+        "name": "_HAS_META_PED_REQUEST_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

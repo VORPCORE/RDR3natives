@@ -1,0 +1,16 @@
+{
+    "0x9D6BFC12B05C6121": {
+        "name": "IS_HORN_ACTIVE",
+        "comment": "Checks whether the horn of a vehicle is currently played.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x9D6BFC12B05C6121",
+        "gta_jhash": "0x20E2BDD0"
+    }
+}

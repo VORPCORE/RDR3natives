@@ -1,0 +1,20 @@
+{
+    "0xD45CB817D7E177D2": {
+        "name": "NETWORK_HANDLE_FROM_FRIEND",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "friendIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD45CB817D7E177D2",
+        "gta_jhash": "0x3B0BB3A3"
+    }
+}

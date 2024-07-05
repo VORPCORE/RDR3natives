@@ -1,0 +1,14 @@
+{
+    "0xB2D15D3551FE4FAE": {
+        "name": "_0xB2D15D3551FE4FAE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

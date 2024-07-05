@@ -1,0 +1,26 @@
+{
+    "0x822A001BCEA5BD81": {
+        "name": "_EVENT_GET_SOURCE_ENTITY_FROM_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "eventType"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

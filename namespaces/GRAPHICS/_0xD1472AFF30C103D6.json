@@ -1,0 +1,14 @@
+{
+    "0xD1472AFF30C103D6": {
+        "name": "_0xD1472AFF30C103D6",
+        "comment": "Only used in R* Script nb_stalking_hunter",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

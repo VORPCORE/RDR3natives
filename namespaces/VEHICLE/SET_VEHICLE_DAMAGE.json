@@ -1,0 +1,40 @@
+{
+    "0x1D7678F81452BB41": {
+        "name": "SET_VEHICLE_DAMAGE",
+        "comment": "Apply damage to vehicle at a location. Location is relative to vehicle model (not world).\n\nRadius of effect damage applied in a sphere at impact location",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "xOffset"
+            },
+            {
+                "type": "float",
+                "name": "yOffset"
+            },
+            {
+                "type": "float",
+                "name": "zOffset"
+            },
+            {
+                "type": "float",
+                "name": "damage"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA1DD317EA8FD4F29",
+        "gta_jhash": "0x21B458B2"
+    }
+}

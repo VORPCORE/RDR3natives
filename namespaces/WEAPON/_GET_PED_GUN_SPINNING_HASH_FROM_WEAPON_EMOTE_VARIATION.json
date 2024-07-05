@@ -1,0 +1,18 @@
+{
+    "0xF3B1620B920D1708": {
+        "name": "_GET_PED_GUN_SPINNING_HASH_FROM_WEAPON_EMOTE_VARIATION",
+        "comment": "Returns iSpinHash / iVariationSpin",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "weaponEmoteVariation"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1355"
+    }
+}

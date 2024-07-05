@@ -1,0 +1,18 @@
+{
+    "0x768E81AE285A4B67": {
+        "name": "_SET_PLAYER_STAT_FLAG_HASH",
+        "comment": "_N*, _O* or _PE*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0x5352E025EC2B416F": {
+        "name": "GET_FINAL_RENDERED_CAM_COORD",
+        "comment": "",
+        "params": [],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0xA200EB1EE790F448",
+        "gta_jhash": "0x9C84BDA0"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x2705D18C11B61046": {
+        "name": "_SET_PHOTO_SELF_STAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

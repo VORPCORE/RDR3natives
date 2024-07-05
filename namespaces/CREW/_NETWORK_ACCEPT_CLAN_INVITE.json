@@ -1,0 +1,14 @@
+{
+    "0x8E2143144B8E188D": {
+        "name": "_NETWORK_ACCEPT_CLAN_INVITE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "crewInviteIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x43F867EF5C463A53": {
+        "name": "DELETE_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x18E93EBFC1FCFA48": {
+        "name": "_0x18E93EBFC1FCFA48",
+        "comment": "Only used in R* SP Script beat_rat_infestation and homeinvasion",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

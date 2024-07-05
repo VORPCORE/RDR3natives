@@ -1,0 +1,16 @@
+{
+    "0x0252D2B5582957A6": {
+        "name": "GET_GAMEPLAY_CAM_ROT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x837765A25378F0BB",
+        "gta_jhash": "0x13A010B5"
+    }
+}

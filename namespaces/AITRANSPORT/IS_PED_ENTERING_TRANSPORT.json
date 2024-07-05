@@ -1,0 +1,22 @@
+{
+    "0x619E63980BFC0096": {
+        "name": "IS_PED_ENTERING_TRANSPORT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

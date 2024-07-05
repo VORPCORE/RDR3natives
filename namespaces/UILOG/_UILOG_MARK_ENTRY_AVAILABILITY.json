@@ -1,0 +1,26 @@
+{
+    "0x13E8D7DD08543482": {
+        "name": "_UILOG_MARK_ENTRY_AVAILABILITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

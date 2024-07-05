@@ -1,0 +1,44 @@
+{
+    "0x044131118D8DB3CD": {
+        "name": "DISPLAY_ONSCREEN_KEYBOARD",
+        "comment": "enum eOnscreenKeyboardTextType\n{\n\tKTEXTTYPE_INVALID = -1,\n\tKTEXTTYPE_DEFAULT,\n\tKTEXTTYPE_EMAIL,\n\tKTEXTTYPE_PASSWORD,\n\tKTEXTTYPE_NUMERIC,\n\tKTEXTTYPE_ALPHABET,\n\tKTEXTTYPE_GAMERTAG,\n\tKTEXTTYPE_FILENAME,\n\tKTEXTTYPE_COUNT\n};",
+        "params": [
+            {
+                "type": "int",
+                "name": "textType"
+            },
+            {
+                "type": "const char*",
+                "name": "windowTitle"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultText"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat1"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat2"
+            },
+            {
+                "type": "const char*",
+                "name": "defaultConcat3"
+            },
+            {
+                "type": "int",
+                "name": "maxInputLength"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x00DC833F2568DBF6",
+        "gta_jhash": "0xAD99F2CE"
+    }
+}

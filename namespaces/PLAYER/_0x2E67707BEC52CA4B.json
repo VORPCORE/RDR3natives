@@ -1,0 +1,14 @@
+{
+    "0x2E67707BEC52CA4B": {
+        "name": "_0x2E67707BEC52CA4B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

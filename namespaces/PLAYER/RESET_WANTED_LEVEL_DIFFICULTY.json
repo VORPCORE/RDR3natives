@@ -1,0 +1,16 @@
+{
+    "0x062D14F18E8B0CAE": {
+        "name": "RESET_WANTED_LEVEL_DIFFICULTY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB9D0DD990DC141DD",
+        "gta_jhash": "0xA64C378D"
+    }
+}

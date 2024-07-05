@@ -1,0 +1,28 @@
+{
+    "0xA9DA48FAB8A76C12": {
+        "name": "TASK_GOTO_ENTITY_AIMING",
+        "comment": "ped = Ped you want to perform this task.\ntarget = the Entity they should aim at.\ndistanceToStopAt = distance from the target, where the ped should stop to aim.\nStartAimingDist = distance where the ped should start to aim.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "target"
+            },
+            {
+                "type": "float",
+                "name": "distanceToStopAt"
+            },
+            {
+                "type": "float",
+                "name": "StartAimingDist"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA9DA48FAB8A76C12",
+        "gta_jhash": "0xF1C493CF"
+    }
+}

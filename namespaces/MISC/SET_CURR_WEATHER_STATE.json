@@ -1,0 +1,28 @@
+{
+    "0xFA3E3CA8A1DE6D5D": {
+        "name": "SET_CURR_WEATHER_STATE",
+        "comment": "Params: BOOL p3 is always true\n\nOld name: _SET_WEATHER_TYPE_TRANSITION",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weatherType1"
+            },
+            {
+                "type": "Hash",
+                "name": "weatherType2"
+            },
+            {
+                "type": "float",
+                "name": "percentWeather2"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x578C752848ECFA0C",
+        "gta_jhash": "0x5CA74040"
+    }
+}

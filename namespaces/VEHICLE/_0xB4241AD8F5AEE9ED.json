@@ -1,0 +1,14 @@
+{
+    "0xB4241AD8F5AEE9ED": {
+        "name": "_0xB4241AD8F5AEE9ED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "trackIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

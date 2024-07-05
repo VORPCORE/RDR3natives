@@ -1,0 +1,22 @@
+{
+    "0x6D85126F6CCF02C9": {
+        "name": "_0x6D85126F6CCF02C9",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "feedChannel"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x3EE1F7A8C32F24E1": {
+        "name": "GET_PLAYER_INTERACTION_TARGET_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity*",
+                "name": "outEntity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

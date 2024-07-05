@@ -1,0 +1,34 @@
+{
+    "0x2161278C6322F740": {
+        "name": "_0x2161278C6322F740",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "includeFlags"
+            },
+            {
+                "type": "int",
+                "name": "excludeFlags"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "Hash",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

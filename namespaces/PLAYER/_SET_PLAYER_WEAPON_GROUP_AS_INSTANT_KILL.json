@@ -1,0 +1,22 @@
+{
+    "0x59F0AFF3E0A1B019": {
+        "name": "_SET_PLAYER_WEAPON_GROUP_AS_INSTANT_KILL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponGroup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

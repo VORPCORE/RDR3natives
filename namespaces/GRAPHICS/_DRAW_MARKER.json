@@ -1,0 +1,106 @@
+{
+    "0x2A32FAA57B937173": {
+        "name": "_DRAW_MARKER",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/markers/marker_types.lua",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "type"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            },
+            {
+                "type": "float",
+                "name": "dirX"
+            },
+            {
+                "type": "float",
+                "name": "dirY"
+            },
+            {
+                "type": "float",
+                "name": "dirZ"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "scaleX"
+            },
+            {
+                "type": "float",
+                "name": "scaleY"
+            },
+            {
+                "type": "float",
+                "name": "scaleZ"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            },
+            {
+                "type": "BOOL",
+                "name": "bobUpAndDown"
+            },
+            {
+                "type": "BOOL",
+                "name": "faceCamera"
+            },
+            {
+                "type": "int",
+                "name": "p19"
+            },
+            {
+                "type": "BOOL",
+                "name": "rotate"
+            },
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "const char*",
+                "name": "textureName"
+            },
+            {
+                "type": "BOOL",
+                "name": "drawOnEnts"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

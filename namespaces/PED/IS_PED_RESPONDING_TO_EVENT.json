@@ -1,0 +1,20 @@
+{
+    "0x625B774D75C87068": {
+        "name": "IS_PED_RESPONDING_TO_EVENT",
+        "comment": "eventType: https://alloc8or.re/rdr3/doc/enums/eEventType.txt",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "eventType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x625B774D75C87068",
+        "gta_jhash": "0x7A877554"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x1B70811D3BF75DB9": {
+        "name": "BLOCK_ANIM_SCENE_FADING_NEXT_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

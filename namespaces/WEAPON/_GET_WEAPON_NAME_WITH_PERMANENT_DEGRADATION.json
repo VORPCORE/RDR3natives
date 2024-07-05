@@ -1,0 +1,18 @@
+{
+    "0x7A56D66C78D8EF8E": {
+        "name": "_GET_WEAPON_NAME_WITH_PERMANENT_DEGRADATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "float",
+                "name": "permanentDegradationLevel"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

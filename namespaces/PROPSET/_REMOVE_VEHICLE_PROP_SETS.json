@@ -1,0 +1,14 @@
+{
+    "0x3BCF32FF37EA9F1D": {
+        "name": "_REMOVE_VEHICLE_PROP_SETS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

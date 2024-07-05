@@ -1,0 +1,26 @@
+{
+    "0xA45884DB10EC7EE3": {
+        "name": "SET_CONTROL_LIGHT_EFFECT_FLASHING_COLOR",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

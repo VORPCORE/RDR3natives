@@ -1,0 +1,22 @@
+{
+    "0x6D2F987736A42D4C": {
+        "name": "_INVENTORY_SET_INVENTORY_ITEM_WEATHER_EFFECTIVENESS",
+        "comment": "OWE_INVALID = -1,\nOWE_GOOD_IN_HOT\nOWE_GOOD_IN_NONE\nOWE_GOOD_IN_COLD\nOWE_GOOD_IN_ALL",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "int",
+                "name": "weatherEffectiveness"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

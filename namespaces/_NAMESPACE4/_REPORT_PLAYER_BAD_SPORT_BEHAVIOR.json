@@ -1,0 +1,18 @@
+{
+    "0xC31C44C43B48FDE3": {
+        "name": "_REPORT_PLAYER_BAD_SPORT_BEHAVIOR",
+        "comment": "nullsub, doesn't do anything\nhowever it is being used in tty scripts: [NET_BAD_SPORT_REPORT_PLAYER] Detected bad sport behavior from Player\nbadSportBehavior: BS_QUITTER = 0, BS_VEHICLE_DESTRUCTION = 1, BS_VOTED_OUT = 2",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "int",
+                "name": "badSportBehaviorType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

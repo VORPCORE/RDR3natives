@@ -1,0 +1,16 @@
+{
+    "0xCA1B30A3357C71F1": {
+        "name": "STOP_CAM_POINTING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF33AB75780BA57DE",
+        "gta_jhash": "0x5435F6A5"
+    }
+}

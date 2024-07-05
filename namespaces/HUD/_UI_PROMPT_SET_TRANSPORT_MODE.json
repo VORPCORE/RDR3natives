@@ -1,0 +1,18 @@
+{
+    "0x876E4A35C73A6655": {
+        "name": "_UI_PROMPT_SET_TRANSPORT_MODE",
+        "comment": "TM_ANY = 0,\nTM_ON_FOOT,\nTM_IN_VEHICLE",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "int",
+                "name": "mode"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

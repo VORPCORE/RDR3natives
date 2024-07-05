@@ -1,0 +1,14 @@
+{
+    "0x8B3296278328B5EB": {
+        "name": "_SET_PHOTO_OVERLAY_EFFECT_STAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

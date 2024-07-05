@@ -1,0 +1,14 @@
+{
+    "0xFC77C5B44D5FF7C0": {
+        "name": "_DELETE_PERSCHAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

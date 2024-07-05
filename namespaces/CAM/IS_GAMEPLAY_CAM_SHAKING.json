@@ -1,0 +1,11 @@
+{
+    "0xEA4C5F4AA0A4DBEF": {
+        "name": "IS_GAMEPLAY_CAM_SHAKING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x016C090630DF1F89",
+        "gta_jhash": "0x3457D681"
+    }
+}

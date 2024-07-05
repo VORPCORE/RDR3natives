@@ -1,0 +1,18 @@
+{
+    "0x5EFA8A3D8A60D662": {
+        "name": "_0x5EFA8A3D8A60D662",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

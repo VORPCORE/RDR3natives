@@ -1,0 +1,14 @@
+{
+    "0x03D741CB4052E26C": {
+        "name": "_0x03D741CB4052E26C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1232"
+    }
+}

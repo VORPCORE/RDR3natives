@@ -1,0 +1,9 @@
+{
+    "0xA2B1C7EF759A63CE": {
+        "name": "GET_LETTER_BOX_RATIO",
+        "comment": "More info: see HAS_LETTER_BOX",
+        "params": [],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

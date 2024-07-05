@@ -1,0 +1,18 @@
+{
+    "0x118873DD538490B4": {
+        "name": "REMOVE_ALL_SHOCKING_EVENTS_OF_TYPE",
+        "comment": "eventType: https://alloc8or.re/rdr3/doc/enums/eEventType.txt",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "eventType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

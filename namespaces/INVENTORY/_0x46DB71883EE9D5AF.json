@@ -1,0 +1,26 @@
+{
+    "0x46DB71883EE9D5AF": {
+        "name": "_0x46DB71883EE9D5AF",
+        "comment": "Returns databindingEntryId to be used with 0x951847CEF3D829FF (p0)",
+        "params": [
+            {
+                "type": "Any",
+                "name": "data"
+            },
+            {
+                "type": "const char*",
+                "name": "stats"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

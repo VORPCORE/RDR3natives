@@ -1,0 +1,20 @@
+{
+    "0xF2B7106D37947CE0": {
+        "name": "SET_PED_CAN_TORSO_IK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF2B7106D37947CE0",
+        "gta_jhash": "0x8E5D4EAB"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x5C29F698D404C5E1": {
+        "name": "SET_STATE_OF_RAYFIRE_MAP_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "int",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5C29F698D404C5E1",
+        "gta_jhash": "0x21F51560"
+    }
+}

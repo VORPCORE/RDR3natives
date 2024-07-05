@@ -1,0 +1,18 @@
+{
+    "0xB783F75940B23014": {
+        "name": "_SET_SPECIAL_ABILITY_DURATION_COST",
+        "comment": "durationCost: per second",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "durationCost"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

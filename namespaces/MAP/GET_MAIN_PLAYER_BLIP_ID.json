@@ -1,0 +1,11 @@
+{
+    "0x5CD2889B2B381D45": {
+        "name": "GET_MAIN_PLAYER_BLIP_ID",
+        "comment": "",
+        "params": [],
+        "return_type": "Blip",
+        "build": "1207",
+        "gta_hash": "0xDCD4EC3F419D02FA",
+        "gta_jhash": "0xAB93F020"
+    }
+}

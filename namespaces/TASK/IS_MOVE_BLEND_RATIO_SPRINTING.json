@@ -1,0 +1,16 @@
+{
+    "0x24A2AD74FA9814E2": {
+        "name": "IS_MOVE_BLEND_RATIO_SPRINTING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "moveBlendRatio"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x24A2AD74FA9814E2",
+        "gta_jhash": "0xDD616893"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x2942457417A5FD24": {
+        "name": "_GET_PLAYER_PED_WATER_DEPTH",
+        "comment": "Returns how deep the water is below the ped (if in water)\n-1.0f = Not in water\n10.0f = Max water depth",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

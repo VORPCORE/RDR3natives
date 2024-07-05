@@ -1,0 +1,14 @@
+{
+    "0x610438375E5D1801": {
+        "name": "_HAS_META_PED_OUTFIT_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

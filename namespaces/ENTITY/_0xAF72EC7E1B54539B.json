@@ -1,0 +1,14 @@
+{
+    "0xAF72EC7E1B54539B": {
+        "name": "_0xAF72EC7E1B54539B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1311"
+    }
+}

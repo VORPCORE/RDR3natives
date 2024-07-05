@@ -1,0 +1,68 @@
+{
+    "0xD76632D99E4966C8": {
+        "name": "SET_PED_TO_RAGDOLL_WITH_FALL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "timeMin"
+            },
+            {
+                "type": "int",
+                "name": "timeMax"
+            },
+            {
+                "type": "int",
+                "name": "ragdollType"
+            },
+            {
+                "type": "float",
+                "name": "falldirX"
+            },
+            {
+                "type": "float",
+                "name": "falldirY"
+            },
+            {
+                "type": "float",
+                "name": "falldirZ"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "float",
+                "name": "p8"
+            },
+            {
+                "type": "float",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "float",
+                "name": "p11"
+            },
+            {
+                "type": "float",
+                "name": "p12"
+            },
+            {
+                "type": "float",
+                "name": "p13"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD76632D99E4966C8",
+        "gta_jhash": "0xFA12E286"
+    }
+}

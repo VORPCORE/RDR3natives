@@ -1,0 +1,30 @@
+{
+    "0x1FCA98E33C1437B3": {
+        "name": "_CREATE_ANIM_SCENE",
+        "comment": "flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eAnimSceneFlag",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "const char*",
+                "name": "playbackListName"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "AnimScene",
+        "build": "1207"
+    }
+}

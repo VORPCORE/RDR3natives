@@ -1,0 +1,14 @@
+{
+    "0xF2FDDCC8C6BAE1B3": {
+        "name": "_IS_TRACKED_POINT_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "point"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

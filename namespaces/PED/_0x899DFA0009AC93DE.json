@@ -1,0 +1,18 @@
+{
+    "0x899DFA0009AC93DE": {
+        "name": "_0x899DFA0009AC93DE",
+        "comment": "_SET_PED_O*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

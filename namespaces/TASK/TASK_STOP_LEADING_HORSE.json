@@ -1,0 +1,14 @@
+{
+    "0xED27560703F37258": {
+        "name": "TASK_STOP_LEADING_HORSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

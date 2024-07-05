@@ -1,0 +1,14 @@
+{
+    "0xDC9B361CB7776673": {
+        "name": "_0xDC9B361CB7776673",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

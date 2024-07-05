@@ -1,0 +1,20 @@
+{
+    "0xFEBEEBC9CBDF4B12": {
+        "name": "SET_PLAYER_INVINCIBLE",
+        "comment": "Simply sets you as invincible (Health will not deplete).",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x239528EACDC3E7DE",
+        "gta_jhash": "0xDFB9A2A2"
+    }
+}

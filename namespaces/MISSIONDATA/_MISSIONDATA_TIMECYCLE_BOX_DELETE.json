@@ -1,0 +1,9 @@
+{
+    "0x7F89E15A8FB8DE97": {
+        "name": "_MISSIONDATA_TIMECYCLE_BOX_DELETE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

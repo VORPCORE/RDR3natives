@@ -1,0 +1,34 @@
+{
+    "0x48E4D50F87A96AA5": {
+        "name": "_LOOT_TABLES_GET_INFO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Hash",
+                "name": "lootTableKey"
+            },
+            {
+                "type": "Any*",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

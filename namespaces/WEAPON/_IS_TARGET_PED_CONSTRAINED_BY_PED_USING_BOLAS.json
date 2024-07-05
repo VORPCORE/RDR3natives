@@ -1,0 +1,18 @@
+{
+    "0x8D50F43298AB9545": {
+        "name": "_IS_TARGET_PED_CONSTRAINED_BY_PED_USING_BOLAS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

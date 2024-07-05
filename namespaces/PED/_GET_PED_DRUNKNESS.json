@@ -1,0 +1,14 @@
+{
+    "0x6FB76442469ABD68": {
+        "name": "_GET_PED_DRUNKNESS",
+        "comment": "Returns ped drunk level\n_H* or _I*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

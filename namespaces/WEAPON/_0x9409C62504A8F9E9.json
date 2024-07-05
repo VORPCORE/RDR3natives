@@ -1,0 +1,18 @@
+{
+    "0x9409C62504A8F9E9": {
+        "name": "_0x9409C62504A8F9E9",
+        "comment": "Only used in R* SP Script guama3",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

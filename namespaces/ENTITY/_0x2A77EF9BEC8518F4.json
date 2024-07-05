@@ -1,0 +1,14 @@
+{
+    "0x2A77EF9BEC8518F4": {
+        "name": "_0x2A77EF9BEC8518F4",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

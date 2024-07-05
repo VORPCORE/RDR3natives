@@ -1,0 +1,20 @@
+{
+    "0x89049DD63C08B5D1": {
+        "name": "PLAY_STREAM_FROM_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "streamId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x89049DD63C08B5D1",
+        "gta_jhash": "0xA1D7FABE"
+    }
+}

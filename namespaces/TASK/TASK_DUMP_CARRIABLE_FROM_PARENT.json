@@ -1,0 +1,22 @@
+{
+    "0x17CA98707B15926A": {
+        "name": "TASK_DUMP_CARRIABLE_FROM_PARENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

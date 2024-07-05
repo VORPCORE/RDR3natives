@@ -1,0 +1,9 @@
+{
+    "0x8E587FCD30E05592": {
+        "name": "_GET_MAX_NUMBER_OF_LOCAL_PHOTOS",
+        "comment": "Always returns 200.",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

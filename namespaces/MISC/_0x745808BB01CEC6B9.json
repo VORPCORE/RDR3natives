@@ -1,0 +1,14 @@
+{
+    "0x745808BB01CEC6B9": {
+        "name": "_0x745808BB01CEC6B9",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

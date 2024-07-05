@@ -1,0 +1,22 @@
+{
+    "0x5DA12E025D47D4E5": {
+        "name": "SET_ATTRIBUTE_BASE_RANK",
+        "comment": "attributeIndex:\nenum ePedAttribute\n{\n\tPA_HEALTH,\n\tPA_STAMINA,\n\tPA_SPECIALABILITY,\n\tPA_COURAGE,\n\tPA_AGILITY,\n\tPA_SPEED,\n\tPA_ACCELERATION,\n\tPA_BONDING,\n\tSA_HUNGER,\n\tSA_FATIGUED,\n\tSA_INEBRIATED,\n\tSA_POISONED,\n\tSA_BODYHEAT,\n\tSA_BODYWEIGHT,\n\tSA_OVERFED,\n\tSA_SICKNESS,\n\tSA_DIRTINESS,\n\tSA_DIRTINESSHAT,\n\tMTR_STRENGTH,\n\tMTR_GRIT,\n\tMTR_INSTINCT,\n\tPA_UNRULINESS,\n\tSA_DIRTINESSSKIN\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attributeIndex"
+            },
+            {
+                "type": "int",
+                "name": "newValue"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

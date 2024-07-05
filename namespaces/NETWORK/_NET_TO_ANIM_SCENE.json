@@ -1,0 +1,14 @@
+{
+    "0xD7F6781A0ABAF6FB": {
+        "name": "_NET_TO_ANIM_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "AnimScene",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x6F1C49F275BD25B3": {
+        "name": "TASK_EVERYONE_LEAVE_VEHICLE_IN_ORDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x9AB192A9EF980EED": {
+        "name": "ANIMPOSTFX_HAS_EVENT_TRIGGERED_BY_STACKHASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "effectNameHash"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL*",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

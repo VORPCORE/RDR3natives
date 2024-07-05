@@ -1,0 +1,14 @@
+{
+    "0x1A7A802B2301EDC0": {
+        "name": "_STOP_RUNNING_COVER_ANIMS",
+        "comment": "Stops running cover anims and releases them\n_STOP_RENDERING_* - _STOP_SCRIPTED*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

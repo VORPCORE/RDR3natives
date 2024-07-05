@@ -1,0 +1,16 @@
+{
+    "0xA1607996431332DF": {
+        "name": "IS_NETWORK_ID_OWNED_BY_PARTICIPANT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xA1607996431332DF",
+        "gta_jhash": "0xEA5176C0"
+    }
+}

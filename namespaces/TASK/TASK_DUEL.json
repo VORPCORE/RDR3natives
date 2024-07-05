@@ -1,0 +1,54 @@
+{
+    "0x5D5B0D5BC3626E5A": {
+        "name": "TASK_DUEL",
+        "comment": "Params: p4 either 0.2f, 0.25f, 0.31f, 0.4f",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "vPosOpponentX"
+            },
+            {
+                "type": "float",
+                "name": "vPosOpponentY"
+            },
+            {
+                "type": "float",
+                "name": "vPosOpponentZ"
+            },
+            {
+                "type": "float",
+                "name": "fOpponentHead"
+            },
+            {
+                "type": "int",
+                "name": "p10"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

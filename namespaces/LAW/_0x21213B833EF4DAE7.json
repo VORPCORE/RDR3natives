@@ -1,0 +1,22 @@
+{
+    "0x21213B833EF4DAE7": {
+        "name": "_0x21213B833EF4DAE7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vector3*",
+                "name": "outCoords"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

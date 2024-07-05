@@ -1,0 +1,14 @@
+{
+    "0xCCD9B77F70D31C9D": {
+        "name": "_GET_NUM_MARKED_DEADEYE_TARGETS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

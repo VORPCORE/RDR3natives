@@ -1,0 +1,14 @@
+{
+    "0x833F0053340EF413": {
+        "name": "_GET_LASSOER_OF_PED",
+        "comment": "_IS_PED_S* - _IS_PED_U*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

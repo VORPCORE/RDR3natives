@@ -1,0 +1,22 @@
+{
+    "0x9C77964B0E07B633": {
+        "name": "_GET_IPL_BOUNDING_SPHERE",
+        "comment": "Outputs IPL position and radius (previously wrongly named heading)\nhttps://github.com/femga/rdr3_discoveries/blob/master/imaps/imaps_with_coords_and_heading.lua",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "iplHash"
+            },
+            {
+                "type": "Vector3*",
+                "name": "position"
+            },
+            {
+                "type": "float*",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

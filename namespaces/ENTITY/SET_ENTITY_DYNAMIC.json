@@ -1,0 +1,20 @@
+{
+    "0xFBFC4473F66CE344": {
+        "name": "SET_ENTITY_DYNAMIC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1718DE8E3F2823CA",
+        "gta_jhash": "0x236F525B"
+    }
+}

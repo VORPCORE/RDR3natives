@@ -1,0 +1,14 @@
+{
+    "0x3B393716C3FD8237": {
+        "name": "_0x3B393716C3FD8237",
+        "comment": "Used in SP R* Scripts only\n_IS_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

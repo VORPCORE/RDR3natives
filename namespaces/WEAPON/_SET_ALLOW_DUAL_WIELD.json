@@ -1,0 +1,18 @@
+{
+    "0x83B8D50EB9446BBA": {
+        "name": "_SET_ALLOW_DUAL_WIELD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "allow"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

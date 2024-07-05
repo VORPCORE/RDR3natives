@@ -1,0 +1,22 @@
+{
+    "0xDCF06D0CDFF68424": {
+        "name": "_HAS_ENTITY_BEEN_DAMAGED_BY_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponName"
+            },
+            {
+                "type": "int",
+                "name": "weaponType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

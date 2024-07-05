@@ -1,0 +1,14 @@
+{
+    "0xA1FBAC56D38563E2": {
+        "name": "_0xA1FBAC56D38563E2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

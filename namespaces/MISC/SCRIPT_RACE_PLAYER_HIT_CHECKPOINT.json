@@ -1,0 +1,28 @@
+{
+    "0xBA62B4D80FA66BD6": {
+        "name": "SCRIPT_RACE_PLAYER_HIT_CHECKPOINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "part"
+            },
+            {
+                "type": "int",
+                "name": "checkpoint"
+            },
+            {
+                "type": "int",
+                "name": "lap"
+            },
+            {
+                "type": "int",
+                "name": "time"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x1BB299305C3E8C13",
+        "gta_jhash": "0xA27F4472"
+    }
+}

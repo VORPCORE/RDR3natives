@@ -1,0 +1,30 @@
+{
+    "0x3FCBB5FCFD968698": {
+        "name": "_0x3FCBB5FCFD968698",
+        "comment": "Used for script function PROCESS_PLAYER_HAT_EVENT\nReturns requestId to be used with 0x13E7320C762F0477",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "drawable"
+            },
+            {
+                "type": "Hash",
+                "name": "albedo"
+            },
+            {
+                "type": "Hash",
+                "name": "normal"
+            },
+            {
+                "type": "Hash",
+                "name": "material"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

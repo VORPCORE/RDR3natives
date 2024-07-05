@@ -1,0 +1,11 @@
+{
+    "0x2302C0264EA58D31": {
+        "name": "NETWORK_PREVENT_SCRIPT_HOST_MIGRATION",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2302C0264EA58D31",
+        "gta_jhash": "0x8DCFE77D"
+    }
+}

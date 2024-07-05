@@ -1,0 +1,32 @@
+{
+    "0xF2EAB31979A7F910": {
+        "name": "TASK_HANDS_UP",
+        "comment": "flags: 0 = HANDS_UP_NOTHING; 1 = HANDS_UP_STRAIGHT_TO_LOOP",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "Ped",
+                "name": "facingPed"
+            },
+            {
+                "type": "int",
+                "name": "timeToFacePed"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF2EAB31979A7F910",
+        "gta_jhash": "0x8DCC19C5"
+    }
+}

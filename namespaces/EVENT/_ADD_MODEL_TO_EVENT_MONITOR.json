@@ -1,0 +1,22 @@
+{
+    "0x608AD36A644A97FE": {
+        "name": "_ADD_MODEL_TO_EVENT_MONITOR",
+        "comment": "Models used in the scripts: P_REGISTER05X, P_REGISTER06X, P_REGISTER03X, PLAYER_ZERO, PLAYER_THREE, A_C_HORSE_MORGAN_FLAXENCHESTNUT",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "model"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

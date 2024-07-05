@@ -1,0 +1,22 @@
+{
+    "0xFFCC2DB2D9953401": {
+        "name": "_GET_SHOP_ITEM_NUM_WEARABLE_STATES",
+        "comment": "Returns the number of wearable states available for a shop item / component. p2 seems to be true in scripts.\n\nFor use with 0x6243635AF2F1B826 (_GET_SHOP_ITEM_AVAILABLE_WEARABLE_STATE_BY_INDEX)",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "componentHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "isMpFemale"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

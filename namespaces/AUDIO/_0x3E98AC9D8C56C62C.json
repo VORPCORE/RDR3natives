@@ -1,0 +1,14 @@
+{
+    "0x3E98AC9D8C56C62C": {
+        "name": "_0x3E98AC9D8C56C62C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

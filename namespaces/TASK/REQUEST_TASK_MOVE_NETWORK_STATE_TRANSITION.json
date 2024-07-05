@@ -1,0 +1,20 @@
+{
+    "0xD01015C7316AE176": {
+        "name": "REQUEST_TASK_MOVE_NETWORK_STATE_TRANSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD01015C7316AE176",
+        "gta_jhash": "0x885724DE"
+    }
+}

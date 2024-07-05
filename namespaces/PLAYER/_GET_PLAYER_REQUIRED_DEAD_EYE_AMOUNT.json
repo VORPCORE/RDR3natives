@@ -1,0 +1,14 @@
+{
+    "0x811A748B1BE231BA": {
+        "name": "_GET_PLAYER_REQUIRED_DEAD_EYE_AMOUNT",
+        "comment": "If player has less Dead Eye than required, Dead Eye cant be triggered.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

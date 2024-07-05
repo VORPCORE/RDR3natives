@@ -1,0 +1,14 @@
+{
+    "0x7D4E70A67A651C71": {
+        "name": "_UNRESERVE_AMBIENT_PEDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "numPeds"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x9A2304A64C3C8423": {
+        "name": "IS_ENTITY_TOUCHING_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Entity",
+                "name": "targetEntity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x17FFC1B2BA35A494",
+        "gta_jhash": "0x6B931477"
+    }
+}

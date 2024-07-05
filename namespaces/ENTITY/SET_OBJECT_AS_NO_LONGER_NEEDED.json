@@ -1,0 +1,16 @@
+{
+    "0x3AE22DEB5BA5A3E6": {
+        "name": "SET_OBJECT_AS_NO_LONGER_NEEDED",
+        "comment": "This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.",
+        "params": [
+            {
+                "type": "Object*",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3AE22DEB5BA5A3E6",
+        "gta_jhash": "0x3F6B949F"
+    }
+}

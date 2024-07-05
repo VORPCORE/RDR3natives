@@ -1,0 +1,18 @@
+{
+    "0xAA0AF6025160243A": {
+        "name": "_TASK_EQUIP_HAT",
+        "comment": "_A*",
+        "params": [
+            {
+                "type": "Object",
+                "name": "hatObject"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

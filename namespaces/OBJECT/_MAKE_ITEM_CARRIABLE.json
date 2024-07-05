@@ -1,0 +1,14 @@
+{
+    "0x1461DF6DB886BE3F": {
+        "name": "_MAKE_ITEM_CARRIABLE",
+        "comment": "_PRE* or _Q* or _RE*",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

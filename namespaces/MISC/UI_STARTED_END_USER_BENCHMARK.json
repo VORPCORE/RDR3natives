@@ -1,0 +1,11 @@
+{
+    "0x4FFA0386A6216113": {
+        "name": "UI_STARTED_END_USER_BENCHMARK",
+        "comment": "Hardcoded to return false.\n\nOld name: _UI_IS_SINGLEPLAYER_PAUSE_MENU_ACTIVE",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xEA2F2061875EED90",
+        "gta_jhash": ""
+    }
+}

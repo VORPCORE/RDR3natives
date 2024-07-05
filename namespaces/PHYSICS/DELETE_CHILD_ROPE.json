@@ -1,0 +1,16 @@
+{
+    "0xAA5D6B1888E4DB20": {
+        "name": "DELETE_CHILD_ROPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xAA5D6B1888E4DB20",
+        "gta_jhash": "0xB19B4706"
+    }
+}

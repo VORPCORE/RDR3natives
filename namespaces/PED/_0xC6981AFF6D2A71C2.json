@@ -1,0 +1,14 @@
+{
+    "0xC6981AFF6D2A71C2": {
+        "name": "_0xC6981AFF6D2A71C2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

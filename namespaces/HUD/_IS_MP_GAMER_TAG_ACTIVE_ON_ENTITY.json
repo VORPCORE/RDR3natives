@@ -1,0 +1,18 @@
+{
+    "0x502E1591A504F843": {
+        "name": "_IS_MP_GAMER_TAG_ACTIVE_ON_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

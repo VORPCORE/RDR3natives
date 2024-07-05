@@ -1,0 +1,14 @@
+{
+    "0xC6136B40FFFB778B": {
+        "name": "_0xC6136B40FFFB778B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

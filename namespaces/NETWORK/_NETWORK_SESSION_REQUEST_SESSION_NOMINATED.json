@@ -1,0 +1,26 @@
+{
+    "0x4F4672457FF597D1": {
+        "name": "_NETWORK_SESSION_REQUEST_SESSION_NOMINATED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "userHash"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "Any*",
+                "name": "sessionRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1436"
+    }
+}

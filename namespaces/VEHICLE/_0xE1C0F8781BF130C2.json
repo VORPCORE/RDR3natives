@@ -1,0 +1,18 @@
+{
+    "0xE1C0F8781BF130C2": {
+        "name": "_0xE1C0F8781BF130C2",
+        "comment": "Only used in R* SP Script rcm_abigail31: p1 = 5\n_GET_VEHICLE_T* - _GET_VO*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "wagon"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

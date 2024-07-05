@@ -1,0 +1,18 @@
+{
+    "0x5C3C55EAAD19915F": {
+        "name": "_REQUEST_PED_EMOTIONAL_PRESET",
+        "comment": "For more information, see common:/data/emotional_presets.meta",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

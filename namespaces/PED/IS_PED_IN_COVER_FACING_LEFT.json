@@ -1,0 +1,16 @@
+{
+    "0x845333B3150583AB": {
+        "name": "IS_PED_IN_COVER_FACING_LEFT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x845333B3150583AB",
+        "gta_jhash": "0xB89DBB80"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xBDCC671B911040F9": {
+        "name": "_NETWORK_SPAWN_CONFIG_SET_LEVEL_WATER_DEPTH",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "waterDepthLevel"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

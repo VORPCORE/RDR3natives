@@ -1,0 +1,22 @@
+{
+    "0x6929E22158E52265": {
+        "name": "GET_PED_WEAPON_GUID_AT_ATTACH_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attachPoint"
+            },
+            {
+                "type": "Any*",
+                "name": "weaponGuid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

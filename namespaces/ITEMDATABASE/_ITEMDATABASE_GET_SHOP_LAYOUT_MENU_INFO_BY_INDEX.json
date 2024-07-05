@@ -1,0 +1,26 @@
+{
+    "0xF04247092F193B75": {
+        "name": "_ITEMDATABASE_GET_SHOP_LAYOUT_MENU_INFO_BY_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "layout"
+            },
+            {
+                "type": "Hash",
+                "name": "menu"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

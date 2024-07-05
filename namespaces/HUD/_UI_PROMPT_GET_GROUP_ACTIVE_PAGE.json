@@ -1,0 +1,14 @@
+{
+    "0xC1FCC36C3F7286C8": {
+        "name": "_UI_PROMPT_GET_GROUP_ACTIVE_PAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

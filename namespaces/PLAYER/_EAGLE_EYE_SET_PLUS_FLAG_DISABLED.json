@@ -1,0 +1,18 @@
+{
+    "0xCE285A4413B00B7F": {
+        "name": "_EAGLE_EYE_SET_PLUS_FLAG_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

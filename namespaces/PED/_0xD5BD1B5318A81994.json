@@ -1,0 +1,18 @@
+{
+    "0xD5BD1B5318A81994": {
+        "name": "_0xD5BD1B5318A81994",
+        "comment": "_SET_FORMATION_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

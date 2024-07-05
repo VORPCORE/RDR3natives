@@ -1,0 +1,24 @@
+{
+    "0xC1E8A365BF3B29F2": {
+        "name": "SET_PED_RESET_FLAG",
+        "comment": "Needs to be called every frame\n\nflagid:https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePedScriptResetFlags\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/CPED_RESET_FLAGS",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flagId"
+            },
+            {
+                "type": "BOOL",
+                "name": "doReset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC1E8A365BF3B29F2",
+        "gta_jhash": "0xCFF6FF66"
+    }
+}

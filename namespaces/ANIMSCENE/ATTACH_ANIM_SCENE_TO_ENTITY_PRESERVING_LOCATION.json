@@ -1,0 +1,22 @@
+{
+    "0x1C0B105C3F30B88D": {
+        "name": "ATTACH_ANIM_SCENE_TO_ENTITY_PRESERVING_LOCATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

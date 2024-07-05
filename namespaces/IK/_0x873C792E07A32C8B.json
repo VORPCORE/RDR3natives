@@ -1,0 +1,18 @@
+{
+    "0x873C792E07A32C8B": {
+        "name": "_0x873C792E07A32C8B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped1"
+            },
+            {
+                "type": "Ped",
+                "name": "ped2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

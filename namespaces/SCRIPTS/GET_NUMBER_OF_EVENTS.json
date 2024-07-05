@@ -1,0 +1,16 @@
+{
+    "0x5CE8DE5909565748": {
+        "name": "GET_NUMBER_OF_EVENTS",
+        "comment": "eventGroup: 0 = SCRIPT_EVENT_QUEUE_AI (CEventGroupScriptAI), 1 = SCRIPT_EVENT_QUEUE_NETWORK (CEventGroupScriptNetwork), 2 = unk, 3 = unk, 4 = SCRIPT_EVENT_QUEUE_ERRORS (CEventGroupScriptErrors)",
+        "params": [
+            {
+                "type": "int",
+                "name": "eventGroup"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x5F92A689A06620AA",
+        "gta_jhash": "0xA3525D60"
+    }
+}

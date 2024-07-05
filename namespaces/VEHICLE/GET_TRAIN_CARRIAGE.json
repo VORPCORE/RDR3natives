@@ -1,0 +1,20 @@
+{
+    "0xD0FB093A4CDB932C": {
+        "name": "GET_TRAIN_CARRIAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "int",
+                "name": "trailerNumber"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207",
+        "gta_hash": "0x08AAFD0814722BC3",
+        "gta_jhash": "0x2544E7A6"
+    }
+}

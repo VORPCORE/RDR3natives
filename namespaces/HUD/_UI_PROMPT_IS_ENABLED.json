@@ -1,0 +1,14 @@
+{
+    "0x0D00EDDFB58B7F28": {
+        "name": "_UI_PROMPT_IS_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

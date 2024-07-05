@@ -1,0 +1,30 @@
+{
+    "0x77BA37622E22023B": {
+        "name": "_GET_SHOP_ITEM_COMPONENT_AT_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "Any*",
+                "name": "argStruct"
+            },
+            {
+                "type": "Any*",
+                "name": "argStruct2"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

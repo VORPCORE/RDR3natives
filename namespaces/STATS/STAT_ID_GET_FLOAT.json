@@ -1,0 +1,18 @@
+{
+    "0xD7AE6C9C9C6AC54D": {
+        "name": "STAT_ID_GET_FLOAT",
+        "comment": "statId: see STAT_ID_IS_VALID",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            },
+            {
+                "type": "float*",
+                "name": "value"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

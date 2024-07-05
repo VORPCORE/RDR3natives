@@ -1,0 +1,16 @@
+{
+    "0xB4C94523F023419C": {
+        "name": "VEH_TO_NET",
+        "comment": "Returns the network ID of the given vehicle.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xB4C94523F023419C",
+        "gta_jhash": "0xF17634EB"
+    }
+}

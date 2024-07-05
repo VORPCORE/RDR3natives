@@ -1,0 +1,34 @@
+{
+    "0x84CCF9A12942C83D": {
+        "name": "GET_MATCHING_ENTITIES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemSet"
+            },
+            {
+                "type": "int",
+                "name": "entityType"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Hash",
+                "name": "p4"
+            },
+            {
+                "type": "const char*",
+                "name": "p5"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

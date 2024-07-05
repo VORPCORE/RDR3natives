@@ -1,0 +1,14 @@
+{
+    "0x1E7130793AAAAB8D": {
+        "name": "DATABINDING_IS_ENTRY_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "entryId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

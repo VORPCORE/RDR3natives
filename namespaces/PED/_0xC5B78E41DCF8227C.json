@@ -1,0 +1,18 @@
+{
+    "0xC5B78E41DCF8227C": {
+        "name": "_0xC5B78E41DCF8227C",
+        "comment": "_SET_H* - _SET_I*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

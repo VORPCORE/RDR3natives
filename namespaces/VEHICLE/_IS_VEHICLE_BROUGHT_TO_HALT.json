@@ -1,0 +1,14 @@
+{
+    "0x404527BC03DA0E6C": {
+        "name": "_IS_VEHICLE_BROUGHT_TO_HALT",
+        "comment": "Only returns true if BRING_VEHICLE_TO_HALT is called on vehicle beforehand",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

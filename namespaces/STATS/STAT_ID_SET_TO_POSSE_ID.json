@@ -1,0 +1,14 @@
+{
+    "0x34B22DE38477EDB4": {
+        "name": "STAT_ID_SET_TO_POSSE_ID",
+        "comment": "statId: see STAT_ID_IS_VALID",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x2A0C4736AC5AF0CE": {
+        "name": "_MINIGAME_IS_CONNECTED_TO_SERVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

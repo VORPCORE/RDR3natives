@@ -1,0 +1,14 @@
+{
+    "0x71D71E08A7ED5BD7": {
+        "name": "_0x71D71E08A7ED5BD7",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x7E7B19A4355FEE13": {
+        "name": "_GET_CURRENT_PED_WEAPON_AMMO_TYPE",
+        "comment": "Returns ammoHash from weaponObject (Returned by 0x6CA484C9A7377E4F)",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

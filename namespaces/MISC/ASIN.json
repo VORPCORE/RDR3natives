@@ -1,0 +1,16 @@
+{
+    "0x6E3C15D296C15583": {
+        "name": "ASIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xC843060B5765DCE7",
+        "gta_jhash": "0x998E5CAD"
+    }
+}

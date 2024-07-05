@@ -1,0 +1,14 @@
+{
+    "0x8E6AFF353C09652E": {
+        "name": "_SET_PHOTO_STUDIO_STAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

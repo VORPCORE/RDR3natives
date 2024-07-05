@@ -1,0 +1,18 @@
+{
+    "0xE9694B2D6CB87B06": {
+        "name": "_0xE9694B2D6CB87B06",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

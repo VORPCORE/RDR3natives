@@ -1,0 +1,27 @@
+{
+    "0x19447FCAE97704DC": {
+        "name": "_0x19447FCAE97704DC",
+        "comment": "Note: this native was added in build 1311.23",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "ctx"
+            },
+            {
+                "type": "int",
+                "name": "ec"
+            },
+            {
+                "type": "BOOL",
+                "name": "ex"
+            },
+            {
+                "type": "BOOL",
+                "name": "ro"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311",
+        "unused": true
+    }
+}

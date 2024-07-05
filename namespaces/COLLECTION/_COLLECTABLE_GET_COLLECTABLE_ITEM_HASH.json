@@ -1,0 +1,22 @@
+{
+    "0x126CBEBBA46693CF": {
+        "name": "_COLLECTABLE_GET_COLLECTABLE_ITEM_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Hash",
+                "name": "collectableCategory"
+            },
+            {
+                "type": "Hash",
+                "name": "collectableSubcategory"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

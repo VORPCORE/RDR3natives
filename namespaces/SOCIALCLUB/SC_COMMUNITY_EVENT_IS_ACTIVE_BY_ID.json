@@ -1,0 +1,17 @@
+{
+    "0x62B384FEFDE06817": {
+        "name": "SC_COMMUNITY_EVENT_IS_ACTIVE_BY_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0xA468E0BE12B12C70",
+        "gta_jhash": "0xB21288FA"
+    }
+}

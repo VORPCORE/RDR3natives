@@ -1,0 +1,22 @@
+{
+    "0xDA9D7BE231FE865F": {
+        "name": "_0xDA9D7BE231FE865F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

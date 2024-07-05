@@ -1,0 +1,28 @@
+{
+    "0x5698BA4FD04D39C4": {
+        "name": "IS_ANY_VEHICLE_NEAR_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x61E1DD6125A3EEE6",
+        "gta_jhash": "0x2867A834"
+    }
+}

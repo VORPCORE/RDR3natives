@@ -1,0 +1,18 @@
+{
+    "0x314C5465195F3B30": {
+        "name": "_SET_META_PED_WEARINESS",
+        "comment": "Sets ped eye redness, weariness: 0.f to 1.f",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "weariness"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

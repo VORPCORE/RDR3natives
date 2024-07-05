@@ -1,0 +1,50 @@
+{
+    "0x870708A6E147A9AD": {
+        "name": "REGISTER_INTERACTION_LOCKON_PROMPT",
+        "comment": "p3 is usually the same value of radius\np8 determines whether the ILO prompt is a lock on prompt with RMB",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "text"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x149AEE66F0CB3A99": {
+        "name": "SET_PED_WALLA_DENSITY",
+        "comment": "https://en.m.wikipedia.org/wiki/Walla",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x149AEE66F0CB3A99",
+        "gta_jhash": "0xE64F97A0"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x93A91A351A07360E": {
+        "name": "NETWORK_IS_GANG_IN_SESSION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "gangId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

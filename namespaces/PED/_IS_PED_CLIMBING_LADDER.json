@@ -1,0 +1,14 @@
+{
+    "0x59643424B68D52B5": {
+        "name": "_IS_PED_CLIMBING_LADDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x10A93C057B6BD944": {
+        "name": "_UIFLOWBLOCK_IS_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

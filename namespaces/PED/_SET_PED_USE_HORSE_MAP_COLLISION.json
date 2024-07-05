@@ -1,0 +1,18 @@
+{
+    "0xEB72453B6F5B45B0": {
+        "name": "_SET_PED_USE_HORSE_MAP_COLLISION",
+        "comment": "Doesn't actually return anything.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1232"
+    }
+}

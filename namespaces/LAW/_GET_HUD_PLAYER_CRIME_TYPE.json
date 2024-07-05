@@ -1,0 +1,14 @@
+{
+    "0x259CE340A8738814": {
+        "name": "_GET_HUD_PLAYER_CRIME_TYPE",
+        "comment": "See _REPORT_CRIME",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

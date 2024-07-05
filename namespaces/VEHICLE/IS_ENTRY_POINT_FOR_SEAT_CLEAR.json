@@ -1,0 +1,32 @@
+{
+    "0x80DDCCB2F4A3EB57": {
+        "name": "IS_ENTRY_POINT_FOR_SEAT_CLEAR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "side"
+            },
+            {
+                "type": "BOOL",
+                "name": "onEnter"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x639431E895B9AA57",
+        "gta_jhash": "0xAB0E79EB"
+    }
+}

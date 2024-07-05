@@ -1,0 +1,18 @@
+{
+    "0x9DE63896B176EA94": {
+        "name": "_SET_PED_PATH_MAY_ENTER_DEEP_WATER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "mayEnterDeepWater"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

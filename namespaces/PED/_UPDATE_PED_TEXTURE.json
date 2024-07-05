@@ -1,0 +1,14 @@
+{
+    "0x92DAABA2C1C10B0E": {
+        "name": "_UPDATE_PED_TEXTURE",
+        "comment": "Should be called at least once for any new texture override.\nOtherwise component textures will be just black.\nAlso needs to be called for updating any ped overlays to apply the changes.",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

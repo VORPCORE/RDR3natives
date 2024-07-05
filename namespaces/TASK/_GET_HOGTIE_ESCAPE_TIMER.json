@@ -1,0 +1,14 @@
+{
+    "0x4687E69D258BBE41": {
+        "name": "_GET_HOGTIE_ESCAPE_TIMER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

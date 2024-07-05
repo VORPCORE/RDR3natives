@@ -1,0 +1,14 @@
+{
+    "0x00A15B94CBA4F76F": {
+        "name": "_UI_STICKY_FEED_CLEAR_MESSAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "msgId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

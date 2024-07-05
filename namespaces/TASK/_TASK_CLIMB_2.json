@@ -1,0 +1,18 @@
+{
+    "0xDF1D85BCAF60D537": {
+        "name": "_TASK_CLIMB_2",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

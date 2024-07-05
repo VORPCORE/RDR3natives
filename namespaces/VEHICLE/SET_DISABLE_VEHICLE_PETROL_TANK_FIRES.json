@@ -1,0 +1,20 @@
+{
+    "0xB70986AB19B04AFF": {
+        "name": "SET_DISABLE_VEHICLE_PETROL_TANK_FIRES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x465BF26AB9684352",
+        "gta_jhash": "0xC40192B5"
+    }
+}

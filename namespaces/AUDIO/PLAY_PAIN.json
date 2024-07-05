@@ -1,0 +1,32 @@
+{
+    "0xBC9AE166038A5CEC": {
+        "name": "PLAY_PAIN",
+        "comment": "Valid pain IDs: 0..12",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "painId"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBC9AE166038A5CEC",
+        "gta_jhash": "0x874BD6CB"
+    }
+}

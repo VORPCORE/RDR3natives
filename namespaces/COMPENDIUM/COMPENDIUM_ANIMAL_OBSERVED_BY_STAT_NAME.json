@@ -1,0 +1,18 @@
+{
+    "0x725D52F26A5E9E10": {
+        "name": "COMPENDIUM_ANIMAL_OBSERVED_BY_STAT_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "animalType"
+            },
+            {
+                "type": "BOOL",
+                "name": "disableCompendiumToast"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

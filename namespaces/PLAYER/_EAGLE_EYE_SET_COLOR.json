@@ -1,0 +1,22 @@
+{
+    "0x2C41D93F550D5E37": {
+        "name": "_EAGLE_EYE_SET_COLOR",
+        "comment": "false: default eagleeye color\ntrue: green eagleeye color",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

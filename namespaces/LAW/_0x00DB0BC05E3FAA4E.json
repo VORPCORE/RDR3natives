@@ -1,0 +1,18 @@
+{
+    "0x00DB0BC05E3FAA4E": {
+        "name": "_0x00DB0BC05E3FAA4E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "bitset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

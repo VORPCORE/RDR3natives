@@ -1,0 +1,26 @@
+{
+    "0xEC43C2FFB70E3F30": {
+        "name": "_MODIFY_VOLUME_LOCK_LOCATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "volLock"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

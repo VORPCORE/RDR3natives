@@ -1,0 +1,60 @@
+{
+    "0xC9884ECADE94CB34": {
+        "name": "DRAW_SPRITE",
+        "comment": "Draws a 2D sprite on the screen.\n\nParameters:\ntextureDict - Name of texture dictionary to load texture from\n\ntextureName - Name of texture to load from texture dictionary\n\nscreenX/Y - Screen offset (0.5 = center)\nscaleX/Y - Texture scaling. Negative values can be used to flip the texture on that axis. (0.5 = half)\n\nheading - Texture rotation in degrees (default = 0.0) positive is clockwise, measured in degrees\n\nred,green,blue - Sprite color (default = 255/255/255)\n\nalpha - opacity level\n\nhttps://github.com/femga/rdr3_discoveries/tree/master/useful_info_from_rpfs/textures",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textureDict"
+            },
+            {
+                "type": "const char*",
+                "name": "textureName"
+            },
+            {
+                "type": "float",
+                "name": "screenX"
+            },
+            {
+                "type": "float",
+                "name": "screenY"
+            },
+            {
+                "type": "float",
+                "name": "width"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            },
+            {
+                "type": "int",
+                "name": "alpha"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE7FFAE5EBF23D890",
+        "gta_jhash": "0x1FEC16B0"
+    }
+}

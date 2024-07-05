@@ -1,0 +1,14 @@
+{
+    "0x8E1BA705F63C1925": {
+        "name": "RESUME_ANIM_SCENE_FROM_LAST_CHECKPOINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

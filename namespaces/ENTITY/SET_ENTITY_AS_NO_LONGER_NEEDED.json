@@ -1,0 +1,16 @@
+{
+    "0x4971D2F8162B9674": {
+        "name": "SET_ENTITY_AS_NO_LONGER_NEEDED",
+        "comment": "Marks the specified entity (ped, vehicle or object) as no longer needed.\nEntities marked as no longer needed, will be deleted as the engine sees fit.",
+        "params": [
+            {
+                "type": "Entity*",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB736A491E64A32CF",
+        "gta_jhash": "0xADF2267C"
+    }
+}

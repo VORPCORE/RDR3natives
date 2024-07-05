@@ -1,0 +1,30 @@
+{
+    "0x025A1B1FB03FBF61": {
+        "name": "_INVENTORY_GET_FULL_INVENTORY_ITEM_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

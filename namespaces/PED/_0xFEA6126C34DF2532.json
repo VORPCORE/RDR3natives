@@ -1,0 +1,18 @@
+{
+    "0xFEA6126C34DF2532": {
+        "name": "_0xFEA6126C34DF2532",
+        "comment": "METAPED_PLAYER_COMPONENTS_SET_META_TYPE_TO_BE_BYPASSED: Setting visibility\n_SET_M* - _SET_P*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

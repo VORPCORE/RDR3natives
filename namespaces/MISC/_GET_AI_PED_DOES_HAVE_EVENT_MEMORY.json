@@ -1,0 +1,18 @@
+{
+    "0xFDF38E2B711BF78E": {
+        "name": "_GET_AI_PED_DOES_HAVE_EVENT_MEMORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

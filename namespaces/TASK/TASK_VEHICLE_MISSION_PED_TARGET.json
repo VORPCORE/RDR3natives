@@ -1,0 +1,48 @@
+{
+    "0x9454528DF15D657A": {
+        "name": "TASK_VEHICLE_MISSION_PED_TARGET",
+        "comment": "See TASK_VEHICLE_MISSION",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Ped",
+                "name": "pedTarget"
+            },
+            {
+                "type": "int",
+                "name": "mode"
+            },
+            {
+                "type": "float",
+                "name": "maxSpeed"
+            },
+            {
+                "type": "int",
+                "name": "drivingStyle"
+            },
+            {
+                "type": "float",
+                "name": "minDistance"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "DriveAgainstTraffic"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9454528DF15D657A",
+        "gta_jhash": "0xC81C4677"
+    }
+}

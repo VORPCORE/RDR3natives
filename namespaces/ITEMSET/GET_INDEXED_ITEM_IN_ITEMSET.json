@@ -1,0 +1,20 @@
+{
+    "0x275A2E2C0FAB7612": {
+        "name": "GET_INDEXED_ITEM_IN_ITEMSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "ScrHandle",
+        "build": "1207",
+        "gta_hash": "0x7A197E2521EE2BAB",
+        "gta_jhash": "0x3F712874"
+    }
+}

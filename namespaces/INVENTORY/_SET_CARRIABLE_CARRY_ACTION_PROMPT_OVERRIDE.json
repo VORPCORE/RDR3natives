@@ -1,0 +1,14 @@
+{
+    "0xF666EF30F4F0AC4E": {
+        "name": "_SET_CARRIABLE_CARRY_ACTION_PROMPT_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

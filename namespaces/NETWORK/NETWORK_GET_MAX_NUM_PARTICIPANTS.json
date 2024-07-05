@@ -1,0 +1,11 @@
+{
+    "0xA6C90FBC38E395EE": {
+        "name": "NETWORK_GET_MAX_NUM_PARTICIPANTS",
+        "comment": "Seems to always return 0, but it's used in quite a few loops.\n\nfor (num3 = 0; num3 < NETWORK::0xCCD8C02D(); num3++)\n    {\n        if (NETWORK::NETWORK_IS_PARTICIPANT_ACTIVE(PLAYER::0x98F3B274(num3)) != 0)\n        {\n            var num5 = NETWORK::NETWORK_GET_PLAYER_INDEX(PLAYER::0x98F3B274(num3));",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xA6C90FBC38E395EE",
+        "gta_jhash": "0xCCD8C02D"
+    }
+}

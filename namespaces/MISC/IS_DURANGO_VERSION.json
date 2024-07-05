@@ -1,0 +1,11 @@
+{
+    "0xD1CCC2A2639D325F": {
+        "name": "IS_DURANGO_VERSION",
+        "comment": "Hardcoded to return false.\nChecks for XBOXONE Game Build.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4D982ADB1978442D",
+        "gta_jhash": "0x46FB06A5"
+    }
+}

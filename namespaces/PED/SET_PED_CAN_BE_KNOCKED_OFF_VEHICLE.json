@@ -1,0 +1,20 @@
+{
+    "0x7A6535691B477C48": {
+        "name": "SET_PED_CAN_BE_KNOCKED_OFF_VEHICLE",
+        "comment": "state:\nenum eKnockOffVehicle\n{\n\tKNOCKOFFVEHICLE_DEFAULT,\n\tKNOCKOFFVEHICLE_NEVER,\n\tKNOCKOFFVEHICLE_EASY,\n\tKNOCKOFFVEHICLE_HARD\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7A6535691B477C48",
+        "gta_jhash": "0x8A251612"
+    }
+}

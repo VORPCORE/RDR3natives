@@ -1,0 +1,52 @@
+{
+    "0x2F8AF0E82773A171": {
+        "name": "TASK_DRIVE_BY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "driverPed"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            },
+            {
+                "type": "Vehicle",
+                "name": "targetVehicle"
+            },
+            {
+                "type": "float",
+                "name": "targetX"
+            },
+            {
+                "type": "float",
+                "name": "targetY"
+            },
+            {
+                "type": "float",
+                "name": "targetZ"
+            },
+            {
+                "type": "float",
+                "name": "distanceToShoot"
+            },
+            {
+                "type": "int",
+                "name": "pedAccuracy"
+            },
+            {
+                "type": "BOOL",
+                "name": "p8"
+            },
+            {
+                "type": "Hash",
+                "name": "firingPattern"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2F8AF0E82773A171",
+        "gta_jhash": "0x2B84D1C4"
+    }
+}

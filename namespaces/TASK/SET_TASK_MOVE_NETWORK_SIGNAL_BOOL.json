@@ -1,0 +1,24 @@
+{
+    "0xB0A6CFD2C69C1088": {
+        "name": "SET_TASK_MOVE_NETWORK_SIGNAL_BOOL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "signalName"
+            },
+            {
+                "type": "BOOL",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB0A6CFD2C69C1088",
+        "gta_jhash": "0xF3538041"
+    }
+}

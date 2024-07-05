@@ -1,0 +1,11 @@
+{
+    "0x1FF00DB43026B12F": {
+        "name": "INSTANTLY_FILL_VEHICLE_POPULATION",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x48ADC8A773564670",
+        "gta_jhash": "0x37BC6ACB"
+    }
+}

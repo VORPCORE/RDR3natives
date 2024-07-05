@@ -1,0 +1,14 @@
+{
+    "0xEF3A8772F085B4AA": {
+        "name": "IS_PED_BEING_DRAGGED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

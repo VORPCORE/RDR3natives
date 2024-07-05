@@ -1,0 +1,14 @@
+{
+    "0xDA4D8EB04E8E2928": {
+        "name": "_0xDA4D8EB04E8E2928",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

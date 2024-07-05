@@ -1,0 +1,30 @@
+{
+    "0x738271B660FE0695": {
+        "name": "_GET_ENTITIES_FROM_PROP_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "PropSet",
+                "name": "propSet"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemSet"
+            },
+            {
+                "type": "Hash",
+                "name": "model"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

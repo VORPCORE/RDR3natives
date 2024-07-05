@@ -1,0 +1,20 @@
+{
+    "0x03C27E13B42A0E82": {
+        "name": "DOOR_SYSTEM_SET_AUTOMATIC_RATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            },
+            {
+                "type": "float",
+                "name": "rate"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x03C27E13B42A0E82",
+        "gta_jhash": "0x4F44AF21"
+    }
+}

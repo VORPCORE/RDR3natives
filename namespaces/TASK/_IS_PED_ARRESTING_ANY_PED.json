@@ -1,0 +1,14 @@
+{
+    "0xA9CC7856D52DBD25": {
+        "name": "_IS_PED_ARRESTING_ANY_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

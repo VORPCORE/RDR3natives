@@ -1,0 +1,14 @@
+{
+    "0x8E462DB1EAA9C47C": {
+        "name": "_0x8E462DB1EAA9C47C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

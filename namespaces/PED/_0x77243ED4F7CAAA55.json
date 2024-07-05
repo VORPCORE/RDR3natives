@@ -1,0 +1,14 @@
+{
+    "0x77243ED4F7CAAA55": {
+        "name": "_0x77243ED4F7CAAA55",
+        "comment": "_IS_I* - _IS_L*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

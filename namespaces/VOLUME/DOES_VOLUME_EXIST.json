@@ -1,0 +1,14 @@
+{
+    "0x92A78D0BEDB332A3": {
+        "name": "DOES_VOLUME_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

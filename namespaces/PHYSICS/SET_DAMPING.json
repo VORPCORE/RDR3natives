@@ -1,0 +1,24 @@
+{
+    "0xEEA3B200A6FEB65B": {
+        "name": "SET_DAMPING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "vertex"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEEA3B200A6FEB65B",
+        "gta_jhash": "0xCFB37773"
+    }
+}

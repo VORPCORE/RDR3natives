@@ -1,0 +1,14 @@
+{
+    "0x6759BEE6762E140B": {
+        "name": "_0x6759BEE6762E140B",
+        "comment": "",
+        "params": [
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

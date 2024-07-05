@@ -1,0 +1,18 @@
+{
+    "0x6E8B87139854022D": {
+        "name": "_0x6E8B87139854022D",
+        "comment": "Only used in SP R* Script train_robbery3: p1 = CLIPSET@VEH_TRAIN@HANDCART@BASE_PANIC & CLIPSET@VEH_TRAIN@HANDCART@BASE_PANIC_JOHN",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "clipset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

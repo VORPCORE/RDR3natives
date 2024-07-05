@@ -1,0 +1,16 @@
+{
+    "0x906B86E6D7896B9E": {
+        "name": "SET_SCRIPT_GFX_DRAW_BEHIND_PAUSEMENU",
+        "comment": "Sets a flag defining whether or not script draw commands should continue being drawn behind the pause menu. This is usually used for draw commands that are used with a world render target.",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC6372ECD45D73BCD",
+        "gta_jhash": "0xF8FBCC25"
+    }
+}

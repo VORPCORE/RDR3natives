@@ -1,0 +1,14 @@
+{
+    "0xE022CC1B545F1D9F": {
+        "name": "_IS_SECONDARY_SPECIAL_ABILITY_ENABLED",
+        "comment": "Returns true if eagle eye is enabled for the player",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

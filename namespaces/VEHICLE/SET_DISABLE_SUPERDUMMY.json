@@ -1,0 +1,20 @@
+{
+    "0x1716D787D9B94202": {
+        "name": "SET_DISABLE_SUPERDUMMY",
+        "comment": "Old name: _SET_DISABLE_SUPERDUMMY_MODE",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "disable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232",
+        "gta_hash": "0xB088E9A47AE6EDD5",
+        "gta_jhash": ""
+    }
+}

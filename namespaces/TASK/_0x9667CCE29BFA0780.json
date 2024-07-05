@@ -1,0 +1,14 @@
+{
+    "0x9667CCE29BFA0780": {
+        "name": "_0x9667CCE29BFA0780",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

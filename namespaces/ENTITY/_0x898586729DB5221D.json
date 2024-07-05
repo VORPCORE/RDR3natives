@@ -1,0 +1,14 @@
+{
+    "0x898586729DB5221D": {
+        "name": "_0x898586729DB5221D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

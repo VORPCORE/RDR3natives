@@ -1,0 +1,22 @@
+{
+    "0x9AC53CB6907B4428": {
+        "name": "_0x9AC53CB6907B4428",
+        "comment": "p1 (out) and p2 (in) are both script arrays?\nitem: can be a component item, see SHOP_CATALOG_BUILD_LIST_OF_WEAPON_COMPONENTS",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

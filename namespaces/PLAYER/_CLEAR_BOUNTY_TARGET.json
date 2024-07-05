@@ -1,0 +1,14 @@
+{
+    "0x8F2A81C09DA9124A": {
+        "name": "_CLEAR_BOUNTY_TARGET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

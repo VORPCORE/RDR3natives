@@ -1,0 +1,14 @@
+{
+    "0x36E3D8B5A6552FE8": {
+        "name": "GET_TARGET_CHARACTER_NAME_FOR_LOCAL_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

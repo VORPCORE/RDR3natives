@@ -1,0 +1,14 @@
+{
+    "0x9105A4A2556FA937": {
+        "name": "_MINIGAME_IS_REQUEST_PENDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

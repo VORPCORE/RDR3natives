@@ -1,0 +1,14 @@
+{
+    "0xE116F6F2DA2D777E": {
+        "name": "_0xE116F6F2DA2D777E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

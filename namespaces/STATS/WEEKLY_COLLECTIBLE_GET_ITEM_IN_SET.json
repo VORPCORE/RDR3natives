@@ -1,0 +1,30 @@
+{
+    "0xBA61BA6205A3F5A8": {
+        "name": "WEEKLY_COLLECTIBLE_GET_ITEM_IN_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            },
+            {
+                "type": "int",
+                "name": "setIndex"
+            },
+            {
+                "type": "int",
+                "name": "itemIndex"
+            },
+            {
+                "type": "Hash*",
+                "name": "p3"
+            },
+            {
+                "type": "int*",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

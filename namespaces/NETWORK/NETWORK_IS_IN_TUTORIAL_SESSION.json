@@ -1,0 +1,11 @@
+{
+    "0xADA24309FE08DACF": {
+        "name": "NETWORK_IS_IN_TUTORIAL_SESSION",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xADA24309FE08DACF",
+        "gta_jhash": "0x34DD7B28"
+    }
+}

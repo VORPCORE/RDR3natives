@@ -1,0 +1,15 @@
+{
+    "0x982D7AD755B8F62C": {
+        "name": "_0x982D7AD755B8F62C",
+        "comment": "Note: this native was added in build 1311.23",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311",
+        "unused": true
+    }
+}

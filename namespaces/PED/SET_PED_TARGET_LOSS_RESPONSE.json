@@ -1,0 +1,20 @@
+{
+    "0x0703B9079823DA4A": {
+        "name": "SET_PED_TARGET_LOSS_RESPONSE",
+        "comment": "TLR_ExitTask = 0,\nTLR_NeverLoseTarget,\nTLR_SearchForTarget",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "responseType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0703B9079823DA4A",
+        "gta_jhash": "0xCFA613FF"
+    }
+}

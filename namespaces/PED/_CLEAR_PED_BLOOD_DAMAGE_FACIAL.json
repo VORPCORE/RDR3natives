@@ -1,0 +1,18 @@
+{
+    "0x7F5D88333EE8A86F": {
+        "name": "_CLEAR_PED_BLOOD_DAMAGE_FACIAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

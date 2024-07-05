@@ -1,0 +1,14 @@
+{
+    "0x65B205BF30C13DDB": {
+        "name": "_START_CAMERA_ORBIT",
+        "comment": "[SHOP_CAMERA_SUPPORT_START_NEW_ORBIT]\np0: struct<32> /*256*/",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

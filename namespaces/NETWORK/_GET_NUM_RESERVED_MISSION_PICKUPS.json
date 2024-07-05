@@ -1,0 +1,14 @@
+{
+    "0x62BE3ECC79FBD004": {
+        "name": "_GET_NUM_RESERVED_MISSION_PICKUPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

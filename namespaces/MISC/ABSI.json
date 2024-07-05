@@ -1,0 +1,16 @@
+{
+    "0x0C214D5B8A38C828": {
+        "name": "ABSI",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xF0D31AD191A74F87",
+        "gta_jhash": "0xB44677C5"
+    }
+}

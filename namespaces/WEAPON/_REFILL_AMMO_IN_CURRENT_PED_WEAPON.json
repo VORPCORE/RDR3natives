@@ -1,0 +1,14 @@
+{
+    "0x0A2AB7B7ABC055F4": {
+        "name": "_REFILL_AMMO_IN_CURRENT_PED_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0xBF25EB89375A37AD": {
+        "name": "SET_RELATIONSHIP_BETWEEN_GROUPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "relationship"
+            },
+            {
+                "type": "Hash",
+                "name": "group1"
+            },
+            {
+                "type": "Hash",
+                "name": "group2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBF25EB89375A37AD",
+        "gta_jhash": "0xD4A215BA"
+    }
+}

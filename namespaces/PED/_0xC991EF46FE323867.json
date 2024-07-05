@@ -1,0 +1,18 @@
+{
+    "0xC991EF46FE323867": {
+        "name": "_0xC991EF46FE323867",
+        "comment": "Not implemented.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

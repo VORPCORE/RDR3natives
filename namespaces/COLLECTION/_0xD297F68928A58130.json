@@ -1,0 +1,18 @@
+{
+    "0xD297F68928A58130": {
+        "name": "_0xD297F68928A58130",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableCategory"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1232"
+    }
+}

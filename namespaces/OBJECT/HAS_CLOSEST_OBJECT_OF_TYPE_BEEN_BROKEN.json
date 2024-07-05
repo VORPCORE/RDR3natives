@@ -1,0 +1,36 @@
+{
+    "0x761B0E69AC4D007E": {
+        "name": "HAS_CLOSEST_OBJECT_OF_TYPE_BEEN_BROKEN",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x761B0E69AC4D007E",
+        "gta_jhash": "0x6FC0353D"
+    }
+}

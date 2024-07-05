@@ -1,0 +1,18 @@
+{
+    "0xCAD4FE9398820D24": {
+        "name": "_GET_WEAPON_ATTACH_POINT",
+        "comment": "Returns WeaponAttachPoint",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attachPoint"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

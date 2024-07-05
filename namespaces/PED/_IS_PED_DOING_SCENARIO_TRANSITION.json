@@ -1,0 +1,14 @@
+{
+    "0xC488B8C0E52560D8": {
+        "name": "_IS_PED_DOING_SCENARIO_TRANSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xBC3422DC91667621": {
+        "name": "_MONEY_INCREMENT_CASH_BALANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            },
+            {
+                "type": "Hash",
+                "name": "addReason"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

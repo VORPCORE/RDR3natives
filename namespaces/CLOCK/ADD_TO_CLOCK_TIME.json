@@ -1,0 +1,24 @@
+{
+    "0xAB7C251C7701D336": {
+        "name": "ADD_TO_CLOCK_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "hours"
+            },
+            {
+                "type": "int",
+                "name": "minutes"
+            },
+            {
+                "type": "int",
+                "name": "seconds"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD716F30D8C8980E2",
+        "gta_jhash": "0xCC40D20D"
+    }
+}

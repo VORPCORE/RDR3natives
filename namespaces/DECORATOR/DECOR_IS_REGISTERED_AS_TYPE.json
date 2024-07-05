@@ -1,0 +1,20 @@
+{
+    "0x72355278C069F272": {
+        "name": "DECOR_IS_REGISTERED_AS_TYPE",
+        "comment": "type: see DECOR_REGISTER",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "propertyName"
+            },
+            {
+                "type": "int",
+                "name": "type"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4F14F9F870D6FBC8",
+        "gta_jhash": "0x7CF0971D"
+    }
+}

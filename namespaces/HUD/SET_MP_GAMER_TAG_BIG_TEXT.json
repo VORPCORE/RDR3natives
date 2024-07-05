@@ -1,0 +1,20 @@
+{
+    "0xA0D7CE5F83259663": {
+        "name": "SET_MP_GAMER_TAG_BIG_TEXT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "gamerTagId"
+            },
+            {
+                "type": "const char*",
+                "name": "string"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7B7723747CCB55B6",
+        "gta_jhash": "0x939218AB"
+    }
+}

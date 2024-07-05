@@ -1,0 +1,14 @@
+{
+    "0xC276FE69DDA22BAD": {
+        "name": "_DOES_COVER_POINT_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "handle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

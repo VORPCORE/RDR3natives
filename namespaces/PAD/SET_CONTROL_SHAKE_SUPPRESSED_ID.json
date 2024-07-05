@@ -1,0 +1,20 @@
+{
+    "0xF239400E16C23E08": {
+        "name": "SET_CONTROL_SHAKE_SUPPRESSED_ID",
+        "comment": "Old name: SET_PAD_SHAKE_SUPPRESSED_ID",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "int",
+                "name": "uniqueId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF239400E16C23E08",
+        "gta_jhash": ""
+    }
+}

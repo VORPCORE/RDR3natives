@@ -1,0 +1,44 @@
+{
+    "0x90FB951648851733": {
+        "name": "SET_GAMEPLAY_PED_HINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            },
+            {
+                "type": "Any",
+                "name": "p7"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2B486269ACD548D3",
+        "gta_jhash": "0x7C27343E"
+    }
+}

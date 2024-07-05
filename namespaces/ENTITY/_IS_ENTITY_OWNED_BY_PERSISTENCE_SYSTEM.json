@@ -1,0 +1,14 @@
+{
+    "0xA7E51B53309EAC97": {
+        "name": "_IS_ENTITY_OWNED_BY_PERSISTENCE_SYSTEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

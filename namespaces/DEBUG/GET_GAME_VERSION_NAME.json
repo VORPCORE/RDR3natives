@@ -1,0 +1,10 @@
+{
+    "0x05A5F662AD35C573": {
+        "name": "GET_GAME_VERSION_NAME",
+        "comment": "Return example: 1207.69_dev_pc, 1436.28_dev_live_tu\n\nOld name: _GET_GAME_BUILD_STRING",
+        "params": [],
+        "return_type": "const char*",
+        "build": "1207",
+        "unused": true
+    }
+}

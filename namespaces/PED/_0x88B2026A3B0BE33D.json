@@ -1,0 +1,18 @@
+{
+    "0x88B2026A3B0BE33D": {
+        "name": "_0x88B2026A3B0BE33D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

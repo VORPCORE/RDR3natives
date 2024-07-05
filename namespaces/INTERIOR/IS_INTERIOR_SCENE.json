@@ -1,0 +1,11 @@
+{
+    "0x4200F14D6F840A9A": {
+        "name": "IS_INTERIOR_SCENE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xBC72B5D7A1CBD54D",
+        "gta_jhash": "0x55226C13"
+    }
+}

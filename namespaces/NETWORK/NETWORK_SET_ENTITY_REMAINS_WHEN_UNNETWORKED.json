@@ -1,0 +1,19 @@
+{
+    "0xD785864798258032": {
+        "name": "NETWORK_SET_ENTITY_REMAINS_WHEN_UNNETWORKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xC3ABCFBC7D74AFA5": {
+        "name": "_0xC3ABCFBC7D74AFA5",
+        "comment": "Returns BOOL in ida",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

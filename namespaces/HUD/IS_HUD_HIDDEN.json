@@ -1,0 +1,11 @@
+{
+    "0x71B72B478F8189DC": {
+        "name": "IS_HUD_HIDDEN",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xA86478C6958735C5",
+        "gta_jhash": "0x40BADA1D"
+    }
+}

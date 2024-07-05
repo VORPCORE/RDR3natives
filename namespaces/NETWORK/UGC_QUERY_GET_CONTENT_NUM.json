@@ -1,0 +1,14 @@
+{
+    "0x76160E0396142765": {
+        "name": "UGC_QUERY_GET_CONTENT_NUM",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ugcRequestId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

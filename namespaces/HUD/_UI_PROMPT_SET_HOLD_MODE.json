@@ -1,0 +1,18 @@
+{
+    "0x94073D5CA3F16B7B": {
+        "name": "_UI_PROMPT_SET_HOLD_MODE",
+        "comment": "Params: p2 is 304000 in R* SP Script coachrobberies",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "int",
+                "name": "holdTimeMs"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

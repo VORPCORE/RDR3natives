@@ -1,0 +1,14 @@
+{
+    "0xA35E7BF20FA269E0": {
+        "name": "_NETWORK_SPAWN_CONFIG_REMOVE_EXCLUSION_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

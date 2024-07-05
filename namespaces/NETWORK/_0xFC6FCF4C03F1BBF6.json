@@ -1,0 +1,9 @@
+{
+    "0xFC6FCF4C03F1BBF6": {
+        "name": "_0xFC6FCF4C03F1BBF6",
+        "comment": "nullsub, doesn't do anything",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

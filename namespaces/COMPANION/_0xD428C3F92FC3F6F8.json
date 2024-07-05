@@ -1,0 +1,18 @@
+{
+    "0xD428C3F92FC3F6F8": {
+        "name": "_0xD428C3F92FC3F6F8",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

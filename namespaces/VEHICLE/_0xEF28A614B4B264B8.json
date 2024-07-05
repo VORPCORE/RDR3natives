@@ -1,0 +1,18 @@
+{
+    "0xEF28A614B4B264B8": {
+        "name": "_0xEF28A614B4B264B8",
+        "comment": "_SET_TRAIN_*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

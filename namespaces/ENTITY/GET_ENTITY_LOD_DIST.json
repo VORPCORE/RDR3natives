@@ -1,0 +1,16 @@
+{
+    "0xDF240D0C2A948683": {
+        "name": "GET_ENTITY_LOD_DIST",
+        "comment": "Returns the LOD distance of an entity.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x4159C2762B5791D6",
+        "gta_jhash": "0x4DA3D51F"
+    }
+}

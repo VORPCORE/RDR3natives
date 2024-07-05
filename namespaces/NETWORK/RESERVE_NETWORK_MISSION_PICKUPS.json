@@ -1,0 +1,14 @@
+{
+    "0x4D40E7D749BC6E6D": {
+        "name": "RESERVE_NETWORK_MISSION_PICKUPS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xB34A6009A0DB80B8": {
+        "name": "_0xB34A6009A0DB80B8",
+        "comment": "Used in bounty1, fanale3, sean1 R* Scripts",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

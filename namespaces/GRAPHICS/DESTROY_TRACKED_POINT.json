@@ -1,0 +1,16 @@
+{
+    "0x37A59922109F8F1C": {
+        "name": "DESTROY_TRACKED_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "point"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB25DC90BAD56CA42",
+        "gta_jhash": "0x14AC675F"
+    }
+}

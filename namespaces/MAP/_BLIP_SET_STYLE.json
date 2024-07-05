@@ -1,0 +1,18 @@
+{
+    "0xEDD964B7984AC291": {
+        "name": "_BLIP_SET_STYLE",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/useful_info_from_rpfs/blip_styles\nRemoves any existing modifiers and sets the style.",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "Hash",
+                "name": "styleHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

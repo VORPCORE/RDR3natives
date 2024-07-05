@@ -1,0 +1,18 @@
+{
+    "0x25ACFC650B65C538": {
+        "name": "_SET_PED_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "scale"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

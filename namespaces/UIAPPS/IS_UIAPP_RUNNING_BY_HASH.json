@@ -1,0 +1,14 @@
+{
+    "0x4E511D093A86AD49": {
+        "name": "IS_UIAPP_RUNNING_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "appNameHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

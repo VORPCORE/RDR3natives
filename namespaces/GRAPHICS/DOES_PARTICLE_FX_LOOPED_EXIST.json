@@ -1,0 +1,16 @@
+{
+    "0x9DD5AFF561E88F2A": {
+        "name": "DOES_PARTICLE_FX_LOOPED_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ptfxHandle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x74AFEF0D2E1E409B",
+        "gta_jhash": "0xCBF91D2A"
+    }
+}

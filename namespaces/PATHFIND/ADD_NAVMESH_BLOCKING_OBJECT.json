@@ -1,0 +1,48 @@
+{
+    "0xFCD5C8E06E502F5A": {
+        "name": "ADD_NAVMESH_BLOCKING_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "p7"
+            },
+            {
+                "type": "Any",
+                "name": "p8"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207",
+        "gta_hash": "0xFCD5C8E06E502F5A",
+        "gta_jhash": "0x2952BA56"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x0D3630FB07E8B570": {
+        "name": "DELETE_MISSION_TRAIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle*",
+                "name": "train"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5B76B14AE875C795",
+        "gta_jhash": "0x86C9497D"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "0x350C23949E43686C": {
+        "name": "NETWORK_GET_AVERAGE_PACKET_LOSS",
+        "comment": "Old name: _NETWORK_GET_AVERAGE_PACKET_LOSS_FOR_PLAYER",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x350C23949E43686C",
+        "gta_jhash": ""
+    }
+}

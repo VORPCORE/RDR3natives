@@ -1,0 +1,30 @@
+{
+    "0xCEF4C65DE502D367": {
+        "name": "MAKE_PED_DROP_WEAPON",
+        "comment": "Old name: _DROP_CURRENT_PED_WEAPON",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "attachPoint"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

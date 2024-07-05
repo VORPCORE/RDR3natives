@@ -1,0 +1,18 @@
+{
+    "0x63CBBD6CA6F321F9": {
+        "name": "SET_MINIMAP_FOW_REVEAL_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

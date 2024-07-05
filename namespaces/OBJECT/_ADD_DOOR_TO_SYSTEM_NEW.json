@@ -1,0 +1,38 @@
+{
+    "0xD99229FE93B46286": {
+        "name": "_ADD_DOOR_TO_SYSTEM_NEW",
+        "comment": "Registers a door, hashes: https://github.com/femga/rdr3_discoveries/tree/master/doorHashes",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "threadId"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

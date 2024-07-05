@@ -1,0 +1,14 @@
+{
+    "0xF66090013DE648D5": {
+        "name": "TEXT_BLOCK_REQUEST",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "textBlock"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

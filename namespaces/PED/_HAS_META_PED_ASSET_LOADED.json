@@ -1,0 +1,14 @@
+{
+    "0xB0B2C6D170B0E8E5": {
+        "name": "_HAS_META_PED_ASSET_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

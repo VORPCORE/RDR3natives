@@ -1,0 +1,14 @@
+{
+    "0xD6A67E2FF373D0E3": {
+        "name": "_0xD6A67E2FF373D0E3",
+        "comment": "_BOUNTY_GET_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1355"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x31F343383F19C987": {
+        "name": "_SET_BATCH_TARP_HEIGHT",
+        "comment": "Total height is calculated using: cargo ratio + pelt ratio (by pelt count)\nScreenshot: https://imgur.com/a/nsomtiv",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "height"
+            },
+            {
+                "type": "BOOL",
+                "name": "immediately"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

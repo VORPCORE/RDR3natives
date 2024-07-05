@@ -1,0 +1,26 @@
+{
+    "0x39A8EF7AF29A192C": {
+        "name": "NETWORK_SESSION_REQUEST_SESSION_PRIVATE",
+        "comment": "Session flag 'SF_PRIVATE' is set internally\np1 represents max amount of players in private session",
+        "params": [
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "int",
+                "name": "numPlayers"
+            },
+            {
+                "type": "int",
+                "name": "userHash"
+            },
+            {
+                "type": "Any*",
+                "name": "sessionRequestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

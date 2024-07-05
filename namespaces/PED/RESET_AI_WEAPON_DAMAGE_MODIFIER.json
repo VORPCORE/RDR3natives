@@ -1,0 +1,11 @@
+{
+    "0xEA16670E7BA4743C": {
+        "name": "RESET_AI_WEAPON_DAMAGE_MODIFIER",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xEA16670E7BA4743C",
+        "gta_jhash": "0x6E965420"
+    }
+}

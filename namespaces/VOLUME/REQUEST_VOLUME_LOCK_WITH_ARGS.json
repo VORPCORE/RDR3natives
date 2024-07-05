@@ -1,0 +1,14 @@
+{
+    "0x183C0B6CFEFFCAE4": {
+        "name": "REQUEST_VOLUME_LOCK_WITH_ARGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

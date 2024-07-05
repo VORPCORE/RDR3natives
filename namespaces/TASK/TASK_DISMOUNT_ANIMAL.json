@@ -1,0 +1,34 @@
+{
+    "0x48E92D3DDE23C23A": {
+        "name": "TASK_DISMOUNT_ANIMAL",
+        "comment": "Dismounts the ped from the animal it's mounted on. taskFlag affects what side the rider gets off. p2-p5 are almost always 0.\nflags: See TASK_ENTER_VEHICLE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "rider"
+            },
+            {
+                "type": "int",
+                "name": "taskFlag"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

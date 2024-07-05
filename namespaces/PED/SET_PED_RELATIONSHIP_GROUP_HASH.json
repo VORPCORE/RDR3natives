@@ -1,0 +1,20 @@
+{
+    "0xC80A74AC829DDD92": {
+        "name": "SET_PED_RELATIONSHIP_GROUP_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "relationshipGroup"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC80A74AC829DDD92",
+        "gta_jhash": "0x79F8C18C"
+    }
+}

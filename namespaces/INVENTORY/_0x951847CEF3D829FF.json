@@ -1,0 +1,22 @@
+{
+    "0x951847CEF3D829FF": {
+        "name": "_0x951847CEF3D829FF",
+        "comment": "p0: value returned by 0x46DB71883EE9D5AF",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "outGuid"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x4D107406667423BE": {
+        "name": "_UI_PROMPT_CONTEXT_SET_VOLUME",
+        "comment": "Attaches a Volume",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

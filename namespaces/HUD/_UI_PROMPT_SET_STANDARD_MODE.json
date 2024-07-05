@@ -1,0 +1,18 @@
+{
+    "0xCC6656799977741B": {
+        "name": "_UI_PROMPT_SET_STANDARD_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "BOOL",
+                "name": "releaseMode"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

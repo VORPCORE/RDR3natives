@@ -1,0 +1,14 @@
+{
+    "0x87C2724A56F66020": {
+        "name": "_0x87C2724A56F66020",
+        "comment": "_CLEAR_PED_E* - _CLEAR_PED_L*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

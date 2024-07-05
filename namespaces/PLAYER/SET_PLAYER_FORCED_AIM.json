@@ -1,0 +1,32 @@
+{
+    "0xD5FCC166AEB2FD0F": {
+        "name": "SET_PLAYER_FORCED_AIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0FEE4F80AC44A726",
+        "gta_jhash": "0x94E42E2E"
+    }
+}

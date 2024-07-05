@@ -1,0 +1,14 @@
+{
+    "0x7EC0D68233E391AC": {
+        "name": "_0x7EC0D68233E391AC",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

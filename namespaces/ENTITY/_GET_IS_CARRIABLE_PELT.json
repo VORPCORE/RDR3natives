@@ -1,0 +1,14 @@
+{
+    "0x255B6DB4E3AD3C3E": {
+        "name": "_GET_IS_CARRIABLE_PELT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

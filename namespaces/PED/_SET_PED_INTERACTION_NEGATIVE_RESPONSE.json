@@ -1,0 +1,18 @@
+{
+    "0xA3C53CDE922BC78B": {
+        "name": "_SET_PED_INTERACTION_NEGATIVE_RESPONSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "speech"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

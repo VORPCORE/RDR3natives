@@ -1,0 +1,26 @@
+{
+    "0x4DB9D03AC4E1FA84": {
+        "name": "_SET_PED_WRITHING_DURATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "writhingDuration1"
+            },
+            {
+                "type": "float",
+                "name": "writhingDuration2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x3A3CD06597388322": {
+        "name": "SET_PLAYER_LOCKON_RANGE_OVERRIDE",
+        "comment": "Affects the range of auto aim target.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "range"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x29961D490E5814FD",
+        "gta_jhash": "0x74D42C03"
+    }
+}

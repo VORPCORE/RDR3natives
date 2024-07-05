@@ -1,0 +1,34 @@
+{
+    "0xC65A45D4453C2627": {
+        "name": "_UI_PROMPT_SET_ACTIVE_GROUP_THIS_FRAME",
+        "comment": "Note: you must use VAR_STRING for p1 if string is not part of text database\ntabAmount: specifies number of tabs in prompt group\ntabDefaultIndex: specifies starting index\np3 if is set > 3 you can no longer press Q to change tab if there are more than one tab set in tabAmount",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "int",
+                "name": "tabAmount"
+            },
+            {
+                "type": "int",
+                "name": "tabDefaultIndex"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0xBB5A3FA8ED3979C5": {
+        "name": "SET_VEHICLE_HAS_BEEN_OWNED_BY_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "owned"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2B5F9D2AF1F1722D",
+        "gta_jhash": "0xB4D3DBFB"
+    }
+}

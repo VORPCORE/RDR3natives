@@ -1,0 +1,18 @@
+{
+    "0xC5F428EE08FA7F2C": {
+        "name": "_UI_PROMPT_SET_URGENT_PULSING_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

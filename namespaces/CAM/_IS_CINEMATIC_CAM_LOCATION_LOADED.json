@@ -1,0 +1,14 @@
+{
+    "0xAA235E2F2C09E952": {
+        "name": "_IS_CINEMATIC_CAM_LOCATION_LOADED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "sLocationDictName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

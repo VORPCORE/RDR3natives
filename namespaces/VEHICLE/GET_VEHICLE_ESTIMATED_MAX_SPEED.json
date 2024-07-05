@@ -1,0 +1,16 @@
+{
+    "0xFE52F34491529F0B": {
+        "name": "GET_VEHICLE_ESTIMATED_MAX_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x53AF99BAA671CA47",
+        "gta_jhash": "0x7D1A0616"
+    }
+}

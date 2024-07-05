@@ -1,0 +1,18 @@
+{
+    "0x157D8F3DE12B307F": {
+        "name": "_NETWORK_ADD_PLAYER_TO_RECENT_GAMERS_LIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

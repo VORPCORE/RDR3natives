@@ -1,0 +1,26 @@
+{
+    "0xDF631E4BCE1B1FC4": {
+        "name": "REMOVE_SHOP_ITEM_FROM_PED_BY_CATEGORY",
+        "comment": "Params: p2, p3 usually 0 in R* Scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "componentCategory"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

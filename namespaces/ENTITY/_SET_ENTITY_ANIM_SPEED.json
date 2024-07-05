@@ -1,0 +1,26 @@
+{
+    "0xEAA885BA3CEA4E4A": {
+        "name": "_SET_ENTITY_ANIM_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animName"
+            },
+            {
+                "type": "float",
+                "name": "speedMultiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

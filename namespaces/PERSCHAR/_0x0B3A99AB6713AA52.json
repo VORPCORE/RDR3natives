@@ -1,0 +1,14 @@
+{
+    "0x0B3A99AB6713AA52": {
+        "name": "_0x0B3A99AB6713AA52",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x34A0671BE613D3D0": {
+        "name": "_IS_ANIM_SCENE_ABORTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

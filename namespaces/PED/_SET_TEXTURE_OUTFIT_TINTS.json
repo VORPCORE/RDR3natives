@@ -1,0 +1,34 @@
+{
+    "0x4EFC1F8FF1AD94DE": {
+        "name": "_SET_TEXTURE_OUTFIT_TINTS",
+        "comment": "Used in script function METAPED_CLOTHING__XML__APPLY_OUTFIT_TINTS_TO_PED",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "componentCategory"
+            },
+            {
+                "type": "Hash",
+                "name": "palette"
+            },
+            {
+                "type": "int",
+                "name": "tint0"
+            },
+            {
+                "type": "int",
+                "name": "tint1"
+            },
+            {
+                "type": "int",
+                "name": "tint2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x748C5F51A18CB8F0": {
+        "name": "_0x748C5F51A18CB8F0",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

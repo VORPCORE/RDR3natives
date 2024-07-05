@@ -1,0 +1,14 @@
+{
+    "0x5A3B54ADDF5472A3": {
+        "name": "_0x5A3B54ADDF5472A3",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

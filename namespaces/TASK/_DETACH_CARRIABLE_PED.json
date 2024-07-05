@@ -1,0 +1,14 @@
+{
+    "0x36D188AECB26094B": {
+        "name": "_DETACH_CARRIABLE_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

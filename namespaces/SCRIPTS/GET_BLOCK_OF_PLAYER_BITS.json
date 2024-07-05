@@ -1,0 +1,18 @@
+{
+    "0xFA3B530A5CC693D5": {
+        "name": "GET_BLOCK_OF_PLAYER_BITS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

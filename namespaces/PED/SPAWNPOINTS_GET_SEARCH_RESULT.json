@@ -1,0 +1,28 @@
+{
+    "0x280C7E3AC7F56E90": {
+        "name": "SPAWNPOINTS_GET_SEARCH_RESULT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "randomInt"
+            },
+            {
+                "type": "float*",
+                "name": "x"
+            },
+            {
+                "type": "Any*",
+                "name": "y"
+            },
+            {
+                "type": "float*",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x280C7E3AC7F56E90",
+        "gta_jhash": "0x36A4AC65"
+    }
+}

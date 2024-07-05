@@ -1,0 +1,11 @@
+{
+    "0x9C473089A934C930": {
+        "name": "DISABLE_ON_FOOT_FIRST_PERSON_VIEW_THIS_UPDATE",
+        "comment": "Old name: _DISABLE_FIRST_PERSON_CAM_THIS_FRAME",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDE2EF5DA284CC8DF",
+        "gta_jhash": ""
+    }
+}

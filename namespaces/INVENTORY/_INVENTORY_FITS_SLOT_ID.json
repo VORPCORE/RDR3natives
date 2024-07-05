@@ -1,0 +1,18 @@
+{
+    "0x780C5B9AE2819807": {
+        "name": "_INVENTORY_FITS_SLOT_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "Hash",
+                "name": "slotId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

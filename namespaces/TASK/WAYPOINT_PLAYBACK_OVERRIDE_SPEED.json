@@ -1,0 +1,32 @@
+{
+    "0x7D7D2B47FA788E85": {
+        "name": "WAYPOINT_PLAYBACK_OVERRIDE_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7D7D2B47FA788E85",
+        "gta_jhash": "0x23E6BA96"
+    }
+}

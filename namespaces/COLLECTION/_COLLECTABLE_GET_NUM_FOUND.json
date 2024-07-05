@@ -1,0 +1,14 @@
+{
+    "0xF83D3DDA4D3C8169": {
+        "name": "_COLLECTABLE_GET_NUM_FOUND",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "collectableItem"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

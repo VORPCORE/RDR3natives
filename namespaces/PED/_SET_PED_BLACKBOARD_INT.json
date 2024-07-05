@@ -1,0 +1,26 @@
+{
+    "0x5F53010C4C3F6BAF": {
+        "name": "_SET_PED_BLACKBOARD_INT",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/AI/BLACKBOARDS\nBlackboard natives allow you to apply and check certain data to/for peds.\nBlackboard bools, floats and strings are subdivided into 6 sections: \"all\", \"animation\", \"any\", \"code\", \"global\" and \"script\"\nMost changes are only visible for \"script\" blackboards, some \"script\" blackboards change ped motions\n\"removeTimer\" is self-removal timer, can be \"-1\" so your data will not be removed by the game (forever); 100 = 1 second",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "variableName"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "removeTimer"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

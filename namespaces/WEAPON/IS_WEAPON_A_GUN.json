@@ -1,0 +1,14 @@
+{
+    "0x705BE297EEBDB95D": {
+        "name": "IS_WEAPON_A_GUN",
+        "comment": "Returns true if CWeaponInfoFlags::Flags::Gun is set.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

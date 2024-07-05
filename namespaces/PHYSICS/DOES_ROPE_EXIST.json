@@ -1,0 +1,16 @@
+{
+    "0xFD5448BE3111ED96": {
+        "name": "DOES_ROPE_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xFD5448BE3111ED96",
+        "gta_jhash": "0x66E4A3AC"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "0x383F64263F946E45": {
+        "name": "_0x383F64263F946E45",
+        "comment": "Used when checking if ped is in water",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0xE65B5DE53351BE22": {
+        "name": "_JOURNAL_GET_ENTRY_COUNT",
+        "comment": "",
+        "params": [],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

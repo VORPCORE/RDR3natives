@@ -1,0 +1,22 @@
+{
+    "0xC61EDEBF16CD9668": {
+        "name": "_PAUSE_BOUNTY_HUNTER_COOLDOWN",
+        "comment": "p0 is always BOUNTYHUNTERSGLOBALCOOLDOWN in R* scripts",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

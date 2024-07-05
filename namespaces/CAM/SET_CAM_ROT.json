@@ -1,0 +1,32 @@
+{
+    "0x63DFA6810AD78719": {
+        "name": "SET_CAM_ROT",
+        "comment": "Sets the rotation of the cam.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "int",
+                "name": "rotationOrder"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x85973643155D0B07",
+        "gta_jhash": "0xEE38B3C1"
+    }
+}

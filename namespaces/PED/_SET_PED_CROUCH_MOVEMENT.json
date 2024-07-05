@@ -1,0 +1,26 @@
+{
+    "0x7DE9692C6F64CFE8": {
+        "name": "_SET_PED_CROUCH_MOVEMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "immediately"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

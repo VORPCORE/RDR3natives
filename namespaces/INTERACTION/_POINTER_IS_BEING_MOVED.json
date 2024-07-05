@@ -1,0 +1,9 @@
+{
+    "0x2B8B605F2A9E64BF": {
+        "name": "_POINTER_IS_BEING_MOVED",
+        "comment": "Returns true if player is moving mouse while cursor is active\n_PI* - _PO*",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

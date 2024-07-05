@@ -1,0 +1,22 @@
+{
+    "0x1B554723799245F4": {
+        "name": "_TELEMETRY_INTRO_SKIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1355"
+    }
+}

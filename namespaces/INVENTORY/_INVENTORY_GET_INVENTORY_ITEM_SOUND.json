@@ -1,0 +1,18 @@
+{
+    "0x2E1CDC1FF3B8473E": {
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_SOUND",
+        "comment": "soundType: see 0x2BAE4880DCDD560B\nReturns item Hash to be used with _IS_SCRIPTED_AUDIO_CUSTOM and _PLAY_SOUND_FROM_ITEM (p0)",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "int",
+                "name": "soundType"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

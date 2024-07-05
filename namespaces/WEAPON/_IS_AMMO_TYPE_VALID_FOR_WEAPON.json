@@ -1,0 +1,18 @@
+{
+    "0xC570B881754DF609": {
+        "name": "_IS_AMMO_TYPE_VALID_FOR_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

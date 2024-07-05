@@ -1,0 +1,24 @@
+{
+    "0x4CACA84440FA26F6": {
+        "name": "NETWORK_GET_ASSISTED_DAMAGE_OF_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4CACA84440FA26F6",
+        "gta_jhash": "0x28A45454"
+    }
+}

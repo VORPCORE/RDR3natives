@@ -1,0 +1,18 @@
+{
+    "0x10342CC82E8356E9": {
+        "name": "_0x10342CC82E8356E9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xEB550B927B34A1BB": {
+        "name": "_UI_PROMPT_DOES_AMBIENT_GROUP_EXIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x276AAF0F1C7F2494": {
+        "name": "_DOOR_SYSTEM_FORCE_SHUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "doorHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

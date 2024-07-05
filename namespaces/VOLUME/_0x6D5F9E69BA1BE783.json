@@ -1,0 +1,14 @@
+{
+    "0x6D5F9E69BA1BE783": {
+        "name": "_0x6D5F9E69BA1BE783",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

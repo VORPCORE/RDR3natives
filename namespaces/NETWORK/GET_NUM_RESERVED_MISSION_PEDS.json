@@ -1,0 +1,16 @@
+{
+    "0x1F13D5AE5CB17E17": {
+        "name": "GET_NUM_RESERVED_MISSION_PEDS",
+        "comment": "p0 appears to be for MP",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x1F13D5AE5CB17E17",
+        "gta_jhash": "0x6C25975C"
+    }
+}

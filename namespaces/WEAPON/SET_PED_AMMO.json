@@ -1,0 +1,24 @@
+{
+    "0x14E56BC5B5DB6A19": {
+        "name": "SET_PED_AMMO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "int",
+                "name": "ammo"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x14E56BC5B5DB6A19",
+        "gta_jhash": "0xBF90DF1A"
+    }
+}

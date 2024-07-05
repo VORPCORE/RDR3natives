@@ -1,0 +1,18 @@
+{
+    "0xB25B5A375BE5BE26": {
+        "name": "_SAVEGAME_GET_INT_3",
+        "comment": "Does the exact same as 0x529B9CCD0972AF4E\nCommonly used with enums and flags",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "variableName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

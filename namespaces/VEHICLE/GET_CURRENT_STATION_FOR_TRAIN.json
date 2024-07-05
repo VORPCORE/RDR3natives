@@ -1,0 +1,14 @@
+{
+    "0x86FA6D8B48667D75": {
+        "name": "GET_CURRENT_STATION_FOR_TRAIN",
+        "comment": "Returns p1 for 0xBA958F68031DDBFC (stationIndex)",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

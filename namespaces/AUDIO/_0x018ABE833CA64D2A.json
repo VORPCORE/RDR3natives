@@ -1,0 +1,18 @@
+{
+    "0x018ABE833CA64D2A": {
+        "name": "_0x018ABE833CA64D2A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

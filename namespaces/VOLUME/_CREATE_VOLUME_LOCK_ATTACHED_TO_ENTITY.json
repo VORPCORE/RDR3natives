@@ -1,0 +1,26 @@
+{
+    "0xF383E96C4904DF0C": {
+        "name": "_CREATE_VOLUME_LOCK_ATTACHED_TO_ENTITY",
+        "comment": "Params: p3 is always 0",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "int",
+                "name": "flag"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "Volume",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xB9050A97594C8832": {
+        "name": "_GET_VEHICLE_OWNED_BY_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207"
+    }
+}

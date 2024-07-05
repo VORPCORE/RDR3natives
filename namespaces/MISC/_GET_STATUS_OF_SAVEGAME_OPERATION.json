@@ -1,0 +1,14 @@
+{
+    "0x1B065A2BF7953815": {
+        "name": "_GET_STATUS_OF_SAVEGAME_OPERATION",
+        "comment": "Only 0 and 1 are valid for p0, higher values causes the native to return 2.",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

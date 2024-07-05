@@ -1,0 +1,22 @@
+{
+    "0x0E53530D9B2DB01D": {
+        "name": "_PLAY_ANIMAL_VOCALIZATION_PHEROMONE_VIAL_RESPONSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

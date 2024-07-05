@@ -1,0 +1,11 @@
+{
+    "0xF12E4CCAF249DC10": {
+        "name": "SET_MOUSE_CURSOR_THIS_FRAME",
+        "comment": "Shows the cursor on screen for one frame.\n\nOld name: _SET_MOUSE_CURSOR_ACTIVE_THIS_FRAME",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xAAE7CE1D63167423",
+        "gta_jhash": ""
+    }
+}

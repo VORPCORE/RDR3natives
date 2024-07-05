@@ -1,0 +1,16 @@
+{
+    "0x1E98817B311AE98A": {
+        "name": "GET_PED_TIME_OF_DEATH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x1E98817B311AE98A",
+        "gta_jhash": "0xDF6D5D54"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x51EABCF2786515AB": {
+        "name": "NETWORK_HAS_CONTROL_OF_PICKUP_PLACEMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x75BA1CB3B7D40CAF": {
+        "name": "REQUEST_PED_USE_SMALL_BBOX_VISIBILITY_TRACKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x75BA1CB3B7D40CAF",
+        "gta_jhash": "0x9194DB71"
+    }
+}

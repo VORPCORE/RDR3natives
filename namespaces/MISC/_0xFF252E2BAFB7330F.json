@@ -1,0 +1,14 @@
+{
+    "0xFF252E2BAFB7330F": {
+        "name": "_0xFF252E2BAFB7330F",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

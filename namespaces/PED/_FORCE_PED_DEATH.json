@@ -1,0 +1,22 @@
+{
+    "0x1CE875505D45338A": {
+        "name": "_FORCE_PED_DEATH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "pedKiller"
+            },
+            {
+                "type": "Hash",
+                "name": "weapon"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

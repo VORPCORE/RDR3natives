@@ -1,0 +1,9 @@
+{
+    "0xCF45DF50C7775F2A": {
+        "name": "IS_LOAD_SCENE_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

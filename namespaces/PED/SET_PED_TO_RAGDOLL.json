@@ -1,0 +1,40 @@
+{
+    "0xAE99FB955581844A": {
+        "name": "SET_PED_TO_RAGDOLL",
+        "comment": "nmTaskMessageParameterName: See physicstasks.ymt. Search for DraggedByCart or 0xD00820D7 (Used in R* SP Script marston8)",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "timeMin"
+            },
+            {
+                "type": "int",
+                "name": "timeMax"
+            },
+            {
+                "type": "int",
+                "name": "ragdollType"
+            },
+            {
+                "type": "BOOL",
+                "name": "abortIfInjured"
+            },
+            {
+                "type": "BOOL",
+                "name": "abortIfDead"
+            },
+            {
+                "type": "const char*",
+                "name": "nmTaskMessageParameterName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xAE99FB955581844A",
+        "gta_jhash": "0x83CB5052"
+    }
+}

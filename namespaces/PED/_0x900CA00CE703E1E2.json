@@ -1,0 +1,14 @@
+{
+    "0x900CA00CE703E1E2": {
+        "name": "_0x900CA00CE703E1E2",
+        "comment": "Used in Script Function AGGRO_SHOULD_PED_HEAR_DEATH\n_GET_PED_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

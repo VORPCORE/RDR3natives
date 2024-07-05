@@ -1,0 +1,58 @@
+{
+    "0x4D1F61FC34AF3CD1": {
+        "name": "TASK_START_SCENARIO_AT_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "scenarioHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "BOOL",
+                "name": "sittingScenario"
+            },
+            {
+                "type": "BOOL",
+                "name": "teleport"
+            },
+            {
+                "type": "const char*",
+                "name": "p9"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

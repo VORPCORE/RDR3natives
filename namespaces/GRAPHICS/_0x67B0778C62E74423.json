@@ -1,0 +1,14 @@
+{
+    "0x67B0778C62E74423": {
+        "name": "_0x67B0778C62E74423",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

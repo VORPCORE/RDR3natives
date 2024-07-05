@@ -1,0 +1,24 @@
+{
+    "0xFE99B66D079CF6BC": {
+        "name": "DISABLE_CONTROL_ACTION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            },
+            {
+                "type": "Hash",
+                "name": "action"
+            },
+            {
+                "type": "BOOL",
+                "name": "disableRelatedActions"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xFE99B66D079CF6BC",
+        "gta_jhash": "0x3800C0DC"
+    }
+}

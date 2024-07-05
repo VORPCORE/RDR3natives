@@ -1,0 +1,22 @@
+{
+    "0x42AC6401ABB8C7E5": {
+        "name": "TASK_KNOCKED_OUT_AND_HOGTIED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0xDFF0D417277B41F8": {
+        "name": "_UILOG_CLEAR_CACHED_OBJECTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

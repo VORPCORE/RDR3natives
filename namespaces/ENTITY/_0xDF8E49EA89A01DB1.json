@@ -1,0 +1,22 @@
+{
+    "0xDF8E49EA89A01DB1": {
+        "name": "_0xDF8E49EA89A01DB1",
+        "comment": "Hardcoded to return zero/false.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

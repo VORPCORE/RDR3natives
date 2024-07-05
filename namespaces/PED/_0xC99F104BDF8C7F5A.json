@@ -1,0 +1,18 @@
+{
+    "0xC99F104BDF8C7F5A": {
+        "name": "_0xC99F104BDF8C7F5A",
+        "comment": "_SET_PLAYER_N* - _SET_PLAYER_S*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

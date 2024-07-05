@@ -1,0 +1,40 @@
+{
+    "0xE39B4FF4FDEBDE27": {
+        "name": "TASK_GOTO_ENTITY_OFFSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE39B4FF4FDEBDE27",
+        "gta_jhash": "0x1A17A85E"
+    }
+}

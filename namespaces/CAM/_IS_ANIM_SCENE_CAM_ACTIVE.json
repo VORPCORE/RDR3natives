@@ -1,0 +1,9 @@
+{
+    "0x20389408F0E93B9A": {
+        "name": "_IS_ANIM_SCENE_CAM_ACTIVE",
+        "comment": "Only used in R* Script camera_photomode",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

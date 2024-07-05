@@ -1,0 +1,22 @@
+{
+    "0xA691C10054275290": {
+        "name": "_0xA691C10054275290",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "mount"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "dismountedTimestamp"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x771DFCB24D19C2F6": {
+        "name": "_GET_DISABLED_CONTROL_HOW_LONG_AGO",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

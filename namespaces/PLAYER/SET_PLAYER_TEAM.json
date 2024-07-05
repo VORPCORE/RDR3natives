@@ -1,0 +1,24 @@
+{
+    "0xE8DD8536F01DE600": {
+        "name": "SET_PLAYER_TEAM",
+        "comment": "Sets the player's team.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "team"
+            },
+            {
+                "type": "BOOL",
+                "name": "bRestrictToThisScript"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0299FA38396A4940",
+        "gta_jhash": "0x725ADCF2"
+    }
+}

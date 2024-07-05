@@ -1,0 +1,16 @@
+{
+    "0x57639FD876B68A91": {
+        "name": "SAVE_HIGH_QUALITY_PHOTO",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "unused"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x3DEC726C25A11BAC",
+        "gta_jhash": "0x3B15D33C"
+    }
+}

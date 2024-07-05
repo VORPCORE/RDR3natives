@@ -1,0 +1,10 @@
+{
+    "0x7673C0D2C5CDAC55": {
+        "name": "_0x7673C0D2C5CDAC55",
+        "comment": "Note: this native was added in build 1311.23",
+        "params": [],
+        "return_type": "void",
+        "build": "1311",
+        "unused": true
+    }
+}

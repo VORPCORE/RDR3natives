@@ -1,0 +1,14 @@
+{
+    "0xF342F6BD0A8287D5": {
+        "name": "_0xF342F6BD0A8287D5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

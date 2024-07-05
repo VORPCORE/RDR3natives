@@ -1,0 +1,26 @@
+{
+    "0xB9467E41DAB1CF2C": {
+        "name": "_AWARDS_GET_UNLOCK_CLAIM_DATA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "rpcGuid"
+            },
+            {
+                "type": "Hash",
+                "name": "awardHash"
+            },
+            {
+                "type": "int",
+                "name": "dataIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "outUnlockData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

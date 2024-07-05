@@ -1,0 +1,14 @@
+{
+    "0xBC9444F2FF94A9C0": {
+        "name": "_0xBC9444F2FF94A9C0",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1355"
+    }
+}

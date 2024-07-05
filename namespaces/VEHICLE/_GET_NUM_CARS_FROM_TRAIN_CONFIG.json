@@ -1,0 +1,14 @@
+{
+    "0x635423D55CA84FC8": {
+        "name": "_GET_NUM_CARS_FROM_TRAIN_CONFIG",
+        "comment": "Returns amount for CAN_REGISTER_MISSION_VEHICLES",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "trainConfig"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x5EA655F01D93667A": {
+        "name": "_0x5EA655F01D93667A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

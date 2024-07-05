@@ -1,0 +1,26 @@
+{
+    "0xCD9A485F2B383B44": {
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_CHILD",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "parentGuid"
+            },
+            {
+                "type": "Any",
+                "name": "childIndex"
+            },
+            {
+                "type": "Any*",
+                "name": "outInventoryItem"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

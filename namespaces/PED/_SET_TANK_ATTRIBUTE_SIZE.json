@@ -1,0 +1,22 @@
+{
+    "0x7FF72DE061DF55E2": {
+        "name": "_SET_TANK_ATTRIBUTE_SIZE",
+        "comment": "Size will be permanent",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attributeIndex"
+            },
+            {
+                "type": "float",
+                "name": "size"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

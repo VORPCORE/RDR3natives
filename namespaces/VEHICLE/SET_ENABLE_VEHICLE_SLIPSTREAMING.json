@@ -1,0 +1,16 @@
+{
+    "0x73F1E4F6DF26FE30": {
+        "name": "SET_ENABLE_VEHICLE_SLIPSTREAMING",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE6C0C80B8C867537",
+        "gta_jhash": "0xD2B8ACBD"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "0xC7BE335216B5EC7C": {
+        "name": "GET_MAX_NUM_NETWORK_OBJECTS",
+        "comment": "Always returns 60",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xC7BE335216B5EC7C",
+        "gta_jhash": "0x8687E285"
+    }
+}

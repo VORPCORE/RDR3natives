@@ -1,0 +1,12 @@
+{
+    "0x048746E388762E11": {
+        "name": "NETWORK_IS_IN_SPECTATOR_MODE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0x048746E388762E11",
+        "gta_jhash": "0x3EAD9DB8"
+    }
+}

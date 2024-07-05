@@ -1,0 +1,34 @@
+{
+    "0x6B44F13D888F770D": {
+        "name": "_START_GPS_CUSTOM_ROUTE_FROM_WAYPOINT_RECORDING_ROUTE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            },
+            {
+                "type": "int",
+                "name": "point"
+            },
+            {
+                "type": "int",
+                "name": "numPoints"
+            },
+            {
+                "type": "Hash",
+                "name": "colorNameHash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

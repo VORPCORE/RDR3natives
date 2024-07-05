@@ -1,0 +1,18 @@
+{
+    "0x662D364ABF16DE2F": {
+        "name": "BLIP_ADD_MODIFIER",
+        "comment": "https://alloc8or.re/rdr3/doc/enums/eBlipModifier.txt\nhttps://github.com/femga/rdr3_discoveries/tree/master/useful_info_from_rpfs/blip_modifiers\n\nOld name: _BLIP_SET_MODIFIER",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "Hash",
+                "name": "modifierHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

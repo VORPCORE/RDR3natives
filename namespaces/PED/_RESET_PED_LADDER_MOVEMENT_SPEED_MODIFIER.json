@@ -1,0 +1,14 @@
+{
+    "0x801917E7D7BCE418": {
+        "name": "_RESET_PED_LADDER_MOVEMENT_SPEED_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

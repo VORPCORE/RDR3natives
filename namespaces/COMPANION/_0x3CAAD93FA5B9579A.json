@@ -1,0 +1,22 @@
+{
+    "0x3CAAD93FA5B9579A": {
+        "name": "_0x3CAAD93FA5B9579A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

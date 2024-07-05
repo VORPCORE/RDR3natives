@@ -1,0 +1,18 @@
+{
+    "0x29FCE825613FEFCA": {
+        "name": "_HAS_PED_BEEN_SHOVED_RECENTLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "ms"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

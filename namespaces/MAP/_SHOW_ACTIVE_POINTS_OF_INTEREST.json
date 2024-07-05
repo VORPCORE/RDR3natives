@@ -1,0 +1,9 @@
+{
+    "0x3FBB838AEA30C1D8": {
+        "name": "_SHOW_ACTIVE_POINTS_OF_INTEREST",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

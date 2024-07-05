@@ -1,0 +1,14 @@
+{
+    "0x96FD694FE5BE55DC": {
+        "name": "_GET_UIAPP_CURRENT_ACTIVITY_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "appNameHash"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

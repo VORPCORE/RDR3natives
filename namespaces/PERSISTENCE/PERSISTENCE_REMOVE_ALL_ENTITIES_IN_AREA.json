@@ -1,0 +1,26 @@
+{
+    "0x9D16896F0DBE78A2": {
+        "name": "PERSISTENCE_REMOVE_ALL_ENTITIES_IN_AREA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

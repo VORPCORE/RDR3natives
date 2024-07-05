@@ -1,0 +1,9 @@
+{
+    "0xE8126623008372AA": {
+        "name": "_0xE8126623008372AA",
+        "comment": "Only used in fussar1 / train_robbery2 R* Script",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

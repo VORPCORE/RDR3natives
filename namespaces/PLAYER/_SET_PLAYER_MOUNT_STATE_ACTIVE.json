@@ -1,0 +1,18 @@
+{
+    "0xDF93973251FB2CA5": {
+        "name": "_SET_PLAYER_MOUNT_STATE_ACTIVE",
+        "comment": "Name could potentially be inaccurate.\nUsed in Script Function HORSE_SETUP_PLAYER_HORSE_ATTRIBUTES (p1 = true)\n_SET_PLAYER_L* - _SET_PLAYER_M*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "active"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

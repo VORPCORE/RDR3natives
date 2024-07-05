@@ -1,0 +1,14 @@
+{
+    "0x24DB6B9F2B719043": {
+        "name": "_0x24DB6B9F2B719043",
+        "comment": "Only used in R* SP Related Camp Scripts",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

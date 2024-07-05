@@ -1,0 +1,14 @@
+{
+    "0xA1A86055792FB249": {
+        "name": "_0xA1A86055792FB249",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "personaPhotoLocalCacheType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

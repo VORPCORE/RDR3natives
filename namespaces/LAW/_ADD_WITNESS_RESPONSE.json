@@ -1,0 +1,22 @@
+{
+    "0x10827B5A0AAC56A7": {
+        "name": "_ADD_WITNESS_RESPONSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "crimeType"
+            },
+            {
+                "type": "Ped",
+                "name": "pedGroup"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0xD45B1FFCCD52FF19": {
+        "name": "ACTIVATE_DAMAGE_TRACKER_ON_NETWORK_ID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netID"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD45B1FFCCD52FF19",
+        "gta_jhash": "0x95D07BA5"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xE588B5A8A005CB5E": {
+        "name": "SET_PED_ON_TRANSPORT_SEAT",
+        "comment": "seat: see CREATE_PED_INSIDE_VEHICLE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "transportEntity"
+            },
+            {
+                "type": "int",
+                "name": "seat"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

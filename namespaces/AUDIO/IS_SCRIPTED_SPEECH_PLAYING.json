@@ -1,0 +1,16 @@
+{
+    "0xCC9AA18DCC7084F4": {
+        "name": "IS_SCRIPTED_SPEECH_PLAYING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xCC9AA18DCC7084F4",
+        "gta_jhash": "0x2C653904"
+    }
+}

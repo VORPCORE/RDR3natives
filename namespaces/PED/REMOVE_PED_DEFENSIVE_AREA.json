@@ -1,0 +1,20 @@
+{
+    "0x74D4E028107450A9": {
+        "name": "REMOVE_PED_DEFENSIVE_AREA",
+        "comment": "Ped will no longer get angry when you stay near him.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x74D4E028107450A9",
+        "gta_jhash": "0x34AAAFA5"
+    }
+}

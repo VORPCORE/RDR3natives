@@ -1,0 +1,14 @@
+{
+    "0x95B8E397B8F4360F": {
+        "name": "_GET_HEALTH_RECHARGE_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

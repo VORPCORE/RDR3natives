@@ -1,0 +1,14 @@
+{
+    "0xDC6C55DFA2C24EE5": {
+        "name": "_UI_PROMPT_RESTART_MODES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

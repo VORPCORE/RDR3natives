@@ -1,0 +1,14 @@
+{
+    "0x6F700A4BF7C3331B": {
+        "name": "_0x6F700A4BF7C3331B",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

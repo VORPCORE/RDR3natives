@@ -1,0 +1,18 @@
+{
+    "0x6DF942C4179BE5AB": {
+        "name": "_IS_SCRIPTED_AUDIO_CUSTOM",
+        "comment": "item: FUSE, value returned from 0x2E1CDC1FF3B8473E\nsoundSet: HUD_SHOP_SOUNDSET, COMPANIONS_ROBBERIES_SOUNDSET",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "Hash",
+                "name": "soundSet"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

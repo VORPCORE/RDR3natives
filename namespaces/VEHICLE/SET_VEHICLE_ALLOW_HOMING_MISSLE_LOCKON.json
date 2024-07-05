@@ -1,0 +1,20 @@
+{
+    "0x1240E8596A8308B9": {
+        "name": "SET_VEHICLE_ALLOW_HOMING_MISSLE_LOCKON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7D6F9A3EF26136A0",
+        "gta_jhash": "0xBB54ECCA"
+    }
+}

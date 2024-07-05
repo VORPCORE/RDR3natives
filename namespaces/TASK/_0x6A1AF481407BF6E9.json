@@ -1,0 +1,14 @@
+{
+    "0x6A1AF481407BF6E9": {
+        "name": "_0x6A1AF481407BF6E9",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

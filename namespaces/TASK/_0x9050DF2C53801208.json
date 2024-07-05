@@ -1,0 +1,18 @@
+{
+    "0x9050DF2C53801208": {
+        "name": "_0x9050DF2C53801208",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

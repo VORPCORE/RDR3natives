@@ -1,0 +1,11 @@
+{
+    "0xA635C11B8C44AFC2": {
+        "name": "SPAWNPOINTS_GET_NUM_SEARCH_RESULTS",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xA635C11B8C44AFC2",
+        "gta_jhash": "0xF46B4DC8"
+    }
+}

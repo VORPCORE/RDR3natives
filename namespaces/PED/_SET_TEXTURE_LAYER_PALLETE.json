@@ -1,0 +1,22 @@
+{
+    "0x1ED8588524AC9BE1": {
+        "name": "_SET_TEXTURE_LAYER_PALLETE",
+        "comment": "paletteHash: https://raw.githubusercontent.com/femga/rdr3_discoveries/master/clothes/cloth_color_palletes.lua",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            },
+            {
+                "type": "int",
+                "name": "layerId"
+            },
+            {
+                "type": "Hash",
+                "name": "paletteHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

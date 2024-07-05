@@ -1,0 +1,18 @@
+{
+    "0x219DA04BAA9CB065": {
+        "name": "GET_ATTRIBUTE_POINTS",
+        "comment": "attributeIndex: see SET_ATTRIBUTE_BASE_RANK",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attributeIndex"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

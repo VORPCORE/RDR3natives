@@ -1,0 +1,16 @@
+{
+    "0xA9C55F1C15E62E06": {
+        "name": "GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xA7C4F2C6E744A550",
+        "gta_jhash": "0x0A2FC08C"
+    }
+}

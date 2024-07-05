@@ -1,0 +1,14 @@
+{
+    "0xCDC5512A407CF08D": {
+        "name": "IS_ANIM_SCENE_EXITING_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

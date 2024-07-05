@@ -1,0 +1,9 @@
+{
+    "0xBF4F34A85CA2970D": {
+        "name": "_HIDE_HUD_THIS_FRAME",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

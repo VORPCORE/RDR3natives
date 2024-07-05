@@ -1,0 +1,16 @@
+{
+    "0x28533DBDDF7C2C97": {
+        "name": "GET_VEHICLE_NODE_IS_SWITCHED_OFF",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "nodeID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4F5070AA58F69279",
+        "gta_jhash": "0x56737A3C"
+    }
+}

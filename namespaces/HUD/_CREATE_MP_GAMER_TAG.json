@@ -1,0 +1,34 @@
+{
+    "0xD877AF112AD2B41B": {
+        "name": "_CREATE_MP_GAMER_TAG",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "const char*",
+                "name": "username"
+            },
+            {
+                "type": "BOOL",
+                "name": "pointedClanTag"
+            },
+            {
+                "type": "BOOL",
+                "name": "isRockstarClan"
+            },
+            {
+                "type": "const char*",
+                "name": "clanTag"
+            },
+            {
+                "type": "int",
+                "name": "clanFlag"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

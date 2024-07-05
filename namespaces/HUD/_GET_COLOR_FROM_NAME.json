@@ -1,0 +1,30 @@
+{
+    "0xB981DD2DFAF9B1C9": {
+        "name": "_GET_COLOR_FROM_NAME",
+        "comment": "colorNameHash: https://alloc8or.re/rdr3/doc/enums/eColor.txt",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "colorNameHash"
+            },
+            {
+                "type": "int*",
+                "name": "red"
+            },
+            {
+                "type": "int*",
+                "name": "green"
+            },
+            {
+                "type": "int*",
+                "name": "blue"
+            },
+            {
+                "type": "int*",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

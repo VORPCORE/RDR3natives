@@ -1,0 +1,14 @@
+{
+    "0xA6D6F03095C88F59": {
+        "name": "_0xA6D6F03095C88F59",
+        "comment": "_DELETE_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

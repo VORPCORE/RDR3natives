@@ -1,0 +1,24 @@
+{
+    "0xDDF803377F94AAA8": {
+        "name": "SET_PED_GESTURE_GROUP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "gesture"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDDF803377F94AAA8",
+        "gta_jhash": "0x170DA109"
+    }
+}

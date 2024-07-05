@@ -1,0 +1,14 @@
+{
+    "0xCCE7C695C164C35F": {
+        "name": "_GET_DEADEYE_ABILITY_LEVEL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x3C606747B23E497B": {
+        "name": "SET_PED_COMBAT_RANGE",
+        "comment": "range:\nenum eCombatRange\n{\n\tCR_NEAR,\n\tCR_MEDIUM,\n\tCR_FAR,\n\tCR_VERY_FAR\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "range"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3C606747B23E497B",
+        "gta_jhash": "0x8818A959"
+    }
+}

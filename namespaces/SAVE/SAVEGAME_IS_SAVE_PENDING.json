@@ -1,0 +1,9 @@
+{
+    "0x3CF46F55C6585590": {
+        "name": "SAVEGAME_IS_SAVE_PENDING",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

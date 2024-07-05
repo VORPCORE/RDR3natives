@@ -1,0 +1,26 @@
+{
+    "0xC349EE1E6EFA494B": {
+        "name": "_ADD_BLOOD_POOLS_FOR_PED_WITH_PARAMS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "size"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

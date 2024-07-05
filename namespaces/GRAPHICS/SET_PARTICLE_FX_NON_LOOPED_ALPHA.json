@@ -1,0 +1,16 @@
+{
+    "0xE8A35938A7026CEA": {
+        "name": "SET_PARTICLE_FX_NON_LOOPED_ALPHA",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "alpha"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311",
+        "gta_hash": "0x77168D722C58B2FC",
+        "gta_jhash": "0x497EAFF2"
+    }
+}

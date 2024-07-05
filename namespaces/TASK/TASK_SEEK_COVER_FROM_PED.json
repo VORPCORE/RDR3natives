@@ -1,0 +1,36 @@
+{
+    "0x84D32B3BEC531324": {
+        "name": "TASK_SEEK_COVER_FROM_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "fromPed"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x84D32B3BEC531324",
+        "gta_jhash": "0xC1EC907E"
+    }
+}

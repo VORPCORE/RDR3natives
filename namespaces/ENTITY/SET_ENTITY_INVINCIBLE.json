@@ -1,0 +1,20 @@
+{
+    "0xA5C38736C426FCB8": {
+        "name": "SET_ENTITY_INVINCIBLE",
+        "comment": "Sets a ped or an object totally invincible. It doesn't take any kind of damage. Peds will not ragdoll on explosions.",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3882114BDE571AD4",
+        "gta_jhash": "0xC1213A21"
+    }
+}

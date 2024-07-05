@@ -1,0 +1,18 @@
+{
+    "0xC0EDEF16D90661EE": {
+        "name": "_0xC0EDEF16D90661EE",
+        "comment": "SET_ENTITY_A*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

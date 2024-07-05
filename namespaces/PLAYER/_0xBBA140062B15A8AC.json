@@ -1,0 +1,14 @@
+{
+    "0xBBA140062B15A8AC": {
+        "name": "_0xBBA140062B15A8AC",
+        "comment": "Used in script function INIT_DEADEYE_SLOWDOWN\n_SPECIAL_ABILITY*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

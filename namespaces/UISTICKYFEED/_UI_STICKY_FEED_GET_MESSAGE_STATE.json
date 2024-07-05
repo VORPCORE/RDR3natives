@@ -1,0 +1,14 @@
+{
+    "0x07954320D77F6A3D": {
+        "name": "_UI_STICKY_FEED_GET_MESSAGE_STATE",
+        "comment": "Returns state of sticky feed message, see 0x59FA676177DBE4C9",
+        "params": [
+            {
+                "type": "int",
+                "name": "msgId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

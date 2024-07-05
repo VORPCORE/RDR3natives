@@ -1,0 +1,22 @@
+{
+    "0xE28D7FC9FD32ABEB": {
+        "name": "_0xE28D7FC9FD32ABEB",
+        "comment": "HAS_ACTOR_RECEIVED_TRACKED_EVENT_THAT_SHOULD_ALERT - iTimeSinceEvent >= iTimeLimitMS",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "eventType"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

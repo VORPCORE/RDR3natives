@@ -1,0 +1,9 @@
+{
+    "0xD962F8579D702DB5": {
+        "name": "STOP_ITEM_PREVIEW",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

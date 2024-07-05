@@ -1,0 +1,22 @@
+{
+    "0xFFEBE5AA96BC2E4E": {
+        "name": "_0xFFEBE5AA96BC2E4E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "crimeType"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

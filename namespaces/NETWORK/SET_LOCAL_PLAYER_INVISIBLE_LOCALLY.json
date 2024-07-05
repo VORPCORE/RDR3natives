@@ -1,0 +1,16 @@
+{
+    "0xE5F773C1A1D9D168": {
+        "name": "SET_LOCAL_PLAYER_INVISIBLE_LOCALLY",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE5F773C1A1D9D168",
+        "gta_jhash": "0x764F6222"
+    }
+}

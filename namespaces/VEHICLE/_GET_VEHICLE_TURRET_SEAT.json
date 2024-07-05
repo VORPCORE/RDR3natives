@@ -1,0 +1,18 @@
+{
+    "0xFF5791B7639C2A46": {
+        "name": "_GET_VEHICLE_TURRET_SEAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int*",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

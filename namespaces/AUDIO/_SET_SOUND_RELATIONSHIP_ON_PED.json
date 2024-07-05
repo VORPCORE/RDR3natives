@@ -1,0 +1,22 @@
+{
+    "0x2E31ACA7477CF00F": {
+        "name": "_SET_SOUND_RELATIONSHIP_ON_PED",
+        "comment": "p1: Entity.Relationship\np2: Player, Enemy, Teammate, Neutral",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "const char*",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

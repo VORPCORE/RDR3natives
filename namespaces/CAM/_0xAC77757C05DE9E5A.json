@@ -1,0 +1,14 @@
+{
+    "0xAC77757C05DE9E5A": {
+        "name": "_0xAC77757C05DE9E5A",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cameraDictionary"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

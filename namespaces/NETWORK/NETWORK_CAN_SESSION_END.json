@@ -1,0 +1,11 @@
+{
+    "0x4EEBC3694E49C572": {
+        "name": "NETWORK_CAN_SESSION_END",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4EEBC3694E49C572",
+        "gta_jhash": "0xE1FCCDBA"
+    }
+}

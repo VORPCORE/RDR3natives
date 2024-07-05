@@ -1,0 +1,23 @@
+{
+    "0x3CBD6565D9C3B133": {
+        "name": "_0x3CBD6565D9C3B133",
+        "comment": "Note: this native was added in build 1311.23",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311",
+        "unused": true
+    }
+}

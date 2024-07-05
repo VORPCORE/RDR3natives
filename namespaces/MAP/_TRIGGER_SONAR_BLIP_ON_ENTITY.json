@@ -1,0 +1,18 @@
+{
+    "0x0C7A2289A5C4D7C9": {
+        "name": "_TRIGGER_SONAR_BLIP_ON_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "typeHash"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

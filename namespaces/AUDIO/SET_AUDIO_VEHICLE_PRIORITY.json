@@ -1,0 +1,20 @@
+{
+    "0xE5564483E407F914": {
+        "name": "SET_AUDIO_VEHICLE_PRIORITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE5564483E407F914",
+        "gta_jhash": "0x271A9766"
+    }
+}

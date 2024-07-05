@@ -1,0 +1,14 @@
+{
+    "0x89783FDDF079C88D": {
+        "name": "_TASK_AI_SEEK_COVER_TO_COVER_POINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "args"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

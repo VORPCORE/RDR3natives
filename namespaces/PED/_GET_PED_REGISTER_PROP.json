@@ -1,0 +1,22 @@
+{
+    "0x4D0D2E3D8BC000EB": {
+        "name": "_GET_PED_REGISTER_PROP",
+        "comment": "Gets a registered/attached prop entity for a particular ped. Second parameter will detach the prop entity from the ped if true. Props primarily appear to come from scenarios, such as a broom or hay bale.\n\nKnown props: https://pastebin.com/ap2NEJqB",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "propName"
+            },
+            {
+                "type": "BOOL",
+                "name": "detachProp"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xB60C9F9ED47ABB76": {
+        "name": "_UI_PROMPT_HAS_HOLD_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

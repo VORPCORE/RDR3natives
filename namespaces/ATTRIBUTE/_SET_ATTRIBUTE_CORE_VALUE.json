@@ -1,0 +1,22 @@
+{
+    "0xC6258F41D86676E0": {
+        "name": "_SET_ATTRIBUTE_CORE_VALUE",
+        "comment": "coreIndex:\nenum eAttributeCore\n{\n\tATTRIBUTE_CORE_HEALTH,\n\tATTRIBUTE_CORE_STAMINA,\n\tATTRIBUTE_CORE_DEADEYE\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "coreIndex"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

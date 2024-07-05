@@ -1,0 +1,18 @@
+{
+    "0xCAF4CA2F87779F8F": {
+        "name": "_REQUEST_PEDSHOT_TEXTURE_LOCAL_DOWNLOAD",
+        "comment": "Only used in R* SP Script map_app_event_handler",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

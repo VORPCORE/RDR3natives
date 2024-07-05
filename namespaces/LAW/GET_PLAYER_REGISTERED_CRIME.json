@@ -1,0 +1,22 @@
+{
+    "0x532C5FDDB986EE5C": {
+        "name": "GET_PLAYER_REGISTERED_CRIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Hash*",
+                "name": "crimeType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

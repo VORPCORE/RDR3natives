@@ -1,0 +1,14 @@
+{
+    "0x1DA5C5B0923E1B85": {
+        "name": "_0x1DA5C5B0923E1B85",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

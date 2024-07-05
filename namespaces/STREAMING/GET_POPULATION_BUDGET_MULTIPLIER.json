@@ -1,0 +1,9 @@
+{
+    "0x8A3945405B31048F": {
+        "name": "GET_POPULATION_BUDGET_MULTIPLIER",
+        "comment": "",
+        "params": [],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

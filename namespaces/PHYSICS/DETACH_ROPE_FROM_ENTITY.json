@@ -1,0 +1,20 @@
+{
+    "0xBCF3026912A8647D": {
+        "name": "DETACH_ROPE_FROM_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xBCF3026912A8647D",
+        "gta_jhash": "0x3E720BEE"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "0x4F5EBE70081E5A20": {
+        "name": "_CREATE_GRAVITY_WELL",
+        "comment": "Creates a handle to an instance of \"CScriptResource_GravityWell\", this system forces local ped to target specified position when moving, however player still can interrupt this.\nCan be useful to \"point\" player at some specific position.\nOnly works while on-foot.\n\n_CREATE_[P-Z]",
+        "params": [
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "p6"
+            },
+            {
+                "type": "float",
+                "name": "p7"
+            },
+            {
+                "type": "BOOL",
+                "name": "stopAtDestination"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

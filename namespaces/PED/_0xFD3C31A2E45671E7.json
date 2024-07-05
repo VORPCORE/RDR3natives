@@ -1,0 +1,18 @@
+{
+    "0xFD3C31A2E45671E7": {
+        "name": "_0xFD3C31A2E45671E7",
+        "comment": "_DISABLE_A* - _DISABLE_C*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

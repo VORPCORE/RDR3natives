@@ -1,0 +1,14 @@
+{
+    "0x354CA4DDDEEC397A": {
+        "name": "_0x354CA4DDDEEC397A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

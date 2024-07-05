@@ -1,0 +1,18 @@
+{
+    "0xC3FCB47344DCB638": {
+        "name": "CHAL_NET_START_GOAL",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            },
+            {
+                "type": "Hash",
+                "name": "goalHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x5A3E5CF7B4014B96": {
+        "name": "REMOVE_IPL_HASH",
+        "comment": "Old name: _REMOVE_IMAP",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "iplHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

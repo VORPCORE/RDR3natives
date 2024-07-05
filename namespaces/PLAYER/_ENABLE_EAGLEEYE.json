@@ -1,0 +1,18 @@
+{
+    "0xA63FCAD3A6FEC6D2": {
+        "name": "_ENABLE_EAGLEEYE",
+        "comment": "(Un)lock Eagle Eye functionality",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x83BFC1F836B2F3F2": {
+        "name": "TASK_BARK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "barkAtTarget"
+            },
+            {
+                "type": "Hash",
+                "name": "mood"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

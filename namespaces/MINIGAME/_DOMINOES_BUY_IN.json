@@ -1,0 +1,14 @@
+{
+    "0x399E6CD12FC8CA89": {
+        "name": "_DOMINOES_BUY_IN",
+        "comment": "Hardcoded to return zero/false.",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xEAF87DA2BE78A15B": {
+        "name": "_0xEAF87DA2BE78A15B",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

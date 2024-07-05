@@ -1,0 +1,14 @@
+{
+    "0x31DC8D3F216D8509": {
+        "name": "_IS_TEXTURE_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

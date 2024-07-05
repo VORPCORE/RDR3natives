@@ -1,0 +1,30 @@
+{
+    "0x61B2AAEF645DDAF0": {
+        "name": "_0x61B2AAEF645DDAF0",
+        "comment": "Only used in tg_p R* Script\nReturns true when mgm event success\n_PREPARE_* - _REGISTER_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "mgmEventHandle"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "seatId"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

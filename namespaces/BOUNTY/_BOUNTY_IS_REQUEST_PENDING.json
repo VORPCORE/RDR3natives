@@ -1,0 +1,14 @@
+{
+    "0x03B61CD51097DE60": {
+        "name": "_BOUNTY_IS_REQUEST_PENDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "rpcGuid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

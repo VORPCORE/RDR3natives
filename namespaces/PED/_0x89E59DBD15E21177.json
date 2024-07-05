@@ -1,0 +1,18 @@
+{
+    "0x89E59DBD15E21177": {
+        "name": "_0x89E59DBD15E21177",
+        "comment": "_SET_C*",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

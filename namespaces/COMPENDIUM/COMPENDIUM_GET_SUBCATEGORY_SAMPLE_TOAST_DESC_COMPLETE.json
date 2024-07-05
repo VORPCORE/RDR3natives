@@ -1,0 +1,18 @@
+{
+    "0x59D4D68CDB82427C": {
+        "name": "COMPENDIUM_GET_SUBCATEGORY_SAMPLE_TOAST_DESC_COMPLETE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "category"
+            },
+            {
+                "type": "Hash",
+                "name": "subcategory"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1311"
+    }
+}

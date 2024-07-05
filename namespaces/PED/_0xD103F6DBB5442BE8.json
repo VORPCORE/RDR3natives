@@ -1,0 +1,18 @@
+{
+    "0xD103F6DBB5442BE8": {
+        "name": "_0xD103F6DBB5442BE8",
+        "comment": "Params: p1 either a 1 or 0, so perhaps BOOL\n_SET_PED_A*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

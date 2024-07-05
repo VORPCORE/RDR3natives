@@ -1,0 +1,9 @@
+{
+    "0x8FF6059DA26E688A": {
+        "name": "NETWORK_IS_PROMOTION_ENABLED",
+        "comment": "Hardcoded to return false.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

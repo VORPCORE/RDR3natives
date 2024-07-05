@@ -1,0 +1,18 @@
+{
+    "0x668AF6E4933AC13F": {
+        "name": "_SET_LAUNCH_PARAM_VALUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "paramName"
+            },
+            {
+                "type": "const char*",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

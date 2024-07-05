@@ -1,0 +1,14 @@
+{
+    "0x4E4ACAE1C671A9DA": {
+        "name": "COMPENDIUM_ANIMAL_GET_SAMPLE_INVENTORY_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "compendiumEntry"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1311"
+    }
+}

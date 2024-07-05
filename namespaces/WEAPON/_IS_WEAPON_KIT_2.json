@@ -1,0 +1,14 @@
+{
+    "0x49E40483948AF062": {
+        "name": "_IS_WEAPON_KIT_2",
+        "comment": "Returns true when the weapon passed is either the fishingrod, a lasso, the camera or the binoculars\n_IS_WEAPON_M* - _IS_WEAPON_P*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

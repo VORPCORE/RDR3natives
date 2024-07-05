@@ -1,0 +1,11 @@
+{
+    "0xB28894CD7408BD0C": {
+        "name": "GET_STATUS_OF_SORTED_LIST_OPERATION",
+        "comment": "0 = succeeded\n1 = getting status\n2 = failed",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xF5BED327CEA362B1",
+        "gta_jhash": "0x596B900D"
+    }
+}

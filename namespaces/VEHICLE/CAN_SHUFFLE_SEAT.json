@@ -1,0 +1,20 @@
+{
+    "0xF8B2D32A2231FD24": {
+        "name": "CAN_SHUFFLE_SEAT",
+        "comment": "seatIndex: see CREATE_PED_INSIDE_VEHICLE",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x30785D90C956BF35",
+        "gta_jhash": "0xB3EB01ED"
+    }
+}

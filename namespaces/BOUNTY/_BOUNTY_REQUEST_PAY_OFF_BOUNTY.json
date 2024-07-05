@@ -1,0 +1,14 @@
+{
+    "0x537CE992BD2D7BCB": {
+        "name": "_BOUNTY_REQUEST_PAY_OFF_BOUNTY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outRpcGuid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

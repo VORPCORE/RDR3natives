@@ -1,0 +1,32 @@
+{
+    "0xB48FCED898292E52": {
+        "name": "GET_RAYFIRE_MAP_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "Object",
+        "build": "1207",
+        "gta_hash": "0xB48FCED898292E52",
+        "gta_jhash": "0xA286DE96"
+    }
+}

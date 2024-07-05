@@ -1,0 +1,18 @@
+{
+    "0x75F90E4051CC084C": {
+        "name": "_ADD_ADDITIONAL_PROP_SET_FOR_VEHICLE",
+        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/vehicles/vehicle_modding/vehicle_propsets.lua",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Hash",
+                "name": "propset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

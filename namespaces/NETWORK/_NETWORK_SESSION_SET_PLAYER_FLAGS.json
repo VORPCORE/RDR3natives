@@ -1,0 +1,14 @@
+{
+    "0x0AE241A4A9ADEEEC": {
+        "name": "_NETWORK_SESSION_SET_PLAYER_FLAGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

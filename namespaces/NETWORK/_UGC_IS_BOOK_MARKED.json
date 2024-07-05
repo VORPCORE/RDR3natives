@@ -1,0 +1,14 @@
+{
+    "0xE42D1042F09865FE": {
+        "name": "_UGC_IS_BOOK_MARKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "contentId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1355"
+    }
+}

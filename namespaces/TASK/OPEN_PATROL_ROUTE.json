@@ -1,0 +1,16 @@
+{
+    "0xA36BFB5EE89F3D82": {
+        "name": "OPEN_PATROL_ROUTE",
+        "comment": "Note: patrolRoute must be prefixed with 'miss_' for it to be valid",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "patrolRoute"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA36BFB5EE89F3D82",
+        "gta_jhash": "0xF33F83CA"
+    }
+}

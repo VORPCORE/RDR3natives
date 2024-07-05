@@ -1,0 +1,18 @@
+{
+    "0xCB92EC9C004732B4": {
+        "name": "_ITEMDATABASE_GET_MODIFIED_PRICE",
+        "comment": "Returns an alternative cost hash to COST_SHOP_DEFAULT",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "key"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

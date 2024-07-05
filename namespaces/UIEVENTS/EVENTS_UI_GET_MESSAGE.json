@@ -1,0 +1,18 @@
+{
+    "0xE24E957294241444": {
+        "name": "EVENTS_UI_GET_MESSAGE",
+        "comment": "eventData:\nstruct UI_SCRIPT_EVENT\n{\n\talignas(8) eUIScriptEventType eventType; // https://alloc8or.re/rdr3/doc/enums/eUIScriptEventType.txt\n\talignas(8) int intParam;\n\talignas(8) Hash hashParam;\n\talignas(8) Hash datastoreParam;\n};\n\nOld name: _EVENT_MANAGER_GET_EVENT",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            },
+            {
+                "type": "Any*",
+                "name": "eventData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

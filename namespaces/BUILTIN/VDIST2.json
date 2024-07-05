@@ -1,0 +1,36 @@
+{
+    "0xB7A628320EFF8E47": {
+        "name": "VDIST2",
+        "comment": "Calculates distance between vectors but does not perform Sqrt operations. (Its way faster)\nThe value returned will be in RAGE units.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "z1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            },
+            {
+                "type": "float",
+                "name": "z2"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0xB7A628320EFF8E47",
+        "gta_jhash": "0xC85DEF1F"
+    }
+}

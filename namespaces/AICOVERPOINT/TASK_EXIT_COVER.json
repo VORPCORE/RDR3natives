@@ -1,0 +1,14 @@
+{
+    "0x2BC4A6D92D140112": {
+        "name": "TASK_EXIT_COVER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

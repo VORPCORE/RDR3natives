@@ -1,0 +1,20 @@
+{
+    "0x81218CE01B672219": {
+        "name": "SET_PICKUP_HIDDEN_WHEN_UNCOLLECTABLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3ED2B83AB2E82799",
+        "gta_jhash": ""
+    }
+}

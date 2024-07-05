@@ -1,0 +1,14 @@
+{
+    "0xDF94844D474F31E5": {
+        "name": "_0xDF94844D474F31E5",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x26695EC767728D84": {
+        "name": "SET_RAGDOLL_BLOCKING_FLAGS",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/AI/RAGDOLL_BLOCKING_FLAGS\n\nflags:\nenum eRagdollBlockingFlags\n{\n\tRBF_BULLET_IMPACT = (1 << 0),\n\tRBF_VEHICLE_IMPACT = (1 << 1),\n\tRBF_FIRE = (1 << 2),\n\tRBF_ELECTROCUTION = (1 << 3),\n\tRBF_PLAYER_IMPACT = (1 << 4),\n\tRBF_EXPLOSION = (1 << 5),\n\tRBF_IMPACT_OBJECT = (1 << 6),\n\tRBF_MELEE = (1 << 7),\n\tRBF_RUBBER_BULLET = (1 << 8),\n\tRBF_FALLING = (1 << 9),\n\tRBF_WATER_JET = (1 << 10),\n\tRBF_DROWNING = (1 << 11),\n\tRBF_0x9F52E2C4 = (1 << 12),\n\tRBF_PLAYER_BUMP = (1 << 13),\n\tRBF_PLAYER_RAGDOLL_BUMP = (1 << 14),\n\tRBF_PED_RAGDOLL_BUMP = (1 << 15),\n\tRBF_VEHICLE_GRAB = (1 << 16),\n\tRBF_SMOKE_GRENADE = (1 << 17),\n\tRBF_HORSE_BUMP = (1 << 18),\n\tRBF_ACTIVATE_ON_COLLISION = (1 << 19)\n};",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x26695EC767728D84",
+        "gta_jhash": "0x9C8F830D"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xE22060121602493B": {
+        "name": "_SET_WEAPON_DAMAGE",
+        "comment": "Related to weapon visual damage, not actual damage.",
+        "params": [
+            {
+                "type": "Object",
+                "name": "weaponObject"
+            },
+            {
+                "type": "float",
+                "name": "level"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

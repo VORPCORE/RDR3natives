@@ -1,0 +1,14 @@
+{
+    "0xF18AF483DF70BBDE": {
+        "name": "_GET_VOLUME_FROM_INDEXED_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "item"
+            }
+        ],
+        "return_type": "Volume",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xF2A2177AC848B3A8": {
+        "name": "_0xF2A2177AC848B3A8",
+        "comment": "GPS disabled zone: p1 = 0\nClearing GPS disabled zone: p1 = 1",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

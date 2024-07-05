@@ -1,0 +1,20 @@
+{
+    "0x065D03A9D6B2C6B5": {
+        "name": "SET_VEHICLE_CAN_EJECT_PASSENGERS_IF_LOCKED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x065D03A9D6B2C6B5",
+        "gta_jhash": ""
+    }
+}

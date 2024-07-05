@@ -1,0 +1,11 @@
+{
+    "0x83666F9FB8FEBD4B": {
+        "name": "TIMERA",
+        "comment": "Counts up. Every 1000 is 1 real-time second. Use SETTIMERA(int value) to set the timer (e.g.: SETTIMERA(0)).",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x83666F9FB8FEBD4B",
+        "gta_jhash": "0x45C8C188"
+    }
+}

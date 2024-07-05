@@ -1,0 +1,11 @@
+{
+    "0x4FB556ACEFA93098": {
+        "name": "SHOULD_USE_METRIC_MEASUREMENTS",
+        "comment": "Returns whether the game's measurement system is set to metric.",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD3D15555431AB793",
+        "gta_jhash": "0xBAF17315"
+    }
+}

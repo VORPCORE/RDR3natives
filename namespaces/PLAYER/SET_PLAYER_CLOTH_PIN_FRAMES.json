@@ -1,0 +1,20 @@
+{
+    "0xD0D9317DFEEF9A66": {
+        "name": "SET_PLAYER_CLOTH_PIN_FRAMES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x749FADDF97DFE930",
+        "gta_jhash": "0xF7A0F00F"
+    }
+}

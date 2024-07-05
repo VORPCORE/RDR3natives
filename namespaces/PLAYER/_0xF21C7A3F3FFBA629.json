@@ -1,0 +1,14 @@
+{
+    "0xF21C7A3F3FFBA629": {
+        "name": "_0xF21C7A3F3FFBA629",
+        "comment": "_CLEAR_FACIAL_* - _CLEAR_PED_BLOOD*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

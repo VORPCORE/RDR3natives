@@ -1,0 +1,14 @@
+{
+    "0xD5FE956C70FF370B": {
+        "name": "GET_PED_CROUCH_MOVEMENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0xBE7D814CFA181B56": {
+        "name": "_BG_RELOAD_ALL_BACKGROUND_SCRIPTS",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

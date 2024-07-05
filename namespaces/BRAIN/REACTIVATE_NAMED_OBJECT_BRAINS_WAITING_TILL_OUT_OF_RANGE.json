@@ -1,0 +1,16 @@
+{
+    "0x74C333E34DF74E8A": {
+        "name": "REACTIVATE_NAMED_OBJECT_BRAINS_WAITING_TILL_OUT_OF_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6E91B04E08773030",
+        "gta_jhash": "0x29CE8BAA"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x2009F8AB7A5E9D6D": {
+        "name": "_0x2009F8AB7A5E9D6D",
+        "comment": "_IS_PLAYER_F*",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

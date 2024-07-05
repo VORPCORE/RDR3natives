@@ -1,0 +1,14 @@
+{
+    "0xD0730C1FA40348D9": {
+        "name": "_0xD0730C1FA40348D9",
+        "comment": "_IS_SCRIPTED_CONVERSATION_*",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "convoRoot"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

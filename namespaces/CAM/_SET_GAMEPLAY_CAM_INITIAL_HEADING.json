@@ -1,0 +1,14 @@
+{
+    "0x6C1053C433A573CF": {
+        "name": "_SET_GAMEPLAY_CAM_INITIAL_HEADING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "camInitialHeading"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

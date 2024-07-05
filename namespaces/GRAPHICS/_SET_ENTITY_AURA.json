@@ -1,0 +1,22 @@
+{
+    "0x249CD6B7285536F2": {
+        "name": "_SET_ENTITY_AURA",
+        "comment": "Used for script function RPG_GLOBAL_STATS__PRIVATE__ACTIVATE_STAT_FLAG - Quite and Inspiration Aura equip\nParams: 0f, 2f, 2f",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

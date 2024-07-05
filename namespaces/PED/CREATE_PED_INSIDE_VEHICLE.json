@@ -1,0 +1,36 @@
+{
+    "0x7DD959874C1FD534": {
+        "name": "CREATE_PED_INSIDE_VEHICLE",
+        "comment": "seatIndex:\nenum eVehicleSeat\n{\n\tVS_ANY_PASSENGER = -2,\n\tVS_DRIVER,\n\tVS_FRONT_RIGHT,\n\tVS_BACK_LEFT,\n\tVS_BACK_RIGHT,\n\tVS_EXTRA_LEFT_1,\n\tVS_EXTRA_RIGHT_1,\n\tVS_EXTRA_LEFT_2,\n\tVS_EXTRA_RIGHT_2,\n\tVS_EXTRA_LEFT_3,\n\tVS_EXTRA_RIGHT_3,\n\tVS_NUM_SEATS\n};",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207",
+        "gta_hash": "0x7DD959874C1FD534",
+        "gta_jhash": "0x3000F092"
+    }
+}

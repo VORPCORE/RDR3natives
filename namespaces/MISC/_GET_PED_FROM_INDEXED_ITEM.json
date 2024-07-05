@@ -1,0 +1,14 @@
+{
+    "0x3FFB15534067DCD4": {
+        "name": "_GET_PED_FROM_INDEXED_ITEM",
+        "comment": "",
+        "params": [
+            {
+                "type": "ScrHandle",
+                "name": "item"
+            }
+        ],
+        "return_type": "Ped",
+        "build": "1207"
+    }
+}

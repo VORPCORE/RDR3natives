@@ -1,0 +1,14 @@
+{
+    "0x13A1B061007C906B": {
+        "name": "_GET_GROUP_FORMATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

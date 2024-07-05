@@ -1,0 +1,18 @@
+{
+    "0x24C82EF607105FAA": {
+        "name": "_SET_PED_INTERACTION_PERSONALITY",
+        "comment": "personality (script_mp_rel): NONE, AGGRESSIVE, TIMID (non-aggressive), CRIPPS, SCRIPTEDINTIMIDATION, MAGGIE, MARCEL, SCRIPTEDSALOON\npersonality (script_rel): AVOID, SCRIPTEDOUTLAW, TIMIDGUARDDOG, SCRIPTEDTIMIDROB, AGGRESSIVECAMPER, LAZYDOG, KIERANTIEDUP, SCRIPTEDGALA",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "personality"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

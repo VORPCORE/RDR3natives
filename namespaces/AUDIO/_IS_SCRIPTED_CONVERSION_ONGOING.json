@@ -1,0 +1,14 @@
+{
+    "0xF01C570E0A0A1E67": {
+        "name": "_IS_SCRIPTED_CONVERSION_ONGOING",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

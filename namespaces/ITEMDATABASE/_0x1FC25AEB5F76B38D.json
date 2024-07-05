@@ -1,0 +1,22 @@
+{
+    "0x1FC25AEB5F76B38D": {
+        "name": "_0x1FC25AEB5F76B38D",
+        "comment": "_ITEMDATABASE_GET_AWARD_ACQUIRE_COST",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "award"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Any*",
+                "name": "outData"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xA2323A2EAE32A290": {
+        "name": "_0xA2323A2EAE32A290",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "listeningToPed"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "listenerName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

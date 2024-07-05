@@ -1,0 +1,14 @@
+{
+    "0xA6AC35DB4A7957A8": {
+        "name": "_0xA6AC35DB4A7957A8",
+        "comment": "Common flags: 250, 99999\n_SET_SCRIPT_BRAIN*",
+        "params": [
+            {
+                "type": "int",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xF6A7C08DF2E28B28": {
+        "name": "ENABLE_ATTRIBUTE_OVERPOWER",
+        "comment": "attributeIndex: see SET_ATTRIBUTE_BASE_RANK\n\nOld name: _SET_ATTRIBUTE_OVERPOWER_VALUE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attributeIndex"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            },
+            {
+                "type": "BOOL",
+                "name": "makeSound"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

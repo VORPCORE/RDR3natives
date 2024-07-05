@@ -1,0 +1,14 @@
+{
+    "0x0BA4250D20007C2E": {
+        "name": "_0x0BA4250D20007C2E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

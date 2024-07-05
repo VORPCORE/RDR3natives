@@ -1,0 +1,16 @@
+{
+    "0xC932F57F31EA9152": {
+        "name": "HAS_PLAYER_BEEN_SPOTTED_IN_STOLEN_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD705740BB0A1CF4C",
+        "gta_jhash": "0x4A01B76A"
+    }
+}

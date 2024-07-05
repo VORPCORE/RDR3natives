@@ -1,0 +1,18 @@
+{
+    "0x399657ED871B3A6C": {
+        "name": "_SET_ENTITY_CARCASS_TYPE",
+        "comment": "Changes type and quality of skins\ntype hashes: https://pastebin.com/C1WvQjCy",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Hash",
+                "name": "type"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

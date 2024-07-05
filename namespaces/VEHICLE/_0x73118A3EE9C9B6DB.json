@@ -1,0 +1,22 @@
+{
+    "0x73118A3EE9C9B6DB": {
+        "name": "_0x73118A3EE9C9B6DB",
+        "comment": "_SET_VEHICLE_WHEELS_*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "wagon"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

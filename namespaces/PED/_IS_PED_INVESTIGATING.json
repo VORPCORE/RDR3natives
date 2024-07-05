@@ -1,0 +1,14 @@
+{
+    "0x7583A9D35248B83F": {
+        "name": "_IS_PED_INVESTIGATING",
+        "comment": "_IS_PED_IN*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

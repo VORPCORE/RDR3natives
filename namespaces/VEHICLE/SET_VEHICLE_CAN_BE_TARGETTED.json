@@ -1,0 +1,20 @@
+{
+    "0x05254BA0B44ADC16": {
+        "name": "SET_VEHICLE_CAN_BE_TARGETTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "state"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x3750146A28097A82",
+        "gta_jhash": "0x64B70B1D"
+    }
+}

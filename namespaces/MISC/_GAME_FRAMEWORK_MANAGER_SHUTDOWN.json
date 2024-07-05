@@ -1,0 +1,9 @@
+{
+    "0xAFF2FD8ADD927585": {
+        "name": "_GAME_FRAMEWORK_MANAGER_SHUTDOWN",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

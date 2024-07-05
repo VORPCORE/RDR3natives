@@ -1,0 +1,16 @@
+{
+    "0x817FA1B1EE7CD6F0": {
+        "name": "REMOVE_CLIP_SET",
+        "comment": "Alias for REMOVE_ANIM_SET.",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "clipSet"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x01F73A131C18CD94",
+        "gta_jhash": "0x1E21F7AA"
+    }
+}

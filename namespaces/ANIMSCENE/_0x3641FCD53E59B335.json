@@ -1,0 +1,22 @@
+{
+    "0x3641FCD53E59B335": {
+        "name": "_0x3641FCD53E59B335",
+        "comment": "p2: MINIGAME_GET_SECONDARY_VOICE_STRING\n_SET_*",
+        "params": [
+            {
+                "type": "int",
+                "name": "mgmHandle"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "secondaryVoiceString"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xCE27824B5968B79A": {
+        "name": "_0xCE27824B5968B79A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

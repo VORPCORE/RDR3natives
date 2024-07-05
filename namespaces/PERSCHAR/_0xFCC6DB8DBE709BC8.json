@@ -1,0 +1,14 @@
+{
+    "0xFCC6DB8DBE709BC8": {
+        "name": "_0xFCC6DB8DBE709BC8",
+        "comment": "",
+        "params": [
+            {
+                "type": "PersChar",
+                "name": "persChar"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

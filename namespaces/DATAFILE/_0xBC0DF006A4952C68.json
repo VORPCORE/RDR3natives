@@ -1,0 +1,22 @@
+{
+    "0xBC0DF006A4952C68": {
+        "name": "_0xBC0DF006A4952C68",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

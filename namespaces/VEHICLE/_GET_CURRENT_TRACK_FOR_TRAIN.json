@@ -1,0 +1,14 @@
+{
+    "0xAF787E081AC4A8EE": {
+        "name": "_GET_CURRENT_TRACK_FOR_TRAIN",
+        "comment": "Returns p0 for 0xBA958F68031DDBFC (trackIndex)",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "train"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

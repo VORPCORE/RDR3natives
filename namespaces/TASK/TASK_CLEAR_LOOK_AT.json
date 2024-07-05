@@ -1,0 +1,16 @@
+{
+    "0x0F804F1DB19B9689": {
+        "name": "TASK_CLEAR_LOOK_AT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x0F804F1DB19B9689",
+        "gta_jhash": "0x60EB4054"
+    }
+}

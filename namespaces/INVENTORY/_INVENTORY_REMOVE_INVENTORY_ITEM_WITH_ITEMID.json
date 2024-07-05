@@ -1,0 +1,26 @@
+{
+    "0xB4158C8C9A3B5DCE": {
+        "name": "_INVENTORY_REMOVE_INVENTORY_ITEM_WITH_ITEMID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Hash",
+                "name": "item"
+            },
+            {
+                "type": "int",
+                "name": "quantity"
+            },
+            {
+                "type": "Hash",
+                "name": "removeReason"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

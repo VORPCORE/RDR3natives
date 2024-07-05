@@ -1,0 +1,20 @@
+{
+    "0x5DE61C90DDECFA2D": {
+        "name": "SET_GPS_FLAGS",
+        "comment": "https://alloc8or.re/rdr3/doc/enums/rage__eGpsFlags.txt",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5B440763A4C8D15B",
+        "gta_jhash": "0x60539BAB"
+    }
+}

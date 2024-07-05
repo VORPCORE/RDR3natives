@@ -1,0 +1,14 @@
+{
+    "0x6E8EB45A4F4460EB": {
+        "name": "_SET_SNIPER_GLINTS_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x73616E64696C616E": {
+        "name": "COULD_ANIM_SCENE_ENTITY_REACH_EXIT_NEXT_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "entityName"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

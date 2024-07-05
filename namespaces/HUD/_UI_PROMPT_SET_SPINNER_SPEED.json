@@ -1,0 +1,18 @@
+{
+    "0xAC6586A7FDCD4B68": {
+        "name": "_UI_PROMPT_SET_SPINNER_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

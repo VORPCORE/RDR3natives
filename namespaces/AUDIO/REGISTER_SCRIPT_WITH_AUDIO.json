@@ -1,0 +1,16 @@
+{
+    "0xC6ED9D5092438D91": {
+        "name": "REGISTER_SCRIPT_WITH_AUDIO",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC6ED9D5092438D91",
+        "gta_jhash": "0xA6203643"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x560E76D5E2E1803F": {
+        "name": "_UI_PROMPT_SET_ATTRIBUTE",
+        "comment": "attribute: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eUIPromptAttribute",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "int",
+                "name": "attribute"
+            },
+            {
+                "type": "BOOL",
+                "name": "enabled"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

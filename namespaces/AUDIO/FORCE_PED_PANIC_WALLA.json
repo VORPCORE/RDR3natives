@@ -1,0 +1,11 @@
+{
+    "0x062D5EAD4DA2FA6A": {
+        "name": "FORCE_PED_PANIC_WALLA",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x062D5EAD4DA2FA6A",
+        "gta_jhash": "0xD87AF337"
+    }
+}

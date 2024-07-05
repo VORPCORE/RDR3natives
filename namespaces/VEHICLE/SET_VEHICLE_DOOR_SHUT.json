@@ -1,0 +1,24 @@
+{
+    "0x6A3C24B91FD0EA09": {
+        "name": "SET_VEHICLE_DOOR_SHUT",
+        "comment": "doorId: enum eDoorId\n{\n\tVEH_EXT_DOOR_INVALID_ID = -1,\n\tVEH_EXT_DOOR_DSIDE_F,\n\tVEH_EXT_DOOR_DSIDE_M,\n\tVEH_EXT_DOOR_DSIDE_M1,\n\tVEH_EXT_DOOR_DSIDE_M2,\n\tVEH_EXT_DOOR_DSIDE_R,\n\tVEH_EXT_DOOR_PSIDE_F,\n\tVEH_EXT_DOOR_PSIDE_M,\n\tVEH_EXT_DOOR_PSIDE_M1,\n\tVEH_EXT_DOOR_PSIDE_M2,\n\tVEH_EXT_DOOR_PSIDE_R,\n\tVEH_EXT_BONNET,\n\tVEH_EXT_BOOT\n};",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            },
+            {
+                "type": "BOOL",
+                "name": "closeInstantly"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x93D9BD300D7789E5",
+        "gta_jhash": "0x142606BD"
+    }
+}

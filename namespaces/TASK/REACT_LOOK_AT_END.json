@@ -1,0 +1,22 @@
+{
+    "0x541E5B41DCA45828": {
+        "name": "REACT_LOOK_AT_END",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "exitAnimation"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x34EDDD59364AD74A": {
+        "name": "_0x34EDDD59364AD74A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

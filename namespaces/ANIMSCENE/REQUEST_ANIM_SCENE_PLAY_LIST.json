@@ -1,0 +1,18 @@
+{
+    "0xDF7B5144E25CD3FE": {
+        "name": "REQUEST_ANIM_SCENE_PLAY_LIST",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "playlistName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

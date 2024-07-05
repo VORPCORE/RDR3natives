@@ -1,0 +1,14 @@
+{
+    "0xA6C6A4ADB3BAC409": {
+        "name": "_UI_PROMPT_HAS_MANUAL_MASH_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

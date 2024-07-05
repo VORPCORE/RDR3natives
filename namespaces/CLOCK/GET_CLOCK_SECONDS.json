@@ -1,0 +1,11 @@
+{
+    "0xB6101ABE62B5F080": {
+        "name": "GET_CLOCK_SECONDS",
+        "comment": "Gets the current ingame clock second. Note that ingame clock seconds change really fast since a day in RDR is only 48 minutes in real life.",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x494E97C2EF27C470",
+        "gta_jhash": "0x099C927E"
+    }
+}

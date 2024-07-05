@@ -1,0 +1,14 @@
+{
+    "0x2BA9D7BF629F920C": {
+        "name": "_0x2BA9D7BF629F920C",
+        "comment": "Used in Script Function CHECK_IS_PLAYER_SEEN\n_GET_PED_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

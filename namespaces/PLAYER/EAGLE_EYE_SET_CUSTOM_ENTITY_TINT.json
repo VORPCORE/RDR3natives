@@ -1,0 +1,26 @@
+{
+    "0x62ED71E133B6C9F1": {
+        "name": "EAGLE_EYE_SET_CUSTOM_ENTITY_TINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "red"
+            },
+            {
+                "type": "int",
+                "name": "green"
+            },
+            {
+                "type": "int",
+                "name": "blue"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

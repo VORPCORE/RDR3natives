@@ -1,0 +1,18 @@
+{
+    "0xF9B91C5129EABC08": {
+        "name": "_GET_LOOTING_EVENT_HAS_FIRED",
+        "comment": "Event names in the scripts: MGBegin, MGEnd, ReadyForCut",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "eventName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

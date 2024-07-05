@@ -1,0 +1,14 @@
+{
+    "0x6AFDA2264925BD11": {
+        "name": "_0x6AFDA2264925BD11",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

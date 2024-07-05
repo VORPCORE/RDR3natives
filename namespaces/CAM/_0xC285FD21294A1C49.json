@@ -1,0 +1,14 @@
+{
+    "0xC285FD21294A1C49": {
+        "name": "_0xC285FD21294A1C49",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "cameraDictionary"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

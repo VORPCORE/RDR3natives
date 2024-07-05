@@ -1,0 +1,22 @@
+{
+    "0x316CDB5B6E8F4110": {
+        "name": "_ATTACH_DRAFT_VEHICLE_HARNESS_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "mount"
+            },
+            {
+                "type": "Vehicle",
+                "name": "draft"
+            },
+            {
+                "type": "int",
+                "name": "harnessId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

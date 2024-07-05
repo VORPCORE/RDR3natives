@@ -1,0 +1,28 @@
+{
+    "0x07FB139B592FA687": {
+        "name": "REQUEST_PATH_NODES_IN_AREA_THIS_FRAME",
+        "comment": "Old name: REQUEST_PATHS_PREFER_ACCURATE_BOUNDINGSTRUCT",
+        "params": [
+            {
+                "type": "float",
+                "name": "x1"
+            },
+            {
+                "type": "float",
+                "name": "y1"
+            },
+            {
+                "type": "float",
+                "name": "x2"
+            },
+            {
+                "type": "float",
+                "name": "y2"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x07FB139B592FA687",
+        "gta_jhash": "0x2CDA5012"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xB22F05732F72F70C": {
+        "name": "STAT_BOUNTY_ESCAPED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

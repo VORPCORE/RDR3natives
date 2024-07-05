@@ -1,0 +1,20 @@
+{
+    "0x745F15A215F2DDF1": {
+        "name": "REMOVE_VEHICLE_WINDOW",
+        "comment": "windowIndex:\n0 = Front Right Window\n1 = Front Left Window\n2 = Back Right Window\n3 = Back Left Window",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "windowIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA711568EEDB43069",
+        "gta_jhash": "0xBB8104A3"
+    }
+}

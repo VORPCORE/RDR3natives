@@ -1,0 +1,9 @@
+{
+    "0x25CA89B2A39DCC69": {
+        "name": "_GET_MODIFIED_VISIBILITY_DISTANCE",
+        "comment": "_GET_C* - _GET_E*",
+        "params": [],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

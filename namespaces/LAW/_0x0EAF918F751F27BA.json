@@ -1,0 +1,14 @@
+{
+    "0x0EAF918F751F27BA": {
+        "name": "_0x0EAF918F751F27BA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

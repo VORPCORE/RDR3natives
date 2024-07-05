@@ -1,0 +1,18 @@
+{
+    "0xDF6423BF071C7F71": {
+        "name": "_UI_PROMPT_SET_MASH_MODE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "int",
+                "name": "mashes"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

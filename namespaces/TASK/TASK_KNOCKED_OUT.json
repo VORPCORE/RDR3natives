@@ -1,0 +1,22 @@
+{
+    "0xF90427F00A495A28": {
+        "name": "TASK_KNOCKED_OUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "permanently"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

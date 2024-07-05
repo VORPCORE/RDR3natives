@@ -1,0 +1,16 @@
+{
+    "0xC3D96AF45FCCEC4C": {
+        "name": "IS_ENTITY_A_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x6AC7003FA6E5575E",
+        "gta_jhash": "0xBE800B01"
+    }
+}

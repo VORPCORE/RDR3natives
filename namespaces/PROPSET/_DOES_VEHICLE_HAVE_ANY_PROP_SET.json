@@ -1,0 +1,14 @@
+{
+    "0x53784CEA0159439B": {
+        "name": "_DOES_VEHICLE_HAVE_ANY_PROP_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

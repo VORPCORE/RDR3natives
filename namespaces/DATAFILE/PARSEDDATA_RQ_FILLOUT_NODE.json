@@ -1,0 +1,18 @@
+{
+    "0x83C3ED532B6E5D07": {
+        "name": "PARSEDDATA_RQ_FILLOUT_NODE",
+        "comment": "Old name: _DATAFILE_GET_DATA_NODE_INDEX",
+        "params": [
+            {
+                "type": "int*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

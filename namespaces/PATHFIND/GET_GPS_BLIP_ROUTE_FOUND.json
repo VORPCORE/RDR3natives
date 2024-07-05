@@ -1,0 +1,11 @@
+{
+    "0x869DAACBBE9FA006": {
+        "name": "GET_GPS_BLIP_ROUTE_FOUND",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x869DAACBBE9FA006",
+        "gta_jhash": "0x286F82CC"
+    }
+}

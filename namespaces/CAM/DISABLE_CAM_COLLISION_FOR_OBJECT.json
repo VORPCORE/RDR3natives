@@ -1,0 +1,16 @@
+{
+    "0x7E3F546ACFE6C8D9": {
+        "name": "DISABLE_CAM_COLLISION_FOR_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x49482F9FCD825AAA",
+        "gta_jhash": "0xC4736ED3"
+    }
+}

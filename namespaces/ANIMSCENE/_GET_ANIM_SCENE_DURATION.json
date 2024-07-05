@@ -1,0 +1,14 @@
+{
+    "0x49F1D143ADE32656": {
+        "name": "_GET_ANIM_SCENE_DURATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

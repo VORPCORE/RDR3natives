@@ -1,0 +1,14 @@
+{
+    "0x20F4CB76689ACDBC": {
+        "name": "_SET_ALL_PLAYER_BITS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

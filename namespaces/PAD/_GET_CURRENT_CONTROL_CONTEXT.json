@@ -1,0 +1,14 @@
+{
+    "0xDDCEB0F26C89C00F": {
+        "name": "_GET_CURRENT_CONTROL_CONTEXT",
+        "comment": "Gets the current control context. See: _SET_CONTROL_CONTEXT",
+        "params": [
+            {
+                "type": "int",
+                "name": "control"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

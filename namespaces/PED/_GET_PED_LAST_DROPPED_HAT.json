@@ -1,0 +1,14 @@
+{
+    "0x1F714E7A9DADFC42": {
+        "name": "_GET_PED_LAST_DROPPED_HAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Object",
+        "build": "1207"
+    }
+}

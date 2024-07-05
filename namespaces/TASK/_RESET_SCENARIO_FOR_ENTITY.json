@@ -1,0 +1,18 @@
+{
+    "0x2E20878FD208A68E": {
+        "name": "_RESET_SCENARIO_FOR_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "scenario"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xDE5FAA741A781F73": {
+        "name": "SET_DISABLE_DISTURBANCE_CRIMES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

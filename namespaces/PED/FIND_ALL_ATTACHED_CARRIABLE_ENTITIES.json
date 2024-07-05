@@ -1,0 +1,18 @@
+{
+    "0xB5ACE8B23A438EC0": {
+        "name": "FIND_ALL_ATTACHED_CARRIABLE_ENTITIES",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

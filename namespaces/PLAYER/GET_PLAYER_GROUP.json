@@ -1,0 +1,16 @@
+{
+    "0x9BAB31815159ABCF": {
+        "name": "GET_PLAYER_GROUP",
+        "comment": "Returns the group ID the player is member of.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x0D127585F77030AF",
+        "gta_jhash": "0xA5EDCDE8"
+    }
+}

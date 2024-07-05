@@ -1,0 +1,14 @@
+{
+    "0xD5D72F1624F3BA7C": {
+        "name": "_INVENTORY_ENABLE_WEAPONS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

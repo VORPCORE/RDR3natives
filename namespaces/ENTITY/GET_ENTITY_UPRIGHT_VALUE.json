@@ -1,0 +1,16 @@
+{
+    "0x56398BE65160C3BE": {
+        "name": "GET_ENTITY_UPRIGHT_VALUE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x95EED5A694951F9F",
+        "gta_jhash": "0xF4268190"
+    }
+}

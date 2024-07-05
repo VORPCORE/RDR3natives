@@ -1,0 +1,44 @@
+{
+    "0xC057F02B837A27F6": {
+        "name": "IS_ENTITY_AT_ENTITY",
+        "comment": "Checks if entity1 is within the box defined by x/y/zSize of entity2.\n\nLast three parameters are almost always p5 = 0, p6 = 1, p7 = 0",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "float",
+                "name": "xSize"
+            },
+            {
+                "type": "float",
+                "name": "ySize"
+            },
+            {
+                "type": "float",
+                "name": "zSize"
+            },
+            {
+                "type": "BOOL",
+                "name": "p5"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x751B70C3D034E187",
+        "gta_jhash": "0xDABDCB52"
+    }
+}

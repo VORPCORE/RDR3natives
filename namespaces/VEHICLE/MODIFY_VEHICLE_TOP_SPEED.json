@@ -1,0 +1,20 @@
+{
+    "0x35AD938C74CACD6A": {
+        "name": "MODIFY_VEHICLE_TOP_SPEED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "float",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x93A3996368C94158",
+        "gta_jhash": "0xE943B09C"
+    }
+}

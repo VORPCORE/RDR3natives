@@ -1,0 +1,14 @@
+{
+    "0xE92261BD28C0878F": {
+        "name": "_0xE92261BD28C0878F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

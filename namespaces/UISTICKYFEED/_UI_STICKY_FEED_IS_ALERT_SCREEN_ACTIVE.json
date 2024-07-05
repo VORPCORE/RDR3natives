@@ -1,0 +1,9 @@
+{
+    "0xF8806EC3FF840FDC": {
+        "name": "_UI_STICKY_FEED_IS_ALERT_SCREEN_ACTIVE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

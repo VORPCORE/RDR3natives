@@ -1,0 +1,40 @@
+{
+    "0x10B2218320B6F5AC": {
+        "name": "CREATE_MODEL_SWAP",
+        "comment": "Only works with objects!",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            },
+            {
+                "type": "Hash",
+                "name": "originalModel"
+            },
+            {
+                "type": "Hash",
+                "name": "newModel"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x92C47782FDA8B2A3",
+        "gta_jhash": "0x0BC12F9E"
+    }
+}

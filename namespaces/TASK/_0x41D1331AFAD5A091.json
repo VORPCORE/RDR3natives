@@ -1,0 +1,22 @@
+{
+    "0x41D1331AFAD5A091": {
+        "name": "_0x41D1331AFAD5A091",
+        "comment": "_SET_PED_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

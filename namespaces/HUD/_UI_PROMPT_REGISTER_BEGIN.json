@@ -1,0 +1,9 @@
+{
+    "0x04F97DE45A519419": {
+        "name": "_UI_PROMPT_REGISTER_BEGIN",
+        "comment": "",
+        "params": [],
+        "return_type": "Prompt",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x7A17B7981560FFA5": {
+        "name": "_TEXTURE_DOWNLOAD_RELEASE_BY_NAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

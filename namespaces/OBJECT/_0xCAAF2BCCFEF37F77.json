@@ -1,0 +1,18 @@
+{
+    "0xCAAF2BCCFEF37F77": {
+        "name": "_0xCAAF2BCCFEF37F77",
+        "comment": "_SET_OBJECT_*",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

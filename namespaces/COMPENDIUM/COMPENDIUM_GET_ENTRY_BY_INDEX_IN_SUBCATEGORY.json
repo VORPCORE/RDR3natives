@@ -1,0 +1,22 @@
+{
+    "0x5CEB63B2E3D9895F": {
+        "name": "COMPENDIUM_GET_ENTRY_BY_INDEX_IN_SUBCATEGORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "category"
+            },
+            {
+                "type": "Hash",
+                "name": "subcategory"
+            },
+            {
+                "type": "int",
+                "name": "count"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311"
+    }
+}

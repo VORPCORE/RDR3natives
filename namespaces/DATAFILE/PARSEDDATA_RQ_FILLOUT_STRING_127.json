@@ -1,0 +1,18 @@
+{
+    "0x951327435DC5164B": {
+        "name": "PARSEDDATA_RQ_FILLOUT_STRING_127",
+        "comment": "",
+        "params": [
+            {
+                "type": "char*",
+                "name": "p0"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

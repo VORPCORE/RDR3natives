@@ -1,0 +1,18 @@
+{
+    "0x727AB6F008BB9F29": {
+        "name": "_BOUNTY_REQUEST_COMPLETE_WANTED_POSTER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outRpcGuid"
+            },
+            {
+                "type": "Any*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

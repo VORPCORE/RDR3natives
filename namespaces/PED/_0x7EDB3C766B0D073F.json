@@ -1,0 +1,14 @@
+{
+    "0x7EDB3C766B0D073F": {
+        "name": "_0x7EDB3C766B0D073F",
+        "comment": "Only used in R* Script net_moonshine_property\n_A* - _B*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

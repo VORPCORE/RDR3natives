@@ -1,0 +1,14 @@
+{
+    "0x6CF0DAD7FA1088EA": {
+        "name": "_GET_ENTITY_PROOFS",
+        "comment": "Note: this native was removed in 1232 but added back in 1311",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

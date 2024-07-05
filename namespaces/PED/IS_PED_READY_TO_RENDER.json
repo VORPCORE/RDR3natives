@@ -1,0 +1,14 @@
+{
+    "0xA0BC8FAED8CFEB3C": {
+        "name": "IS_PED_READY_TO_RENDER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

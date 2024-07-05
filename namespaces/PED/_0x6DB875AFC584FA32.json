@@ -1,0 +1,18 @@
+{
+    "0x6DB875AFC584FA32": {
+        "name": "_0x6DB875AFC584FA32",
+        "comment": "Only used in R* SP Script winter1: p1 = 5000\n_SET_PED_M*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

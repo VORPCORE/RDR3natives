@@ -1,0 +1,18 @@
+{
+    "0x31010318BA9897AC": {
+        "name": "_SET_PLAYER_BIT_AT_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "value"
+            },
+            {
+                "type": "int",
+                "name": "bitIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

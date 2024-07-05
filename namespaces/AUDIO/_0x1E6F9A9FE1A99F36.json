@@ -1,0 +1,14 @@
+{
+    "0x1E6F9A9FE1A99F36": {
+        "name": "_0x1E6F9A9FE1A99F36",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audSpeechEvent"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

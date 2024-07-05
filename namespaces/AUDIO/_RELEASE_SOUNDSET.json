@@ -1,0 +1,14 @@
+{
+    "0x531A78D6BF27014B": {
+        "name": "_RELEASE_SOUNDSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "soundsetName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

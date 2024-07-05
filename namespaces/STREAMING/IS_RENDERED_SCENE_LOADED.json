@@ -1,0 +1,9 @@
+{
+    "0x45BF3A6239A576B7": {
+        "name": "IS_RENDERED_SCENE_LOADED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

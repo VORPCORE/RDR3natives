@@ -1,0 +1,18 @@
+{
+    "0x8674D138391FFB1B": {
+        "name": "_SET_DISABLE_PLAYER_WANTED_LEVEL",
+        "comment": "Disables the players ability to be wanted by lawmen",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "disable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

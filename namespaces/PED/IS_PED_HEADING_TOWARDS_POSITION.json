@@ -1,0 +1,32 @@
+{
+    "0xFCF37A457CB96DC0": {
+        "name": "IS_PED_HEADING_TOWARDS_POSITION",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xFCF37A457CB96DC0",
+        "gta_jhash": "0x45037B9B"
+    }
+}

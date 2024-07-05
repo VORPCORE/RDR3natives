@@ -1,0 +1,22 @@
+{
+    "0x4768D5252EAEB76F": {
+        "name": "SET_EVENT_FLAG_FOR_DELETION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "eventGroup"
+            },
+            {
+                "type": "int",
+                "name": "eventIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x74F74D3207ED525C": {
+        "name": "SET_BLIP_SPRITE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            },
+            {
+                "type": "Hash",
+                "name": "hash"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDF735600A4696DAF",
+        "gta_jhash": "0x8DBBB0B9"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x9935F76407C32539": {
+        "name": "ACTIVITY_FEED_ADD_SUBSTRING_TO_CAPTION",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x31125FD509D9043F",
+        "gta_jhash": ""
+    }
+}

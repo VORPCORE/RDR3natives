@@ -1,0 +1,24 @@
+{
+    "0xF75B0D629E1C063D": {
+        "name": "SET_PED_INTO_VEHICLE",
+        "comment": "Ped: The ped to warp.\nvehicle: The vehicle to warp the ped into.\nseatIndex: see CREATE_PED_INSIDE_VEHICLE",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "seatIndex"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF75B0D629E1C063D",
+        "gta_jhash": "0x07500C79"
+    }
+}

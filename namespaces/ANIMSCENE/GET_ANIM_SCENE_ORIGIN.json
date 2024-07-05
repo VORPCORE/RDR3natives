@@ -1,0 +1,26 @@
+{
+    "0xADF1D53F3B1FE0A7": {
+        "name": "GET_ANIM_SCENE_ORIGIN",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "Vector3*",
+                "name": "position"
+            },
+            {
+                "type": "Vector3*",
+                "name": "rotation"
+            },
+            {
+                "type": "int",
+                "name": "order"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

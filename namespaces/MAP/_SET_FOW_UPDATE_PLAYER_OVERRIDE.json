@@ -1,0 +1,18 @@
+{
+    "0x63E7279D04160477": {
+        "name": "_SET_FOW_UPDATE_PLAYER_OVERRIDE",
+        "comment": "Used for GUARMA MODE; Enabled: toggle = false, 0; Disabled: toggle = true, 0\nHash p1 seems to be unused, always 0",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

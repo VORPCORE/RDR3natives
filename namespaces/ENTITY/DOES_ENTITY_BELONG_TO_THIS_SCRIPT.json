@@ -1,0 +1,20 @@
+{
+    "0x622B1980CBE13332": {
+        "name": "DOES_ENTITY_BELONG_TO_THIS_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xDDE6DF5AE89981D2",
+        "gta_jhash": "0xACFEB3F9"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x80EC48E6679313F9": {
+        "name": "HAS_PICKUP_BEEN_COLLECTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Pickup",
+                "name": "pickup"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x80EC48E6679313F9",
+        "gta_jhash": "0x0BE5CCED"
+    }
+}

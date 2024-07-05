@@ -1,0 +1,14 @@
+{
+    "0x0A98A362C5A19A43": {
+        "name": "_0x0A98A362C5A19A43",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x9238A3D970BBB0A9": {
+        "name": "_SET_PED_COMBAT_BEHAVIOUR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "behaviour"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

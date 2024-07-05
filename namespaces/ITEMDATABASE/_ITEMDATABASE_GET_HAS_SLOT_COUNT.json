@@ -1,0 +1,14 @@
+{
+    "0x44915068579D7710": {
+        "name": "_ITEMDATABASE_GET_HAS_SLOT_COUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "category"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

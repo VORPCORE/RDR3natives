@@ -1,0 +1,18 @@
+{
+    "0xEE5AE9956743BA20": {
+        "name": "_SET_ENTITY_GHOSTED_TO_LOCAL_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

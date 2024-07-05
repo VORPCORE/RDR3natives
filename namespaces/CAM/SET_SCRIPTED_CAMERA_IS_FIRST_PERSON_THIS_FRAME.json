@@ -1,0 +1,16 @@
+{
+    "0x1DD95A8D6B24A0C9": {
+        "name": "SET_SCRIPTED_CAMERA_IS_FIRST_PERSON_THIS_FRAME",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x469F2ECDEC046337",
+        "gta_jhash": ""
+    }
+}

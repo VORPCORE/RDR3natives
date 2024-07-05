@@ -1,0 +1,14 @@
+{
+    "0x845CE958416DC473": {
+        "name": "_UI_PROMPT_HAS_MASH_MODE_COMPLETED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

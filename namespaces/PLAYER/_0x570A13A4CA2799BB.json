@@ -1,0 +1,18 @@
+{
+    "0x570A13A4CA2799BB": {
+        "name": "_0x570A13A4CA2799BB",
+        "comment": "Used in script function INIT_DEADEYE_SLOWDOWN",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

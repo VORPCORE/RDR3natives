@@ -1,0 +1,28 @@
+{
+    "0xBFBB74A15EFC149B": {
+        "name": "COMPARE_STRINGS",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "str1"
+            },
+            {
+                "type": "const char*",
+                "name": "str2"
+            },
+            {
+                "type": "BOOL",
+                "name": "matchCase"
+            },
+            {
+                "type": "int",
+                "name": "maxLength"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x1E34710ECD4AB0EB",
+        "gta_jhash": "0xFE25A58F"
+    }
+}

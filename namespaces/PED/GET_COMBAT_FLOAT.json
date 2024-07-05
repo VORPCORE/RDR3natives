@@ -1,0 +1,20 @@
+{
+    "0x52DFF8A10508090A": {
+        "name": "GET_COMBAT_FLOAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "combatType"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x52DFF8A10508090A",
+        "gta_jhash": "0x511D7EF8"
+    }
+}

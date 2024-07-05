@@ -1,0 +1,9 @@
+{
+    "0xDBC754CB6CCB9378": {
+        "name": "_COMMERCE_STORE_IS_ENABLED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1232"
+    }
+}

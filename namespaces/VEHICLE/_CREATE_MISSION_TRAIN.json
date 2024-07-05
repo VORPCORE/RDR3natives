@@ -1,0 +1,42 @@
+{
+    "0xC239DBD9A57D2A71": {
+        "name": "_CREATE_MISSION_TRAIN",
+        "comment": "configHash: https://alloc8or.re/rdr3/doc/enums/eTrainConfig.txt\nFor more information, see trainconfigs.ymt\nTo make the train AI controlled, set conductor to true and set the speed once.",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "configHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "BOOL",
+                "name": "direction"
+            },
+            {
+                "type": "BOOL",
+                "name": "passengers"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            },
+            {
+                "type": "BOOL",
+                "name": "conductor"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xCD356B42C57BFE01": {
+        "name": "_GET_CORRECT_KIT_EMOTE_TWIRL_GUN",
+        "comment": "_GET_BEST_* - _GET_CLOSEST_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any*",
+                "name": "weaponGuid"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1355"
+    }
+}

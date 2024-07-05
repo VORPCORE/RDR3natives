@@ -1,0 +1,28 @@
+{
+    "0x550CE392A4672412": {
+        "name": "SET_VEHICLE_DOOR_OPEN",
+        "comment": "doorId: see SET_VEHICLE_DOOR_SHUT\nCan also be used on trains and its wagons",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "doorId"
+            },
+            {
+                "type": "BOOL",
+                "name": "loose"
+            },
+            {
+                "type": "BOOL",
+                "name": "openInstantly"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7C65DAC73C35C862",
+        "gta_jhash": "0xBB75D38B"
+    }
+}

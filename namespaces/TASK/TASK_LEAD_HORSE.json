@@ -1,0 +1,18 @@
+{
+    "0x9A7A4A54596FE09D": {
+        "name": "TASK_LEAD_HORSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Ped",
+                "name": "horse"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

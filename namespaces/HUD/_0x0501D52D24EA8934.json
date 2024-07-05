@@ -1,0 +1,14 @@
+{
+    "0x0501D52D24EA8934": {
+        "name": "_0x0501D52D24EA8934",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

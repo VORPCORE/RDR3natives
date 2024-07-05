@@ -1,0 +1,18 @@
+{
+    "0x98082246107A6ACF": {
+        "name": "_IS_META_PED_OUTFIT_EQUIPPED",
+        "comment": "Used in script function HORSE_IS_META_PED_OUTFIT_SADDLE_EQUIPPED",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "outfit"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x12DF6E0D2E736749": {
+        "name": "IS_ENTITY_ATTACHED_TO_ANY_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x26AA915AD89BFB4B",
+        "gta_jhash": "0xDE5C995E"
+    }
+}

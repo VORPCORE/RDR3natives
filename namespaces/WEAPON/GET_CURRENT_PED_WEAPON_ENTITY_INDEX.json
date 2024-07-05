@@ -1,0 +1,20 @@
+{
+    "0x3B390A939AF0B5FC": {
+        "name": "GET_CURRENT_PED_WEAPON_ENTITY_INDEX",
+        "comment": "Returns weaponObject, attachPoint: see SET_CURRENT_PED_WEAPON",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attachPoint"
+            }
+        ],
+        "return_type": "Entity",
+        "build": "1207",
+        "gta_hash": "0x3B390A939AF0B5FC",
+        "gta_jhash": "0x5D73CD20"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0x1D6A14F1F9A736FC": {
+        "name": "NETWORK_GET_HOST_OF_SCRIPT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scriptName"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "Player",
+        "build": "1436",
+        "gta_hash": "0x1D6A14F1F9A736FC",
+        "gta_jhash": "0x9C95D0BB"
+    }
+}

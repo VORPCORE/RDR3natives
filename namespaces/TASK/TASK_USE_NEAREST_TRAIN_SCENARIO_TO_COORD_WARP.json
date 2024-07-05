@@ -1,0 +1,30 @@
+{
+    "0x3774B03456DD6106": {
+        "name": "TASK_USE_NEAREST_TRAIN_SCENARIO_TO_COORD_WARP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "distance"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x295859EB18F48D82": {
+        "name": "_0x295859EB18F48D82",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

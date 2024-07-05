@@ -1,0 +1,18 @@
+{
+    "0x5230D3F6EE56CFE6": {
+        "name": "_SET_FORCE_CURRENT_WEAPON_INTO_COCKED_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "attachPoint"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

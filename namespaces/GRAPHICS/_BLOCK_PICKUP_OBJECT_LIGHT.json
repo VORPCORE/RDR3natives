@@ -1,0 +1,18 @@
+{
+    "0x50C14328119E1DD1": {
+        "name": "_BLOCK_PICKUP_OBJECT_LIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "pickupObject"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

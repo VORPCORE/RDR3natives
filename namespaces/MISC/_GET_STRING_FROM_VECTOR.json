@@ -1,0 +1,22 @@
+{
+    "0x6C4DBF553885F9EB": {
+        "name": "_GET_STRING_FROM_VECTOR",
+        "comment": "Returns a string in the following format: <<%.4f,%.4f,%.4f>>",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

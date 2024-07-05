@@ -1,0 +1,22 @@
+{
+    "0x8E46E18AA828334F": {
+        "name": "_0x8E46E18AA828334F",
+        "comment": "Used in Script Function GENERIC_ITEM_HAS_ANIM_COMPLETED\n_GET_ENTITY_*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "const char*",
+                "name": "animDict"
+            },
+            {
+                "type": "const char*",
+                "name": "animClip"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

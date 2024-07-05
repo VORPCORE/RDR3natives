@@ -1,0 +1,14 @@
+{
+    "0x0FBBFFC891A97C81": {
+        "name": "_INVENTORY_ARE_LOCAL_CHANGES_ALLOWED",
+        "comment": "inventoryId: see _INVENTORY_GET_PED_INVENTORY_ID",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

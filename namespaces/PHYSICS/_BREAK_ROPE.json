@@ -1,0 +1,38 @@
+{
+    "0x4CFA2B7FAE115ECB": {
+        "name": "_BREAK_ROPE",
+        "comment": "ropeTop returns top half of rope, ropeBottom returns bottom half of rope",
+        "params": [
+            {
+                "type": "int*",
+                "name": "ropeId"
+            },
+            {
+                "type": "int*",
+                "name": "ropeTop"
+            },
+            {
+                "type": "int*",
+                "name": "ropeBottom"
+            },
+            {
+                "type": "float",
+                "name": "offsetX"
+            },
+            {
+                "type": "float",
+                "name": "offsetY"
+            },
+            {
+                "type": "float",
+                "name": "offsetZ"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

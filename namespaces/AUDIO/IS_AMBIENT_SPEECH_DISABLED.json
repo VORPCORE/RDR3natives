@@ -1,0 +1,16 @@
+{
+    "0x932C2D096A2C3FFF": {
+        "name": "IS_AMBIENT_SPEECH_DISABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x932C2D096A2C3FFF",
+        "gta_jhash": "0x109D1F89"
+    }
+}

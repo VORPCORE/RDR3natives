@@ -1,0 +1,10 @@
+{
+    "0x4FE932E84FE932E8": {
+        "name": "_GET_NUM_PEER_NEGOTIATION_RESPONSES",
+        "comment": "Note: this native was added in build 1311.16",
+        "params": [],
+        "return_type": "int",
+        "build": "1311",
+        "unused": true
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x842CCC9491FFCD9B": {
+        "name": "_ANIMPOSTFX_GET_STACKHASH",
+        "comment": "Known effects: MP_Trans_SceneToPhoto\nMP_Trans_WinLose\nSpectateFilter\nMP_CharacterCreatorPhoto\nMP_Trans_PhotoToScene\nInterrogationHit",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "effectName"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

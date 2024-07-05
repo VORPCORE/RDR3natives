@@ -1,0 +1,14 @@
+{
+    "0x4C11CCACB7C02B6E": {
+        "name": "_DOES_CHECKPOINT_HAVE_FX",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "checkpoint"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

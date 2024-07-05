@@ -1,0 +1,20 @@
+{
+    "0xC8183AE963C58374": {
+        "name": "IS_PLAYER_BEING_ARRESTED",
+        "comment": "Return true while player is being arrested / busted.\n\nIf atArresting is set to 1, this function will return 1 when player is being arrested (while player is putting his hand up, but still have control)\n\nIf atArresting is set to 0, this function will return 1 only when the busted screen is shown.",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "atArresting"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x388A47C51ABDAC8E",
+        "gta_jhash": "0x7F6A60D3"
+    }
+}

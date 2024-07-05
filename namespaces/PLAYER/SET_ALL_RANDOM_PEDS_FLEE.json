@@ -1,0 +1,20 @@
+{
+    "0xE705309B8C6445A4": {
+        "name": "SET_ALL_RANDOM_PEDS_FLEE",
+        "comment": "Sets whether all random peds will run away from player if they are agitated (threatened) (bool=true), or some peds can stand up for themselves (bool=false).",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x056E0FE8534C2949",
+        "gta_jhash": "0x49EAE968"
+    }
+}

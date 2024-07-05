@@ -1,0 +1,18 @@
+{
+    "0x8FBF9EDB378CCB8C": {
+        "name": "_SET_PED_ACTIVE_PLAYER_HORSE",
+        "comment": "Seems to work similar to 0xD2CB0FB0FDCB473D",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "horse"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

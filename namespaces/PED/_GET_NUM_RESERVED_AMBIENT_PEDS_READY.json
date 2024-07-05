@@ -1,0 +1,9 @@
+{
+    "0x5C16855277819BBF": {
+        "name": "_GET_NUM_RESERVED_AMBIENT_PEDS_READY",
+        "comment": "",
+        "params": [],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

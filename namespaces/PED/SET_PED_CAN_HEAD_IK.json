@@ -1,0 +1,20 @@
+{
+    "0xC11C18092C5530DC": {
+        "name": "SET_PED_CAN_HEAD_IK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC11C18092C5530DC",
+        "gta_jhash": "0xD3B04476"
+    }
+}

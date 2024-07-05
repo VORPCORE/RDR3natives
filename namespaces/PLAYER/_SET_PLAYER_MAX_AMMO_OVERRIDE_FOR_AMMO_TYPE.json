@@ -1,0 +1,22 @@
+{
+    "0xE133C1EC5300F740": {
+        "name": "_SET_PLAYER_MAX_AMMO_OVERRIDE_FOR_AMMO_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoType"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

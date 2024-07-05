@@ -1,0 +1,18 @@
+{
+    "0x5D6182F3BCE1333B": {
+        "name": "_0x5D6182F3BCE1333B",
+        "comment": "removeReason: REMOVE_REASON_DEFAULT (eRemoveItemReason)\nExample: INVENTORY::_0x5D6182F3BCE1333B(1, joaat(\"REMOVE_REASON_DEFAULT\")); -> clears weapon wheel\nOnly used in R* SP Scripts",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Hash",
+                "name": "removeReason"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

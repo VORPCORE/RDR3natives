@@ -1,0 +1,18 @@
+{
+    "0x73616E64696C132E": {
+        "name": "_0x73616E64696C132E",
+        "comment": "Used in SP R* Scripts only\n_CO* - _CR*",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

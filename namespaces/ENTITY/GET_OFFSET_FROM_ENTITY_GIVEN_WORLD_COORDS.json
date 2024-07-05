@@ -1,0 +1,28 @@
+{
+    "0x497C6B1A2C9AE69C": {
+        "name": "GET_OFFSET_FROM_ENTITY_GIVEN_WORLD_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x2274BC1C4885E333",
+        "gta_jhash": "0x6477EC9E"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xA1300DE03E5D1973": {
+        "name": "_CREATE_MGM_SYSTEM",
+        "comment": "Returns mgmHandle",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "mgmFilename"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x873AAF600CC36DAC": {
+        "name": "_0x873AAF600CC36DAC",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

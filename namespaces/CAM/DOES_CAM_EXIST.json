@@ -1,0 +1,16 @@
+{
+    "0x153AD457764FD704": {
+        "name": "DOES_CAM_EXIST",
+        "comment": "Returns whether or not the passed camera handle exists.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xA7A932170592B50E",
+        "gta_jhash": "0x1EF89DC0"
+    }
+}

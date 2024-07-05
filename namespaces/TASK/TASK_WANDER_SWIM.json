@@ -1,0 +1,18 @@
+{
+    "0x527EA3DB8BC7F03B": {
+        "name": "TASK_WANDER_SWIM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

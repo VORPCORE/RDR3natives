@@ -1,0 +1,28 @@
+{
+    "0xFCA8B23F28813F69": {
+        "name": "GET_WATER_HEIGHT",
+        "comment": "Checks against a global variable that is set by _SET_WORLD_WATER_TYPE. If that is set to one it will fail. Likely not the only issue but part of it.",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float*",
+                "name": "height"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF6829842C06AE524",
+        "gta_jhash": "0xD864E17C"
+    }
+}

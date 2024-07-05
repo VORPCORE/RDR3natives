@@ -1,0 +1,18 @@
+{
+    "0xEF259AA1E097E0AD": {
+        "name": "_0xEF259AA1E097E0AD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

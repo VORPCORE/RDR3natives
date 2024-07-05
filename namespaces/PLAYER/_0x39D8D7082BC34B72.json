@@ -1,0 +1,14 @@
+{
+    "0x39D8D7082BC34B72": {
+        "name": "_0x39D8D7082BC34B72",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1311"
+    }
+}

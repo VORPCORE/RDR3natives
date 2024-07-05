@@ -1,0 +1,14 @@
+{
+    "0x7D654266025E921B": {
+        "name": "_ACTIVATE_GOAL_CONTEXT",
+        "comment": "goalContext: see <availableContexts> in common/data/stats_and_challenges/goals_*.meta",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "goalContext"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

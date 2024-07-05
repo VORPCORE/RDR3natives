@@ -1,0 +1,14 @@
+{
+    "0x4FD80C3DD84B817B": {
+        "name": "_CLEAR_PED_DESIRED_LOCO_FOR_MODEL",
+        "comment": "Clears locomotion archetype",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

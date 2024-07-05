@@ -1,0 +1,28 @@
+{
+    "0xB4E3BFC39CA16057": {
+        "name": "START_VEHICLE_HORN",
+        "comment": "Sounds the horn for the specified vehicle.\n\nvehicle: The vehicle to activate the horn for.\nmode: The hash of \"NORMAL\" or \"HELDDOWN\". Can be 0.\nduration: The duration to sound the horn, in milliseconds.\n\nNote: If a player is in the vehicle, it will only sound briefly.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "duration"
+            },
+            {
+                "type": "Hash",
+                "name": "mode"
+            },
+            {
+                "type": "BOOL",
+                "name": "forever"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9C8C6504B5B63D2C",
+        "gta_jhash": "0x0DF5ADB3"
+    }
+}

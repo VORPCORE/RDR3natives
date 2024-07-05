@@ -1,0 +1,9 @@
+{
+    "0x74F1D22EFA71FAB8": {
+        "name": "_IS_IN_CINEMATIC_MODE",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

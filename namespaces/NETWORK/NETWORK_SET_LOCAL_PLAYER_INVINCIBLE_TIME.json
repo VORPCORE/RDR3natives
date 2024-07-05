@@ -1,0 +1,16 @@
+{
+    "0x2D95C7E2D7E07307": {
+        "name": "NETWORK_SET_LOCAL_PLAYER_INVINCIBLE_TIME",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "time"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2D95C7E2D7E07307",
+        "gta_jhash": "0xFEA9B85C"
+    }
+}

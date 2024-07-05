@@ -1,0 +1,14 @@
+{
+    "0x706B434FEFAD6A24": {
+        "name": "_0x706B434FEFAD6A24",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x34BC1E79546BA543": {
+        "name": "_0x34BC1E79546BA543",
+        "comment": "_NETWORK_A* - _NETWORK_C*",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

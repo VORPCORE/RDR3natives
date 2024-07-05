@@ -1,0 +1,14 @@
+{
+    "0xC76FC4C2FC5F4405": {
+        "name": "_0xC76FC4C2FC5F4405",
+        "comment": "ANIMPOSTFX_*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "effectNameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

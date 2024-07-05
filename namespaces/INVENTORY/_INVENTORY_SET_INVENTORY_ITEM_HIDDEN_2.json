@@ -1,0 +1,22 @@
+{
+    "0xD740F11FBC8AEF43": {
+        "name": "_INVENTORY_SET_INVENTORY_ITEM_HIDDEN_2",
+        "comment": "Used with CSatchelItem, R* Script usage: fisihing_core",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "guid"
+            },
+            {
+                "type": "BOOL",
+                "name": "hidden"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

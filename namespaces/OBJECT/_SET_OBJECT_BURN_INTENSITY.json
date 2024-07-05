@@ -1,0 +1,18 @@
+{
+    "0xC8E21C1677DC5E6F": {
+        "name": "_SET_OBJECT_BURN_INTENSITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "intensity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

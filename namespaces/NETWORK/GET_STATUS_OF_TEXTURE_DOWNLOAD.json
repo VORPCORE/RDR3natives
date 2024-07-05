@@ -1,0 +1,16 @@
+{
+    "0x8BD6C6DEA20E82C6": {
+        "name": "GET_STATUS_OF_TEXTURE_DOWNLOAD",
+        "comment": "0 = succeeded\n1 = pending\n2 = failed",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureDownloadId"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x8BD6C6DEA20E82C6",
+        "gta_jhash": "0x03225BA3"
+    }
+}

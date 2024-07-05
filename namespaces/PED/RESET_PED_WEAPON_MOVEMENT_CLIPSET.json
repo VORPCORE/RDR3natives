@@ -1,0 +1,16 @@
+{
+    "0x97B0DB5B4AA74E77": {
+        "name": "RESET_PED_WEAPON_MOVEMENT_CLIPSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x97B0DB5B4AA74E77",
+        "gta_jhash": "0xC60C9ACD"
+    }
+}

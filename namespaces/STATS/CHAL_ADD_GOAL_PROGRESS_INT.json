@@ -1,0 +1,22 @@
+{
+    "0xDDBD560745B1EE9A": {
+        "name": "CHAL_ADD_GOAL_PROGRESS_INT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "chalHash"
+            },
+            {
+                "type": "Hash",
+                "name": "goalHash"
+            },
+            {
+                "type": "int",
+                "name": "value"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

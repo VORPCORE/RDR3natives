@@ -1,0 +1,22 @@
+{
+    "0x10C1767B93257480": {
+        "name": "_SET_CLOUD_POSITION",
+        "comment": "Only used in finale2, smuggler2, winter4\n_SET_CLOUD_A* - _SET_CLOUD_H*",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

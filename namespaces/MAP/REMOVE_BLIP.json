@@ -1,0 +1,16 @@
+{
+    "0xF2C3C9DA47AAA54A": {
+        "name": "REMOVE_BLIP",
+        "comment": "",
+        "params": [
+            {
+                "type": "Blip*",
+                "name": "blip"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x86A652570E5F25DD",
+        "gta_jhash": "0xD8C3C1CD"
+    }
+}

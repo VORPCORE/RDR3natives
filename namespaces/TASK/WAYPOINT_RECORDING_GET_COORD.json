@@ -1,0 +1,24 @@
+{
+    "0x2FB897405C90B361": {
+        "name": "WAYPOINT_RECORDING_GET_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            },
+            {
+                "type": "int",
+                "name": "point"
+            },
+            {
+                "type": "Vector3*",
+                "name": "coord"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x2FB897405C90B361",
+        "gta_jhash": "0x19266913"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x1FDA57E8908F2609": {
+        "name": "_0x1FDA57E8908F2609",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "useSteerassist"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

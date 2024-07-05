@@ -1,0 +1,16 @@
+{
+    "0x2A1625858887D4E6": {
+        "name": "SET_PARTICLE_FX_FOOT_LODRANGE_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x949F397A288B28B3",
+        "gta_jhash": "0xE3880F5A"
+    }
+}

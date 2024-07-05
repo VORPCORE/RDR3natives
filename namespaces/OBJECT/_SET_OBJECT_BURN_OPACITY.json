@@ -1,0 +1,18 @@
+{
+    "0x7D7285EFEAB5AF15": {
+        "name": "_SET_OBJECT_BURN_OPACITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            },
+            {
+                "type": "float",
+                "name": "opacity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

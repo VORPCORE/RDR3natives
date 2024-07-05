@@ -1,0 +1,20 @@
+{
+    "0xDC2C5C242AAC342B": {
+        "name": "SET_PED_LOD_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xDC2C5C242AAC342B",
+        "gta_jhash": "0x1D2B5C70"
+    }
+}

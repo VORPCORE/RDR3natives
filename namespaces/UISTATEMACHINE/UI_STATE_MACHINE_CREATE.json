@@ -1,0 +1,18 @@
+{
+    "0x4C6F2C4B7A03A266": {
+        "name": "UI_STATE_MACHINE_CREATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

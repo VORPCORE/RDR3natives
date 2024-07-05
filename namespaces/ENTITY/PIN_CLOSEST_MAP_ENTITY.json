@@ -1,0 +1,30 @@
+{
+    "0x6F3068258A499E52": {
+        "name": "PIN_CLOSEST_MAP_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "modelHash"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x1FF441D7954F8709": {
+        "name": "IS_MAP_ENTITY_PINNED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

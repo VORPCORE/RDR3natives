@@ -1,0 +1,14 @@
+{
+    "0xFA3B61EC249B4674": {
+        "name": "_GET_LIGHT_INTENSITY_FROM_OBJECT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Object",
+                "name": "object"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xF6B9CE3F8D5B9B74": {
+        "name": "REQUEST_SCRIPT_WITH_NAME_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "scriptHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xD62A67D26D9653E6",
+        "gta_jhash": "0x1C68D9DC"
+    }
+}

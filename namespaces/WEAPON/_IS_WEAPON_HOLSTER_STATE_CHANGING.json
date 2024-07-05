@@ -1,0 +1,14 @@
+{
+    "0x2387D6E9C6B478AA": {
+        "name": "_IS_WEAPON_HOLSTER_STATE_CHANGING",
+        "comment": "Returns true if the ped is currently holstering or unholstering a weapon",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

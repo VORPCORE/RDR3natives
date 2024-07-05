@@ -1,0 +1,18 @@
+{
+    "0xF92FA8890DECECF6": {
+        "name": "_REMOVE_BOUNDS_FROM_AGGREGATE_VOLUME",
+        "comment": "_REMOVE_E* - _REMOVE_R*",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "Volume",
+                "name": "aggregate"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

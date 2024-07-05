@@ -1,0 +1,22 @@
+{
+    "0x430EE0A19BC5A287": {
+        "name": "_GET_ANIM_SCENE_VEHICLE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            },
+            {
+                "type": "BOOL",
+                "name": "isNetwork"
+            }
+        ],
+        "return_type": "Vehicle",
+        "build": "1207"
+    }
+}

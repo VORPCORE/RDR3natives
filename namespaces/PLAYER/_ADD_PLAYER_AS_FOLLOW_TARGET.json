@@ -1,0 +1,38 @@
+{
+    "0xAC22AA6DF4D1C1DE": {
+        "name": "_ADD_PLAYER_AS_FOLLOW_TARGET",
+        "comment": "Used in script function: NET_AUTO_FOLLOW_UPDATE_LEADER_VALUES\nfollowMode:\nHORSEFOLLOWMODE_AUTO = 0,\nHORSEFOLLOWMODE_SIDE_ONLY,\nHORSEFOLLOWMODE_BEHIND_ONLY,\nHORSEFOLLOWMODE_BEHIND_AND_SIDE,\nHORSEFOLLOWMODE_BEHIND_CLOSE\nfollowPriority:\nHORSEFOLLOWPRIORITY_STEER_ASSIST = 0,\nHORSEFOLLOWPRIORITY_AMBIENT,\nHORSEFOLLOWPRIORITY_NORMAL,\nHORSEFOLLOWPRIORITY_HIGH",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "followMode"
+            },
+            {
+                "type": "int",
+                "name": "followPriority"
+            },
+            {
+                "type": "BOOL",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

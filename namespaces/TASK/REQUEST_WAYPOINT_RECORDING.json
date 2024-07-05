@@ -1,0 +1,16 @@
+{
+    "0x9EEFB62EB27B5792": {
+        "name": "REQUEST_WAYPOINT_RECORDING",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "waypointRecording"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x9EEFB62EB27B5792",
+        "gta_jhash": "0xAFABFB5D"
+    }
+}

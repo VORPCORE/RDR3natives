@@ -1,0 +1,18 @@
+{
+    "0x9520175B35E2268D": {
+        "name": "_0x9520175B35E2268D",
+        "comment": "_SET_P*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

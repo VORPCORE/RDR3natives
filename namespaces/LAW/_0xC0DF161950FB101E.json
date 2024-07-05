@@ -1,0 +1,14 @@
+{
+    "0xC0DF161950FB101E": {
+        "name": "_0xC0DF161950FB101E",
+        "comment": "Only used in rcm_serial_killer1 R* Script",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "0x7E300B5B86AB1D1A": {
+        "name": "_0x7E300B5B86AB1D1A",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            },
+            {
+                "type": "int",
+                "name": "p3"
+            },
+            {
+                "type": "int",
+                "name": "p4"
+            },
+            {
+                "type": "int",
+                "name": "p5"
+            },
+            {
+                "type": "int",
+                "name": "p6"
+            },
+            {
+                "type": "int",
+                "name": "p7"
+            },
+            {
+                "type": "int",
+                "name": "p8"
+            },
+            {
+                "type": "int",
+                "name": "p9"
+            },
+            {
+                "type": "int",
+                "name": "p10"
+            },
+            {
+                "type": "int",
+                "name": "p11"
+            },
+            {
+                "type": "int",
+                "name": "p12"
+            },
+            {
+                "type": "int",
+                "name": "p13"
+            },
+            {
+                "type": "int",
+                "name": "p14"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xD43A616AE3AC4EF6": {
+        "name": "_GOOGLE_ANALYTICS_PUSH_PAGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "pageName"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

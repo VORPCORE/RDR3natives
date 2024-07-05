@@ -1,0 +1,16 @@
+{
+    "0xC841153DED2CA89A": {
+        "name": "IS_ENTITY_ATTACHED_TO_ANY_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB1632E9A5F988D11",
+        "gta_jhash": "0x9D7A609C"
+    }
+}

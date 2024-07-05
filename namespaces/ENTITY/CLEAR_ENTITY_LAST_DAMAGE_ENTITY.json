@@ -1,0 +1,16 @@
+{
+    "0xBB19AC7D4DCEFD0F": {
+        "name": "CLEAR_ENTITY_LAST_DAMAGE_ENTITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA72CD9CA74A5ECBA",
+        "gta_jhash": "0x2B83F43B"
+    }
+}

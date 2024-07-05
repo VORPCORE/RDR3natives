@@ -1,0 +1,14 @@
+{
+    "0x7C334FF4D9215912": {
+        "name": "_NAVMESH_ACTIVATE_SWAP",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

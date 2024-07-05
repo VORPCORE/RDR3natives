@@ -1,0 +1,14 @@
+{
+    "0x1AD922AB5038DEF3": {
+        "name": "_ADD_ENTITY_TRACKING_TRAILS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

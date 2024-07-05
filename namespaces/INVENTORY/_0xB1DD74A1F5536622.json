@@ -1,0 +1,18 @@
+{
+    "0xB1DD74A1F5536622": {
+        "name": "_0xB1DD74A1F5536622",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "inventoryId"
+            },
+            {
+                "type": "Any*",
+                "name": "itemGUID"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1311"
+    }
+}

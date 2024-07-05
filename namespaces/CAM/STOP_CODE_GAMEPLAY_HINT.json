@@ -1,0 +1,16 @@
+{
+    "0x93759A83D0D844E7": {
+        "name": "STOP_CODE_GAMEPLAY_HINT",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x247ACBC4ABBC9D1C",
+        "gta_jhash": ""
+    }
+}

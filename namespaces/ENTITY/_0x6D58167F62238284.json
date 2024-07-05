@@ -1,0 +1,14 @@
+{
+    "0x6D58167F62238284": {
+        "name": "_0x6D58167F62238284",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

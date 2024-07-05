@@ -1,0 +1,22 @@
+{
+    "0x7B98500614C8E8B8": {
+        "name": "_GET_BEST_PED_WEAPON_IN_INVENTORY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any*",
+                "name": "guidPrimary"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1232"
+    }
+}

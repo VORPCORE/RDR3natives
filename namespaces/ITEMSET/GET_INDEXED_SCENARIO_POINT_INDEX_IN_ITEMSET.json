@@ -1,0 +1,18 @@
+{
+    "0x9FC3CDB5CE815901": {
+        "name": "GET_INDEXED_SCENARIO_POINT_INDEX_IN_ITEMSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "ItemSet",
+                "name": "itemset"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

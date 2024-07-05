@@ -1,0 +1,18 @@
+{
+    "0xC6C4E15CF7D52FEA": {
+        "name": "_0xC6C4E15CF7D52FEA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

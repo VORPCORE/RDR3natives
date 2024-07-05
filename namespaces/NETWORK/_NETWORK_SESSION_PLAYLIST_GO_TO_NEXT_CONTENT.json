@@ -1,0 +1,9 @@
+{
+    "0xBDE605F925B07127": {
+        "name": "_NETWORK_SESSION_PLAYLIST_GO_TO_NEXT_CONTENT",
+        "comment": "Only used in R* Script net_rolling_playlist",
+        "params": [],
+        "return_type": "void",
+        "build": "1436"
+    }
+}

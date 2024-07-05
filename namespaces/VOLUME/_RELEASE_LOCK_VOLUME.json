@@ -1,0 +1,14 @@
+{
+    "0xFDFECC6EE4491E11": {
+        "name": "_RELEASE_LOCK_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "volLockRequestId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

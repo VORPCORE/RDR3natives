@@ -1,0 +1,15 @@
+{
+    "0xDFFC15AA63D04AAB": {
+        "name": "_SET_LAUNCH_PARAM_STRING",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "params"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true
+    }
+}

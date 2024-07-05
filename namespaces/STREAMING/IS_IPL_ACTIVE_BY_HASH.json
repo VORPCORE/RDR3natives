@@ -1,0 +1,14 @@
+{
+    "0x93AC1B91CB6D9913": {
+        "name": "IS_IPL_ACTIVE_BY_HASH",
+        "comment": "Old name: _IS_IMAP_ACTIVE_2",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "iplHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

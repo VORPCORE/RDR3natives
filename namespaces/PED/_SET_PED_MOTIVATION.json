@@ -1,0 +1,26 @@
+{
+    "0x06D26A96CA1BCA75": {
+        "name": "_SET_PED_MOTIVATION",
+        "comment": "enum eMotivationState\n{\n\tTOILET_STATE,\n\tFEAR_STATE,\n\tANGRY_STATE,\n\tAGITATION_STATE,\n\tHUNGRY_STATE,\n\tTIRED_STATE,\n\tSAD_STATE,\n\tBRAVE_STATE,\n\tOFFER_ITEM_STATE,\n\tSUSPICION,\n\tDRUNK_STATE\n};\n\nIf targetPed is set to 0 the ped motivationState affects everyone",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "motivationState"
+            },
+            {
+                "type": "float",
+                "name": "threshold"
+            },
+            {
+                "type": "Ped",
+                "name": "targetPed"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

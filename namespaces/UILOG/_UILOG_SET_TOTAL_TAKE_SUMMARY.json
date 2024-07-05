@@ -1,0 +1,18 @@
+{
+    "0xD106B211EF1B8F04": {
+        "name": "_UILOG_SET_TOTAL_TAKE_SUMMARY",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            },
+            {
+                "type": "const char*",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

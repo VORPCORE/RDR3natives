@@ -1,0 +1,20 @@
+{
+    "0x017008CCDAD48503": {
+        "name": "GET_TIME_OFFSET",
+        "comment": "Adds the first argument to the second.",
+        "params": [
+            {
+                "type": "int",
+                "name": "timeA"
+            },
+            {
+                "type": "int",
+                "name": "timeB"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x017008CCDAD48503",
+        "gta_jhash": "0x2E079AE6"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xF252A85B8F3F8C58": {
+        "name": "_0xF252A85B8F3F8C58",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "weaponCollection"
+            },
+            {
+                "type": "Hash",
+                "name": "dualwieldVariant"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

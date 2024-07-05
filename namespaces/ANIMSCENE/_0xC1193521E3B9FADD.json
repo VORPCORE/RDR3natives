@@ -1,0 +1,18 @@
+{
+    "0xC1193521E3B9FADD": {
+        "name": "_0xC1193521E3B9FADD",
+        "comment": "Used in SP R* Scripts only\n_RESUME_* - _SET_A*",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

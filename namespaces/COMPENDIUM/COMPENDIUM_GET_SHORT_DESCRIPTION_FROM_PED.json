@@ -1,0 +1,14 @@
+{
+    "0x6C5E5D48E48B4C65": {
+        "name": "COMPENDIUM_GET_SHORT_DESCRIPTION_FROM_PED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

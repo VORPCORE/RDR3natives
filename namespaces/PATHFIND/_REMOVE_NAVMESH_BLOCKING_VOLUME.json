@@ -1,0 +1,14 @@
+{
+    "0x2C87C3E1C7B96EE2": {
+        "name": "_REMOVE_NAVMESH_BLOCKING_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

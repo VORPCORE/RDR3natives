@@ -1,0 +1,14 @@
+{
+    "0x775A1CA7893AA8B5": {
+        "name": "_GET_PED_STAMINA",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

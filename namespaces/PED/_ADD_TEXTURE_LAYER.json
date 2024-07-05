@@ -1,0 +1,38 @@
+{
+    "0x86BB5FF45F193A02": {
+        "name": "_ADD_TEXTURE_LAYER",
+        "comment": "Creates ped overlay in texture override data and returns it's index.\nThis index are used for further overlay editing.\n\nalbedoHash: a hash of overlay's albedo texture\ncolorType: a color type(from 0 to 2). 0 is used for overlays with RGB colors usually.",
+        "params": [
+            {
+                "type": "int",
+                "name": "textureId"
+            },
+            {
+                "type": "Hash",
+                "name": "albedoHash"
+            },
+            {
+                "type": "Hash",
+                "name": "normalHash"
+            },
+            {
+                "type": "Hash",
+                "name": "materialHash"
+            },
+            {
+                "type": "int",
+                "name": "blendType"
+            },
+            {
+                "type": "float",
+                "name": "texAlpha"
+            },
+            {
+                "type": "int",
+                "name": "sheetGridIndex"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0x23641AFE870AF385": {
+        "name": "START_PRELOADED_CONVERSATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "convoRoot"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x23641AFE870AF385",
+        "gta_jhash": "0xA170261B"
+    }
+}

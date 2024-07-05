@@ -1,0 +1,22 @@
+{
+    "0xDA8B2EAF29E872E2": {
+        "name": "_HAS_COLLISION_LOADED_AT_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

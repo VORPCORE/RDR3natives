@@ -1,0 +1,16 @@
+{
+    "0x6F4C85ACD641BCD2": {
+        "name": "GET_SEAT_PED_IS_TRYING_TO_ENTER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x6F4C85ACD641BCD2",
+        "gta_jhash": "0xACF162E0"
+    }
+}

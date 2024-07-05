@@ -1,0 +1,17 @@
+{
+    "0x176D077685CD83E4": {
+        "name": "SC_INBOX_MESSAGE_GET_RAW_TYPE_AT_INDEX",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207",
+        "unused": true,
+        "gta_hash": "0xF3E31D16CBDCB304",
+        "gta_jhash": "0x2C959AF9"
+    }
+}

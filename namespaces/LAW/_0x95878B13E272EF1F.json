@@ -1,0 +1,38 @@
+{
+    "0x95878B13E272EF1F": {
+        "name": "_0x95878B13E272EF1F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "Hash",
+                "name": "crimeType"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

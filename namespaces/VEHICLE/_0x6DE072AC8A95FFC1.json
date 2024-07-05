@@ -1,0 +1,18 @@
+{
+    "0x6DE072AC8A95FFC1": {
+        "name": "_0x6DE072AC8A95FFC1",
+        "comment": "_SET_INSTANTLY_* - _SET_MISSION_TRAIN*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

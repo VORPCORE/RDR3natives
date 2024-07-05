@@ -1,0 +1,14 @@
+{
+    "0xB04B69CF277D15C0": {
+        "name": "DATADICT_IS_ARRAY_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "fileDict"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

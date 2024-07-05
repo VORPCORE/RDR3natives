@@ -1,0 +1,14 @@
+{
+    "0xDFEA23EC90113657": {
+        "name": "_ENABLE_STATIC_VEG_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "0xA8BA2E0204D8486F": {
+        "name": "_0xA8BA2E0204D8486F",
+        "comment": "NPLOI_UPDATE__GUN_SPINNING_PREVIEW - Adjusting Camera / Ped Reset Flags This Frame\n_DISABLE_*",
+        "params": [],
+        "return_type": "void",
+        "build": "1355"
+    }
+}

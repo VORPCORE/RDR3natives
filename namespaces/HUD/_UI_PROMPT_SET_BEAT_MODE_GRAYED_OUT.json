@@ -1,0 +1,18 @@
+{
+    "0xB487A4936FBF40AC": {
+        "name": "_UI_PROMPT_SET_BEAT_MODE_GRAYED_OUT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xDA26263C07CCE9C2": {
+        "name": "_0xDA26263C07CCE9C2",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

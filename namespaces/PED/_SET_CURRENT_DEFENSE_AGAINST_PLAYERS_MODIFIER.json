@@ -1,0 +1,18 @@
+{
+    "0x069EDDF1FD4DEB0A": {
+        "name": "_SET_CURRENT_DEFENSE_AGAINST_PLAYERS_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "horse"
+            },
+            {
+                "type": "float",
+                "name": "modifier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0xDD1232B332CBB9E7": {
+        "name": "UI_FEED_CLEAR_CHANNEL",
+        "comment": "feedChannel: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eUIFeedChannel",
+        "params": [
+            {
+                "type": "int",
+                "name": "feedChannel"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

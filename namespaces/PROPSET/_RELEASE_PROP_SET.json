@@ -1,0 +1,14 @@
+{
+    "0xB1964A83B345B4AB": {
+        "name": "_RELEASE_PROP_SET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "hash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

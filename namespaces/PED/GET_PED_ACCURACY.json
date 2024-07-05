@@ -1,0 +1,16 @@
+{
+    "0x37F4AD56ECBC0CD6": {
+        "name": "GET_PED_ACCURACY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0x37F4AD56ECBC0CD6",
+        "gta_jhash": "0x0A2A0AA0"
+    }
+}

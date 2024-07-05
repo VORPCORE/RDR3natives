@@ -1,0 +1,28 @@
+{
+    "0x94B1E71B144356A5": {
+        "name": "DISABLE_VEHICLE_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "disabled"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            },
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Ped",
+                "name": "owner"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF4FC6A6F67D8D856",
+        "gta_jhash": "0xA688B7D1"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x0348469DAA17576C": {
+        "name": "_UNHITCH_HORSE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "horse"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

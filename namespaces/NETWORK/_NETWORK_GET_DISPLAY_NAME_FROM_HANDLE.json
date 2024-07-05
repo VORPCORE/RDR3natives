@@ -1,0 +1,18 @@
+{
+    "0x7FEE4F07C54B6B3C": {
+        "name": "_NETWORK_GET_DISPLAY_NAME_FROM_HANDLE",
+        "comment": "Example:\n\nchar displayName[64];\nif (_NETWORK_GET_DISPLAY_NAME_FROM_HANDLE(handle, displayName))\n{\n\t// use displayName\n}",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "char*",
+                "name": "displayName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x577C60BA06D0EA64": {
+        "name": "_0x577C60BA06D0EA64",
+        "comment": "_IS_PED_C* - _IS_PED_D*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0x541B8576615C33DE": {
+        "name": "SET_VOLUME_COORDS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            },
+            {
+                "type": "float",
+                "name": "posX"
+            },
+            {
+                "type": "float",
+                "name": "posY"
+            },
+            {
+                "type": "float",
+                "name": "posZ"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

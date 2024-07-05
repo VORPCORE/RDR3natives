@@ -1,0 +1,14 @@
+{
+    "0xDF66A37936D5F3D9": {
+        "name": "_GET_PLAYER_CACHED_DEAD_EYE_AMOUNT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

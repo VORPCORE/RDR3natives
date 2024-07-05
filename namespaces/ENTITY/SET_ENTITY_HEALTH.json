@@ -1,0 +1,22 @@
+{
+    "0xAC2767ED8BDFAB15": {
+        "name": "SET_ENTITY_HEALTH",
+        "comment": "Sets the entity's health. healthAmount sets the health value to that, and sets the maximum health core value. Setting healthAmount to 0 will kill the entity. entityKilledBy parameter can also be 0",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "healthAmount"
+            },
+            {
+                "type": "Entity",
+                "name": "entityKilledBy"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x4AEF1FB5B9011D75": {
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_IS_ANIMAL_PELT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "item"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "0xCF0B19806473D324": {
+        "name": "_0xCF0B19806473D324",
+        "comment": "_SET_PED_COMBAT_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

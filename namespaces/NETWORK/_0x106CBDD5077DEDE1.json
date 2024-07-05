@@ -1,0 +1,15 @@
+{
+    "0x106CBDD5077DEDE1": {
+        "name": "_0x106CBDD5077DEDE1",
+        "comment": "Note: this native was added in build 1311.23",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "int",
+        "build": "1311",
+        "unused": true
+    }
+}

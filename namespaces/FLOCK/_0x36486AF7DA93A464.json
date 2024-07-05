@@ -1,0 +1,14 @@
+{
+    "0x36486AF7DA93A464": {
+        "name": "_0x36486AF7DA93A464",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xD64DBC8B0424135F": {
+        "name": "_0xD64DBC8B0424135F",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "animalType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

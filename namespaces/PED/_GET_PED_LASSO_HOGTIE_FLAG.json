@@ -1,0 +1,18 @@
+{
+    "0x2C76FA0E01681F8D": {
+        "name": "_GET_PED_LASSO_HOGTIE_FLAG",
+        "comment": "https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/Lasso%20Hogtie%20Flags\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/LASSO_HOGTIE_FLAG",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flagId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

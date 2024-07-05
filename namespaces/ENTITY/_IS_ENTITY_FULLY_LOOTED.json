@@ -1,0 +1,14 @@
+{
+    "0x8DE41E9902E85756": {
+        "name": "_IS_ENTITY_FULLY_LOOTED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

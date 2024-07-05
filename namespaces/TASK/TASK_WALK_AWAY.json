@@ -1,0 +1,18 @@
+{
+    "0x04ACFAC71E6858F9": {
+        "name": "TASK_WALK_AWAY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Entity",
+                "name": "entity"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

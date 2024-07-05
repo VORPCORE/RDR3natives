@@ -1,0 +1,18 @@
+{
+    "0x95EE1DEE1DCD9070": {
+        "name": "_ENABLE_CUSTOM_DEADEYE_ABILITY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "BOOL",
+                "name": "enable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

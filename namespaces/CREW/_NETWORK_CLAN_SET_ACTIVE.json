@@ -1,0 +1,14 @@
+{
+    "0xC080FF658B2E51DA": {
+        "name": "_NETWORK_CLAN_SET_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

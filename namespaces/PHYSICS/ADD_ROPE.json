@@ -1,0 +1,84 @@
+{
+    "0xE832D760399EB220": {
+        "name": "ADD_ROPE",
+        "comment": "There are 19 types of rope, from type = 0 to type = 18\nRope definitions are stored in ropedata.xml\nRope types 0, 15 and 18 have proper physics for hanging objects (taut, do not sag, small to medium diameter, good aspect for a rope)",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "rotX"
+            },
+            {
+                "type": "float",
+                "name": "rotY"
+            },
+            {
+                "type": "float",
+                "name": "rotZ"
+            },
+            {
+                "type": "float",
+                "name": "length"
+            },
+            {
+                "type": "int",
+                "name": "ropeType"
+            },
+            {
+                "type": "float",
+                "name": "maxLength"
+            },
+            {
+                "type": "float",
+                "name": "minLength"
+            },
+            {
+                "type": "float",
+                "name": "p10"
+            },
+            {
+                "type": "BOOL",
+                "name": "p11"
+            },
+            {
+                "type": "BOOL",
+                "name": "p12"
+            },
+            {
+                "type": "BOOL",
+                "name": "rigid"
+            },
+            {
+                "type": "float",
+                "name": "p14"
+            },
+            {
+                "type": "BOOL",
+                "name": "breakWhenShot"
+            },
+            {
+                "type": "Any*",
+                "name": "unkPtr"
+            },
+            {
+                "type": "BOOL",
+                "name": "p17"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xE832D760399EB220",
+        "gta_jhash": "0xA592EC74"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "0x296DEBC84474B375": {
+        "name": "GET_ENTITY_HEIGHT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "float",
+                "name": "X"
+            },
+            {
+                "type": "float",
+                "name": "Y"
+            },
+            {
+                "type": "float",
+                "name": "Z"
+            },
+            {
+                "type": "BOOL",
+                "name": "atTop"
+            },
+            {
+                "type": "BOOL",
+                "name": "inWorldCoords"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207",
+        "gta_hash": "0x5A504562485944DD",
+        "gta_jhash": "0xEE443481"
+    }
+}

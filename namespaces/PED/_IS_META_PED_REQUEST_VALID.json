@@ -1,0 +1,14 @@
+{
+    "0x43E4DA469541A9C9": {
+        "name": "_IS_META_PED_REQUEST_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "requestId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

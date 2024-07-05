@@ -1,0 +1,18 @@
+{
+    "0xEF2E6F870783369B": {
+        "name": "_GET_PED_DEFENSIVE_VOLUME",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Volume",
+        "build": "1207"
+    }
+}

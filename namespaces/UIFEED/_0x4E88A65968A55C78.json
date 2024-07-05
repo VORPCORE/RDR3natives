@@ -1,0 +1,18 @@
+{
+    "0x4E88A65968A55C78": {
+        "name": "_0x4E88A65968A55C78",
+        "comment": "Returns feedMessage",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "p0"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xC505036A35AFD01B": {
+        "name": "NETWORK_DISABLE_LEAVE_REMOTE_PED_BEHIND",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xC505036A35AFD01B",
+        "gta_jhash": "0xA100CC97"
+    }
+}

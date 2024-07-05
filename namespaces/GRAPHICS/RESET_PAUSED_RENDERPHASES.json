@@ -1,0 +1,11 @@
+{
+    "0xCCD9AAD85E1B559E": {
+        "name": "RESET_PAUSED_RENDERPHASES",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE1C8709406F2C41C",
+        "gta_jhash": "0x0113EAE4"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0xE712BC978770F105": {
+        "name": "SET_VEHICLE_DOORS_LOCKED_FOR_TEAM",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "team"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB81F6D4A8F5EEBA8",
+        "gta_jhash": "0x4F85E783"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x75D568607909333E": {
+        "name": "_SET_PLAYER_APPEAR_IN_PHOTO",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

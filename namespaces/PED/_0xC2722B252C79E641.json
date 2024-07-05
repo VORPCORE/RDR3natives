@@ -1,0 +1,26 @@
+{
+    "0xC2722B252C79E641": {
+        "name": "_0xC2722B252C79E641",
+        "comment": "_FORCE_PED_*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            },
+            {
+                "type": "BOOL",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

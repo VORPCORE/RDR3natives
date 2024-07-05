@@ -1,0 +1,14 @@
+{
+    "0x3E2A25B2416DD67E": {
+        "name": "GET_VOLUME_SCALE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Volume",
+                "name": "volume"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207"
+    }
+}

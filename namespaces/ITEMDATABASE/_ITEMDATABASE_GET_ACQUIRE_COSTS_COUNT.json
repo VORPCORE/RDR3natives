@@ -1,0 +1,14 @@
+{
+    "0x01FDDAD392D04144": {
+        "name": "_ITEMDATABASE_GET_ACQUIRE_COSTS_COUNT",
+        "comment": "Returns the number of <Item>s <acquirecosts> has from the key in catalog_sp.ymt",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "key"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

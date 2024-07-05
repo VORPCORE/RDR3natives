@@ -1,0 +1,16 @@
+{
+    "0x4E209B2C1EAD5159": {
+        "name": "IS_PED_IN_MELEE_COMBAT",
+        "comment": "Notes: The function only returns true while the ped is: \nA.) Swinging a random melee attack (including pistol-whipping)\n\nB.) Reacting to being hit by a melee attack (including pistol-whipping)\n\nC.) Is locked-on to an enemy (arms up, strafing/skipping in the default fighting-stance, ready to dodge+counter). \n\nYou don't have to be holding the melee-targeting button to be in this stance; you stay in it by default for a few seconds after swinging at someone. If you do a sprinting punch, it returns true for the duration of the punch animation and then returns false again, even if you've punched and made-angry many peds",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x4E209B2C1EAD5159",
+        "gta_jhash": "0xFD7814A5"
+    }
+}

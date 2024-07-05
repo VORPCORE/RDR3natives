@@ -1,0 +1,18 @@
+{
+    "0x80FDEB3A9E9AA578": {
+        "name": "_0x80FDEB3A9E9AA578",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

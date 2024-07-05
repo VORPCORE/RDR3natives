@@ -1,0 +1,18 @@
+{
+    "0xE4C11F104620DDCE": {
+        "name": "_GET_LOOTING_FLAG",
+        "comment": "lootFlag: see SET_LOOTING_FLAG",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "lootFlag"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

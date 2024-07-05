@@ -1,0 +1,18 @@
+{
+    "0x1D97DA8ACB5D2582": {
+        "name": "_0x1D97DA8ACB5D2582",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

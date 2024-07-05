@@ -1,0 +1,14 @@
+{
+    "0xA4454592DCF7C992": {
+        "name": "_0xA4454592DCF7C992",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

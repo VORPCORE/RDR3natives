@@ -1,0 +1,18 @@
+{
+    "0x6DAD6630AE4A74CB": {
+        "name": "_0x6DAD6630AE4A74CB",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

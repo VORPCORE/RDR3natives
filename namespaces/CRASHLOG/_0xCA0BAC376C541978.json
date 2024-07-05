@@ -1,0 +1,15 @@
+{
+    "0xCA0BAC376C541978": {
+        "name": "_0xCA0BAC376C541978",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "unused": true
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0x41F0B254DDF71473": {
+        "name": "_0x41F0B254DDF71473",
+        "comment": "_H*",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "wagon"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

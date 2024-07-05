@@ -1,0 +1,16 @@
+{
+    "0x919B3C98ED8292F9": {
+        "name": "NETWORK_IS_PLAYER_CONCEALED",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x919B3C98ED8292F9",
+        "gta_jhash": "0xB0313590"
+    }
+}

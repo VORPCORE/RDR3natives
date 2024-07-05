@@ -1,0 +1,9 @@
+{
+    "0x7455CD705F7E933E": {
+        "name": "_0x7455CD705F7E933E",
+        "comment": "_AUDIO_IS_* - _AUDIO_TRIGGER*",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

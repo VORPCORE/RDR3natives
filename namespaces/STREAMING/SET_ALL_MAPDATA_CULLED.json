@@ -1,0 +1,16 @@
+{
+    "0x19ABCC581D28E6F9": {
+        "name": "SET_ALL_MAPDATA_CULLED",
+        "comment": "nullsub, doesn't do anything",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x4E52E752C76E7E7A",
+        "gta_jhash": "0xA07BAEB9"
+    }
+}

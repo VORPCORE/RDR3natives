@@ -1,0 +1,20 @@
+{
+    "0x02C8E5B49848664E": {
+        "name": "SET_SCENARIO_GROUP_ENABLED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "scenarioGroup"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x02C8E5B49848664E",
+        "gta_jhash": "0x116997B1"
+    }
+}

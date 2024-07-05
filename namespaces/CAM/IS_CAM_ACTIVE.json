@@ -1,0 +1,16 @@
+{
+    "0x63EFCC7E1810B8E6": {
+        "name": "IS_CAM_ACTIVE",
+        "comment": "Returns whether or not the passed camera handle is active.",
+        "params": [
+            {
+                "type": "Cam",
+                "name": "cam"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xDFB2B516207D3534",
+        "gta_jhash": "0x4B58F177"
+    }
+}

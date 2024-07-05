@@ -1,0 +1,20 @@
+{
+    "0x4DE44FA389DCA565": {
+        "name": "SET_PLAYER_SNEAKING_NOISE_MULTIPLIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "float",
+                "name": "multiplier"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB2C1A29588A9F47C",
+        "gta_jhash": "0x8D2D89C4"
+    }
+}

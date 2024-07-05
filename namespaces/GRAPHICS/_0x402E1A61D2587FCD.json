@@ -1,0 +1,38 @@
+{
+    "0x402E1A61D2587FCD": {
+        "name": "_0x402E1A61D2587FCD",
+        "comment": "Only used in R* SP Script spd_agnesdown1",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            },
+            {
+                "type": "float",
+                "name": "heading"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

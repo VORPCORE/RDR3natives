@@ -1,0 +1,18 @@
+{
+    "0x31BB338F64D5C861": {
+        "name": "_0x31BB338F64D5C861",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

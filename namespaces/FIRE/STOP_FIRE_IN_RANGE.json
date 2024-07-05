@@ -1,0 +1,28 @@
+{
+    "0xDB38F247BD421708": {
+        "name": "STOP_FIRE_IN_RANGE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x056A8A219B8E829F",
+        "gta_jhash": "0x725C7205"
+    }
+}

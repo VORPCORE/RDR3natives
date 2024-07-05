@@ -1,0 +1,14 @@
+{
+    "0x3AFE5182C45A84F6": {
+        "name": "_ITEMDATABASE_IS_SHOP_LAYOUT_KEY_VALID",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "layout"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

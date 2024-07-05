@@ -1,0 +1,9 @@
+{
+    "0x5C9978A2A3DC3D0D": {
+        "name": "DISABLE_ENTITYMASK",
+        "comment": "",
+        "params": [],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

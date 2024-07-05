@@ -1,0 +1,20 @@
+{
+    "0x7D1D4A3602B6AD4E": {
+        "name": "CLEAR_BIT",
+        "comment": "",
+        "params": [
+            {
+                "type": "int*",
+                "name": "address"
+            },
+            {
+                "type": "int",
+                "name": "offset"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE80492A9AC099A93",
+        "gta_jhash": "0x8BC9E618"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xFFA13742E43507E3": {
+        "name": "_BOUNTY_REQUEST_BEGIN_WANTED_POSTER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "outRpcGuid"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

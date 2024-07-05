@@ -1,0 +1,14 @@
+{
+    "0xE015CF1F2C0959D8": {
+        "name": "_GET_BREAKABLE_VEHICLE_LOCKS_STATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

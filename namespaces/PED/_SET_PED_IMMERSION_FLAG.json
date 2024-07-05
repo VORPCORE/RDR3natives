@@ -1,0 +1,18 @@
+{
+    "0x7FB0088E8769CDDB": {
+        "name": "_SET_PED_IMMERSION_FLAG",
+        "comment": "Only used in R* Script beat_sharp_shooter\nBlocks ped from swimming underwater",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

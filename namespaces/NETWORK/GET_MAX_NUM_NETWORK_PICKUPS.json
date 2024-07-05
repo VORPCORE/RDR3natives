@@ -1,0 +1,11 @@
+{
+    "0xA72835064DD63E4C": {
+        "name": "GET_MAX_NUM_NETWORK_PICKUPS",
+        "comment": "Always returns 80",
+        "params": [],
+        "return_type": "int",
+        "build": "1207",
+        "gta_hash": "0xA72835064DD63E4C",
+        "gta_jhash": "0x6A036061"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x32810CA2125F5842": {
+        "name": "IS_INTERIOR_ENTITY_SET_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            },
+            {
+                "type": "const char*",
+                "name": "entitySetName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x35F7DD45E8C0A16D",
+        "gta_jhash": "0x39A3CC6F"
+    }
+}

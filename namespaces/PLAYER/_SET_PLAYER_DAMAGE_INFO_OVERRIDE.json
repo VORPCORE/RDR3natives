@@ -1,0 +1,18 @@
+{
+    "0x78B3D19AF6391A55": {
+        "name": "_SET_PLAYER_DAMAGE_INFO_OVERRIDE",
+        "comment": "damageInfo: STANDARD_PED_DAMAGE, STANDARD_FEMALE_PED_DAMAGE, STANDARD_PLAYER_PED_DAMAGE_MP, STANDARD_FEMALE_PLAYER_PED_DAMAGE_MP",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "const char*",
+                "name": "damageInfo"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

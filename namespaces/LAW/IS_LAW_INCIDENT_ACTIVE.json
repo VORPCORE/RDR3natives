@@ -1,0 +1,14 @@
+{
+    "0xAD401C63158ACBAA": {
+        "name": "IS_LAW_INCIDENT_ACTIVE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

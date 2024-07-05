@@ -1,0 +1,16 @@
+{
+    "0xA320EF046186FA3B": {
+        "name": "IS_MOUNTED_WEAPON_TASK_UNDERNEATH_DRIVING_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xA320EF046186FA3B",
+        "gta_jhash": "0x291E938C"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "0xF2B2353BBC0D4E8F": {
+        "name": "REQUEST_NAMED_PTFX_ASSET",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "fxNameHash"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB80D8756B4668AB6",
+        "gta_jhash": "0xCFEA19A9"
+    }
+}

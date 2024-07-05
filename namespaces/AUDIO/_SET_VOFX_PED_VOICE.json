@@ -1,0 +1,18 @@
+{
+    "0x2703EFB583F0949A": {
+        "name": "_SET_VOFX_PED_VOICE",
+        "comment": "Hashes: VOFX_PLAYER_MALE01, VOFX_PLAYER_MALE02, VOFX_PLAYER_MALE03, VOFX_PLAYER_FEMALE01, VOFX_PLAYER_FEMALE02, VOFX_PLAYER_FEMALE03",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "voice"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

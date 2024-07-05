@@ -1,0 +1,9 @@
+{
+    "0xF5C5929E07512F80": {
+        "name": "_NETWORK_ARE_ONLINE_NOTIFICATIONS_SHOWN_IN_STORY_MODE",
+        "comment": "Returns value of fwuiCachedSetting \"general.onlineNotificationsInStoryMode\"",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

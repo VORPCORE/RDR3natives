@@ -1,0 +1,9 @@
+{
+    "0x0EE3F0D7FECCC54F": {
+        "name": "IS_INSTANTLY_FILL_PED_POPULATION_FINISHED",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

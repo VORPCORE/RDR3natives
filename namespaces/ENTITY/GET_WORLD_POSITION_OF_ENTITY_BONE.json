@@ -1,0 +1,20 @@
+{
+    "0x82CFA50E34681CA5": {
+        "name": "GET_WORLD_POSITION_OF_ENTITY_BONE",
+        "comment": "Returns the coordinates of an entity-bone.\nhttps://github.com/femga/rdr3_discoveries/tree/master/boneNames",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            }
+        ],
+        "return_type": "Vector3",
+        "build": "1207",
+        "gta_hash": "0x44A8FCB8ED227738",
+        "gta_jhash": "0x7C6339DF"
+    }
+}

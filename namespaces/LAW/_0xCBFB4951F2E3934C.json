@@ -1,0 +1,18 @@
+{
+    "0xCBFB4951F2E3934C": {
+        "name": "_0xCBFB4951F2E3934C",
+        "comment": "",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "Any*",
+                "name": "data"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

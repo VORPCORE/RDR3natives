@@ -1,0 +1,14 @@
+{
+    "0x3039BE60B3749716": {
+        "name": "_GET_INTERIOR_MINIMAP_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Interior",
+                "name": "interior"
+            }
+        ],
+        "return_type": "Hash",
+        "build": "1207"
+    }
+}

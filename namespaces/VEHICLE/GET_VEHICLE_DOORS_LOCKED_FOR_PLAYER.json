@@ -1,0 +1,20 @@
+{
+    "0xFA2CDDFEB8BC898B": {
+        "name": "GET_VEHICLE_DOORS_LOCKED_FOR_PLAYER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "Player",
+                "name": "player"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF6AF6CB341349015",
+        "gta_jhash": "0x1DC50247"
+    }
+}

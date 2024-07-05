@@ -1,0 +1,14 @@
+{
+    "0xD42C543F73233041": {
+        "name": "_0xD42C543F73233041",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1232"
+    }
+}

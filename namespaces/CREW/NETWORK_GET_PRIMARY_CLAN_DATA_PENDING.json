@@ -1,0 +1,11 @@
+{
+    "0xB5074DB804E28CE7": {
+        "name": "NETWORK_GET_PRIMARY_CLAN_DATA_PENDING",
+        "comment": "",
+        "params": [],
+        "return_type": "Any",
+        "build": "1207",
+        "gta_hash": "0xB5074DB804E28CE7",
+        "gta_jhash": "0xA4EF02F3"
+    }
+}

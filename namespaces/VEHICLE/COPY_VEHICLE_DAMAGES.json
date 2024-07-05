@@ -1,0 +1,20 @@
+{
+    "0xDBC28A8C683CD80B": {
+        "name": "COPY_VEHICLE_DAMAGES",
+        "comment": "Copies sourceVehicle's damage (broken bumpers, broken lights, etc.) to targetVehicle.",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "sourceVehicle"
+            },
+            {
+                "type": "Vehicle",
+                "name": "targetVehicle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xE44A982368A4AF23",
+        "gta_jhash": "0xBAE491C7"
+    }
+}

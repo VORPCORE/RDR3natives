@@ -1,0 +1,16 @@
+{
+    "0xB980061DA992779D": {
+        "name": "IS_PED_HUMAN",
+        "comment": "Returns true/false if the ped is/isn't humanoid.",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xB980061DA992779D",
+        "gta_jhash": "0x194BB7B0"
+    }
+}

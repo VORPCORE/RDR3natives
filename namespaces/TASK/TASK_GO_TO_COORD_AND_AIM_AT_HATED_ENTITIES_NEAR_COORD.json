@@ -1,0 +1,72 @@
+{
+    "0xA55547801EB331FC": {
+        "name": "TASK_GO_TO_COORD_AND_AIM_AT_HATED_ENTITIES_NEAR_COORD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "goToLocationX"
+            },
+            {
+                "type": "float",
+                "name": "goToLocationY"
+            },
+            {
+                "type": "float",
+                "name": "goToLocationZ"
+            },
+            {
+                "type": "float",
+                "name": "focusLocationX"
+            },
+            {
+                "type": "float",
+                "name": "focusLocationY"
+            },
+            {
+                "type": "float",
+                "name": "focusLocationZ"
+            },
+            {
+                "type": "float",
+                "name": "speed"
+            },
+            {
+                "type": "BOOL",
+                "name": "shootAtEnemies"
+            },
+            {
+                "type": "float",
+                "name": "distanceToStopAt"
+            },
+            {
+                "type": "float",
+                "name": "noRoadsDistance"
+            },
+            {
+                "type": "BOOL",
+                "name": "unkTrue"
+            },
+            {
+                "type": "int",
+                "name": "unkFlag"
+            },
+            {
+                "type": "int",
+                "name": "aimingFlag"
+            },
+            {
+                "type": "Hash",
+                "name": "firingPattern"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xA55547801EB331FC",
+        "gta_jhash": "0x3F91358E"
+    }
+}

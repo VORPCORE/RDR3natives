@@ -1,0 +1,34 @@
+{
+    "0xF32BEF578B3DBAE8": {
+        "name": "_ITEMDATABASE_GET_SHOP_LAYOUT_PAGE_ITEM_KEY",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "layout"
+            },
+            {
+                "type": "Hash",
+                "name": "pageKey"
+            },
+            {
+                "type": "int",
+                "name": "index"
+            },
+            {
+                "type": "Hash*",
+                "name": "outItemKey"
+            },
+            {
+                "type": "int*",
+                "name": "outMenuId"
+            },
+            {
+                "type": "Hash*",
+                "name": "outLayout"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

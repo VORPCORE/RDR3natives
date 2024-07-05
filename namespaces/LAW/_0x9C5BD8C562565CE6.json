@@ -1,0 +1,14 @@
+{
+    "0x9C5BD8C562565CE6": {
+        "name": "_0x9C5BD8C562565CE6",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash*",
+                "name": "crimeType"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0x104080CA9E519B00": {
+        "name": "_UGC_QUERY_GET_POSIX_PUBLISHED_DATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

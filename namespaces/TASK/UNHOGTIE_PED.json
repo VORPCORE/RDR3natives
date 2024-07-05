@@ -1,0 +1,34 @@
+{
+    "0x79559BAD83CCD038": {
+        "name": "UNHOGTIE_PED",
+        "comment": "getupSetHash: see nm_blend_out_sets.meta",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "flags"
+            },
+            {
+                "type": "Hash",
+                "name": "getupSetHash"
+            },
+            {
+                "type": "const char*",
+                "name": "p3"
+            },
+            {
+                "type": "const char*",
+                "name": "p4"
+            },
+            {
+                "type": "float",
+                "name": "p5"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "0x4C9E96473D4F1A88": {
+        "name": "FORCE_ENTITY_AI_AND_ANIMATION_UPDATE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x40FDEDB72F8293B2",
+        "gta_jhash": "0x58D9775F"
+    }
+}

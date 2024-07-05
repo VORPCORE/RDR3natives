@@ -1,0 +1,14 @@
+{
+    "0xDC9273D95976BA22": {
+        "name": "_GET_ACCURACY_AGAINST_LOCAL_PLAYER_MODIFIER",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

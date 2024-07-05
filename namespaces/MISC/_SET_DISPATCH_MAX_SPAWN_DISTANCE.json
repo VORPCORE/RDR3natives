@@ -1,0 +1,14 @@
+{
+    "0x89314FB3463E28DE": {
+        "name": "_SET_DISPATCH_MAX_SPAWN_DISTANCE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "maxSpawnDistance"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

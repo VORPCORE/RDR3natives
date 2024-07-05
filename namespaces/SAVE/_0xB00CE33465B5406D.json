@@ -1,0 +1,18 @@
+{
+    "0xB00CE33465B5406D": {
+        "name": "_0xB00CE33465B5406D",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

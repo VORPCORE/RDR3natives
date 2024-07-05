@@ -1,0 +1,14 @@
+{
+    "0x8A9585293863B8A5": {
+        "name": "_UI_PROMPT_GET_MASH_MODE_PROGRESS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Prompt",
+                "name": "prompt"
+            }
+        ],
+        "return_type": "float",
+        "build": "1207"
+    }
+}

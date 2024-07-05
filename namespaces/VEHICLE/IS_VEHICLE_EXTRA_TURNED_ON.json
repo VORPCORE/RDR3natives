@@ -1,0 +1,20 @@
+{
+    "0xFA9A55D9C4351625": {
+        "name": "IS_VEHICLE_EXTRA_TURNED_ON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "extraId"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xD2E6822DBFD6C8BD",
+        "gta_jhash": "0x042098B5"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0x0EABF182FBB63D72": {
+        "name": "_INVERSE_KINEMATICS_SET_DISABLED_FOR_PED",
+        "comment": "Seems to disable IK on ped",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

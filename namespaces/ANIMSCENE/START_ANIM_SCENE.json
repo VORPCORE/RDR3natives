@@ -1,0 +1,14 @@
+{
+    "0xF4D94AF761768700": {
+        "name": "START_ANIM_SCENE",
+        "comment": "",
+        "params": [
+            {
+                "type": "AnimScene",
+                "name": "animScene"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "0xBB6F89150BC9D16B": {
+        "name": "SET_VEHICLE_EXTRA",
+        "comment": "Note: only some vehicle have extras\nhttps://github.com/femga/rdr3_discoveries/blob/master/vehicles/vehicle_modding/vehicle_extras.lua",
+        "params": [
+            {
+                "type": "Vehicle",
+                "name": "vehicle"
+            },
+            {
+                "type": "int",
+                "name": "extraId"
+            },
+            {
+                "type": "BOOL",
+                "name": "disable"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x7EE3A3C5E4A40CC9",
+        "gta_jhash": "0x642D065C"
+    }
+}

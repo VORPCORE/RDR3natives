@@ -1,0 +1,22 @@
+{
+    "0x75CFAC49301E134F": {
+        "name": "_0x75CFAC49301E134F",
+        "comment": "p1, p2: 0",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "databindingEntryId"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0xE555EC27D65EDE80": {
+        "name": "CAN_LAUNCH_UIAPP_BY_HASH",
+        "comment": "",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "appNameHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

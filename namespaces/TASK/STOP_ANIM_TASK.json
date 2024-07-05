@@ -1,0 +1,28 @@
+{
+    "0x97FF36A1D40EA00A": {
+        "name": "STOP_ANIM_TASK",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "const char*",
+                "name": "animDictionary"
+            },
+            {
+                "type": "const char*",
+                "name": "animationName"
+            },
+            {
+                "type": "float",
+                "name": "p3"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x97FF36A1D40EA00A",
+        "gta_jhash": "0x2B520A57"
+    }
+}

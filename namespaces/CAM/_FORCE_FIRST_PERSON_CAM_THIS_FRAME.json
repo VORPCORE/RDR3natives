@@ -1,0 +1,9 @@
+{
+    "0x90DA5BA5C2635416": {
+        "name": "_FORCE_FIRST_PERSON_CAM_THIS_FRAME",
+        "comment": "Returns true if first person camera is active in saloon1.ysc",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

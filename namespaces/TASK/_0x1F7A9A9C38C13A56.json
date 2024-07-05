@@ -1,0 +1,14 @@
+{
+    "0x1F7A9A9C38C13A56": {
+        "name": "_0x1F7A9A9C38C13A56",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

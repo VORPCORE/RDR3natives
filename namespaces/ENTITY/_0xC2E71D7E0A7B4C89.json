@@ -1,0 +1,14 @@
+{
+    "0xC2E71D7E0A7B4C89": {
+        "name": "_0xC2E71D7E0A7B4C89",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            }
+        ],
+        "return_type": "Any",
+        "build": "1207"
+    }
+}

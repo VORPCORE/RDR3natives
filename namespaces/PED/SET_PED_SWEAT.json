@@ -1,0 +1,20 @@
+{
+    "0x27B0405F59637D1F": {
+        "name": "SET_PED_SWEAT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "sweat"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x27B0405F59637D1F",
+        "gta_jhash": "0x76A1DB9F"
+    }
+}

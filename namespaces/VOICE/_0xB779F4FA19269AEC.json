@@ -1,0 +1,14 @@
+{
+    "0xB779F4FA19269AEC": {
+        "name": "_0xB779F4FA19269AEC",
+        "comment": "",
+        "params": [
+            {
+                "type": "BOOL",
+                "name": "flag"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

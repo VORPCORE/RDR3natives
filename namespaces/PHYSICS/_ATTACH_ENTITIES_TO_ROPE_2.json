@@ -1,0 +1,54 @@
+{
+    "0x462FF2A432733A44": {
+        "name": "_ATTACH_ENTITIES_TO_ROPE_2",
+        "comment": "Attaches a rope to two entities: binds two bones from two entities; one entity can be an object, i.e. a suspension point, the other an NPC bone",
+        "params": [
+            {
+                "type": "int",
+                "name": "ropeId"
+            },
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "float",
+                "name": "ent1X"
+            },
+            {
+                "type": "float",
+                "name": "ent1Y"
+            },
+            {
+                "type": "float",
+                "name": "ent1Z"
+            },
+            {
+                "type": "float",
+                "name": "ent2X"
+            },
+            {
+                "type": "float",
+                "name": "ent2Y"
+            },
+            {
+                "type": "float",
+                "name": "ent2Z"
+            },
+            {
+                "type": "const char*",
+                "name": "boneName1"
+            },
+            {
+                "type": "const char*",
+                "name": "boneName2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

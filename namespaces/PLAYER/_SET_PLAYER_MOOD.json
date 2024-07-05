@@ -1,0 +1,18 @@
+{
+    "0x39BED552DB46FFA9": {
+        "name": "_SET_PLAYER_MOOD",
+        "comment": "mood: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePedMood",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "mood"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

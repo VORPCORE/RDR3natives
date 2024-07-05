@@ -1,0 +1,9 @@
+{
+    "0x8F24157FEDB85EA2": {
+        "name": "_SHOULD_USE_METRIC_WEIGHT",
+        "comment": "",
+        "params": [],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

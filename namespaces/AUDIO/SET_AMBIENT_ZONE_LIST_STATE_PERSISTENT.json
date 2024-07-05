@@ -1,0 +1,24 @@
+{
+    "0xF3638DAE8C4045E1": {
+        "name": "SET_AMBIENT_ZONE_LIST_STATE_PERSISTENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "ambientZone"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xF3638DAE8C4045E1",
+        "gta_jhash": "0x5F5A2605"
+    }
+}

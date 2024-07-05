@@ -1,0 +1,24 @@
+{
+    "0x5FD1E1F011E76D7E": {
+        "name": "SET_PED_AMMO_BY_TYPE",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "ammoType"
+            },
+            {
+                "type": "int",
+                "name": "ammo"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x5FD1E1F011E76D7E",
+        "gta_jhash": "0x311C52BB"
+    }
+}

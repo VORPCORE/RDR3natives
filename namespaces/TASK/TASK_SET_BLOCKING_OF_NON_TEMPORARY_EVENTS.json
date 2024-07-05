@@ -1,0 +1,20 @@
+{
+    "0x90D2156198831D69": {
+        "name": "TASK_SET_BLOCKING_OF_NON_TEMPORARY_EVENTS",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x90D2156198831D69",
+        "gta_jhash": "0x1B54FB6B"
+    }
+}

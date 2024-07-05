@@ -1,0 +1,14 @@
+{
+    "0xDEEDE7C41742E011": {
+        "name": "_ABANDON_BLIP",
+        "comment": "It's unclear what exactly this does, but I assume it marks the blip as \"no longer needed\"",
+        "params": [
+            {
+                "type": "Blip",
+                "name": "blip"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

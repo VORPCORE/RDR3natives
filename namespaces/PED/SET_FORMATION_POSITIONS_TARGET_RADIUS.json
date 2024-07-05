@@ -1,0 +1,18 @@
+{
+    "0x7CC7D3B7AF7FB71F": {
+        "name": "SET_FORMATION_POSITIONS_TARGET_RADIUS",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "groupId"
+            },
+            {
+                "type": "float",
+                "name": "radius"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

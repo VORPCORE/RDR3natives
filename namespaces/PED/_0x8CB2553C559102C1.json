@@ -1,0 +1,22 @@
+{
+    "0x8CB2553C559102C1": {
+        "name": "_0x8CB2553C559102C1",
+        "comment": "_SET_PED_T* - SET_PED_U*",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            },
+            {
+                "type": "BOOL",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

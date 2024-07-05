@@ -1,0 +1,18 @@
+{
+    "0x714A0EA7DE1167BE": {
+        "name": "_HAS_SOUND_AUDIO_NAME_FINISHED",
+        "comment": "",
+        "params": [
+            {
+                "type": "const char*",
+                "name": "audioName"
+            },
+            {
+                "type": "const char*",
+                "name": "soundsetName"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

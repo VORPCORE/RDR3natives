@@ -1,0 +1,14 @@
+{
+    "0xC5BF29F4035277C2": {
+        "name": "_NETWORK_SET_GANG_PRIVACY",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "privacyType"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

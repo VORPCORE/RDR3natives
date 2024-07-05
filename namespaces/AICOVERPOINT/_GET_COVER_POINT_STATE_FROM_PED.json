@@ -1,0 +1,14 @@
+{
+    "0x5F5B1B7E8E8F94C6": {
+        "name": "_GET_COVER_POINT_STATE_FROM_PED",
+        "comment": "1 = In cover while crouched\n2 = In cover while standing\n3 = Not in cover",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

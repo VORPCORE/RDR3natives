@@ -1,0 +1,16 @@
+{
+    "0xF133BBBE91E1691F": {
+        "name": "IS_MOVE_BLEND_RATIO_WALKING",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "moveBlendRatio"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0xF133BBBE91E1691F",
+        "gta_jhash": "0xD21639A8"
+    }
+}

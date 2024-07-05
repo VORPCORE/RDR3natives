@@ -1,0 +1,22 @@
+{
+    "0x8B3B71C80A29A4BB": {
+        "name": "_REQUEST_PED_FACIAL_MOOD_THIS_FRAME",
+        "comment": "mood: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/fwFacialAnimRequest__Mood\nParams: p2 = 6 in R* Scripts",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "mood"
+            },
+            {
+                "type": "int",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

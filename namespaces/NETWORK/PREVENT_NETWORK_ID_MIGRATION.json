@@ -1,0 +1,14 @@
+{
+    "0x7182EDDA1EE7DB5A": {
+        "name": "PREVENT_NETWORK_ID_MIGRATION",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "netId"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

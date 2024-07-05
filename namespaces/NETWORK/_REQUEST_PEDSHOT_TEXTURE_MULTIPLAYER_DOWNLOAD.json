@@ -1,0 +1,18 @@
+{
+    "0xB5C4B18B12A2AF23": {
+        "name": "_REQUEST_PEDSHOT_TEXTURE_MULTIPLAYER_DOWNLOAD",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "gamerHandle"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "const char*",
+        "build": "1207"
+    }
+}

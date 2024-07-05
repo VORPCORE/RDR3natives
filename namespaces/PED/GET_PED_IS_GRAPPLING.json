@@ -1,0 +1,14 @@
+{
+    "0x0E99E3BF11BB6367": {
+        "name": "GET_PED_IS_GRAPPLING",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

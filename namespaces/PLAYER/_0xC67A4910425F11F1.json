@@ -1,0 +1,18 @@
+{
+    "0xC67A4910425F11F1": {
+        "name": "_0xC67A4910425F11F1",
+        "comment": "_DISABLE_*(PLAYER_FORCED_INTERACTION_LOCKON?)",
+        "params": [
+            {
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "const char*",
+                "name": "name"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

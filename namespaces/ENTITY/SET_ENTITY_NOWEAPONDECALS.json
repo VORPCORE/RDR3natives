@@ -1,0 +1,20 @@
+{
+    "0xC64E597783BE9A1D": {
+        "name": "SET_ENTITY_NOWEAPONDECALS",
+        "comment": "Old name: _SET_ENTITY_DECALS_DISABLED",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "BOOL",
+                "name": "toggle"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x2C2E3DC128F44309",
+        "gta_jhash": ""
+    }
+}

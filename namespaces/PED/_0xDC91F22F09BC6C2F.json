@@ -1,0 +1,18 @@
+{
+    "0xDC91F22F09BC6C2F": {
+        "name": "_0xDC91F22F09BC6C2F",
+        "comment": "Used in Script Function MP_MAIN_OFFLINE__INITIALIZE_GAME\n_SET_RELATIONSHIP_*",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "group"
+            },
+            {
+                "type": "BOOL",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

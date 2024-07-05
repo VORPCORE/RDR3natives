@@ -1,0 +1,38 @@
+{
+    "0x4AC38DFD286DAD14": {
+        "name": "_TELEMETRY_ROLE_COLLECTOR",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "transactionId"
+            },
+            {
+                "type": "Any",
+                "name": "collectible"
+            },
+            {
+                "type": "Any",
+                "name": "category"
+            },
+            {
+                "type": "Any",
+                "name": "p3"
+            },
+            {
+                "type": "Any",
+                "name": "p4"
+            },
+            {
+                "type": "Any",
+                "name": "p5"
+            },
+            {
+                "type": "Any",
+                "name": "p6"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

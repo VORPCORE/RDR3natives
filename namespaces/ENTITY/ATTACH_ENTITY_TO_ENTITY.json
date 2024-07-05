@@ -1,0 +1,80 @@
+{
+    "0x6B9BBD38AB0796DF": {
+        "name": "ATTACH_ENTITY_TO_ENTITY",
+        "comment": "Attaches entity1 to bone (boneIndex) of entity2.\n\nboneIndex - this is different to boneID, use GET_PED_BONE_INDEX to get the index from the ID. use the index for attaching to specific bones. entity1 will be attached to entity2's centre if bone index given doesn't correspond to bone indexes for that entity type.\nhttps://github.com/femga/rdr3_discoveries/tree/master/boneNames\n\nuseSoftPinning - if set to false attached entity will not detach when fixed\ncollision - controls collision between the two entities (FALSE disables collision).\nisPed - pitch doesn't work when false and roll will only work on negative numbers (only peds)\nvertexIndex - position of vertex\nfixedRot - if false it ignores entity vector",
+        "params": [
+            {
+                "type": "Entity",
+                "name": "entity1"
+            },
+            {
+                "type": "Entity",
+                "name": "entity2"
+            },
+            {
+                "type": "int",
+                "name": "boneIndex"
+            },
+            {
+                "type": "float",
+                "name": "xPos"
+            },
+            {
+                "type": "float",
+                "name": "yPos"
+            },
+            {
+                "type": "float",
+                "name": "zPos"
+            },
+            {
+                "type": "float",
+                "name": "xRot"
+            },
+            {
+                "type": "float",
+                "name": "yRot"
+            },
+            {
+                "type": "float",
+                "name": "zRot"
+            },
+            {
+                "type": "BOOL",
+                "name": "p9"
+            },
+            {
+                "type": "BOOL",
+                "name": "useSoftPinning"
+            },
+            {
+                "type": "BOOL",
+                "name": "collision"
+            },
+            {
+                "type": "BOOL",
+                "name": "isPed"
+            },
+            {
+                "type": "int",
+                "name": "vertexIndex"
+            },
+            {
+                "type": "BOOL",
+                "name": "fixedRot"
+            },
+            {
+                "type": "BOOL",
+                "name": "p15"
+            },
+            {
+                "type": "BOOL",
+                "name": "p16"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0x6B9BBD38AB0796DF",
+        "gta_jhash": "0xEC024237"
+    }
+}

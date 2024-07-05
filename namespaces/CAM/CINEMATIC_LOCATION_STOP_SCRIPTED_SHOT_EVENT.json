@@ -1,0 +1,22 @@
+{
+    "0x6D4D25C2137FF511": {
+        "name": "CINEMATIC_LOCATION_STOP_SCRIPTED_SHOT_EVENT",
+        "comment": "",
+        "params": [
+            {
+                "type": "Any",
+                "name": "p0"
+            },
+            {
+                "type": "Any",
+                "name": "p1"
+            },
+            {
+                "type": "Any",
+                "name": "p2"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

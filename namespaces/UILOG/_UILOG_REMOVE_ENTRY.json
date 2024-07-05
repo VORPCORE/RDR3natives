@@ -1,0 +1,18 @@
+{
+    "0xD594A19BE09A75C6": {
+        "name": "_UILOG_REMOVE_ENTRY",
+        "comment": "",
+        "params": [
+            {
+                "type": "int",
+                "name": "p0"
+            },
+            {
+                "type": "Hash",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}

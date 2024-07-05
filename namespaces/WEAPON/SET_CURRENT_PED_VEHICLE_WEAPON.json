@@ -1,0 +1,20 @@
+{
+    "0x75C55983C2C39DAA": {
+        "name": "SET_CURRENT_PED_VEHICLE_WEAPON",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "Hash",
+                "name": "weaponHash"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207",
+        "gta_hash": "0x75C55983C2C39DAA",
+        "gta_jhash": "0x8E6F2AF1"
+    }
+}

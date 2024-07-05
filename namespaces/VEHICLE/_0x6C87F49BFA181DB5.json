@@ -1,0 +1,22 @@
+{
+    "0x6C87F49BFA181DB5": {
+        "name": "_0x6C87F49BFA181DB5",
+        "comment": "Returns trackIndex",
+        "params": [
+            {
+                "type": "float",
+                "name": "x"
+            },
+            {
+                "type": "float",
+                "name": "y"
+            },
+            {
+                "type": "float",
+                "name": "z"
+            }
+        ],
+        "return_type": "int",
+        "build": "1207"
+    }
+}

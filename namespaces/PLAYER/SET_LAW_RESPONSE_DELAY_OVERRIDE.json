@@ -1,0 +1,16 @@
+{
+    "0xD2DFC9CCA5596A11": {
+        "name": "SET_LAW_RESPONSE_DELAY_OVERRIDE",
+        "comment": "",
+        "params": [
+            {
+                "type": "float",
+                "name": "p0"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "gta_hash": "0xB45EFF719D8427A6",
+        "gta_jhash": "0xBF6993C7"
+    }
+}

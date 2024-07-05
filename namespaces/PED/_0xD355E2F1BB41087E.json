@@ -1,0 +1,18 @@
+{
+    "0xD355E2F1BB41087E": {
+        "name": "_0xD355E2F1BB41087E",
+        "comment": "",
+        "params": [
+            {
+                "type": "Ped",
+                "name": "ped"
+            },
+            {
+                "type": "float",
+                "name": "p1"
+            }
+        ],
+        "return_type": "BOOL",
+        "build": "1207"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "0xF19706B1F8FFA88F": {
+        "name": "_SET_BOUNTY_HUNTER_GLOBAL_COOLDOWN",
+        "comment": "p0 is always BOUNTYHUNTERSGLOBALCOOLDOWN in R* scripts",
+        "params": [
+            {
+                "type": "Hash",
+                "name": "p0"
+            },
+            {
+                "type": "int",
+                "name": "p1"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207"
+    }
+}
