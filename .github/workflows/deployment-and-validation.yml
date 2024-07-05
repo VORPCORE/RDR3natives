@@ -37,17 +37,21 @@ jobs:
         INPUT_JSONS: ./rdr3natives.json
 
     - name: Commit and push changes
-      if: success()
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add rdr3natives.json
-        git commit -m "Update rdr3natives.json with new data"
-        git push origin HEAD:main
+        if [ -n "$(git status --porcelain)" ]; then
+          git add rdr3natives.json
+          git commit -m "Update rdr3natives.json with new data"
+          git push origin HEAD:main
+        else
+          echo "No changes to commit"
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Create Release
+      if: steps.commit-and-push-changes.outputs.changes_committed == 'true'
       id: create_release
       uses: actions/create-release@v1
       env:
@@ -60,6 +64,7 @@ jobs:
         generate_release_notes: true
 
     - name: Upload rdr3natives.json to Release
+      if: steps.create_release.outputs.upload_url != ''
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
