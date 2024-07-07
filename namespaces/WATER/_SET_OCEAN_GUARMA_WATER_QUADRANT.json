@@ -1,7 +1,7 @@
 {
     "0xC63540AEF8384732": {
         "name": "_SET_OCEAN_GUARMA_WATER_QUADRANT",
-        "comment": "Only used in R* Script guama1",
+        "comment": "Only used in R* Script guama1 this native allows to modify the ocean water in the guarma island. wave direction accepts 0, 1 and 2 values.",
         "params": [
             {
                 "type": "float",
@@ -13,7 +13,7 @@
             },
             {
                 "type": "int",
-                "name": "p2"
+                "name": "waveDirection"
             },
             {
                 "type": "float",
@@ -21,7 +21,7 @@
             },
             {
                 "type": "float",
-                "name": "p4"
+                "name": "waveAmmount"
             },
             {
                 "type": "float",
@@ -29,7 +29,7 @@
             },
             {
                 "type": "float",
-                "name": "p6"
+                "name": "waveSpeed"
             },
             {
                 "type": "float",
