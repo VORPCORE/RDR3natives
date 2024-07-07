@@ -1,15 +1,15 @@
 {
     "0xD503D6F0986D58BC": {
-        "name": "_0xD503D6F0986D58BC",
-        "comment": "",
+        "name": "_SET_OBJECT_PROMPT_NAME_FROM_GXT_ENTRY",
+        "comment": "Not official native name",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Object",
+                "name": "object"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Hash",
+                "name": "gxtEntryHash"
             }
         ],
         "return_type": "void",
