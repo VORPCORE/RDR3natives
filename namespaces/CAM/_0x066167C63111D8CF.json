@@ -1,7 +1,7 @@
 {
     "0x066167C63111D8CF": {
         "name": "_SET_GAMEPLAY_CAM_PARAMS_THIS_UPDATE",
-        "comment": "Not official name \n this native allows to move the gameplay cam with the given speed, enableSlide will allow to move the cam to the slideOffset, enableZoom will allow to move the cam to the zoomOffset. \n EXAMPLE: \n function SetGameplayCamParamsThisUpdate(1.0, true, -1.0, true, 2.0) Citizen.InvokeNative(0x066167c63111d8cf,cam_speed, enable_slide, slide, enable_zoom, zoom) end",
+        "comment": "Not official name\nThis native allows to move the gameplay cam with the given speed, enableSlide will allow to move the cam to the slideOffset, enableZoom will allow to move the cam to the zoomOffset. \n\nEXAMPLE:\nCitizen.InvokeNative(0x066167c63111d8cf,1.0, true, -1.0, true, 2.0)",
         "params": [
             {
                 "type": "float",
