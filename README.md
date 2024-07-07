@@ -7,6 +7,7 @@ Since there is no official Cfx documentation and likely never will be, we decide
 - Make sure to fill out the template, or your submission will be closed.
 - Ensure that your PR meets our standards and aligns with existing content.
 - Provide examples and, if possible, cite your sources so your research can be verified.
+- To try guess a native name using this link [natives ABC](https://gist.github.com/fingaweg/2a7653c73daf985f73667e9c424cb624)
 
 ### Credits
 - Cfx 
