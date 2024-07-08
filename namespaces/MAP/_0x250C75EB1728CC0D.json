@@ -1,7 +1,7 @@
 {
     "0x250C75EB1728CC0D": {
-        "name": "_0x250C75EB1728CC0D",
-        "comment": "",
+        "name": "_BLIP_DETACH_FROM_ENTITY",
+        "comment": "Not official native name\nRemoves the blip from an entity and makes it static on the map, try it on GetMainPlayerBlipId() for a demonstration",
         "params": [
             {
                 "type": "Blip",
