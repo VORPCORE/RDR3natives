@@ -1,10 +1,10 @@
 {
     "0x0501D52D24EA8934": {
-        "name": "_0x0501D52D24EA8934",
-        "comment": "",
+        "name": "_IS_NEAR_MOUNT",
+        "comment": "Not official native name\nThis native accepts 0 as parameter in the decompiles\nreturns the closest horse handle if within 2 3 meters of the player, if not close enogh returns false\n\nNOTE: if type is 1 returns PlayerPedId always?",
         "params": [
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p0"
             }
         ],
