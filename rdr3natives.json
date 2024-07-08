@@ -38046,8 +38046,8 @@
             "build": "1207"
         },
         "0x250C75EB1728CC0D": {
-            "name": "_0x250C75EB1728CC0D",
-            "comment": "",
+            "name": "_BLIP_DETACH_FROM_ENTITY",
+            "comment": "Not official native name\nRemoves the blip from an entity and makes it static on the map, try it on GetMainPlayerBlipId() for a demonstration",
             "params": [
                 {
                     "type": "Blip",
@@ -38193,7 +38193,7 @@
         },
         "0x1392105DA88BBFFB": {
             "name": "_ADD_PROP_TO_MINIMAP",
-            "comment": "list of minimap props: https://github.com/femga/rdr3_discoveries/tree/master/graphics/minimap/minimapObjects",
+            "comment": "list of minimap props: https://github.com/femga/rdr3_discoveries/tree/master/graphics/minimap/minimapObjects\nvariations parameter are the interior locations you see on the map like these bellow\nvariation 0 https://i.imgur.com/jkLhn3Z.png\nvariation 2  https://i.imgur.com/eKV0Tcm.png\nvariation 4 https://i.imgur.com/rjwOgEH.png\nthere are more and you can find them in the decompiles",
             "params": [
                 {
                     "type": "Hash",
@@ -38213,7 +38213,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "p4"
+                    "name": "variation"
                 }
             ],
             "return_type": "void",
