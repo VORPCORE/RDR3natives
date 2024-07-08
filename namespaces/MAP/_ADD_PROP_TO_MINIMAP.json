@@ -1,7 +1,7 @@
 {
     "0x1392105DA88BBFFB": {
         "name": "_ADD_PROP_TO_MINIMAP",
-        "comment": "list of minimap props: https://github.com/femga/rdr3_discoveries/tree/master/graphics/minimap/minimapObjects",
+        "comment": "list of minimap props: https://github.com/femga/rdr3_discoveries/tree/master/graphics/minimap/minimapObjects\nvariations parameter are the interior locations you see on the map like these bellow\nvariation 0 https://i.imgur.com/jkLhn3Z.png\nvariation 2  https://i.imgur.com/eKV0Tcm.png\nvariation 4 https://i.imgur.com/rjwOgEH.png\nthere are more and you can find them in the decompiles",
         "params": [
             {
                 "type": "Hash",
@@ -21,7 +21,7 @@
             },
             {
                 "type": "int",
-                "name": "p4"
+                "name": "variation"
             }
         ],
         "return_type": "void",
