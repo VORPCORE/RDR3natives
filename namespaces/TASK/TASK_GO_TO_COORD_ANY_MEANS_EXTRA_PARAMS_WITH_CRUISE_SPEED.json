@@ -9,7 +9,7 @@
                 "name": "ped"
             },
             {
-                "type": "Vector3",
+                "type": "Vector3*",
                 "name": "gotoCoords"
             },
             {
