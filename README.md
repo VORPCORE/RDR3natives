@@ -9,6 +9,9 @@ Since there is no official Cfx documentation and likely never will be, we decide
 - Provide examples and, if possible, cite your sources so your research can be verified.
 - To try guess a native name using this link [natives ABC](https://gist.github.com/fingaweg/2a7653c73daf985f73667e9c424cb624)
 
+### valid param types and return types
+- look in schema.json
+
 ### Credits
 - Cfx 
 - alloc8or native DB
