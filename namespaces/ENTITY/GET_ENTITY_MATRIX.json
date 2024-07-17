@@ -1,7 +1,7 @@
 {
     "0x3A9B1120AF13FBF2": {
         "name": "GET_ENTITY_MATRIX",
-        "comment": "",
+        "comment": "Not implemented yet",
         "params": [
             {
                 "type": "Entity",
