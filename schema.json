@@ -26,6 +26,17 @@
 						},
 						"return_type": { "$ref": "#/$defs/return_type" },
 						"build": { "type": "string" },
+						"examples": {
+							"type": "array",
+							"items": { 
+								"type": "object",
+								"properties": {
+									"lang": { "type": "string" },
+									"code": { "type": "string" }
+								} 
+							}
+						},
+						"apiset": { "type": "string" },
 						"variadic": { "type": "boolean" },
 						"unused": { "type": "boolean" },
 						"gta_hash": {
