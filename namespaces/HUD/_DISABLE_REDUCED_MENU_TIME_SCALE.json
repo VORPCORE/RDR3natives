@@ -4,6 +4,8 @@
         "comment": "Disables reduced time scale while menus such as weapon wheel and satchel are open.",
         "params": [],
         "return_type": "void",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

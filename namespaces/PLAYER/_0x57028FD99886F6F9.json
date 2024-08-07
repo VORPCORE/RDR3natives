@@ -4,6 +4,8 @@
         "comment": "_IS_PLAYER_D* - _IS_PLAYER_F*",
         "params": [],
         "return_type": "BOOL",
-        "build": "1232"
+        "build": "1232",
+        "examples": [],
+        "apiset": ""
     }
 }

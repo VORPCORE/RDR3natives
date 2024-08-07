@@ -4,6 +4,8 @@
         "comment": "Used in CREATE_BEZIER_BLOOD_TRAIL_OF_TYPE\n_ENABLE_*",
         "params": [],
         "return_type": "void",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

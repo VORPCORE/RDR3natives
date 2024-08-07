@@ -67,6 +67,8 @@
         "return_type": "Pickup",
         "build": "1207",
         "gta_hash": "0x891804727E0A98B7",
-        "gta_jhash": "0xF015BFE2"
+        "gta_jhash": "0xF015BFE2",
+        "examples": [],
+        "apiset": ""
     }
 }

@@ -11,6 +11,8 @@
         "return_type": "Entity",
         "build": "1207",
         "gta_hash": "0x93C8B64DEB84728C",
-        "gta_jhash": "0x84ADF9EB"
+        "gta_jhash": "0x84ADF9EB",
+        "examples": [],
+        "apiset": ""
     }
 }

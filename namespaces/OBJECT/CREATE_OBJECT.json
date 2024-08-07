@@ -43,6 +43,8 @@
         "return_type": "Object",
         "build": "1207",
         "gta_hash": "0x509D5878EB39E842",
-        "gta_jhash": "0x2F7AA05C"
+        "gta_jhash": "0x2F7AA05C",
+        "examples": [],
+        "apiset": ""
     }
 }

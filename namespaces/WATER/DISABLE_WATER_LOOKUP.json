@@ -4,6 +4,8 @@
         "comment": "Must be called every frame to take full effect.",
         "params": [],
         "return_type": "void",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

@@ -45,6 +45,8 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

@@ -6,6 +6,8 @@
         "return_type": "const char*",
         "build": "1207",
         "gta_hash": "0x8362B09B91893647",
-        "gta_jhash": "0x44828FB3"
+        "gta_jhash": "0x44828FB3",
+        "examples": [],
+        "apiset": ""
     }
 }

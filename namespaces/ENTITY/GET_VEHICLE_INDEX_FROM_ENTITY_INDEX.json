@@ -11,6 +11,8 @@
         "return_type": "Vehicle",
         "build": "1207",
         "gta_hash": "0x4B53F92932ADFAC0",
-        "gta_jhash": "0xC69CF43D"
+        "gta_jhash": "0xC69CF43D",
+        "examples": [],
+        "apiset": ""
     }
 }

@@ -4,6 +4,8 @@
         "comment": "Only used in R* Script fm_mission_controller\n_CLEAR_WANTED_*",
         "params": [],
         "return_type": "void",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

@@ -4,6 +4,8 @@
         "comment": "This returns an id that can be used with 0x6095358C4142932A.",
         "params": [],
         "return_type": "int",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

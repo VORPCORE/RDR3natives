@@ -9,6 +9,8 @@
             }
         ],
         "return_type": "int",
-        "build": "1436"
+        "build": "1436",
+        "examples": [],
+        "apiset": ""
     }
 }

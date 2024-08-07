@@ -4,6 +4,8 @@
         "comment": "Hides Toast Notifications",
         "params": [],
         "return_type": "void",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

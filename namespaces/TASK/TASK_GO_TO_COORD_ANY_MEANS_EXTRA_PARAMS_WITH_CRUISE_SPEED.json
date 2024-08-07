@@ -1,8 +1,7 @@
-{  
+{
     "0xB8ECD61F531A7B02": {
         "name": "TASK_GO_TO_COORD_ANY_MEANS_EXTRA_PARAMS_WITH_CRUISE_SPEED",
         "comment": "This native allows to control the cruise speed of where you want the ped to go\n3rd param might be the entity ped is in? like boat or wagon, 12th param might be the cruiseSpeed of the entity ped is in?\nEXAMPLE: TaskGoToCoordAnyMeansExtraParamsWithCruiseSpeed(PlayerPedId(), vector3(x, y, z), 3.0, entity, 1, 0, -1082130432, 0, 101004800, 520, 3.0, 1082130432, 0)",
-        
         "params": [
             {
                 "type": "Ped",
@@ -68,6 +67,8 @@
         "return_type": "void",
         "build": "1207",
         "gta_hash": "0xB8ECD61F531A7B02",
-        "gta_jhash": "0x86DC03F9"
+        "gta_jhash": "0x86DC03F9",
+        "examples": [],
+        "apiset": ""
     }
 }

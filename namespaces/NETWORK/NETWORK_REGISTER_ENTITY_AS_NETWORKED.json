@@ -11,6 +11,8 @@
         "return_type": "void",
         "build": "1207",
         "gta_hash": "0x06FAACD625D80CAA",
-        "gta_jhash": "0x31A630A4"
+        "gta_jhash": "0x31A630A4",
+        "examples": [],
+        "apiset": ""
     }
 }

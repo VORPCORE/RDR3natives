@@ -2,29 +2,31 @@
     "0xC412AA1C73111FE0": {
         "name": "_SET_PELT_FOR_HORSE_BY_INVENTORY_ITEM",
         "comment": "Not official native name\nSet the pelt of the animal to the back of the horse\nEXAMPLE:\nlocal mount = GetMountOwnedByPlayer(PlayerId())\nCitizen.InvokeNative(0xC412AA1C73111FE0,mount,GetHashKey('PROVISION_DEER_HIDE_POOR'),GetHashKey('a_c_deer_01_uppr_000_c0_001_ab'),0,0)",
-         "params": [
-				{
-					"type": "Ped",
-					"name": "horse"
-				},
-				{
-					"type": "Hash",
-					"name": "itemHash"
-				},
-				{
-					"type": "Hash",
-					"name": "albedo"
-				},
-				{
-					"type": "int",
-					"name": "normal"
-				},
-				{
-					"type": "BOOL",
-					"name": "p4"
-				}
+        "params": [
+            {
+                "type": "Ped",
+                "name": "horse"
+            },
+            {
+                "type": "Hash",
+                "name": "itemHash"
+            },
+            {
+                "type": "Hash",
+                "name": "albedo"
+            },
+            {
+                "type": "int",
+                "name": "normal"
+            },
+            {
+                "type": "BOOL",
+                "name": "p4"
+            }
         ],
         "return_type": "void",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

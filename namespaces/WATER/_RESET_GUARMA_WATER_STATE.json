@@ -4,6 +4,8 @@
         "comment": "Only used in guama1 / guama3 R* Script\n_REQUEST_* or _RESET_*",
         "params": [],
         "return_type": "void",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

@@ -4,6 +4,8 @@
         "comment": "_GET_C* - _GET_E*",
         "params": [],
         "return_type": "float",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

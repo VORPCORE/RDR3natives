@@ -4,6 +4,8 @@
         "comment": "Always returns 200.",
         "params": [],
         "return_type": "int",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

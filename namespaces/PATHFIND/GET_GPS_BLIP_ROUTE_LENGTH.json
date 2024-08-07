@@ -6,6 +6,8 @@
         "return_type": "int",
         "build": "1207",
         "gta_hash": "0xBBB45C3CF5C8AA85",
-        "gta_jhash": "0x4B770634"
+        "gta_jhash": "0x4B770634",
+        "examples": [],
+        "apiset": ""
     }
 }

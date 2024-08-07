@@ -47,6 +47,8 @@
         "return_type": "BOOL",
         "build": "1207",
         "gta_hash": "0x20B60995556D004F",
-        "gta_jhash": "0xD749B606"
+        "gta_jhash": "0xD749B606",
+        "examples": [],
+        "apiset": ""
     }
 }

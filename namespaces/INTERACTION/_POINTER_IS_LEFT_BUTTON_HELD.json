@@ -4,6 +4,8 @@
         "comment": "Returns true if player is holding LMB while cursor is active\n_PI* - _PO*",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

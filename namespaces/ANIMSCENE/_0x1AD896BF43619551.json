@@ -4,6 +4,8 @@
         "comment": "Used in braithwaites2 SP R* Scripts only\n_A*",
         "params": [],
         "return_type": "void",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

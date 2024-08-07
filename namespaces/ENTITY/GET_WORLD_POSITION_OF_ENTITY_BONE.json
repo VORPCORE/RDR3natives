@@ -15,6 +15,8 @@
         "return_type": "Vector3",
         "build": "1207",
         "gta_hash": "0x44A8FCB8ED227738",
-        "gta_jhash": "0x7C6339DF"
+        "gta_jhash": "0x7C6339DF",
+        "examples": [],
+        "apiset": ""
     }
 }

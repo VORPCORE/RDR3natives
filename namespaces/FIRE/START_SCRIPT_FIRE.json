@@ -43,6 +43,8 @@
         "return_type": "FireId",
         "build": "1207",
         "gta_hash": "0x6B83617E04503888",
-        "gta_jhash": "0xE7529357"
+        "gta_jhash": "0xE7529357",
+        "examples": [],
+        "apiset": ""
     }
 }

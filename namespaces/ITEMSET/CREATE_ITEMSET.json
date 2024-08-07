@@ -11,6 +11,8 @@
         "return_type": "ItemSet",
         "build": "1207",
         "gta_hash": "0x35AD299F50D91B24",
-        "gta_jhash": "0x0A113B2C"
+        "gta_jhash": "0x0A113B2C",
+        "examples": [],
+        "apiset": ""
     }
 }

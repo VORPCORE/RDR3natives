@@ -11,6 +11,8 @@
         "return_type": "BOOL",
         "build": "1207",
         "gta_hash": "0xC531EE8A1145A149",
-        "gta_jhash": "0x48659CD7"
+        "gta_jhash": "0x48659CD7",
+        "examples": [],
+        "apiset": ""
     }
 }

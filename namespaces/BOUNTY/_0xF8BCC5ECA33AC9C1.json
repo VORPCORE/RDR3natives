@@ -4,6 +4,8 @@
         "comment": "_BOUNTY_GET_*",
         "params": [],
         "return_type": "int",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

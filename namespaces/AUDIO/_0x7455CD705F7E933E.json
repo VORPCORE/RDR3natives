@@ -4,6 +4,8 @@
         "comment": "_AUDIO_IS_* - _AUDIO_TRIGGER*",
         "params": [],
         "return_type": "void",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

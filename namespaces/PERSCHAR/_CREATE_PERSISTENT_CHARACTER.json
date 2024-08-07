@@ -9,6 +9,8 @@
             }
         ],
         "return_type": "PersChar",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

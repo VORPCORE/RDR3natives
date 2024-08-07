@@ -11,6 +11,8 @@
         "return_type": "Blip",
         "build": "1207",
         "gta_hash": "0xBC8DBDCA2436F7E8",
-        "gta_jhash": "0x005A2A47"
+        "gta_jhash": "0x005A2A47",
+        "examples": [],
+        "apiset": ""
     }
 }

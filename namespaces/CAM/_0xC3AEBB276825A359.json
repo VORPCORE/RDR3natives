@@ -17,6 +17,8 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "1436"
+        "build": "1436",
+        "examples": [],
+        "apiset": ""
     }
 }

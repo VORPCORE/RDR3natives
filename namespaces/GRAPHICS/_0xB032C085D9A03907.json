@@ -4,6 +4,8 @@
         "comment": "_SET_D* or _SET_E*",
         "params": [],
         "return_type": "void",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

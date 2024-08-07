@@ -13,6 +13,8 @@
             }
         ],
         "return_type": "Hash",
-        "build": "1355"
+        "build": "1355",
+        "examples": [],
+        "apiset": ""
     }
 }

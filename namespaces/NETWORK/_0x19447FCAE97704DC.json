@@ -22,6 +22,8 @@
         ],
         "return_type": "void",
         "build": "1311",
-        "unused": true
+        "unused": true,
+        "examples": [],
+        "apiset": ""
     }
 }

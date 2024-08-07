@@ -4,6 +4,8 @@
         "comment": "Returns model hash of the closest fish",
         "params": [],
         "return_type": "Hash",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

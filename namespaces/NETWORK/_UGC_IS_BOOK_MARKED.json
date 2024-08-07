@@ -9,6 +9,8 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "1355"
+        "build": "1355",
+        "examples": [],
+        "apiset": ""
     }
 }

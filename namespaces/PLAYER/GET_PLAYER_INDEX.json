@@ -6,6 +6,8 @@
         "return_type": "Player",
         "build": "1207",
         "gta_hash": "0xA5EDC40EF369B48D",
-        "gta_jhash": "0x309BBDC1"
+        "gta_jhash": "0x309BBDC1",
+        "examples": [],
+        "apiset": ""
     }
 }

@@ -4,6 +4,8 @@
         "comment": "Used for DUELING_LOCK_CAMERA_CONTROLS_THIS_FRAME: Disabling look/aim controls\n_IS_SC(REEN_)* (?)",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

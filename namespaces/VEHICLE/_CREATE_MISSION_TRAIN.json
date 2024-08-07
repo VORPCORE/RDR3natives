@@ -37,6 +37,8 @@
             }
         ],
         "return_type": "Vehicle",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

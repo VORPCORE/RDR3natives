@@ -4,6 +4,8 @@
         "comment": "Returns true if the current language is american, french, german, italian, spanish, brazilian or mexican.\n_DOES_*",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

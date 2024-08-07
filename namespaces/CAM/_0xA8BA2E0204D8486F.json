@@ -4,6 +4,8 @@
         "comment": "NPLOI_UPDATE__GUN_SPINNING_PREVIEW - Adjusting Camera / Ped Reset Flags This Frame\n_DISABLE_*",
         "params": [],
         "return_type": "void",
-        "build": "1355"
+        "build": "1355",
+        "examples": [],
+        "apiset": ""
     }
 }

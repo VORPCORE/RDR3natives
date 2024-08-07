@@ -4,6 +4,8 @@
         "comment": "Same as SHOULD_USE_METRIC_MEASUREMENTS",
         "params": [],
         "return_type": "BOOL",
-        "build": "1207"
+        "build": "1207",
+        "examples": [],
+        "apiset": ""
     }
 }

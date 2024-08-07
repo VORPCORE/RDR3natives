@@ -59,6 +59,8 @@
         "return_type": "ScrHandle",
         "build": "1207",
         "gta_hash": "0xFE466162C4401D18",
-        "gta_jhash": "0x249BC876"
+        "gta_jhash": "0x249BC876",
+        "examples": [],
+        "apiset": ""
     }
 }

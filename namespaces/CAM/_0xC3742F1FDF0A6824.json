@@ -4,6 +4,8 @@
         "comment": "Camera will be or is running",
         "params": [],
         "return_type": "void",
-        "build": "1355"
+        "build": "1355",
+        "examples": [],
+        "apiset": ""
     }
 }

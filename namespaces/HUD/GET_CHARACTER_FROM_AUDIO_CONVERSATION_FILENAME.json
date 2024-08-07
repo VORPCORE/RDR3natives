@@ -19,6 +19,8 @@
         "return_type": "const char*",
         "build": "1207",
         "gta_hash": "0x169BD9382084C8C0",
-        "gta_jhash": "0x34A396EE"
+        "gta_jhash": "0x34A396EE",
+        "examples": [],
+        "apiset": ""
     }
 }

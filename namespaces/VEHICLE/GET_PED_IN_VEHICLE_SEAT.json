@@ -15,6 +15,8 @@
         "return_type": "Ped",
         "build": "1207",
         "gta_hash": "0xBB40DD2270B65366",
-        "gta_jhash": "0x388FDE9A"
+        "gta_jhash": "0x388FDE9A",
+        "examples": [],
+        "apiset": ""
     }
 }

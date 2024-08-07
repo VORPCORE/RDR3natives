@@ -23,6 +23,8 @@
         "return_type": "Interior",
         "build": "1207",
         "gta_hash": "0x05B7A89BD78797FC",
-        "gta_jhash": "0x96525B06"
+        "gta_jhash": "0x96525B06",
+        "examples": [],
+        "apiset": ""
     }
 }
