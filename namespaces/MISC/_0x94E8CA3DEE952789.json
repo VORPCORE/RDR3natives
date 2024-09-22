@@ -1,6 +1,6 @@
 {
-    "_STRING_SPLIT_AND_COUNT_SEGMENTS": {
-        "name": "StringSplitAndCountSegments",
+    "0x94E8CA3DEE952789": {
+        "name": "_STRING_SPLIT_AND_COUNT_SEGMENTS",
         "comment": "Not officially named \n, Counts the number of segments in a string that are separated by specified delimiter characters, ignoring consecutive delimiters.",
         
         "params": [
