@@ -14850,8 +14850,8 @@
             "apiset": ""
         },
         "0xD7DB94AB78E8EBE4": {
-            "name": "_0xD7DB94AB78E8EBE4",
-            "comment": "",
+            "name": "_DATABINDING_ADD_DATA_CONTAINER_FROM_PATH_BY_HASH",
+            "comment": "p0 seems to always be empty string, p1 is the hash of the path",
             "params": [
                 {
                     "type": "const char*",
@@ -14859,7 +14859,7 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "p1"
+                    "name": "path"
                 }
             ],
             "return_type": "Any",
@@ -47605,21 +47605,26 @@
             "apiset": ""
         },
         "0x94E8CA3DEE952789": {
-            "name": "_0x94E8CA3DEE952789",
-            "comment": "",
+            "name": "_STRING_SPLIT_AND_COUNT_SEGMENTS",
+            "comment": "Not officially named \n, Counts the number of segments in a string that are separated by specified delimiter characters, ignoring consecutive delimiters.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "const char*",
+                    "name": "inputString"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "const char*",
+                    "name": "delimiters"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "local count = N_0x94e8ca3dee952789('AAA_BB-AAA_BB;AAA_BB,AAA_BB.AAA_BB;AAA_BB-', '-,;.');\n// Returns 6, counts all segments separated by '-', ',', ';', or '.', while ignoring consecutive delimiters."
+                }
+            ],
             "apiset": ""
         },
         "0x94FCADCF9F0C368E": {
@@ -61976,7 +61981,7 @@
         },
         "0xA22712E8471AA08E": {
             "name": "_SET_OBJECT_TARGETTABLE_FOCUS",
-            "comment": "When p1 and p2 are true you can focus on the object (similar to when you focus a ped)",
+            "comment": "focus on objects like focus on peds, p1 is to enable/disable p2 is to enable/disable focus when you have a weapon out",
             "params": [
                 {
                     "type": "Object",
@@ -61984,11 +61989,11 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "toggle"
                 },
                 {
                     "type": "BOOL",
-                    "name": "p2"
+                    "name": "weaponLock"
                 }
             ],
             "return_type": "void",
