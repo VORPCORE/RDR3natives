@@ -2,7 +2,6 @@
     "0x94E8CA3DEE952789": {
         "name": "_STRING_SPLIT_AND_COUNT_SEGMENTS",
         "comment": "Not officially named \n, Counts the number of segments in a string that are separated by specified delimiter characters, ignoring consecutive delimiters.",
-        
         "params": [
             {
                 "type": "const char*",
@@ -18,7 +17,7 @@
         "examples": [
             {
                 "lang": "lua",
-               "code": "local count = N_0x94e8ca3dee952789('AAA_BB-AAA_BB;AAA_BB,AAA_BB.AAA_BB;AAA_BB-', '-,;.');\n// Returns 6, counts all segments separated by '-', ',', ';', or '.', while ignoring consecutive delimiters."
+                "code": "local count = N_0x94e8ca3dee952789('AAA_BB-AAA_BB;AAA_BB,AAA_BB.AAA_BB;AAA_BB-', '-,;.');\n// Returns 6, counts all segments separated by '-', ',', ';', or '.', while ignoring consecutive delimiters."
             }
         ],
         "apiset": ""
