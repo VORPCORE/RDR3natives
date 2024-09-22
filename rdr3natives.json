@@ -61976,7 +61976,7 @@
         },
         "0xA22712E8471AA08E": {
             "name": "_SET_OBJECT_TARGETTABLE_FOCUS",
-            "comment": "focus on objects like focus on peds, p1 is to enable/disable p2 is to enable/disable focus when you have a weapon out",
+            "comment": "When p1 and p2 are true you can focus on the object (similar to when you focus a ped)",
             "params": [
                 {
                     "type": "Object",
@@ -61984,11 +61984,11 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "toggle"
+                    "name": "p1"
                 },
                 {
                     "type": "BOOL",
-                    "name": "weaponLock"
+                    "name": "p2"
                 }
             ],
             "return_type": "void",
