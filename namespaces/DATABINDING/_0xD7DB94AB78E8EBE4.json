@@ -1,7 +1,7 @@
 {
-    "0xD7DB94AB78E8EBE4": {
-        "name": "_0xD7DB94AB78E8EBE4",
-        "comment": "",
+    "_DATABINDING_ADD_DATA_CONTAINER_FROM_PATH_BY_HASH": {
+        "name": "DataBindingAddDataContainerFromPathByHash",
+        "comment": "p0 seems to always be empty string, p1 is the hash of the path",
         "params": [
             {
                 "type": "const char*",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "Hash",
-                "name": "p1"
+                "name": "path"
             }
         ],
         "return_type": "Any",
