@@ -15,7 +15,7 @@ Since there is no official Cfx documentation and likely never will be, we decide
 ### Tools
 - split.py - splits the master json rdr3native.json file into the folder structure you see on the repo.
 - merge.py - merges the folder namespaces back into the master json file rdr3native.json.
-- asskeys.py - allows to add new keys to the files inside the namespaces folder without breaking the json structure.
+- addkeys.py - allows to add new keys to the files inside the namespaces folder without breaking the json structure.
 
 ### Credits
 - Cfx 
