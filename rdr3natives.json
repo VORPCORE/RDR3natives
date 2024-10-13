@@ -3804,7 +3804,7 @@
         },
         "0xE368E8422C860BA7": {
             "name": "PREPARE_SOUND",
-            "comment": "",
+            "comment": "soundId maybe be incorrect name for param p2, in the decompiles is always -2",
             "params": [
                 {
                     "type": "const char*",
@@ -3822,7 +3822,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xD9130842D7226045": {
             "name": "PREPARE_SOUNDSET",
@@ -3840,7 +3840,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x4AD019591E94C064": {
             "name": "PREPARE_SOUND_WITH_ENTITY",
