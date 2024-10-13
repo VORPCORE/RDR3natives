@@ -1,7 +1,7 @@
 {
     "0x2B12B6FC8B8772AB": {
-        "name": "_0x2B12B6FC8B8772AB",
-        "comment": "",
+        "name": "_SET_DEADEYE_ENTITY_GLOW_WITH_FLAG",
+        "comment": "Applies a glow effect to nearby entities when Deadeye is active, based on a flag parameter. This includes humans, animals, vehicles, and horses pulling those vehicles. Additionally, depending on the flag value, the player's appearance may change (e.g., turning gray).\nflag 2 is people 4 is animal in the decompiles 8 and 25 also can be used",
         "params": [
             {
                 "type": "Player",
@@ -9,12 +9,12 @@
             },
             {
                 "type": "int",
-                "name": "p1"
+                "name": "flag"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
