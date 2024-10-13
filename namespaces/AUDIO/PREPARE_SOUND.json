@@ -1,7 +1,7 @@
 {
     "0xE368E8422C860BA7": {
         "name": "PREPARE_SOUND",
-        "comment": "",
+        "comment": "soundId maybe be incorrect name for param p2, in the decompiles is always -2",
         "params": [
             {
                 "type": "const char*",
@@ -19,6 +19,6 @@
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
