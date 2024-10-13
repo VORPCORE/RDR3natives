@@ -3546,7 +3546,7 @@
         },
         "0xBC9AE166038A5CEC": {
             "name": "PLAY_PAIN",
-            "comment": "Valid pain IDs: 0..12",
+            "comment": "Valid pain IDs: 0..12  these names are not official, but here is a list of the IDs:\n 1 burning,\n 2 drowning,\n 3 coughing,\n 4 nothing,\n 5 nothing,\n 6 coughing_2,\n 7 nothing,\n 8 nothing,\n 9 hurtingSick?,\n 10 hurtingFall?,\n 11 nothing,\n 12 choking",
             "params": [
                 {
                     "type": "Ped",
@@ -3574,7 +3574,7 @@
             "gta_hash": "0xBC9AE166038A5CEC",
             "gta_jhash": "0x874BD6CB",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x8E04FEDD28D42462": {
             "name": "PLAY_PED_AMBIENT_SPEECH_NATIVE",
