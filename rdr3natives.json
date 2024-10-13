@@ -89847,8 +89847,8 @@
             "apiset": ""
         },
         "0x0FAF95D71ED67ADE": {
-            "name": "_0x0FAF95D71ED67ADE",
-            "comment": "",
+            "name": "_SET_PLAYER_MELEE_PROMPT_TEXT",
+            "comment": "Sets the melee combat prompt for a specific player using a predefined text entry. use game string or \nAddTextEntry(\"custom_text\", \"Throw a punch\") and use custom_text in the native",
             "params": [
                 {
                     "type": "Player",
@@ -89856,13 +89856,13 @@
                 },
                 {
                     "type": "const char*",
-                    "name": "p1"
+                    "name": "label"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x107F2A66E1C4C83A": {
             "name": "_0x107F2A66E1C4C83A",
