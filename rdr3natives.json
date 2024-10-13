@@ -92646,12 +92646,12 @@
             "apiset": ""
         },
         "0xCE285A4413B00B7F": {
-            "name": "_EAGLE_EYE_SET_PLUS_FLAG_DISABLED",
-            "comment": "",
+            "name": "_EAGLEEYE_SET_SPRINT_BEHAVIOR",
+            "comment": "Sets the behavior of sprinting while the Eagleeye feature is active, determining whether sprinting cancels the effect based on the specified parameter.\n old name was _EAGLE_EYE_SET_PLUS_FLAG_DISABLED this native can still be used as its declared.",
             "params": [
                 {
-                    "type": "Ped",
-                    "name": "ped"
+                    "type": "Player",
+                    "name": "player"
                 },
                 {
                     "type": "BOOL",
@@ -92661,7 +92661,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xDFC85C5199045026": {
             "name": "_EAGLE_EYE_SET_TRACKING_UPGRADE",
