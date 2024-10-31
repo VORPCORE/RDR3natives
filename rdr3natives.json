@@ -135808,18 +135808,18 @@
             "apiset": ""
         },
         "0xEA522F991E120D45": {
-            "name": "_0xEA522F991E120D45",
-            "comment": "",
+            "name": "_IS_WEAPON_CLOSE_RANGE",
+            "comment": "_IS_WEAPON_CLOSE_RANGE?\nreturns true when it's lassos , melee, thrown weapons (matchetes and unarmed return false)\nall guns ,bows and animal weapons return false",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "weaponHash"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xEC97101A8F311282": {
             "name": "_0xEC97101A8F311282",
