@@ -1,20 +1,20 @@
 {
     "0x3CB8859F04763C78": {
-        "name": "_0x3CB8859F04763C78",
-        "comment": "",
+        "name": "_IS_BLIP_ICON_ON_LOCKON_ENTITY_PROMPT",
+        "comment": "checks if the entity lockon prompt contains an icon",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "int",
+                "name": "blipId"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
