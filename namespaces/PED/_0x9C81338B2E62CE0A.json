@@ -1,7 +1,7 @@
 {
     "0x9C81338B2E62CE0A": {
-        "name": "_0x9C81338B2E62CE0A",
-        "comment": "If returned true: CHECK_SHOT_NEAR: Succeeded shot near\nIf returned false: CHECK_SHOT_NEAR: Failed shot near",
+        "name": "_HAS_PED_BEEN_SHOT_BY_PLAYER_RECENTLY",
+        "comment": "this native checks if player has shot a specific ped for the duration passed p2 is in milliseconds ",
         "params": [
             {
                 "type": "Player",
@@ -13,12 +13,12 @@
             },
             {
                 "type": "int",
-                "name": "shotNearRecentlyTime"
+                "name": "duration"
             }
         ],
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
