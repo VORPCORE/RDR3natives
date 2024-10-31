@@ -42679,22 +42679,22 @@
             "apiset": ""
         },
         "0xBB68D4D3CA3DE402": {
-            "name": "_0xBB68D4D3CA3DE402",
-            "comment": "",
+            "name": "_REMOVE_BLIP_ICON_FROM_ENTITY_LOCKON_PROMPT",
+            "comment": "\nin the decompiles this doesnt seem to ever be executed the param needed needs to be above 0 but its always passed as 0\n removes the icon from lockon prompt",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p1"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xD3F58E9316B7FC2A": {
             "name": "_0xD3F58E9316B7FC2A",
