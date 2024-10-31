@@ -1,16 +1,16 @@
 {
     "0x46D42883E873C1D7": {
-        "name": "_0x46D42883E873C1D7",
-        "comment": "_GET_NUM_*",
+        "name": "_GET_NUM_PEDS_RESTRAINED_FROM_WEAPON_BOLAS",
+        "comment": "returns the amount of peds that were restrained with the weapon thrown bolas",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1232",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
