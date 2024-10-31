@@ -42634,8 +42634,8 @@
             "apiset": ""
         },
         "0x7563CBCA99253D1A": {
-            "name": "_0x7563CBCA99253D1A",
-            "comment": "FM_CLIENT_SETUP_EAGLE_EYE - setting up eagle eye for entity",
+            "name": "_SET_BLIP_ICON_TO_LOCKON_ENTITY_PROMPT",
+            "comment": "will add a blip icon to the entity lockon prompt that you specify",
             "params": [
                 {
                     "type": "Entity",
@@ -42643,13 +42643,13 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "blip"
+                    "name": "blipIcon"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x7C9F4CDF402CA82A": {
             "name": "_0x7C9F4CDF402CA82A",
