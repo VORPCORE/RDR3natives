@@ -42661,22 +42661,22 @@
             "apiset": ""
         },
         "0x97F6F158CC5B5CA2": {
-            "name": "_0x97F6F158CC5B5CA2",
-            "comment": "",
+            "name": "_SET_ENTITY_BLIP_ICON_TO_LOCKON_ENTITY_PROMPT",
+            "comment": "adds the entity blip icon to the entity lockon prompt if wrong param will remove the icon if had any",
             "params": [
                 {
                     "type": "Entity",
                     "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "blipId"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xBB68D4D3CA3DE402": {
             "name": "_REMOVE_BLIP_ICON_FROM_ENTITY_LOCKON_PROMPT",
