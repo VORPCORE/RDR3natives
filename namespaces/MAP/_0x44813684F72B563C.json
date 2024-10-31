@@ -1,20 +1,20 @@
 {
     "0x44813684F72B563C": {
-        "name": "_0x44813684F72B563C",
-        "comment": "_CLEAR*",
+        "name": "_CLEAR_BLIP_ICON_FROM_LOCKON_ENTITY_PROMPT",
+        "comment": "will remove the blip icon from the entity lockon prompt, use 0 for p1",
         "params": [
             {
                 "type": "Entity",
                 "name": "entity"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p1"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
