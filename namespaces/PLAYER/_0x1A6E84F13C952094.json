@@ -1,7 +1,7 @@
 {
     "0x1A6E84F13C952094": {
-        "name": "_0x1A6E84F13C952094",
-        "comment": "",
+        "name": "_GET_PEDS_DAMAGED_BY_PLAYER_RECENTLY",
+        "comment": "it is used to check for that period of time if player damaged any peds only returns the last 3 hits with the entity ids so if you hit the same entity 3 times it will return the same entity id 3 times, if you hit 4 different entities within that time it will return the last 3 entity ids\n only stores the last 3 hits in the data view buffer\nduration is in miliseconds\nyou need dataview",
         "params": [
             {
                 "type": "Player",
@@ -9,16 +9,21 @@
             },
             {
                 "type": "int",
-                "name": "p1"
+                "name": "duration"
             },
             {
                 "type": "Any*",
-                "name": "p2"
+                "name": "struct"
             }
         ],
         "return_type": "BOOL",
         "build": "1207",
-        "examples": [],
-        "apiset": ""
+        "examples": [
+            {
+                "lang": "lua",
+                "code" : "Citizen.InvokeNative(0x1A6E84F13C952094, PlayerId(), 10000, dataView:Buffer())\nlocal entity = dataView:GetInt32(8 * 1)\nlocal entity2 = dataView:GetInt32(8 * 2)\nlocal entity3 = dataView:GetInt32(8 * 3)\nprint(entity, entity2, entity3)"
+            }
+        ],
+        "apiset": "client"
     }
 }
