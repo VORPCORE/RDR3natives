@@ -24966,54 +24966,50 @@
             "apiset": ""
         },
         "0x559FC1D310813031": {
-            "name": "_0x559FC1D310813031",
-            "comment": "",
+            "name": "_GET_IS_FIRE_AT_VOLUME_POS",
+            "comment": "name might not be accurate\n the 3 first parms seems to be from fire coords and this native is only used once in the decompiles, the other params are used from volume position and rotation",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "float",
+                    "name": "x"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "z"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "volx"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "float",
+                    "name": "voly"
                 },
                 {
-                    "type": "Any",
-                    "name": "p5"
+                    "type": "float",
+                    "name": "volz"
                 },
                 {
-                    "type": "Any",
-                    "name": "p6"
+                    "type": "float",
+                    "name": "volrotx"
                 },
                 {
-                    "type": "Any",
-                    "name": "p7"
+                    "type": "float",
+                    "name": "volroty"
                 },
                 {
-                    "type": "Any",
-                    "name": "p8"
-                },
-                {
-                    "type": "Any",
-                    "name": "p9"
+                    "type": "float",
+                    "name": "volrotz"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1232",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x68F6A75FDF5A70D6": {
             "name": "_0x68F6A75FDF5A70D6",
