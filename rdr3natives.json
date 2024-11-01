@@ -116974,7 +116974,7 @@
         },
         "0xFF745B0346E19E2C": {
             "name": "_LOAD_CARRIABLE_CONFIG_HASH",
-            "comment": "",
+            "comment": "https://gist.github.com/WesternGamer/95a1f8daf02520cad2bf96af6d957e70 carriable config list ",
             "params": [
                 {
                     "type": "Hash",
