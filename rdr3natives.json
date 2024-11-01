@@ -116217,18 +116217,18 @@
             "apiset": ""
         },
         "0xB8F52A3F84A7CC59": {
-            "name": "_0xB8F52A3F84A7CC59",
+            "name": "_HAS_CARRIABLE_CONFIG_HASH_LOADED",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "hash"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xBAAB791AA72C2821": {
             "name": "_0xBAAB791AA72C2821",
