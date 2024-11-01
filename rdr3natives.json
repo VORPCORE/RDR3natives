@@ -116973,18 +116973,18 @@
             "apiset": ""
         },
         "0xFF745B0346E19E2C": {
-            "name": "_0xFF745B0346E19E2C",
+            "name": "_LOAD_CARRIABLE_CONFIG_HASH",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "hash"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xFF8AFCA532B500D4": {
             "name": "_0xFF8AFCA532B500D4",
