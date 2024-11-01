@@ -90949,8 +90949,8 @@
             "apiset": ""
         },
         "0x72AD59F7B7FB6E24": {
-            "name": "_0x72AD59F7B7FB6E24",
-            "comment": "_HAS_PLAYER_D*",
+            "name": "_HAS_PLAYER_DAMAGED_ANY_PED_RECENTLY",
+            "comment": "this native checks if the player has damaged or killed any ped human/animal recently within the duration passed, either by shooting or even using melee\nduration is in miliseconds",
             "params": [
                 {
                     "type": "Player",
@@ -90958,13 +90958,13 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "duration"
                 }
             ],
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x73EB2EF2E92D23BF": {
             "name": "_0x73EB2EF2E92D23BF",
