@@ -1,11 +1,11 @@
 {
     "0x7C9F4CDF402CA82A": {
-        "name": "_0x7C9F4CDF402CA82A",
-        "comment": "",
+        "name": "_CLEAR_PAUSEMAP_COORDS",
+        "comment": "Clears the previously set coordinates for the pause map view, removing any specified focal point and radius that were set using `SetPausemapCoordsWithRadius - 0xE0884C184728C75B`",
         "params": [],
         "return_type": "void",
         "build": "1311",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
