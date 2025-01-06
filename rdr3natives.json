@@ -42707,22 +42707,27 @@
             "apiset": ""
         },
         "0xF08E42BFA46BDFF8": {
-            "name": "_0xF08E42BFA46BDFF8",
-            "comment": "",
+            "name": "_GET_WAYPOINT_POSITION",
+            "comment": "Unlike `GET_WAYPOINT_COORDS - 0x29B30D07C3F7873B`, which returns a single value, this native returns the x and y coordinates of the waypoint separately as floats from pointer. To retrieve each coordinate, `Citizen.PointerValueFloat()` must be used with this function.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "float*",
+                    "name": "x"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float*",
+                    "name": "y"
                 }
             ],
-            "return_type": "BOOL",
+            "return_type": "Any",
             "build": "1207",
-            "examples": [],
-            "apiset": ""
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "local x,y = _GET_WAYPOINT_POSITION(Citizen.PointerValueFloat(),Citizen.PointerValueFloat())"
+                }
+            ],
+            "apiset": "client"
         },
         "0xF47A1EB2A538A3A3": {
             "name": "_IS_GPS_ROUTE_ON_ROAD",
