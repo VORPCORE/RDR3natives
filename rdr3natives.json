@@ -44594,8 +44594,8 @@
             "apiset": ""
         },
         "0x40D72189F46D2E15": {
-            "name": "DISABLE_LOOTING_COMPOSITE_LOOTABLE_THIS_FRAME",
-            "comment": "",
+            "name": "_DISABLE_COMPOSITE_EAT_PROMPT_THIS_FRAME",
+            "comment": "disables prompt eat \nold name DISABLE_LOOTING_COMPOSITE_LOOTABLE_THIS_FRAME",
             "params": [
                 {
                     "type": "int",
@@ -44603,13 +44603,13 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "disable"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x044131118D8DB3CD": {
             "name": "DISPLAY_ONSCREEN_KEYBOARD",
