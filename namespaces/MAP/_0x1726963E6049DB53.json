@@ -1,16 +1,20 @@
 {
     "0x1726963E6049DB53": {
-        "name": "_0x1726963E6049DB53",
-        "comment": "",
+        "name": "_SET_BLIP_ICON_ON_ENTITY_ACTIVE_PROMPT",
+        "comment": "It adds blip a icon to active prompts like from scenarios or pickups without the need to use lockon",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
+            },
+            {
+                "type": "hash",
+                "name": "blipIcon"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
