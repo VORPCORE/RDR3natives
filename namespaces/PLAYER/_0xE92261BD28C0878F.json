@@ -1,16 +1,16 @@
 {
     "0xE92261BD28C0878F": {
-        "name": "_0xE92261BD28C0878F",
-        "comment": "",
+        "name": "_GET_DEADEYE_ABILITY_DEPLETION_DELAY",
+        "comment": "Returns the depletion delay value for the Deadeye ability that was previously set using `SetDeadeyeAbilityDepletionDelay - 0x870634493CB4372C`",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Player",
+                "name": "playerId"
             }
         ],
-        "return_type": "Any",
+        "return_type": "float",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
