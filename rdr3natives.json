@@ -42725,13 +42725,13 @@
             "apiset": ""
         },
         "0xF47A1EB2A538A3A3": {
-            "name": "_0xF47A1EB2A538A3A3",
-            "comment": "",
+            "name": "_IS_GPS_ROUTE_ON_ROAD",
+            "comment": "Checks if the GPS route to the waypoint is navigable along a road. If a route exists but there is no valid road path, this function returns false.",
             "params": [],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xDEEDE7C41742E011": {
             "name": "_ABANDON_BLIP",
