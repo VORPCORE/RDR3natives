@@ -47006,8 +47006,8 @@
             "apiset": ""
         },
         "0x082C043C7AFC3747": {
-            "name": "_0x082C043C7AFC3747",
-            "comment": "",
+            "name": "_DISABLE_COMPOSITE_PICK_PROMPT_THIS_FRAME",
+            "comment": "disables composite Pick prompt",
             "params": [
                 {
                     "type": "int",
@@ -47015,13 +47015,13 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "disable"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x0A487CC74A517FB5": {
             "name": "_0x0A487CC74A517FB5",
