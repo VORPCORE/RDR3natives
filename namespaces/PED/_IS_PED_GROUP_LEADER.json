@@ -1,6 +1,6 @@
 {
     "0x878B68960C1C2A35": {
-        "name": "_IS_PED_GROUP_LEADER",
+        "name": "IS_PED_GROUP_LEADER",
         "comment": "",
         "params": [
             {
@@ -15,6 +15,6 @@
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

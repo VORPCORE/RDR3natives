@@ -20,13 +20,13 @@
                 "name": "radius"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "int",
+                "name": "controlFlags"
             }
         ],
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

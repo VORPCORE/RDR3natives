@@ -1,7 +1,7 @@
 {
     "0x3210BCB36AF7621B": {
-        "name": "_STOP_SOUND_WITH_ID",
-        "comment": "",
+       "name": "STOP_SOUND",
+		"comment": "Old Name: _STOP_SOUND_WITH_ID",
         "params": [
             {
                 "type": "int",
@@ -11,6 +11,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

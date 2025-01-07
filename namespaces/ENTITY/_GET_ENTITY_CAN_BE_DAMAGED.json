@@ -1,7 +1,7 @@
 {
     "0x75DF9E73F2F005FD": {
-        "name": "_GET_ENTITY_CAN_BE_DAMAGED",
-        "comment": "",
+       "name": "GET_ENTITY_CAN_BE_DAMAGED",
+		"comment": "Old name: _GET_ENTITY_CAN_BE_DAMAGED",
         "params": [
             {
                 "type": "Entity",
@@ -11,6 +11,6 @@
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

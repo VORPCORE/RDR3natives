@@ -1,7 +1,7 @@
 {
     "0x2A32FAA57B937173": {
-        "name": "_DRAW_MARKER",
-        "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/markers/marker_types.lua",
+        "name": "DRAW_MARKER",
+		"comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/markers/marker_types.lua\nOld name: _DRAW_MARKER",
         "params": [
             {
                 "type": "Hash",
@@ -103,6 +103,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

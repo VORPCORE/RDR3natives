@@ -1,7 +1,7 @@
 {
     "0x503703EC1781B7D6": {
-        "name": "_SET_VARIABLE_ON_SOUND_WITH_ID",
-        "comment": "",
+       "name": "SET_VARIABLE_ON_SOUND",
+		"comment": "Old Name: _SET_VARIABLE_ON_SOUND_WITH_ID",
         "params": [
             {
                 "type": "int",
@@ -19,6 +19,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

@@ -1,7 +1,7 @@
 {
     "0x0286617C8FC50A53": {
-        "name": "_UPDATE_SOUND_POSITION",
-        "comment": "Only used in R* SP Scripts",
+       "name": "UPDATE_SOUND_COORD",
+		"comment": "Only used in R* SP Scripts\nOld Name: _UPDATE_SOUND_POSITION",
         "params": [
             {
                 "type": "int",
@@ -23,6 +23,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

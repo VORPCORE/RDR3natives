@@ -1,20 +1,20 @@
 {
     "0xFF83AF534156B399": {
-        "name": "_0xFF83AF534156B399",
-        "comment": "",
-        "params": [
-            {
-                "type": "Any",
-                "name": "p0"
-            },
-            {
-                "type": "Any",
-                "name": "p1"
-            }
-        ],
+        "name": "SET_ENTITY_CAN_ONLY_BE_DAMAGED_BY_SCRIPT_PARTICIPANTS",
+		"comment": "",
+		"params": [
+			{
+				"type": "Entity",
+				"name": "EntityIndex"
+			},
+			{
+				"type": "BOOL",
+				"name": "bOnlyDamagedWhenRunningScript"
+			}
+		],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

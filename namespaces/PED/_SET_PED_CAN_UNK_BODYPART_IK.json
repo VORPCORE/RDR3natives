@@ -1,20 +1,20 @@
 {
     "0xEE9DF765990E8D1D": {
-        "name": "_SET_PED_CAN_UNK_BODYPART_IK",
-        "comment": "_SET_PED_CAN_(?)_IK*",
-        "params": [
-            {
-                "type": "Ped",
-                "name": "ped"
-            },
-            {
-                "type": "BOOL",
-                "name": "toggle"
-            }
-        ],
+        "name": "SET_PED_CAN_BODY_RECOIL_IK",
+		"comment": "",
+		"params": [
+			{
+				"type": "Ped",
+				"name": "PedIndex"
+			},
+			{
+				"type": "BOOL",
+					"name": "bEnableIK"
+			}
+		],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

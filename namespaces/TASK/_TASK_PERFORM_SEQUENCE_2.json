@@ -1,7 +1,7 @@
 {
     "0x4FC0AF869D6E309D": {
-        "name": "_TASK_PERFORM_SEQUENCE_2",
-        "comment": "",
+       "name": "TASK_PERFORM_SEQUENCE_LOCALLY",
+		"comment": "Old name: _TASK_PERFORM_SEQUENCE_2",
         "params": [
             {
                 "type": "Any",
@@ -23,6 +23,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

@@ -33,7 +33,7 @@
             },
             {
                 "type": "int",
-                "name": "p7"
+                "name": "controlFlags"
             }
         ],
         "return_type": "BOOL",
