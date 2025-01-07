@@ -1,7 +1,7 @@
 {
     "0x06C3DB00B69D5435": {
         "name": "_SET_PLAYER_PROMPT_LEAVE_TEXT",
-        "comment": "Sets the stand prompt for a specific player using a predefined text entry.",
+        "comment": "Sets the stand prompt for a specific player using a predefined text entry. use AddTextEntry for promptTextKey for custom names",
         "params": [
             {
                 "type": "Player",
