@@ -89643,20 +89643,20 @@
             "apiset": ""
         },
         "0x00EB5A760638DB55": {
-            "name": "_0x00EB5A760638DB55",
+            "name": "_SET_PLAYER_WEAPON_DRAW_SPEED",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Hash",
+                    "name": "weapon"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "speed"
                 }
             ],
             "return_type": "void",
@@ -90197,22 +90197,22 @@
             "apiset": ""
         },
         "0x27AD7162D3FED01E": {
-            "name": "_0x27AD7162D3FED01E",
-            "comment": "",
+            "name": "_GET_NUM_DEADEYE_MARKS_ON_PED",
+            "comment": "Retrieves the number of marks placed on a PED when Deadeye mode is active for the specified player. ",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x2B12B6FC8B8772AB": {
             "name": "_SET_DEADEYE_ENTITY_GLOW_WITH_FLAG",
@@ -90342,22 +90342,22 @@
             "apiset": ""
         },
         "0x330CA55A3647FA1C": {
-            "name": "_0x330CA55A3647FA1C",
-            "comment": "",
+            "name": "_EAGLE_EYE_SET_HIDE_ALL_TRAILS",
+            "comment": "Sets whether all trails are hidden during Eagle Eye mode.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "hide"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x35A33783EC3C3448": {
             "name": "_0x35A33783EC3C3448",
@@ -90374,22 +90374,22 @@
             "apiset": ""
         },
         "0x3813E11A378958A5": {
-            "name": "_0x3813E11A378958A5",
-            "comment": "",
+            "name": "_EAGLE_EYE_GET_TRACKED_PED_ID",
+            "comment": "Retrieves the ID of the ped that the specified player is currently tracking while in Eagle Eye mode.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x3946FC742AC305CD": {
-            "name": "_0x3946FC742AC305CD",
-            "comment": "",
+            "name": "_ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET",
+            "comment": "Associates a specific interactive focus mode preset between a player and a ped, with a specified location and target entity.\nTo access all available presets, refer to the file located at: `/update_1.rpf/common/data/interactive_focus_mode_presets.meta`",
             "params": [
                 {
                     "type": "Player",
@@ -90401,7 +90401,7 @@
                 },
                 {
                     "type": "const char*",
-                    "name": "p2"
+                    "name": "preset"
                 },
                 {
                     "type": "float",
@@ -90421,13 +90421,13 @@
                 },
                 {
                     "type": "const char*",
-                    "name": "p7"
+                    "name": "name"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x39D8D7082BC34B72": {
             "name": "_0x39D8D7082BC34B72",
@@ -91465,18 +91465,18 @@
             "apiset": ""
         },
         "0xA62BBAAE67A05BB0": {
-            "name": "_0xA62BBAAE67A05BB0",
-            "comment": "",
+            "name": "_EAGLE_EYE_ARE_ALL_TRAILS_HIDDEN",
+            "comment": "Retrieves whether all trails are currently hidden during Eagle Eye mode for the specified player.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xAAED694CE814817F": {
             "name": "_0xAAED694CE814817F",
@@ -91595,8 +91595,8 @@
             "apiset": ""
         },
         "0xBBA140062B15A8AC": {
-            "name": "_0xBBA140062B15A8AC",
-            "comment": "Used in script function INIT_DEADEYE_SLOWDOWN\n_SPECIAL_ABILITY*",
+            "name": "_SPECIAL_ABILITY_SET_ACTIVATE",
+            "comment": "Activates the special ability for the specified player.",
             "params": [
                 {
                     "type": "Player",
@@ -91606,7 +91606,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xBC02B3D151D3859F": {
             "name": "_EAGLE_EYE_SET_REGISTERED_ENTITY_GLOW",
@@ -91769,8 +91769,8 @@
             "apiset": ""
         },
         "0xC67A4910425F11F1": {
-            "name": "_0xC67A4910425F11F1",
-            "comment": "_DISABLE_*(PLAYER_FORCED_INTERACTION_LOCKON?)",
+            "name": "_DISABLE_PLAYER_INTERACTIVE_FOCUS_PRESET",
+            "comment": "Disables the previously set interactive focus mode preset for a given player. see `_SET_PLAYER_INTERACTIVE_FOCUS_PRESET - 0x3C1B1807C7A415D6`",
             "params": [
                 {
                     "type": "Player",
@@ -91784,7 +91784,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xC71D07C96946E263": {
             "name": "_0xC71D07C96946E263",
@@ -91901,30 +91901,35 @@
             "apiset": ""
         },
         "0xCBB54CC7FFFFAB86": {
-            "name": "_0xCBB54CC7FFFFAB86",
-            "comment": "",
+            "name": "_SET_PLAYER_COOPERATE_PROMPT_THIS_FRAME",
+            "comment": "Activates the Surrender prompt for the specified player in the current frame.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Ped",
+                    "name": "targetPed"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "int",
+                    "name": "promptOrder"
                 },
                 {
-                    "type": "Any",
+                    "type": "BOOL",
                     "name": "p3"
                 }
             ],
             "return_type": "void",
             "build": "1207",
-            "examples": [],
-            "apiset": ""
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "// Calm targetPed\nCitizen.InvokeNative(0x3A2A2071DF5CC569,targetPed,PlayerPedId(),2)\n//Register lockon prompt to targetPed\nCitizen.InvokeNative(0x870708A6E147A9AD,targetPed,\"\",10.1,10.1, 0, 0.0, 0.0, 0, false, -1)\n\n// Activate the surrender prompt for the current player towards the targetPed\nwhile true do \n  Wait(0)\n  Citizen.InvokeNative(0xCBB54CC7FFFFAB86,PlayerId(),targetPed,1, false)\n  //_SET_PLAYER_SURRENDER_PROMPT_THIS_FRAME(PlayerId(), targetPed, 1, false);\nend"
+                }
+            ],
+            "apiset": "client"
         },
         "0xCD7CA3013FD12749": {
             "name": "_0xCD7CA3013FD12749",
@@ -92003,8 +92008,8 @@
             "apiset": ""
         },
         "0xCFFC3ECCD7A5CCEB": {
-            "name": "_0xCFFC3ECCD7A5CCEB",
-            "comment": "",
+            "name": "_SET_PLAYER_AIM_WEAPON",
+            "comment": "Sets the weapon that the specified player will aim with. The weapon must already be assigned to the PED. This also determines the weapon order, specifying which weapon the player will automatically switch to when the current weapon runs out of ammo.",
             "params": [
                 {
                     "type": "Player",
@@ -92015,14 +92020,14 @@
                     "name": "weapon"
                 },
                 {
-                    "type": "BOOL",
-                    "name": "p2"
+                    "type": "int",
+                    "name": "attachSlotId"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xD1A70C1E8D1031FE": {
             "name": "_SET_PLAYER_PICKUP_PROMPT_VISIBLE",
