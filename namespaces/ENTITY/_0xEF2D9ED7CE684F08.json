@@ -1,16 +1,16 @@
 {
     "0xEF2D9ED7CE684F08": {
-        "name": "_0xEF2D9ED7CE684F08",
-        "comment": "",
+        "name": "_GET_ENTITY_LOOTING_PED",
+        "comment": "Returns the entity that is looting a ped but only while the looting is active",
         "params": [
             {
-                "type": "Ped",
-                "name": "ped"
+                "type": "Entity",
+                "name": "entity"
             }
         ],
-        "return_type": "Ped",
+        "return_type": "Entity",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
