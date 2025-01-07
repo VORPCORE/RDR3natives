@@ -1,7 +1,7 @@
 {
     "0xB7DF150605EEDC9B": {
-        "name": "_0xB7DF150605EEDC9B",
-        "comment": "_ADD_EXPLOSION_*(ON ENTITY?)",
+        "name": "_ADD_EXPLOSION_WITH_DAMAGE_CAUSER",
+        "comment": "Add explosion with and assign an entity as damage causer.",
         "params": [
             {
                 "type": "Entity",
@@ -47,6 +47,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
