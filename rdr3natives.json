@@ -92120,7 +92120,7 @@
             "examples": [
                 {
                     "lang": "lua",
-                    "code:": "AddPlayerInteractiveFocusPresetAtCoords(PlayerId(),GetEntityCoords(PlayerPedId()),'ForcedILONoIcon',0.0,0.0,0.0,PlayerPedId(),'text')"
+                    "code": "AddPlayerInteractiveFocusPresetAtCoords(PlayerId(),GetEntityCoords(PlayerPedId()),'ForcedILONoIcon',0.0,0.0,0.0,PlayerPedId(),'text')"
                 }
             ],
             "apiset": "client"
