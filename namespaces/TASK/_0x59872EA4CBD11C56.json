@@ -1,48 +1,48 @@
 {
     "0x59872EA4CBD11C56": {
-        "name": "_0x59872EA4CBD11C56",
-        "comment": "",
+        "name": "_GET_COVERPOINT_FROM_ENTITY_WITH_OFFSET",
+        "comment": "Returns the entity coverpoint with offset.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "xOffset"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "yOffset"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "zOffset"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "float",
+                "name": "heading"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p5"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p6"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p7"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p8"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
