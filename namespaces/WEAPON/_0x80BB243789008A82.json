@@ -1,20 +1,20 @@
 {
     "0x80BB243789008A82": {
-        "name": "_0x80BB243789008A82",
-        "comment": "",
+        "name": "_DOES_PED_HAVE_SNIPER",
+        "comment": "Returns whether the ped has a sniper p1: 0 or 1",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p1"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
