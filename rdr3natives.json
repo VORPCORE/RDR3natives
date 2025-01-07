@@ -10979,27 +10979,27 @@
             "apiset": ""
         },
         "0x718C6ECF5E8CBDD4": {
-            "name": "_0x718C6ECF5E8CBDD4",
-            "comment": "",
+            "name": "_FORCE_THIRD_PERSON_CLOSE_THIS_FRAME",
+            "comment": "Forces camera position to closest 3rd person",
             "params": [],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x71D71E08A7ED5BD7": {
             "name": "_0x71D71E08A7ED5BD7",
-            "comment": "",
+            "comment": "Zooms in the third person camera closer to ground level.\nMust be called every frame to interpolate.\nPass false to reset.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "BOOL",
+                    "name": "toggle"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x728491FB3DFFEF99": {
             "name": "_0x728491FB3DFFEF99",
@@ -24962,44 +24962,48 @@
             "apiset": ""
         },
         "0x559FC1D310813031": {
-            "name": "_GET_IS_FIRE_AT_VOLUME_POS",
-            "comment": "name might not be accurate\n the 3 first parms seems to be from fire coords and this native is only used once in the decompiles, the other params are used from volume position and rotation",
+            "name": "_GET_CLOSEST_FIRE_POS_IN_VOLUME",
+            "comment": "",
             "params": [
                 {
-                    "type": "float",
-                    "name": "x"
+                    "type": "Vector3*",
+                    "name": "outPosition"
                 },
                 {
                     "type": "float",
-                    "name": "y"
+                    "name": "posX"
                 },
                 {
                     "type": "float",
-                    "name": "z"
+                    "name": "posY"
                 },
                 {
                     "type": "float",
-                    "name": "volx"
+                    "name": "posZ"
                 },
                 {
                     "type": "float",
-                    "name": "voly"
+                    "name": "rotX"
                 },
                 {
                     "type": "float",
-                    "name": "volz"
+                    "name": "rotY"
                 },
                 {
                     "type": "float",
-                    "name": "volrotx"
+                    "name": "rotZ"
                 },
                 {
                     "type": "float",
-                    "name": "volroty"
+                    "name": "scaleX"
                 },
                 {
                     "type": "float",
-                    "name": "volrotz"
+                    "name": "scaleY"
+                },
+                {
+                    "type": "float",
+                    "name": "scaleZ"
                 }
             ],
             "return_type": "BOOL",
@@ -33145,12 +33149,12 @@
         },
         "0x9C409BBC492CB5B1": {
             "name": "_0x9C409BBC492CB5B1",
-            "comment": "",
+            "comment": "Returns the hash of the currently highlighted item in the weapon wheel.\nOnly works while the wheel is open.\n\nUse in conjunction with IS_CONTROL_JUST_RELEASED(0, 'INPUT_OPEN_WHEEL_MENU') to detect item selection/usage.",
             "params": [],
             "return_type": "Any",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x9D37EB5003E0F2CF": {
             "name": "_0x9D37EB5003E0F2CF",
@@ -72214,34 +72218,34 @@
             "apiset": ""
         },
         "0x09E378C52B1433B5": {
-            "name": "_0x09E378C52B1433B5",
-            "comment": "",
+            "name": "_TOGGLE_PLAYER_PED_FLINCH",
+            "comment": "_TOGGLE_S* - _UPDATE_*",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "x"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "z"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "float",
+                    "name": "scale"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x0A4618FFD517E24D": {
             "name": "_0x0A4618FFD517E24D",
@@ -75731,26 +75735,26 @@
             "apiset": ""
         },
         "0x9B90842304C938A7": {
-            "name": "_0x9B90842304C938A7",
+            "name": "_GET_CATEGORY_OF_COMPONENT_AT_INDEX",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "componentIndex"
                 },
                 {
                     "type": "Any",
                     "name": "p2"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "Hash",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x9B9B9FA0EA283E3D": {
             "name": "_0x9B9B9FA0EA283E3D",
@@ -76545,8 +76549,8 @@
             "apiset": ""
         },
         "0xBAD2A311667A50D7": {
-            "name": "_0xBAD2A311667A50D7",
-            "comment": "_SET_PED_D*",
+            "name": "_SET_PED_DESIRES_GROUP",
+            "comment": "",
             "params": [
                 {
                     "type": "Ped",
@@ -76554,13 +76558,13 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "toggle"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xBB3E5370EBB6BE28": {
             "name": "_0xBB3E5370EBB6BE28",
@@ -76729,7 +76733,7 @@
         },
         "0xC412AA1C73111FE0": {
             "name": "_SET_PELT_FOR_HORSE_BY_INVENTORY_ITEM",
-            "comment": "Not official native name\nSet the pelt of the animal to the back of the horse\nEXAMPLE:\nlocal mount = GetMountOwnedByPlayer(PlayerId())\nCitizen.InvokeNative(0xC412AA1C73111FE0,mount,GetHashKey('PROVISION_DEER_HIDE_POOR'),GetHashKey('a_c_deer_01_uppr_000_c0_001_ab'),0,0)",
+            "comment": "Set the pelt of the animal to the back of the horse\nEXAMPLE:\nlocal mount = GetMountOwnedByPlayer(PlayerId())\nCitizen.InvokeNative(0xC412AA1C73111FE0,mount,GetHashKey('PROVISION_DEER_HIDE_POOR'),GetHashKey('a_c_deer_01_uppr_000_c0_001_ab'),0,0)",
             "params": [
                 {
                     "type": "Ped",
@@ -76744,7 +76748,7 @@
                     "name": "albedo"
                 },
                 {
-                    "type": "int",
+                    "type": "Hash",
                     "name": "normal"
                 },
                 {
@@ -76755,7 +76759,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xC48AF420371C7407": {
             "name": "_0xC48AF420371C7407",
@@ -76794,8 +76798,8 @@
             "apiset": "client"
         },
         "0xC5303F460A40D21D": {
-            "name": "_0xC5303F460A40D21D",
-            "comment": "Returns boneIndex\n_GET_PED_N* - _GET_PED_R*",
+            "name": "_GET_PED_RAGDOLL_BONE_INDEX",
+            "comment": "Returns boneIndex",
             "params": [
                 {
                     "type": "Ped",
@@ -76803,13 +76807,13 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "boneId"
                 }
             ],
             "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xC5B78E41DCF8227C": {
             "name": "_0xC5B78E41DCF8227C",
@@ -84795,35 +84799,35 @@
         },
         "0x112DDF56300BC6E5": {
             "name": "_0x112DDF56300BC6E5",
-            "comment": "",
+            "comment": "Returns the PersChar index of the persCharHash passed",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "persCharHash"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "PersChar",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x2DF89CD2ED1D0BDE": {
-            "name": "_0x2DF89CD2ED1D0BDE",
+            "name": "_SET_PERSCHAR_OUTFIT",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "persCharHash"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Hash",
+                    "name": "outfit"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x2E957AA81F2C61C9": {
             "name": "_0x2E957AA81F2C61C9",
@@ -85035,18 +85039,18 @@
             "apiset": ""
         },
         "0x8B44273A92CD406C": {
-            "name": "_0x8B44273A92CD406C",
+            "name": "_RESET_PERSCHAR_SCHEDULE",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "persCharHash"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x8BC555034A5A5E8C": {
             "name": "_0x8BC555034A5A5E8C",
@@ -90161,22 +90165,22 @@
             "apiset": ""
         },
         "0x22C8B10802301381": {
-            "name": "_0x22C8B10802301381",
+            "name": "_EAGLE_EYE_SET_RANGE",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "range"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x263D69767F76059C": {
             "name": "_0x263D69767F76059C",
@@ -94461,8 +94465,8 @@
             "apiset": ""
         },
         "0xB427911EA6DFFEF3": {
-            "name": "_SET_RECEIVED_HORSEBACK_DAMAGE_DECREASE",
-            "comment": "Decreases the damage the player receives while on horseback",
+            "name": "_SET_RECEIVED_DAMAGE_TAKEN_ON_HORSEBACK_MODIFIER",
+            "comment": "Decreases the damage the player receives while on horseback\nPrevious name: _SET_RECEIVED_HORSEBACK_DAMAGE_DECREASE",
             "params": [
                 {
                     "type": "Player",
@@ -96803,10 +96807,10 @@
             "apiset": ""
         },
         "0x1431540BCA1A1BD2": {
-            "name": "_0x1431540BCA1A1BD2",
+            "name": "_SAVEGAME_HAS_SAVE_FAILED",
             "comment": "",
             "params": [],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -113585,22 +113589,22 @@
             "apiset": ""
         },
         "0x06ECF3925BC2ABAE": {
-            "name": "_0x06ECF3925BC2ABAE",
+            "name": "_SET_PED_PATH_MAY_USE_SLIDING_SURFACES",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "useSlidingSurfaces"
                 }
             ],
             "return_type": "void",
             "build": "1311",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x098036CAB8373D36": {
             "name": "_0x098036CAB8373D36",
@@ -113770,26 +113774,26 @@
             "apiset": ""
         },
         "0x12990818C1D35886": {
-            "name": "_0x12990818C1D35886",
+            "name": "_SET_PED_PATH_PREFER_TO_AVOID_FOLIAGE",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "preferAvoidFoliage"
                 },
                 {
-                    "type": "Any",
+                    "type": "float",
                     "name": "p2"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x141BC64C8D7C5529": {
             "name": "_0x141BC64C8D7C5529",
@@ -114020,26 +114024,26 @@
             "apiset": ""
         },
         "0x216343750545A486": {
-            "name": "_0x216343750545A486",
+            "name": "_SET_PED_PATH_PREFER_HORSE_WALKABLE",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "preferHorseWalkable"
                 },
                 {
-                    "type": "Any",
+                    "type": "float",
                     "name": "p2"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x22CD2C33ED4467A1": {
             "name": "_0x22CD2C33ED4467A1",
@@ -114420,21 +114424,21 @@
         },
         "0x3F8387DB1B9F31B7": {
             "name": "_0x3F8387DB1B9F31B7",
-            "comment": "",
+            "comment": "Used for HORSE_REVIVE",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Any*",
+                    "name": "scriptStruct"
                 },
                 {
-                    "type": "Any",
+                    "type": "BOOL",
                     "name": "p1"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x3FEB770D8ED9047A": {
             "name": "_0x3FEB770D8ED9047A",
@@ -114583,22 +114587,22 @@
             "apiset": ""
         },
         "0x42CFD8FD8CC8DC69": {
-            "name": "_0x42CFD8FD8CC8DC69",
+            "name": "_SET_PED_PATH_NEVER_USE_INTERIORS",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "neverUseInteriors"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x450080DDEDB91258": {
             "name": "_0x450080DDEDB91258",
@@ -115205,18 +115209,18 @@
             "apiset": ""
         },
         "0x6C50B9DCCCA70023": {
-            "name": "_0x6C50B9DCCCA70023",
+            "name": "_IS_ENTITY_REVIVABLE",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x6DAC799857EF3F11": {
             "name": "_0x6DAC799857EF3F11",
@@ -115392,22 +115396,22 @@
             "apiset": ""
         },
         "0x7C015D8BCEC72CF4": {
-            "name": "_0x7C015D8BCEC72CF4",
+            "name": "_SET_PED_PATH_AVOID_TRAFFIC",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "avoidTraffic"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x7CB99FADDE73CD1B": {
             "name": "_0x7CB99FADDE73CD1B",
@@ -115614,26 +115618,26 @@
             "apiset": ""
         },
         "0x8BB283A7888AD1AD": {
-            "name": "_0x8BB283A7888AD1AD",
+            "name": "_SET_PED_PATH_PREFER_TO_AVOID_MUD",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "preferAvoidMud"
                 },
                 {
-                    "type": "Any",
+                    "type": "float",
                     "name": "p2"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x8E1DDE26D270CC5E": {
             "name": "_0x8E1DDE26D270CC5E",
@@ -116334,26 +116338,26 @@
             "apiset": ""
         },
         "0xC6170856E54557B2": {
-            "name": "_0xC6170856E54557B2",
+            "name": "_SET_PED_PATH_PREFER_STAY_IN_WATER",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "preferStayInWater"
                 },
                 {
-                    "type": "Any",
+                    "type": "float",
                     "name": "p2"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xCE4E669400E5F8AA": {
             "name": "_0xCE4E669400E5F8AA",
@@ -118280,38 +118284,38 @@
             "apiset": ""
         },
         "0xC624414FA748B9BA": {
-            "name": "_TASK_COMBAT_PED_3",
-            "comment": "",
+            "name": "_TASK_COMBAT_PED_AT_COORDS",
+            "comment": "Coords: volume coords used in R* Script smuggler2\np4/p5 = 0 in R* Scripts previous name TASK_COMBAT_PED_3",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "x"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "z"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p4"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p5"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x81D16C4FF3A77ADF": {
             "name": "_TASK_CUT_FREE_HOGTIED_TARGET_PED",
@@ -118578,8 +118582,8 @@
                     "name": "p0"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
                     "type": "Any",
@@ -118597,7 +118601,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x933ACC1A1771A288": {
             "name": "_TASK_INTIMIDATED_2",
@@ -124042,7 +124046,7 @@
             "gta_hash": "0x08AAFD0814722BC3",
             "gta_jhash": "0x2544E7A6",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x42113B857E33C16E": {
             "name": "GET_VEHICLE_BODY_HEALTH",
@@ -128894,26 +128898,26 @@
             "apiset": ""
         },
         "0xCF9DA72002FC16BF": {
-            "name": "_0xCF9DA72002FC16BF",
+            "name": "_REQUEST_VEHICLE_ASSET_ANIMS",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "int",
+                    "name": "vehicleAsset"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xD0116DF21E6C7B36": {
             "name": "_0xD0116DF21E6C7B36",
@@ -131730,34 +131734,34 @@
             "apiset": ""
         },
         "0x2B32B11520626229": {
-            "name": "_0x2B32B11520626229",
-            "comment": "",
+            "name": "_GET_VOLUME_AMOUNT_OF_INDEXED_ITEMS",
+            "comment": "Indexes items (including entyties and peds) in a set volume\nCounts up as its the return value of how many items it writes to given itemSet",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "float",
+                    "name": "x"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "z"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "radius"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "ItemSet",
+                    "name": "itemSet"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x351D71B8B72B858B": {
             "name": "_0x351D71B8B72B858B",
@@ -134145,7 +134149,7 @@
         },
         "0x8DECB02F88F428BC": {
             "name": "HAS_PED_GOT_WEAPON",
-            "comment": "",
+            "comment": "onlyCheckPlayerInventory: If true, it will only check the players current inventory. If false, it also checks your horse inventory",
             "params": [
                 {
                     "type": "Ped",
@@ -134161,7 +134165,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p3"
+                    "name": "onlyCheckPlayerInventory"
                 }
             ],
             "return_type": "BOOL",
@@ -134169,7 +134173,7 @@
             "gta_hash": "0x8DECB02F88F428BC",
             "gta_jhash": "0x43D2FA82",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x76A18844E743BF91": {
             "name": "HAS_WEAPON_GOT_WEAPON_COMPONENT",
@@ -135227,21 +135231,21 @@
         },
         "0x5A695BD328586B44": {
             "name": "_0x5A695BD328586B44",
-            "comment": "",
+            "comment": "Returns true if ped is on a horse while inside of a town\nParams: p1 = 0\nGET_L* - GET_MA*",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p1"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x5B235F24472F2C3B": {
             "name": "_DOES_PED_HAVE_REVOLVER",
@@ -135510,7 +135514,7 @@
             "apiset": ""
         },
         "0x9EEFD670F10656D7": {
-            "name": "_GET_WEAPON_HASH_FROM_DEFAULT_PED_WEAPON_COLLECTION",
+            "name": "_GET_WEAPON_FROM_DEFAULT_PED_WEAPON_COLLECTION",
             "comment": "this native gets the weapon hash from the default ped weapon collection (see GetDefaultPedWeaponCollection for more info) will randomly return one of it's weapons",
             "params": [
                 {
@@ -135663,26 +135667,26 @@
             "apiset": ""
         },
         "0xB832F1A686B9B810": {
-            "name": "_0xB832F1A686B9B810",
-            "comment": "",
+            "name": "_SET_INSTANTLY_STORE_LONGARMS_ON_DISMOUNT",
+            "comment": "Stores longarms to your horse on dismount\nParams: p2 = 0\nSET_[I - M]*",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "storeLongarms"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p2"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xBC9444F2FF94A9C0": {
             "name": "_0xBC9444F2FF94A9C0",
