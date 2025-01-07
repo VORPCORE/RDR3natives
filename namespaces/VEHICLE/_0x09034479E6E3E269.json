@@ -1,7 +1,7 @@
 {
     "0x09034479E6E3E269": {
-        "name": "_0x09034479E6E3E269",
-        "comment": "_RESET_VEHICLE_*",
+        "name": "_GET_TRAIN_TRACK_NEXT_JUNCTION_SWITCH",
+        "comment": "Returns train track and junction index where the train is like trash hash and nearest junction index",
         "params": [
             {
                 "type": "Vehicle",
@@ -18,7 +18,12 @@
         ],
         "return_type": "Any",
         "build": "1207",
-        "examples": [],
-        "apiset": ""
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "local trainTrack, junctionIndex = Citizen.InvokeNative(0x09034479E6E3E269, train, Citizen.PointerValueInt(), Citizen.PointerValueInt())"
+            }
+        ],
+        "apiset": "client"
     }
 }
