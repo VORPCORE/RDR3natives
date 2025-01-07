@@ -8,7 +8,7 @@
                 "name": "entity"
             },
             {
-                "type": "hash",
+                "type": "Hash",
                 "name": "blipIcon"
             }
         ],
