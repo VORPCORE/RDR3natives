@@ -1,7 +1,7 @@
 {
     "0x6ECFC621A168424C": {
-        "name": "_0x6ECFC621A168424C",
-        "comment": "",
+        "name": "_EAGLE_EYE_ADD_PARTICLE_EFFECT_TO_ENTITY",
+        "comment": "Add a yellow particle to the entity.\nentity: entity to apply yellow particle\nentity2: same entity as entit\np2: always \np3: always 0",
         "params": [
             {
                 "type": "Entity",
@@ -12,17 +12,17 @@
                 "name": "entity2"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p2"
             },
             {
-                "type": "float",
+                "type": "int",
                 "name": "p3"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
