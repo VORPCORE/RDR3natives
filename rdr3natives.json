@@ -36395,16 +36395,16 @@
             "apiset": ""
         },
         "0x75CFAC49301E134E": {
-            "name": "_0x75CFAC49301E134E",
-            "comment": "p0: value returned by 0x9D21B185ABC2DBC5",
+            "name": "_INVENTORY_APPLY_WEAPON_STATS_TO_ENTRY",
+            "comment": "Apply the weapon stats to the CatalogItemInspection stats entry id. get entryId with _INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "data"
+                    "type": "int",
+                    "name": "entryId"
                 },
                 {
-                    "type": "BOOL",
-                    "name": "p1"
+                    "type": "Hash",
+                    "name": "weapon"
                 },
                 {
                     "type": "Ped",
@@ -36414,7 +36414,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x75CFAC49301E134F": {
             "name": "_0x75CFAC49301E134F",
@@ -36492,56 +36492,56 @@
             "apiset": ""
         },
         "0x9D21B185ABC2DBC4": {
-            "name": "_0x9D21B185ABC2DBC4",
-            "comment": "p0 is the return value of DATABINDING::_DATABINDING_ADD_DATA_CONTAINER_FROM_PATH\np2, p3: 0\nReturns databindingEntryId",
+            "name": "_INVENTORY_GET_CATALOG_ITEM_INSPECTION_EFFECTS_ENTRY",
+            "comment": "Returns effects entry id of CatalogItemInspection container.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "data"
+                    "type": "int",
+                    "name": "entryId"
                 },
                 {
                     "type": "const char*",
-                    "name": "effects"
+                    "name": "name"
                 },
                 {
                     "type": "BOOL",
-                    "name": "p2"
+                    "name": "unk1"
                 },
                 {
                     "type": "BOOL",
-                    "name": "p3"
+                    "name": "unk2"
                 }
             ],
-            "return_type": "Hash",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x9D21B185ABC2DBC5": {
-            "name": "_0x9D21B185ABC2DBC5",
-            "comment": "p2: 0\np3: -1\nReturns databindingEntryId to be used with 0x75CFAC49301E134E (p0)",
+            "name": "_INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY",
+            "comment": "Returns stats entry id of CatalogItemInspection container",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "data"
+                    "type": "int",
+                    "name": "entryId"
                 },
                 {
                     "type": "const char*",
-                    "name": "stats"
+                    "name": "name"
                 },
                 {
                     "type": "int",
-                    "name": "p2"
+                    "name": "unk1"
                 },
                 {
-                    "type": "int",
-                    "name": "p3"
+                    "type": "Player",
+                    "name": "playerid"
                 }
             ],
-            "return_type": "Hash",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x9E58207B194488AC": {
             "name": "_0x9E58207B194488AC",
@@ -72721,26 +72721,26 @@
             "apiset": ""
         },
         "0x1F8215D0E446F593": {
-            "name": "_0x1F8215D0E446F593",
-            "comment": "",
+            "name": "_APPLY_COLD_TO_PED",
+            "comment": "Apply cold intensity to ped from 0.0 to 1.0",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "intensity"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p2"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x2371C39D4F91C288": {
             "name": "_0x2371C39D4F91C288",
@@ -73945,8 +73945,8 @@
             "apiset": ""
         },
         "0x58D32261AE0F0843": {
-            "name": "_0x58D32261AE0F0843",
-            "comment": "",
+            "name": "_APPLY_PED_DAMAGE_PACK_TO_BONE",
+            "comment": "seems to only work with PD_Vomit ? ",
             "params": [
                 {
                     "type": "Ped",
@@ -73958,37 +73958,37 @@
                 },
                 {
                     "type": "float",
-                    "name": "p2"
+                    "name": "xOffset"
                 },
                 {
                     "type": "float",
-                    "name": "p3"
+                    "name": "yOffset"
                 },
                 {
                     "type": "float",
-                    "name": "p4"
+                    "name": "zOffset"
                 },
                 {
                     "type": "float",
-                    "name": "p5"
+                    "name": "xRot"
                 },
                 {
                     "type": "float",
-                    "name": "p6"
+                    "name": "yRot"
                 },
                 {
                     "type": "float",
-                    "name": "p7"
+                    "name": "zRot"
                 },
                 {
                     "type": "const char*",
-                    "name": "p8"
+                    "name": "damagePack"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x5A1A929C8B729B4A": {
             "name": "_0x5A1A929C8B729B4A",
@@ -91357,8 +91357,8 @@
             "apiset": ""
         },
         "0xA0C683284DF027C7": {
-            "name": "_0xA0C683284DF027C7",
-            "comment": "Params: p1 is mostly 15, sometimes 1 in R* Scripts (Function: PLAYER_TOGGLE_PICK_UP_HATS)\n_SET_PLAYER_*",
+            "name": "_SET_PLAYER_HAT_ACCESS",
+            "comment": "Sets the player's ability to wear hats based on the specified flag. The flag value determines whether the player can wear all hats or only the ones they own.\nIf the flag is set to 15 and `allow` is true, the player can wear all available hats. However, if you want to restrict the player to wearing only their owned hats (flag 1), you **must first** disable flag 15 by setting it to false, and then set flag 1 to true.",
             "params": [
                 {
                     "type": "Player",
@@ -91366,17 +91366,17 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "flag"
                 },
                 {
                     "type": "BOOL",
-                    "name": "enable"
+                    "name": "allow"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xA28056CD1B04B250": {
             "name": "_0xA28056CD1B04B250",
@@ -91493,8 +91493,8 @@
             "apiset": ""
         },
         "0xACA45DDCEF6071C4": {
-            "name": "_0xACA45DDCEF6071C4",
-            "comment": "_SET_PLAYER_CAN_BE_* - _SET_PLAYER_CAN_USE_*",
+            "name": "_SET_PLAYER_CAN_PICKUP_HAT",
+            "comment": "Enables or disables the Pick Up prompt for a hat on the ground for the specified player. When set to true, the player will see a prompt to pick up the hat if they are near it.",
             "params": [
                 {
                     "type": "Player",
@@ -91502,13 +91502,13 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "canPickup"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xB15CD2F9932C9AB5": {
             "name": "_0xB15CD2F9932C9AB5",
@@ -92025,22 +92025,22 @@
             "apiset": ""
         },
         "0xD1A70C1E8D1031FE": {
-            "name": "_0xD1A70C1E8D1031FE",
-            "comment": "",
+            "name": "_SET_PLAYER_PICKUP_PROMPT_VISIBLE",
+            "comment": "Shows or hides all Pick Up prompts for the specified player, including the prompt for picking up hats from the ground. When set to true, the player will see Pick Up prompts for all nearby items. If set to false, all Pick Up prompts will be hidden.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "enable"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xD1F6B912785BFD35": {
             "name": "_0xD1F6B912785BFD35",
@@ -116220,7 +116220,7 @@
         },
         "0xB8F52A3F84A7CC59": {
             "name": "_HAS_CARRIABLE_CONFIG_HASH_LOADED",
-            "comment": "",
+            "comment": "list of carriable configs  https://gist.github.com/WesternGamer/95a1f8daf02520cad2bf96af6d957e70",
             "params": [
                 {
                     "type": "Hash",
@@ -127037,8 +127037,8 @@
             "apiset": ""
         },
         "0x09034479E6E3E269": {
-            "name": "_0x09034479E6E3E269",
-            "comment": "_RESET_VEHICLE_*",
+            "name": "_GET_TRAIN_TRACK_NEXT_JUNCTION_SWITCH",
+            "comment": "Returns train track and junction index where the train is like trash hash and nearest junction index",
             "params": [
                 {
                     "type": "Vehicle",
@@ -127055,8 +127055,13 @@
             ],
             "return_type": "Any",
             "build": "1207",
-            "examples": [],
-            "apiset": ""
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "local trainTrack, junctionIndex = Citizen.InvokeNative(0x09034479E6E3E269, train, Citizen.PointerValueInt(), Citizen.PointerValueInt())"
+                }
+            ],
+            "apiset": "client"
         },
         "0x0BA4250D20007C2E": {
             "name": "_0x0BA4250D20007C2E",
@@ -135130,22 +135135,22 @@
             "apiset": "client"
         },
         "0x4820A6939D7CEF28": {
-            "name": "_0x4820A6939D7CEF28",
-            "comment": "",
+            "name": "_SET_PED_WEAPON_ON_BACK",
+            "comment": "Holster the holded shoulder weapon. Precisions: 0 means with anim while 1 means direct holster",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "disableAnim"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x4823F13A21F51964": {
             "name": "_0x4823F13A21F51964",
