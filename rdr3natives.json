@@ -6592,50 +6592,50 @@
             "apiset": ""
         },
         "0xCCE219C922737BFA": {
-            "name": "_PLAY_SOUND_FROM_POSITION",
-            "comment": "",
+            "name": "PLAY_SOUND_FROM_COORD",
+            "comment": "Old name: _PLAY_SOUND_FROM_POSITION",
             "params": [
                 {
                     "type": "const char*",
-                    "name": "audioName"
+                    "name": "SoundName"
                 },
                 {
                     "type": "float",
-                    "name": "x"
+                    "name": "positionX"
                 },
                 {
                     "type": "float",
-                    "name": "y"
+                    "name": "positionY"
                 },
                 {
                     "type": "float",
-                    "name": "z"
+                    "name": "positionZ"
                 },
                 {
                     "type": "const char*",
-                    "name": "audioRef"
+                    "name": "SetName"
                 },
                 {
                     "type": "BOOL",
-                    "name": "isNetwork"
+                    "name": "bOverNetwork"
                 },
                 {
-                    "type": "Any",
-                    "name": "p6"
+                    "type": "int",
+                    "name": "nNetworkRange"
                 },
                 {
                     "type": "BOOL",
-                    "name": "p7"
+                    "name": "isExteriorLoc"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p8"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xDCF5BA95BBF0FABA": {
             "name": "_PLAY_SOUND_FROM_POSITION_WITH_ID",
@@ -6812,8 +6812,8 @@
             "apiset": ""
         },
         "0x503703EC1781B7D6": {
-            "name": "_SET_VARIABLE_ON_SOUND_WITH_ID",
-            "comment": "",
+            "name": "SET_VARIABLE_ON_SOUND",
+            "comment": "Old Name: _SET_VARIABLE_ON_SOUND_WITH_ID",
             "params": [
                 {
                     "type": "int",
@@ -6831,7 +6831,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x9821B68CD3E05F2B": {
             "name": "_SET_VARIABLE_ON_SOUND_WITH_NAME",
@@ -6963,8 +6963,8 @@
             "apiset": ""
         },
         "0x3210BCB36AF7621B": {
-            "name": "_STOP_SOUND_WITH_ID",
-            "comment": "",
+            "name": "STOP_SOUND",
+            "comment": "Old Name: _STOP_SOUND_WITH_ID",
             "params": [
                 {
                     "type": "int",
@@ -6974,7 +6974,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x0F2A2175734926D8": {
             "name": "_STOP_SOUND_WITH_NAME",
@@ -7023,8 +7023,8 @@
             "apiset": ""
         },
         "0x0286617C8FC50A53": {
-            "name": "_UPDATE_SOUND_POSITION",
-            "comment": "Only used in R* SP Scripts",
+            "name": "UPDATE_SOUND_COORD",
+            "comment": "Only used in R* SP Scripts\nOld Name: _UPDATE_SOUND_POSITION",
             "params": [
                 {
                     "type": "int",
@@ -7046,7 +7046,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         }
     },
     "BOUNTY": {
@@ -22495,22 +22495,22 @@
             "apiset": ""
         },
         "0xFF83AF534156B399": {
-            "name": "_0xFF83AF534156B399",
+            "name": "SET_ENTITY_CAN_ONLY_BE_DAMAGED_BY_SCRIPT_PARTICIPANTS",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "EntityIndex"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "bOnlyDamagedWhenRunningScript"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xFF9965C47FA404DA": {
             "name": "_0xFF9965C47FA404DA",
@@ -22782,8 +22782,8 @@
             "apiset": ""
         },
         "0x75DF9E73F2F005FD": {
-            "name": "_GET_ENTITY_CAN_BE_DAMAGED",
-            "comment": "",
+            "name": "GET_ENTITY_CAN_BE_DAMAGED",
+            "comment": "Old name: _GET_ENTITY_CAN_BE_DAMAGED",
             "params": [
                 {
                     "type": "Entity",
@@ -22793,7 +22793,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x808077647856DE62": {
             "name": "_GET_ENTITY_CARRYING_FLAG",
@@ -22856,8 +22856,8 @@
             "apiset": ""
         },
         "0x6CF0DAD7FA1088EA": {
-            "name": "_GET_ENTITY_PROOFS",
-            "comment": "Note: this native was removed in 1232 but added back in 1311",
+            "name": "GET_ENTITY_PROOFS",
+            "comment": "Note: this native was removed in 1232 but added back in 1311\nOld name: _GET_ENTITY_PROOFS",
             "params": [
                 {
                     "type": "Entity",
@@ -22867,7 +22867,7 @@
             "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x2A08A32B6D49906F": {
             "name": "_GET_ENTITY_SCRIPT",
@@ -23667,13 +23667,13 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "scriptCreatedOnly"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xE8BB3CC253A34559": {
             "name": "REMOVE_SHOCKING_EVENT",
@@ -31342,8 +31342,8 @@
             "apiset": ""
         },
         "0x2A32FAA57B937173": {
-            "name": "_DRAW_MARKER",
-            "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/markers/marker_types.lua",
+            "name": "DRAW_MARKER",
+            "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/markers/marker_types.lua\nOld name: _DRAW_MARKER",
             "params": [
                 {
                     "type": "Hash",
@@ -31445,7 +31445,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xDFEA23EC90113657": {
             "name": "_ENABLE_STATIC_VEG_MODIFIER",
@@ -81222,7 +81222,7 @@
             "apiset": ""
         },
         "0x878B68960C1C2A35": {
-            "name": "_IS_PED_GROUP_LEADER",
+            "name": "IS_PED_GROUP_LEADER",
             "comment": "",
             "params": [
                 {
@@ -81237,7 +81237,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x57779B55B83E2BEA": {
             "name": "_IS_PED_INTIMIDATED",
@@ -82888,22 +82888,22 @@
             "apiset": ""
         },
         "0xEE9DF765990E8D1D": {
-            "name": "_SET_PED_CAN_UNK_BODYPART_IK",
-            "comment": "_SET_PED_CAN_(?)_IK*",
+            "name": "SET_PED_CAN_BODY_RECOIL_IK",
+            "comment": "",
             "params": [
                 {
                     "type": "Ped",
-                    "name": "ped"
+                    "name": "PedIndex"
                 },
                 {
                     "type": "BOOL",
-                    "name": "toggle"
+                    "name": "bEnableIK"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xBD75500141E4725C": {
             "name": "_SET_PED_COMBAT_ATTRIBUTE_HASH",
@@ -101860,7 +101860,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "p7"
+                    "name": "controlFlags"
                 }
             ],
             "return_type": "BOOL",
@@ -101889,14 +101889,14 @@
                     "name": "radius"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "int",
+                    "name": "controlFlags"
                 }
             ],
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x5A8B01199C3E79C3": {
             "name": "LOAD_SCENE_STOP",
@@ -105062,26 +105062,26 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "const char*",
+                    "name": "filterName"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "int",
+                    "name": "priority"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "BOOL",
+                    "name": "secondary"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x032D49C5E359C847": {
             "name": "SET_ANIM_RATE",
@@ -106743,13 +106743,13 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "time"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x5D5B0D5BC3626E5A": {
             "name": "TASK_DUEL",
@@ -118802,8 +118802,8 @@
             "apiset": ""
         },
         "0x4FC0AF869D6E309D": {
-            "name": "_TASK_PERFORM_SEQUENCE_2",
-            "comment": "",
+            "name": "TASK_PERFORM_SEQUENCE_LOCALLY",
+            "comment": "Old name: _TASK_PERFORM_SEQUENCE_2",
             "params": [
                 {
                     "type": "Any",
@@ -118825,7 +118825,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x884E3436CC1F41DD": {
             "name": "_TASK_PLAY_EMOTE",
