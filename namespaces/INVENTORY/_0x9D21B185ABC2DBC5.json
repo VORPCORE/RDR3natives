@@ -1,28 +1,28 @@
 {
     "0x9D21B185ABC2DBC5": {
-        "name": "_0x9D21B185ABC2DBC5",
-        "comment": "p2: 0\np3: -1\nReturns databindingEntryId to be used with 0x75CFAC49301E134E (p0)",
+        "name": "_INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY",
+        "comment": "Returns stats entry id of CatalogItemInspection container",
         "params": [
             {
-                "type": "Any",
-                "name": "data"
+                "type": "int",
+                "name": "entryId"
             },
             {
                 "type": "const char*",
-                "name": "stats"
+                "name": "name"
             },
             {
                 "type": "int",
-                "name": "p2"
+                "name": "unk1"
             },
             {
-                "type": "int",
-                "name": "p3"
+                "type": "Player",
+                "name": "playerid"
             }
         ],
-        "return_type": "Hash",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
