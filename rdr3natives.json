@@ -21487,78 +21487,74 @@
             "apiset": ""
         },
         "0x445D7D8EA66E373E": {
-            "name": "_0x445D7D8EA66E373E",
-            "comment": "",
+            "name": "_ATTACH_ENTITY_TO_COORDS_PHYSICALLY",
+            "comment": "Attach an entity to coordinates physically better name may be perfered? seems to be used with boats `p_skiff02x` ? The last 6 params are always 0 everywhere in the base code. p7 = 500.0 some kind of time? p8 =1",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "x"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "z"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "float",
+                    "name": "offsetx"
                 },
                 {
-                    "type": "Any",
-                    "name": "p5"
+                    "type": "float",
+                    "name": "offsety"
                 },
                 {
-                    "type": "Any",
-                    "name": "p6"
+                    "type": "float",
+                    "name": "offsetz"
                 },
                 {
-                    "type": "Any",
+                    "type": "float",
                     "name": "p7"
                 },
                 {
-                    "type": "Any",
+                    "type": "BOOL",
                     "name": "p8"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p9"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p10"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p11"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p12"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p13"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p14"
-                },
-                {
-                    "type": "Any",
-                    "name": "p15"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x56E0735D6273B227": {
             "name": "_0x56E0735D6273B227",
@@ -22457,18 +22453,18 @@
             "apiset": ""
         },
         "0xEF2D9ED7CE684F08": {
-            "name": "_0xEF2D9ED7CE684F08",
-            "comment": "",
+            "name": "_GET_ENTITY_LOOTING_PED",
+            "comment": "Returns the entity that is looting a ped but only while the looting is active",
             "params": [
                 {
-                    "type": "Ped",
-                    "name": "ped"
+                    "type": "Entity",
+                    "name": "entity"
                 }
             ],
-            "return_type": "Ped",
+            "return_type": "Entity",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xF41E2979D5BC5370": {
             "name": "_0xF41E2979D5BC5370",
@@ -24862,58 +24858,58 @@
             "apiset": ""
         },
         "0x34AE85C7CA4857AA": {
-            "name": "_0x34AE85C7CA4857AA",
-            "comment": "",
+            "name": "_ADD_EXPLOSION_WITH_USER_VFX_AND_DAMAGE_CAUSER",
+            "comment": "Add explosion with vfx and assign an entity as damage causer.\nexplosionType: https://github.com/femga/rdr3_discoveries/blob/master/graphics/explosions/README.md\nexplosionFx: https://github.com/femga/rdr3_discoveries/blob/master/graphics/explosions/explosion_vfxTags.lua",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
+                    "type": "BOOL",
                     "name": "p1"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "x"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "float",
+                    "name": "z"
                 },
                 {
-                    "type": "Any",
-                    "name": "p5"
+                    "type": "int",
+                    "name": "explosionType"
                 },
                 {
-                    "type": "Any",
-                    "name": "p6"
+                    "type": "Hash",
+                    "name": "explosionFx"
                 },
                 {
-                    "type": "Any",
-                    "name": "p7"
+                    "type": "float",
+                    "name": "damageScale"
                 },
                 {
-                    "type": "Any",
-                    "name": "p8"
+                    "type": "BOOL",
+                    "name": "isAudible"
                 },
                 {
-                    "type": "Any",
-                    "name": "p9"
+                    "type": "BOOL",
+                    "name": "isInvisible"
                 },
                 {
-                    "type": "Any",
-                    "name": "p10"
+                    "type": "float",
+                    "name": "cameraShake"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x41B87A6495EE13DD": {
             "name": "_0x41B87A6495EE13DD",
@@ -25066,8 +25062,8 @@
             "apiset": "client"
         },
         "0xB7DF150605EEDC9B": {
-            "name": "_0xB7DF150605EEDC9B",
-            "comment": "_ADD_EXPLOSION_*(ON ENTITY?)",
+            "name": "_ADD_EXPLOSION_WITH_DAMAGE_CAUSER",
+            "comment": "Add explosion with and assign an entity as damage causer.\nexplosionType: https://github.com/femga/rdr3_discoveries/blob/master/graphics/explosions/README.md",
             "params": [
                 {
                     "type": "Entity",
@@ -25113,7 +25109,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xCDC25355C0D65963": {
             "name": "_IS_ENTITY_CONSUMED_BY_FIRE",
@@ -42552,18 +42548,18 @@
             "apiset": ""
         },
         "0x01B928CA2E198B01": {
-            "name": "_0x01B928CA2E198B01",
-            "comment": "_CLEAR*",
+            "name": "_CLEAR_BLIP",
+            "comment": "Clear blip data. It must be used before RemoveBlip I'm pretty sure that blips are handled internally with databinding. This function should then allow you to clear blip container and therefore free up memory?.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Blip",
+                    "name": "blipid"
                 }
             ],
             "return_type": "Any",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x1726963E6049DB53": {
             "name": "_SET_BLIP_ICON_ON_ENTITY_ACTIVE_PROMPT",
@@ -72686,7 +72682,7 @@
         },
         "0x1E017404784AA6A3": {
             "name": "_0x1E017404784AA6A3",
-            "comment": "",
+            "comment": "something to do with speech lines? \n some hashs MAR2_RIDE1, MAR2_RIDE1, RBCH1_RIDE1, SAD5_RIDE1",
             "params": [
                 {
                     "type": "Ped",
@@ -72700,7 +72696,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x1F44B7E283C09EDE": {
             "name": "_0x1F44B7E283C09EDE",
@@ -74780,21 +74776,21 @@
         },
         "0x7C8AA850617651D9": {
             "name": "_0x7C8AA850617651D9",
-            "comment": "",
+            "comment": "Returns wether `0x1E017404784AA6A3` was applied on the ped.\n some hashs MAR2_RIDE1, MAR2_RIDE1, RBCH1_RIDE1, SAD5_RIDE1",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
+                    "type": "Hash",
                     "name": "p1"
                 }
             ],
             "return_type": "Any",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x7E5185B979706210": {
             "name": "_0x7E5185B979706210",
@@ -75435,8 +75431,8 @@
             "apiset": ""
         },
         "0x947E43F544B6AB34": {
-            "name": "_0x947E43F544B6AB34",
-            "comment": "flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/0x947E43F544B6AB34\n_GET_PED_G* - _GET_PED_I(NTERACTION?)*",
+            "name": "_HAS_PED_INTERACTED_WITH_PLAYER_RECENTLY",
+            "comment": "Returns whether a ped has interacted with a player recently.\nflags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/0x947E43F544B6AB34",
             "params": [
                 {
                     "type": "Ped",
@@ -75458,7 +75454,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x9629FAF6460D35CB": {
             "name": "_0x9629FAF6460D35CB",
@@ -89806,8 +89802,8 @@
             "apiset": ""
         },
         "0x0E9057A9DA78D0F8": {
-            "name": "_0x0E9057A9DA78D0F8",
-            "comment": "",
+            "name": "_CLEAR_DEADEYE_AURA_INTENSITY_WITH_FLAG",
+            "comment": "Clears the intensity of aura effects applied to entities for a specific player in Deadeye mode based on a flag parameter. This function is used to reset any intensity modifications set by `_SET_DEADEYE_ENTITY_AURA_INTENSITY_WITH_FLAG - 0x131E294EF60160DF`, restoring affected entities' aura intensity to their default state.",
             "params": [
                 {
                     "type": "Player",
@@ -89821,7 +89817,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x0F4EAF69DA41AF43": {
             "name": "_0x0F4EAF69DA41AF43",
@@ -90101,8 +90097,8 @@
             "apiset": ""
         },
         "0x2009F8AB7A5E9D6D": {
-            "name": "_0x2009F8AB7A5E9D6D",
-            "comment": "_IS_PLAYER_F*",
+            "name": "_IS_PLAYER_ON_MOUNT_LOCKON_ENTITY",
+            "comment": "This native is used to determine if the player has an active lockon an entity while riding a horse.",
             "params": [
                 {
                     "type": "Player",
@@ -90112,7 +90108,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x21091B4BEB6376EE": {
             "name": "_0x21091B4BEB6376EE",
@@ -90914,8 +90910,8 @@
             "apiset": ""
         },
         "0x6ECFC621A168424C": {
-            "name": "_0x6ECFC621A168424C",
-            "comment": "",
+            "name": "_EAGLE_EYE_ADD_PARTICLE_EFFECT_TO_ENTITY",
+            "comment": "Add a yellow particle to the entity.\nentity: entity to apply yellow particle\nentity2: same entity as entit\np2: always \np3: always 0",
             "params": [
                 {
                     "type": "Entity",
@@ -90926,18 +90922,18 @@
                     "name": "entity2"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p2"
                 },
                 {
-                    "type": "float",
+                    "type": "int",
                     "name": "p3"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x6EDB5D08CB03E763": {
             "name": "_0x6EDB5D08CB03E763",
@@ -91613,22 +91609,22 @@
             "apiset": ""
         },
         "0xBC02B3D151D3859F": {
-            "name": "_0xBC02B3D151D3859F",
-            "comment": "",
+            "name": "_EAGLE_EYE_SET_REGISTERED_ENTITY_GLOW",
+            "comment": "Enable/disable a color on the entity in eagle eye mode.",
             "params": [
                 {
                     "type": "Entity",
                     "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "enable"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xBD96185264DDAAEA": {
             "name": "_0xBD96185264DDAAEA",
@@ -92083,54 +92079,51 @@
             "apiset": ""
         },
         "0xD48227263E3D06AE": {
-            "name": "_0xD48227263E3D06AE",
-            "comment": "",
+            "name": "_ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET_AT_COORDS",
+            "comment": "Adds an interactive focus mode preset between a player and a specific set of coordinates with a target entity.\nTo access all available presets, refer to the file located at:update_1.rpf\\common\\data\\interactive_focus_mode_presets.meta\n",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 },
                 {
-                    "type": "Any",
+                    "type": "Vector3*",
                     "name": "p1"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "const char*",
+                    "name": "preset"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "x"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "float",
+                    "name": "y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p5"
+                    "type": "float",
+                    "name": "z"
                 },
                 {
-                    "type": "Any",
-                    "name": "p6"
+                    "type": "Entity",
+                    "name": "targetEntity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p7"
-                },
-                {
-                    "type": "Any",
-                    "name": "p8"
-                },
-                {
-                    "type": "Any",
-                    "name": "p9"
+                    "type": "const char*",
+                    "name": "name"
                 }
             ],
             "return_type": "void",
             "build": "1232",
-            "examples": [],
-            "apiset": ""
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code:": "AddPlayerInteractiveFocusPresetAtCoords(PlayerId(),GetEntityCoords(PlayerPedId()),'ForcedILONoIcon',0.0,0.0,0.0,PlayerPedId(),'text')"
+                }
+            ],
+            "apiset": "client"
         },
         "0xDA9D7BE231FE865F": {
             "name": "_0xDA9D7BE231FE865F",
@@ -92169,8 +92162,8 @@
             "apiset": ""
         },
         "0xDC5E09D012D759C4": {
-            "name": "_0xDC5E09D012D759C4",
-            "comment": "",
+            "name": "_EAGLE_EYE_REMOVE_PARTICLE_EFFECT_FROM_ENTITY",
+            "comment": "Remove yellow particle from the entity when it was set using `0x6ECFC621A168424C` \nentity: entity to remove yellow particles\nentity2: same entity as entity\np2: always 0",
             "params": [
                 {
                     "type": "Entity",
@@ -92181,14 +92174,14 @@
                     "name": "entity2"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p2"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xDD33A82352C4652F": {
             "name": "_0xDD33A82352C4652F",
@@ -92213,18 +92206,18 @@
             "apiset": ""
         },
         "0xDE6C85975F9D4894": {
-            "name": "_0xDE6C85975F9D4894",
-            "comment": "",
+            "name": "_IS_SPECIAL_ABILITY_ENABLED",
+            "comment": "Checks if the player's Deadeye ability is enabled.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xE1D356F5A66D0FFA": {
             "name": "_0xE1D356F5A66D0FFA",
@@ -92259,8 +92252,8 @@
             "apiset": ""
         },
         "0xE5D3EB37ABC1EB03": {
-            "name": "_0xE5D3EB37ABC1EB03",
-            "comment": "_CLEAR_FACIAL_* - _CLEAR_PED_BLOOD*",
+            "name": "_EAGLE_EYE_CLEAR_REGISTERED_TRAILS",
+            "comment": "Clears all Eagle Eye trails that were registered for entities associated with the specified player.",
             "params": [
                 {
                     "type": "Player",
@@ -92270,21 +92263,21 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xE631EAF35828FA67": {
-            "name": "_0xE631EAF35828FA67",
-            "comment": "",
+            "name": "_IS_PLAYER_MOUNT_ON_ROAD",
+            "comment": "returns true if the player is on a road while riding a horse but at a certain speed, if you go off road then it returns false or if you go too slow like walking state it also returns false",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xE7F8707269544B29": {
             "name": "_0xE7F8707269544B29",
@@ -92305,8 +92298,8 @@
             "apiset": ""
         },
         "0xE910932F4B30BE23": {
-            "name": "_0xE910932F4B30BE23",
-            "comment": "",
+            "name": "_RESET_DEADEYE_AURA_EFFECT",
+            "comment": "Resets any aura effects applied to entities for a specific player in Deadeye mode, returning all aura-related visuals to their default state. This function is primarily used to remove any highlighting or aura effects set by `_SET_DEADEYE_ENTITY_AURA_WITH_FLAG - 0x2B12B6FC8B8772AB` and `_SET_DEADEYE_ENTITY_AURA_INTENSITY_WITH_FLAG - 0x131E294EF60160DF`",
             "params": [
                 {
                     "type": "Player",
@@ -92316,7 +92309,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xE92261BD28C0878F": {
             "name": "_GET_DEADEYE_ABILITY_DEPLETION_DELAY",
@@ -114851,50 +114844,50 @@
             "apiset": ""
         },
         "0x59872EA4CBD11C56": {
-            "name": "_0x59872EA4CBD11C56",
-            "comment": "",
+            "name": "_GET_COVERPOINT_FROM_ENTITY_WITH_OFFSET",
+            "comment": "Returns the entity coverpoint with offset.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "xOffset"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "yOffset"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "zOffset"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "float",
+                    "name": "heading"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p5"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p6"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p7"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p8"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x59AE5CA4FFB4E378": {
             "name": "_0x59AE5CA4FFB4E378",
@@ -134901,8 +134894,8 @@
             "apiset": ""
         },
         "0x07E1C35F0078C3F9": {
-            "name": "_0x07E1C35F0078C3F9",
-            "comment": "Seems to return true if the passed weapon is some sort of non-lethal melee weapon.\nWeapon must currently be held/equipped by the ped.",
+            "name": "_IS_PED_HOLDING_WEAPON",
+            "comment": "Returns whether the specified ped is holding a weapon with the given hash.\nonly these weapons below return true\n WEAPON_BOW, WEAPON_KIT_METAL_DETECTOR, WEAPON_MELEE_CLEAVER, WEAPON_MELEE_DAVY_LANTERN, WEAPON_MELEE_HATCHET, WEAPON_MELEE_HATCHET_HUNTER, WEAPON_MELEE_KNIFE_JAWBONE, WEAPON_MELEE_LANTERN WEAPON_MELEE_TORCH, WEAPON_MOONSHINEJUG_MP, WEAPON_RIFLE_BOLTACTION, WEAPON_SHOTGUN_PUMP, WEAPON_THROWN_BOLAS, WEAPON_THROWN_MOLOTOV",
             "params": [
                 {
                     "type": "Ped",
@@ -134916,7 +134909,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x0DE0944ECCB3DF5D": {
             "name": "_0x0DE0944ECCB3DF5D",
@@ -135191,36 +135184,36 @@
             "apiset": ""
         },
         "0x495A04CAEC263AF8": {
-            "name": "_0x495A04CAEC263AF8",
-            "comment": "",
+            "name": "_DOES_PED_HAVE_REPEATER",
+            "comment": "Returns whether the ped has a repeater p1: 0 or 1",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p1"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x58425FCA3D3A2D15": {
-            "name": "_0x58425FCA3D3A2D15",
-            "comment": "",
+            "name": "_GET_WEAPON_HAS_MULTIPLE_AMMO_TYPES",
+            "comment": "Returns whether the weapon has multiple ammo types or not.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "weaponHash"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x5A695BD328586B44": {
             "name": "_0x5A695BD328586B44",
@@ -135241,22 +135234,22 @@
             "apiset": ""
         },
         "0x5B235F24472F2C3B": {
-            "name": "_0x5B235F24472F2C3B",
-            "comment": "",
+            "name": "_DOES_PED_HAVE_REVOLVER",
+            "comment": "Returns whether the ped has a revolver p1: 0 or 1",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p1"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x63B83A526329AFBC": {
             "name": "_0x63B83A526329AFBC",
@@ -135291,8 +135284,8 @@
             "apiset": ""
         },
         "0x65DC4AC5B96614CB": {
-            "name": "_0x65DC4AC5B96614CB",
-            "comment": "Returns attachPoint",
+            "name": "_GET_DEFAULT_WEAPON_ATTACH_POINT",
+            "comment": "Returns the attachpoint for a weapon hash. (returns -1 for melee as they can't be attached)",
             "params": [
                 {
                     "type": "Hash",
@@ -135302,7 +135295,7 @@
             "return_type": "int",
             "build": "1311",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x74C2365FDD1BB48F": {
             "name": "_0x74C2365FDD1BB48F",
@@ -135409,22 +135402,22 @@
             "apiset": ""
         },
         "0x80BB243789008A82": {
-            "name": "_0x80BB243789008A82",
-            "comment": "",
+            "name": "_DOES_PED_HAVE_SNIPER",
+            "comment": "Returns whether the ped has a sniper p1: 0 or 1",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p1"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x8A779706DA5CA3DD": {
             "name": "_0x8A779706DA5CA3DD",
@@ -135467,22 +135460,22 @@
             "apiset": ""
         },
         "0x95CA12E2C68043E5": {
-            "name": "_0x95CA12E2C68043E5",
-            "comment": "",
+            "name": "_DOES_PED_HAVE_RIFLE",
+            "comment": "Returns whether the ped has a rifle p1: 0 or 1",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p1"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x9CCA3131E6B53C68": {
             "name": "_0x9CCA3131E6B53C68",
@@ -135606,22 +135599,22 @@
             "apiset": ""
         },
         "0xABC18A28BAD4B46F": {
-            "name": "_0xABC18A28BAD4B46F",
-            "comment": "",
+            "name": "_DOES_PED_HAVE_SHOTGUN",
+            "comment": "Returns whether the ped has a shotgun p1: 0 or 1",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p1"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xAFFD0CCF31F469B8": {
             "name": "_0xAFFD0CCF31F469B8",
@@ -135696,22 +135689,22 @@
             "apiset": ""
         },
         "0xBFCA7AFABF9D7967": {
-            "name": "_0xBFCA7AFABF9D7967",
-            "comment": "",
+            "name": "_DOES_PED_HAVE_PISTOL",
+            "comment": "Returns whether the ped has a pistol p1: 0 or 1",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p1"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xC5899C4CD2E2495D": {
             "name": "_0xC5899C4CD2E2495D",
