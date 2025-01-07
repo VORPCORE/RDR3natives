@@ -1,56 +1,56 @@
 {
     "0x34AE85C7CA4857AA": {
-        "name": "_0x34AE85C7CA4857AA",
-        "comment": "",
+        "name": "_ADD_EXPLOSION_WITH_USER_VFX_AND_DAMAGE_CAUSER",
+        "comment": "Add explosion with vfx and assign an entity as damage causer.\nexplosionType: https://github.com/femga/rdr3_discoveries/blob/master/graphics/explosions/README.md\nexplosionFx: https://github.com/femga/rdr3_discoveries/blob/master/graphics/explosions/explosion_vfxTags.lua",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Any",
+                "type": "BOOL",
                 "name": "p1"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "x"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "y"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "float",
+                "name": "z"
             },
             {
-                "type": "Any",
-                "name": "p5"
+                "type": "int",
+                "name": "explosionType"
             },
             {
-                "type": "Any",
-                "name": "p6"
+                "type": "Hash",
+                "name": "explosionFx"
             },
             {
-                "type": "Any",
-                "name": "p7"
+                "type": "float",
+                "name": "damageScale"
             },
             {
-                "type": "Any",
-                "name": "p8"
+                "type": "BOOL",
+                "name": "isAudible"
             },
             {
-                "type": "Any",
-                "name": "p9"
+                "type": "BOOL",
+                "name": "isInvisible"
             },
             {
-                "type": "Any",
-                "name": "p10"
+                "type": "float",
+                "name": "cameraShake"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
