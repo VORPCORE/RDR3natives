@@ -1,7 +1,7 @@
 {
     "0xE5D3EB37ABC1EB03": {
-        "name": "_0xE5D3EB37ABC1EB03",
-        "comment": "_CLEAR_FACIAL_* - _CLEAR_PED_BLOOD*",
+        "name": "_EAGLE_EYE_CLEAR_REGISTERED_TRAILS",
+        "comment": "Clears all Eagle Eye trails that were registered for entities associated with the specified player.",
         "params": [
             {
                 "type": "Player",
@@ -11,6 +11,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
