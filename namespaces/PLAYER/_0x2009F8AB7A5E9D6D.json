@@ -1,7 +1,7 @@
 {
     "0x2009F8AB7A5E9D6D": {
-        "name": "_0x2009F8AB7A5E9D6D",
-        "comment": "_IS_PLAYER_F*",
+        "name": "_IS_PLAYER_ON_MOUNT_LOCKON_ENTITY",
+        "comment": "This native is used to determine if the player has an active lockon an entity while riding a horse.",
         "params": [
             {
                 "type": "Player",
@@ -9,8 +9,8 @@
             }
         ],
         "return_type": "BOOL",
-        "build": "1207",
+        "build": "1207", 
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
