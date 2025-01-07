@@ -1,7 +1,7 @@
 {
     "0xB35370D5353995CB": {
-        "name": "_0xB35370D5353995CB",
-        "comment": "",
+        "name": "_SET_ITEM_INTERACTION_STATE",
+        "comment": "All Interaction states\nhttps://github.com/femga/rdr3_discoveries/tree/master/tasks/TASK_ITEM_INTERACTION#-4-item_interaction_state_name--item_interaction_propid--1",
         "params": [
             {
                 "type": "Ped",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "Hash",
-                "name": "item"
+                "name": "itemInteractionState"
             },
             {
                 "type": "float",
@@ -19,6 +19,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
