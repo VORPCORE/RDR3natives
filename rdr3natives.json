@@ -89,8 +89,8 @@
             "apiset": ""
         },
         "0x733077295AB51304": {
-            "name": "_0x733077295AB51304",
-            "comment": "args: f_0 = Volume Handle, f_2 = integer (-1, 32 used in R* Scripts)",
+            "name": "_ADD_COVER_BLOCKING_AREA",
+            "comment": "args: f_0 = Volume Handle\nf_1 = integer (?) (only the number 1 is ever used here, or is not used at all)\nf_2 = integer (-1 to 32 in R* Scripts)",
             "params": [
                 {
                     "type": "Any*",
@@ -100,7 +100,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x7A1FDCF35EAA140F": {
             "name": "_0x7A1FDCF35EAA140F",
@@ -5378,18 +5378,18 @@
             "apiset": ""
         },
         "0x6BFFB7C276866996": {
-            "name": "_0x6BFFB7C276866996",
-            "comment": "",
+            "name": "_GET_LAST_PLAYED_SPEECH_FOR_PED",
+            "comment": "Gets the hash for the last played speech line.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "Hash",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x6DA15746D5CC1A92": {
             "name": "_0x6DA15746D5CC1A92",
@@ -12681,18 +12681,18 @@
             "apiset": ""
         },
         "0xEC3959E9950BF56B": {
-            "name": "_0xEC3959E9950BF56B",
-            "comment": "",
+            "name": "_COLLECTABLE_SET_ITEM_HASH_DISCOVERED",
+            "comment": "Returns discoveredItemHash\n_COLLECTABLE_C* - _COLLECTABLE_G*",
             "params": [
                 {
-                    "type": "int",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "collectableItem"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "Hash",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xFC832B06127D8E99": {
             "name": "_0xFC832B06127D8E99",
@@ -22743,7 +22743,7 @@
         },
         "0x627520389E288A73": {
             "name": "_GET_ENTITY_ANIM_CURRENT_TIME",
-            "comment": "",
+            "comment": "Returns a normalized value between 0.0f and 1.0f. You can get the actual anim time by multiplying this by GET_ANIM_DURATION",
             "params": [
                 {
                     "type": "Entity",
@@ -22761,7 +22761,7 @@
             "return_type": "float",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xF7424890E4A094C0": {
             "name": "_GET_ENTITY_BY_DOORHASH",
@@ -23217,7 +23217,7 @@
         },
         "0x11CDABDC7783B2BC": {
             "name": "_SET_ENTITY_ANIM_CURRENT_TIME",
-            "comment": "https://gfycat.com/amazingmiserlyamericanquarterhorse",
+            "comment": "",
             "params": [
                 {
                     "type": "Entity",
@@ -29429,16 +29429,16 @@
                     "name": "scale"
                 },
                 {
-                    "type": "BOOL",
-                    "name": "xAxis"
+                    "type": "int",
+                    "name": "eventType"
                 },
                 {
                     "type": "BOOL",
-                    "name": "yAxis"
+                    "name": "bPeekOnly"
                 },
                 {
                     "type": "BOOL",
-                    "name": "zAxis"
+                    "name": "bIsRegistered"
                 }
             ],
             "return_type": "BOOL",
@@ -29446,7 +29446,7 @@
             "gta_hash": "0x25129531F77B9ED3",
             "gta_jhash": "0xDD79D679",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xFF4C64C513388C12": {
             "name": "START_PARTICLE_FX_NON_LOOPED_ON_ENTITY",
@@ -30067,32 +30067,32 @@
             "apiset": ""
         },
         "0x5CD6A2CCE5087161": {
-            "name": "_0x5CD6A2CCE5087161",
+            "name": "_SET_PHOTO_MODE_EXPOSURE_LOCKED",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "BOOL",
+                    "name": "lock"
                 }
             ],
             "return_type": "void",
             "build": "1311",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x62B9F9A1272AED80": {
-            "name": "_0x62B9F9A1272AED80",
+            "name": "_CHANGE_PHOTO_MODE_CONTRAST",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "float",
+                    "name": "value"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x67B0778C62E74423": {
             "name": "_0x67B0778C62E74423",
@@ -30200,13 +30200,13 @@
             "apiset": ""
         },
         "0x9229ED770975BD9E": {
-            "name": "_0x9229ED770975BD9E",
-            "comment": "",
+            "name": "_UPDATE_PHOTO_MODE_EXPOSURE",
+            "comment": "Resets the exposure to the value when exposure lock was enabled",
             "params": [],
             "return_type": "void",
             "build": "1311",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x94B261F1F35293E1": {
             "name": "_0x94B261F1F35293E1",
@@ -30459,18 +30459,18 @@
             "apiset": ""
         },
         "0xC8D0611D9A0CF5D3": {
-            "name": "_0xC8D0611D9A0CF5D3",
+            "name": "_CHANGE_PHOTO_MODE_EXPOSURE",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "float",
+                    "name": "value"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xCC3B787E73E64160": {
             "name": "_0xCC3B787E73E64160",
@@ -32906,18 +32906,18 @@
             "apiset": ""
         },
         "0x0501D52D24EA8934": {
-            "name": "_IS_NEAR_MOUNT",
-            "comment": "Not official native name\nThis native accepts 1 as parameter in the decompiles\nreturns the closest horse handle if within 2 3 meters of the player, if not close enough returns false\n\nNOTE: if type is 0 returns PlayerPedId always?",
+            "name": "_GET_NEAR_HORSE",
+            "comment": "This native accepts 1 as parameter in the decompiles\nreturns the nearest horse handle if within 2 3 meters of the player, if not close enough returns false\n\nNOTE: if type is 0 returns PlayerPedId always?",
             "params": [
                 {
                     "type": "int",
                     "name": "p0"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x052D4AC0922AF91A": {
             "name": "_0x052D4AC0922AF91A",
@@ -33194,34 +33194,34 @@
             "apiset": ""
         },
         "0xCE0D2F5586627CCE": {
-            "name": "_0xCE0D2F5586627CCE",
-            "comment": "",
+            "name": "_SET_CURRENT_UGC_MISSION_DESCRIPTION",
+            "comment": "string1 is the only string used in the scripts, the others are null (0)",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "BOOL",
+                    "name": "active"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "const char*",
+                    "name": "string1"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "const char*",
+                    "name": "string2"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "const char*",
+                    "name": "string3"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "const char*",
+                    "name": "string4"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xD6BD313CFA41E57A": {
             "name": "_0xD6BD313CFA41E57A",
@@ -35171,7 +35171,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xCC6656799977741B": {
             "name": "_UI_PROMPT_SET_STANDARD_MODE",
@@ -36289,7 +36289,7 @@
             "apiset": ""
         },
         "0x46743BBFEDBC859E": {
-            "name": "_0x46743BBFEDBC859E",
+            "name": "_INVENTORY_USE_SATCHEL_ITEM",
             "comment": "eInventoryItem: CLOTHING_FANCY_SUIT, CLOTHING_GUNSLINGER_OUTFIT, etc.\nOnly used in R* SP Scripts",
             "params": [
                 {
@@ -36337,7 +36337,7 @@
             "apiset": ""
         },
         "0x5D6182F3BCE1333B": {
-            "name": "_0x5D6182F3BCE1333B",
+            "name": "_INVENTORY_REMOVE_INVENTORY_ITEMS",
             "comment": "removeReason: REMOVE_REASON_DEFAULT (eRemoveItemReason)\nExample: INVENTORY::_0x5D6182F3BCE1333B(1, joaat(\"REMOVE_REASON_DEFAULT\")); -> clears weapon wheel\nOnly used in R* SP Scripts",
             "params": [
                 {
@@ -36352,7 +36352,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x6862E4D93F64CF01": {
             "name": "_0x6862E4D93F64CF01",
@@ -36620,7 +36620,7 @@
             "apiset": ""
         },
         "0xE36D4A38D28D9CFB": {
-            "name": "_0xE36D4A38D28D9CFB",
+            "name": "_INVENTORY_USE_BACKUP_INVENTORY",
             "comment": "Only used in R* SP Scripts",
             "params": [
                 {
@@ -36631,7 +36631,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x6452B1D357D81742": {
             "name": "_GET_DEFAULT_ITEM_SLOT_INFO",
@@ -37755,13 +37755,13 @@
             "apiset": ""
         },
         "0x7C7E4AB748EA3B07": {
-            "name": "_INVENTORY_USE_SP_BACKUP",
-            "comment": "",
+            "name": "_INVENTORY_IS_USING_BACKUP_INVENTORY",
+            "comment": "old name _INVENTORY_USE_SP_BACKUP",
             "params": [],
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xF666EF30F4F0AC4E": {
             "name": "_SET_CARRIABLE_CARRY_ACTION_PROMPT_OVERRIDE",
@@ -37898,8 +37898,8 @@
             "apiset": ""
         },
         "0x1FC25AEB5F76B38D": {
-            "name": "_0x1FC25AEB5F76B38D",
-            "comment": "_ITEMDATABASE_GET_AWARD_ACQUIRE_COST",
+            "name": "_ITEMDATABASE_GET_AWARD_ACQUIRE_COST",
+            "comment": "",
             "params": [
                 {
                     "type": "Hash",
@@ -37917,7 +37917,7 @@
             "return_type": "BOOL",
             "build": "1311",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x388088BFF3681189": {
             "name": "_0x388088BFF3681189",
@@ -40863,18 +40863,18 @@
             "apiset": ""
         },
         "0xDDCE8E960D1DE240": {
-            "name": "_0xDDCE8E960D1DE240",
+            "name": "_SET_CANT_LOSE_LAW_THIS_RESPONSE",
             "comment": "",
             "params": [
                 {
                     "type": "BOOL",
-                    "name": "p0"
+                    "name": "enable"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xDEA083C16BB91345": {
             "name": "_0xDEA083C16BB91345",
@@ -44399,7 +44399,7 @@
         },
         "0x3B882A96EA77D5B1": {
             "name": "CLEAR_AREA",
-            "comment": "flag |= 1 | 1048576 | 524288\nALL_BASE, PROJECTILES, AMBIENT_POPULATION, BROADCAST",
+            "comment": "Possible flag names:\nALL_BASE = 0,\nPROJECTILES = 1,\nBROADCAST = 524288,\nAMBIENT_POPULATION = 1048576",
             "params": [
                 {
                     "type": "float",
@@ -44427,7 +44427,7 @@
             "gta_hash": "0xA56F01F3765B93A0",
             "gta_jhash": "0x854E9AB8",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x7D1D4A3602B6AD4E": {
             "name": "CLEAR_BIT",
@@ -65810,7 +65810,7 @@
         },
         "0xF28965D04F570DCA": {
             "name": "FORCE_PED_MOTION_STATE",
-            "comment": "motionStateHash: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/FORCE_PED_MOTION_STATE",
+            "comment": "motionStateHash: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/CPedMotionStates__eMotionState",
             "params": [
                 {
                     "type": "Ped",
@@ -65838,7 +65838,7 @@
             "gta_hash": "0xF28965D04F570DCA",
             "gta_jhash": "0x164DDEFF",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xBE22B26DD764C040": {
             "name": "GET_ANIM_INITIAL_OFFSET_POSITION",
@@ -69280,7 +69280,7 @@
         },
         "0xFF41B4B141ED981C": {
             "name": "SET_COMBAT_FLOAT",
-            "comment": "combatType can be between 0-14. See GET_COMBAT_FLOAT below for a list of possible parameters.\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/COMBAT_FLOATS",
+            "comment": "combatType can be between 0-14. See GET_COMBAT_FLOAT below for a list of possible parameters.\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/COMBAT_FLOATS \nhttps://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eCombatAttributeFloats",
             "params": [
                 {
                     "type": "Ped",
@@ -69300,7 +69300,7 @@
             "gta_hash": "0xFF41B4B141ED981C",
             "gta_jhash": "0xD8B7637C",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x102E68B2024D536D": {
             "name": "SET_CREATE_RANDOM_COPS",
@@ -73225,18 +73225,18 @@
             "apiset": ""
         },
         "0x36513AFFC703C60D": {
-            "name": "_0x36513AFFC703C60D",
-            "comment": "_RESET_PED_*",
+            "name": "_RESET_PED_STAMINA",
+            "comment": "Seems to set the peds stamina to 30%",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x370A973252741AC4": {
             "name": "_0x370A973252741AC4",
@@ -74493,22 +74493,22 @@
             "apiset": ""
         },
         "0x6F43C351A5D51E2F": {
-            "name": "_0x6F43C351A5D51E2F",
+            "name": "_GET_CARRIED_PELT_SKINS",
             "comment": "",
             "params": [
                 {
                     "type": "Ped",
-                    "name": "ped"
+                    "name": "mount"
                 },
                 {
                     "type": "Any*",
-                    "name": "p1"
+                    "name": "outData"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x6F46F8ACB44C4FC1": {
             "name": "_0x6F46F8ACB44C4FC1",
@@ -76249,8 +76249,8 @@
             "apiset": ""
         },
         "0xAAB86462966168CE": {
-            "name": "_0xAAB86462966168CE",
-            "comment": "Related to _0x704C908E9C405136 for component loading\n_S*",
+            "name": "_SET_ACTIVE_META_PED_COMPONENTS_UPDATED",
+            "comment": "Related to _0x704C908E9C405136 for component loading\nCan be used to fix missing outfit changes, always paired with _UPDATE_PED_VARIATION\n_S*\nDoesn't actually return anything.",
             "params": [
                 {
                     "type": "Ped",
@@ -76387,18 +76387,18 @@
             "apiset": ""
         },
         "0xB292203008EBBAAC": {
-            "name": "_0xB292203008EBBAAC",
+            "name": "_GET_META_PED_RACE",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "Hash",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xB29C553BA582D09E": {
             "name": "_0xB29C553BA582D09E",
@@ -76776,8 +76776,8 @@
             "apiset": ""
         },
         "0xC494C76A34266E82": {
-            "name": "_0xC494C76A34266E82",
-            "comment": "[WARDROBE] Player took off their disguise: p1 = 13\n[WARDROBE] Player put on a disguise: p1 = 0",
+            "name": "_PED_SET_SIMPLE_PLAYER_MEMORY",
+            "comment": "memoryType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/_PED_SET_SIMPLE_PLAYER_MEMORY",
             "params": [
                 {
                     "type": "Ped",
@@ -76785,13 +76785,13 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "memoryType"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xC5303F460A40D21D": {
             "name": "_0xC5303F460A40D21D",
@@ -77884,7 +77884,7 @@
             "apiset": ""
         },
         "0xE8D1CCB9375C101B": {
-            "name": "_0xE8D1CCB9375C101B",
+            "name": "_GET_PLAYER_DISMOUNT_TIMESTAMP",
             "comment": "Returns dismounted timestamp",
             "params": [
                 {
@@ -77899,7 +77899,7 @@
             "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xE9E06EA514A69061": {
             "name": "_0xE9E06EA514A69061",
@@ -85259,18 +85259,18 @@
             "apiset": ""
         },
         "0xDC9655D47DEC0353": {
-            "name": "_0xDC9655D47DEC0353",
+            "name": "_GET_PERSCHAR_OUTFIT",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "persCharHash"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "Hash",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xE0E65E0D261F7507": {
             "name": "_0xE0E65E0D261F7507",
@@ -127042,8 +127042,8 @@
             "apiset": ""
         },
         "0x09034479E6E3E269": {
-            "name": "_GET_TRAIN_TRACK_NEXT_JUNCTION_SWITCH",
-            "comment": "Returns train track and junction index where the train is like trash hash and nearest junction index",
+            "name": "_RETURN_TRAIN_INFO_FROM_HANDLE",
+            "comment": "Outputs track hash and junction index on given train vehicle handle.\n_RESET_VEHICLE_* (?)",
             "params": [
                 {
                     "type": "Vehicle",
@@ -127058,7 +127058,7 @@
                     "name": "junctionIndex"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [
                 {
