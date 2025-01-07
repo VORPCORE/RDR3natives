@@ -1,16 +1,16 @@
 {
     "0x1DA5C5B0923E1B85": {
-        "name": "_0x1DA5C5B0923E1B85",
-        "comment": "",
+        "name": "_EAGLE_EYE_CAN_PLAYER_FOCUS_ON_TRACK",
+        "comment": "Checks if the player can focus on tracks while in Eagle Eye mode. Returns true if the player is able to focus on a track, otherwise false.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Player",
+                "name": "player"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
