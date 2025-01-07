@@ -1,20 +1,20 @@
 {
     "0xBC02B3D151D3859F": {
-        "name": "_0xBC02B3D151D3859F",
-        "comment": "",
+        "name": "_EAGLE_EYE_SET_REGISTERED_ENTITY_GLOW",
+        "comment": "Enable/disable a color on the entity in eagle eye mode.",
         "params": [
             {
                 "type": "Entity",
                 "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "enable"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
