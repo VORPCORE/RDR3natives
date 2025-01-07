@@ -1,7 +1,7 @@
 {
     "0x1FC25AEB5F76B38D": {
-        "name": "_0x1FC25AEB5F76B38D",
-        "comment": "_ITEMDATABASE_GET_AWARD_ACQUIRE_COST",
+        "name": "_ITEMDATABASE_GET_AWARD_ACQUIRE_COST",
+        "comment": "",
         "params": [
             {
                 "type": "Hash",
@@ -19,6 +19,6 @@
         "return_type": "BOOL",
         "build": "1311",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

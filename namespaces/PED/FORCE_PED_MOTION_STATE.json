@@ -1,7 +1,7 @@
 {
     "0xF28965D04F570DCA": {
         "name": "FORCE_PED_MOTION_STATE",
-        "comment": "motionStateHash: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/FORCE_PED_MOTION_STATE",
+        "comment": "motionStateHash: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/CPedMotionStates__eMotionState",
         "params": [
             {
                 "type": "Ped",
@@ -29,6 +29,6 @@
         "gta_hash": "0xF28965D04F570DCA",
         "gta_jhash": "0x164DDEFF",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

@@ -1,7 +1,7 @@
 {
     "0x09034479E6E3E269": {
-        "name": "_GET_TRAIN_TRACK_NEXT_JUNCTION_SWITCH",
-        "comment": "Returns train track and junction index where the train is like trash hash and nearest junction index",
+        "name": "_RETURN_TRAIN_INFO_FROM_HANDLE",
+        "comment": "Outputs track hash and junction index on given train vehicle handle.\n_RESET_VEHICLE_* (?)",
         "params": [
             {
                 "type": "Vehicle",
@@ -16,7 +16,7 @@
                 "name": "junctionIndex"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [
             {

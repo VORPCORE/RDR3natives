@@ -1,11 +1,11 @@
 {
     "0x9229ED770975BD9E": {
-        "name": "_0x9229ED770975BD9E",
-        "comment": "",
+        "name": "_UPDATE_PHOTO_MODE_EXPOSURE",
+        "comment": "Resets the exposure to the value when exposure lock was enabled",
         "params": [],
         "return_type": "void",
         "build": "1311",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

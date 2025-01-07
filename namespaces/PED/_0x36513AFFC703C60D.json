@@ -1,16 +1,16 @@
 {
     "0x36513AFFC703C60D": {
-        "name": "_0x36513AFFC703C60D",
-        "comment": "_RESET_PED_*",
+        "name": "_RESET_PED_STAMINA",
+        "comment": "Seems to set the peds stamina to 30%",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

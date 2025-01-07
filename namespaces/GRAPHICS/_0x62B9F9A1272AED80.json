@@ -1,16 +1,16 @@
 {
     "0x62B9F9A1272AED80": {
-        "name": "_0x62B9F9A1272AED80",
+        "name": "_CHANGE_PHOTO_MODE_CONTRAST",
         "comment": "",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "float",
+				"name": "value"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

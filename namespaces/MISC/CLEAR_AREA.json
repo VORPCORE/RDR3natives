@@ -1,7 +1,7 @@
 {
     "0x3B882A96EA77D5B1": {
         "name": "CLEAR_AREA",
-        "comment": "flag |= 1 | 1048576 | 524288\nALL_BASE, PROJECTILES, AMBIENT_POPULATION, BROADCAST",
+        "comment": "Possible flag names:\nALL_BASE = 0,\nPROJECTILES = 1,\nBROADCAST = 524288,\nAMBIENT_POPULATION = 1048576",
         "params": [
             {
                 "type": "float",
@@ -29,6 +29,6 @@
         "gta_hash": "0xA56F01F3765B93A0",
         "gta_jhash": "0x854E9AB8",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

@@ -36,16 +36,16 @@
                 "name": "scale"
             },
             {
-                "type": "BOOL",
-                "name": "xAxis"
+                "type": "int",
+                "name": "eventType"
             },
             {
                 "type": "BOOL",
-                "name": "yAxis"
+               "name": "bPeekOnly"
             },
             {
                 "type": "BOOL",
-                "name": "zAxis"
+                "name": "bIsRegistered"
             }
         ],
         "return_type": "BOOL",
@@ -53,6 +53,6 @@
         "gta_hash": "0x25129531F77B9ED3",
         "gta_jhash": "0xDD79D679",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

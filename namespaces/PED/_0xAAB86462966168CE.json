@@ -1,7 +1,7 @@
 {
     "0xAAB86462966168CE": {
-        "name": "_0xAAB86462966168CE",
-        "comment": "Related to _0x704C908E9C405136 for component loading\n_S*",
+        "name": "_SET_ACTIVE_META_PED_COMPONENTS_UPDATED",
+        "comment": "Related to _0x704C908E9C405136 for component loading\nCan be used to fix missing outfit changes, always paired with _UPDATE_PED_VARIATION\n_S*\nDoesn't actually return anything.",
         "params": [
             {
                 "type": "Ped",

@@ -1,6 +1,6 @@
 {
     "0xE8D1CCB9375C101B": {
-        "name": "_0xE8D1CCB9375C101B",
+        "name": "_GET_PLAYER_DISMOUNT_TIMESTAMP",
         "comment": "Returns dismounted timestamp",
         "params": [
             {
@@ -15,6 +15,6 @@
         "return_type": "int",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

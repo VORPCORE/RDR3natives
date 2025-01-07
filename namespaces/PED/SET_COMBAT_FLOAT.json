@@ -1,7 +1,7 @@
 {
     "0xFF41B4B141ED981C": {
         "name": "SET_COMBAT_FLOAT",
-        "comment": "combatType can be between 0-14. See GET_COMBAT_FLOAT below for a list of possible parameters.\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/COMBAT_FLOATS",
+        "comment": "combatType can be between 0-14. See GET_COMBAT_FLOAT below for a list of possible parameters.\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/COMBAT_FLOATS \nhttps://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eCombatAttributeFloats",
         "params": [
             {
                 "type": "Ped",
@@ -21,6 +21,6 @@
         "gta_hash": "0xFF41B4B141ED981C",
         "gta_jhash": "0xD8B7637C",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

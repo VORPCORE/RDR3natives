@@ -1,7 +1,7 @@
 {
     "0x627520389E288A73": {
         "name": "_GET_ENTITY_ANIM_CURRENT_TIME",
-        "comment": "",
+        "comment": "Returns a normalized value between 0.0f and 1.0f. You can get the actual anim time by multiplying this by GET_ANIM_DURATION",
         "params": [
             {
                 "type": "Entity",
@@ -19,6 +19,6 @@
         "return_type": "float",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

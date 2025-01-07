@@ -1,16 +1,16 @@
 {
     "0xC8D0611D9A0CF5D3": {
-        "name": "_0xC8D0611D9A0CF5D3",
+        "name": "_CHANGE_PHOTO_MODE_EXPOSURE",
         "comment": "",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+              	"type": "float",
+				"name": "value"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

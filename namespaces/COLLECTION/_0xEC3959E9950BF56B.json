@@ -1,16 +1,16 @@
 {
     "0xEC3959E9950BF56B": {
-        "name": "_0xEC3959E9950BF56B",
-        "comment": "",
+        "name": "_COLLECTABLE_SET_ITEM_HASH_DISCOVERED",
+        "comment": "Returns discoveredItemHash\n_COLLECTABLE_C* - _COLLECTABLE_G*",
         "params": [
             {
-                "type": "int",
-                "name": "p0"
+               	"type": "Hash",
+                "name": "collectableItem"
             }
         ],
-        "return_type": "Any",
+        "return_type": "Hash",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

@@ -1,16 +1,16 @@
 {
     "0xDDCE8E960D1DE240": {
-        "name": "_0xDDCE8E960D1DE240",
+        "name": "_SET_CANT_LOSE_LAW_THIS_RESPONSE",
         "comment": "",
         "params": [
             {
                 "type": "BOOL",
-                "name": "p0"
+                "name": "enable"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

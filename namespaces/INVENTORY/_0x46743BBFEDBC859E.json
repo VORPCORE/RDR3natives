@@ -1,6 +1,6 @@
 {
     "0x46743BBFEDBC859E": {
-        "name": "_0x46743BBFEDBC859E",
+        "name": "_INVENTORY_USE_SATCHEL_ITEM",
         "comment": "eInventoryItem: CLOTHING_FANCY_SUIT, CLOTHING_GUNSLINGER_OUTFIT, etc.\nOnly used in R* SP Scripts",
         "params": [
             {

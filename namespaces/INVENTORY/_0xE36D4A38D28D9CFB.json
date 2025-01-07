@@ -1,6 +1,6 @@
 {
     "0xE36D4A38D28D9CFB": {
-        "name": "_0xE36D4A38D28D9CFB",
+        "name": "_INVENTORY_USE_BACKUP_INVENTORY",
         "comment": "Only used in R* SP Scripts",
         "params": [
             {
@@ -11,6 +11,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

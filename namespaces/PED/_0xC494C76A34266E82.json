@@ -1,7 +1,7 @@
 {
     "0xC494C76A34266E82": {
-        "name": "_0xC494C76A34266E82",
-        "comment": "[WARDROBE] Player took off their disguise: p1 = 13\n[WARDROBE] Player put on a disguise: p1 = 0",
+        "name": "_PED_SET_SIMPLE_PLAYER_MEMORY",
+        "comment": "memoryType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/_PED_SET_SIMPLE_PLAYER_MEMORY",
         "params": [
             {
                 "type": "Ped",
@@ -9,12 +9,12 @@
             },
             {
                 "type": "int",
-                "name": "p1"
+                "name": "memoryType"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

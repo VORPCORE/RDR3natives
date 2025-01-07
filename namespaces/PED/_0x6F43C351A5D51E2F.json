@@ -1,20 +1,20 @@
 {
     "0x6F43C351A5D51E2F": {
-        "name": "_0x6F43C351A5D51E2F",
+        "name": "_GET_CARRIED_PELT_SKINS",
         "comment": "",
         "params": [
             {
                 "type": "Ped",
-                "name": "ped"
+                "name": "mount"
             },
             {
                 "type": "Any*",
-                "name": "p1"
+                "name": "outData"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

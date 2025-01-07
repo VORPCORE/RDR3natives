@@ -1,16 +1,16 @@
 {
     "0x5CD6A2CCE5087161": {
-        "name": "_0x5CD6A2CCE5087161",
+        "name": "_SET_PHOTO_MODE_EXPOSURE_LOCKED",
         "comment": "",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "BOOL",
+                "name": "lock"
             }
         ],
         "return_type": "void",
         "build": "1311",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
