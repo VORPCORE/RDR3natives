@@ -1,7 +1,7 @@
 {
     "0xDC5E09D012D759C4": {
-        "name": "_0xDC5E09D012D759C4",
-        "comment": "",
+        "name": "_EAGLE_EYE_REMOVE_PARTICLE_EFFECT_FROM_ENTITY",
+        "comment": "Remove yellow particle from the entity when it was set using `0x6ECFC621A168424C` \nentity: entity to remove yellow particles\nentity2: same entity as entity\np2: always 0",
         "params": [
             {
                 "type": "Entity",
@@ -12,13 +12,13 @@
                 "name": "entity2"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p2"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
