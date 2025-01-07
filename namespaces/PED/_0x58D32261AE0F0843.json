@@ -1,7 +1,7 @@
 {
     "0x58D32261AE0F0843": {
-        "name": "_0x58D32261AE0F0843",
-        "comment": "",
+        "name": "_APPLY_PED_DAMAGE_PACK_TO_BONE",
+        "comment": "seems to only work with PD_Vomit ? ",
         "params": [
             {
                 "type": "Ped",
@@ -13,36 +13,36 @@
             },
             {
                 "type": "float",
-                "name": "p2"
+                "name": "xOffset"
             },
             {
                 "type": "float",
-                "name": "p3"
+                "name": "yOffset"
             },
             {
                 "type": "float",
-                "name": "p4"
+                "name": "zOffset"
             },
             {
                 "type": "float",
-                "name": "p5"
+                "name": "xRot"
             },
             {
                 "type": "float",
-                "name": "p6"
+                "name": "yRot"
             },
             {
                 "type": "float",
-                "name": "p7"
+                "name": "zRot"
             },
             {
                 "type": "const char*",
-                "name": "p8"
+                "name": "damagePack"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
