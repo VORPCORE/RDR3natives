@@ -1,7 +1,7 @@
 {
     "0x947E43F544B6AB34": {
-        "name": "_0x947E43F544B6AB34",
-        "comment": "flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/0x947E43F544B6AB34\n_GET_PED_G* - _GET_PED_I(NTERACTION?)*",
+        "name": "_HAS_PED_INTERACTED_WITH_PLAYER_RECENTLY",
+        "comment": "Returns whether a ped has interacted with a player recently.\nflags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/0x947E43F544B6AB34",
         "params": [
             {
                 "type": "Ped",
@@ -23,6 +23,6 @@
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
