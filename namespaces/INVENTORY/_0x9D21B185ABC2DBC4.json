@@ -1,28 +1,28 @@
 {
     "0x9D21B185ABC2DBC4": {
-        "name": "_0x9D21B185ABC2DBC4",
-        "comment": "p0 is the return value of DATABINDING::_DATABINDING_ADD_DATA_CONTAINER_FROM_PATH\np2, p3: 0\nReturns databindingEntryId",
+        "name": "_INVENTORY_GET_CATALOG_ITEM_INSPECTION_EFFECTS_ENTRY",
+        "comment": "Returns effects entry id of CatalogItemInspection container.",
         "params": [
             {
-                "type": "Any",
-                "name": "data"
+                "type": "int",
+                "name": "entryId"
             },
             {
                 "type": "const char*",
-                "name": "effects"
+                "name": "name"
             },
             {
                 "type": "BOOL",
-                "name": "p2"
+                "name": "unk1"
             },
             {
                 "type": "BOOL",
-                "name": "p3"
+                "name": "unk2"
             }
         ],
-        "return_type": "Hash",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
