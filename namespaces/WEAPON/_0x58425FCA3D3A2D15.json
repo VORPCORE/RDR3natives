@@ -1,16 +1,16 @@
 {
     "0x58425FCA3D3A2D15": {
-        "name": "_0x58425FCA3D3A2D15",
-        "comment": "",
+        "name": "_GET_WEAPON_HAS_MULTIPLE_AMMO_TYPES",
+        "comment": "Returns whether the weapon has multiple ammo types or not.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "weaponHash"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
