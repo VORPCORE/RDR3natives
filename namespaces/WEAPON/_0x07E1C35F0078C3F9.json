@@ -1,7 +1,7 @@
 {
     "0x07E1C35F0078C3F9": {
-        "name": "_0x07E1C35F0078C3F9",
-        "comment": "Seems to return true if the passed weapon is some sort of non-lethal melee weapon.\nWeapon must currently be held/equipped by the ped.",
+        "name": "_IS_PED_HOLDING_WEAPON",
+        "comment": "Returns whether the specified ped is holding a weapon with the given hash.",
         "params": [
             {
                 "type": "Ped",
@@ -15,6 +15,6 @@
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
