@@ -1,7 +1,7 @@
 {
     "0x3946FC742AC305CD": {
-        "name": "_0x3946FC742AC305CD",
-        "comment": "",
+        "name": "_ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET",
+        "comment": "Associates a specific interactive focus mode preset between a player and a ped, with a specified location and target entity.\nTo access all available presets, refer to the file located at: `/update_1.rpf/common/data/interactive_focus_mode_presets.meta`",
         "params": [
             {
                 "type": "Player",
@@ -13,7 +13,7 @@
             },
             {
                 "type": "const char*",
-                "name": "p2"
+                "name": "preset"
             },
             {
                 "type": "float",
@@ -33,12 +33,12 @@
             },
             {
                 "type": "const char*",
-                "name": "p7"
+                "name": "name"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
