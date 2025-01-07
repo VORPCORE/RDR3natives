@@ -1,7 +1,7 @@
 {
     "0x07E1C35F0078C3F9": {
         "name": "_IS_PED_HOLDING_WEAPON",
-        "comment": "Returns whether the specified ped is holding a weapon with the given hash.",
+        "comment": "Returns whether the specified ped is holding a weapon with the given hash.\nonly these weapons return true `WEAPON_BOW` `WEAPON_MELEE_TORCH` `WEAPON_UNARMED`",
         "params": [
             {
                 "type": "Ped",
