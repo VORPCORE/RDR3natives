@@ -89912,8 +89912,8 @@
             "apiset": ""
         },
         "0x131E294EF60160DF": {
-            "name": "_0x131E294EF60160DF",
-            "comment": "",
+            "name": "_SET_DEADEYE_ENTITY_AURA_INTENSITY_WITH_FLAG",
+            "comment": "Applies a customizable aura effect to nearby entities when Deadeye is active, with control over aura intensity and additional behavior based on a flag parameter.\n- flag (int): A flag that determines the behavior of the aura effect and which entities are affected. 2: Applies aura to humans. 4: Applies aura to animals.",
             "params": [
                 {
                     "type": "Player",
@@ -89933,17 +89933,17 @@
                 },
                 {
                     "type": "float",
-                    "name": "p4"
+                    "name": "intensity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p5"
+                    "type": "int",
+                    "name": "flag"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x14E57F88BA0A07FC": {
             "name": "_0x14E57F88BA0A07FC",
@@ -90033,18 +90033,18 @@
             "apiset": ""
         },
         "0x1DA5C5B0923E1B85": {
-            "name": "_0x1DA5C5B0923E1B85",
-            "comment": "",
+            "name": "_EAGLE_EYE_CAN_PLAYER_FOCUS_ON_TRACK",
+            "comment": "Checks if the player can focus on tracks while in Eagle Eye mode. Returns true if the player is able to focus on a track, otherwise false.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x1E8099F449ABB0BA": {
             "name": "_0x1E8099F449ABB0BA",
@@ -90215,8 +90215,8 @@
             "apiset": "client"
         },
         "0x2B12B6FC8B8772AB": {
-            "name": "_SET_DEADEYE_ENTITY_GLOW_WITH_FLAG",
-            "comment": "Applies a glow effect to nearby entities when Deadeye is active, based on a flag parameter. This includes humans, animals, vehicles, and horses pulling those vehicles. Additionally, depending on the flag value, the player's appearance may change (e.g., turning gray).\nflag 2 is people 4 is animal in the decompiles 8 and 25 also can be used",
+            "name": "_SET_DEADEYE_ENTITY_AURA_WITH_FLAG",
+            "comment": "Applies a aura effect to nearby entities when Deadeye is active, based on a flag parameter. This includes humans, animals, vehicles, and horses pulling those vehicles. Additionally, depending on the flag value, the player's appearance may change (e.g., turning gray).\n- flag (int): A flag that determines the behavior of the aura effect. 2 means people 4 means animal etc.",
             "params": [
                 {
                     "type": "Player",
