@@ -1,20 +1,20 @@
 {
     "0x5B235F24472F2C3B": {
-        "name": "_0x5B235F24472F2C3B",
-        "comment": "",
+        "name": "_DOES_PED_HAVE_REVOLVER",
+        "comment": "Returns whether the ped has a revolver.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Player",
+                "name": "player"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p1"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
