@@ -1,19 +1,19 @@
 {
     "0x00EB5A760638DB55": {
-        "name": "_0x00EB5A760638DB55",
+        "name": "_SET_PLAYER_WEAPON_DRAW_SPEED",
         "comment": "",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Player",
+                "name": "player"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Hash",
+                "name": "weapon"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "speed"
             }
         ],
         "return_type": "void",
