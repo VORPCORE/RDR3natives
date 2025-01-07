@@ -1,20 +1,20 @@
 {
     "0x7C8AA850617651D9": {
         "name": "_0x7C8AA850617651D9",
-        "comment": "",
+        "comment": "Returns wether `0x1E017404784AA6A3` was applied on the ped.\n some hashs MAR2_RIDE1, MAR2_RIDE1, RBCH1_RIDE1, SAD5_RIDE1",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
+                "type": "Hash",
                 "name": "p1"
             }
         ],
         "return_type": "Any",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

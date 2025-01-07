@@ -1,7 +1,7 @@
 {
     "0x1E017404784AA6A3": {
         "name": "_0x1E017404784AA6A3",
-        "comment": "",
+        "comment": "something to do with speech lines? \n some hashs MAR2_RIDE1, MAR2_RIDE1, RBCH1_RIDE1, SAD5_RIDE1",
         "params": [
             {
                 "type": "Ped",
@@ -15,6 +15,6 @@
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
