@@ -1,16 +1,16 @@
 {
     "0x3813E11A378958A5": {
-        "name": "_0x3813E11A378958A5",
-        "comment": "",
+        "name": "_EAGLE_EYE_GET_TRACKED_PED_ID",
+        "comment": "Retrieves the ID of the ped that the specified player is currently tracking while in Eagle Eye mode.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Player",
+                "name": "player"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
