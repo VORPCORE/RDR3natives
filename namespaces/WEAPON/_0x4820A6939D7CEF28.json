@@ -1,20 +1,20 @@
 {
     "0x4820A6939D7CEF28": {
-        "name": "_0x4820A6939D7CEF28",
-        "comment": "",
+        "name": "_SET_PED_WEAPON_ON_BACK",
+        "comment": "Holster the holded shoulder weapon. Precisions: 0 means with anim while 1 means direct holster",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "disableAnim"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
