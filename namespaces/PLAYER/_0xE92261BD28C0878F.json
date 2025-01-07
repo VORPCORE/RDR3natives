@@ -5,7 +5,7 @@
         "params": [
             {
                 "type": "Player",
-                "name": "playerId"
+                "name": "player"
             }
         ],
         "return_type": "float",
