@@ -42566,18 +42566,22 @@
             "apiset": ""
         },
         "0x1726963E6049DB53": {
-            "name": "_0x1726963E6049DB53",
-            "comment": "",
+            "name": "_SET_BLIP_ICON_ON_ENTITY_ACTIVE_PROMPT",
+            "comment": "It adds blip a icon to active prompts like from scenarios or pickups without the need to use lockon",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
+                },
+                {
+                    "type": "Hash",
+                    "name": "blipIcon"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x250C75EB1728CC0D": {
             "name": "_BLIP_DETACH_FROM_ENTITY",
@@ -92315,18 +92319,18 @@
             "apiset": ""
         },
         "0xE92261BD28C0878F": {
-            "name": "_0xE92261BD28C0878F",
-            "comment": "",
+            "name": "_GET_DEADEYE_ABILITY_DEPLETION_DELAY",
+            "comment": "Returns the depletion delay value for the Deadeye ability that was previously set using `SetDeadeyeAbilityDepletionDelay - 0x870634493CB4372C`",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "float",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xE956C2340A76272E": {
             "name": "_0xE956C2340A76272E",
@@ -94361,8 +94365,8 @@
             "apiset": ""
         },
         "0x768E81AE285A4B67": {
-            "name": "_SET_PLAYER_STAT_FLAG_HASH",
-            "comment": "_N*, _O* or _PE*",
+            "name": "_SET_PLAYER_DEAD_EYE_AURA_BY_HASH",
+            "comment": "Sets the aura color for entities that the player can target in Deadeye mode, based on a specific hash value. This Native was previously named `SetPlayerStatFlagHash`, but it has been re-evaluated and renamed to better reflect its function in controlling the Deadeye aura color for targeted entities\nsome colors\n0: Default aura\n1014693585\n1936842089\n1979474018",
             "params": [
                 {
                     "type": "Player",
@@ -94370,13 +94374,13 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "p1"
+                    "name": "auraColorHash"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x967FF5BC0CFE6D26": {
             "name": "_SET_PLAYER_TOTAL_ACCURACY_MODIFIER",
