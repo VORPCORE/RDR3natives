@@ -1,47 +1,39 @@
 {
-    "0xD48227263E3D06AE": {
+    "0xD48227263E3D06AE": { 
         "name": "_ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET_AT_COORDS",
         "comment": "Adds an interactive focus mode preset between a player and a specific set of coordinates with a target entity.\nTo access all available presets, refer to the file located at:update_1.rpf\\common\\data\\interactive_focus_mode_presets.meta\n",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Player",
+                "name": "player"
             },
             {
-                "type": "Any",
+                "type": "Vector3*",
                 "name": "p1"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "const char*",
+                "name": "preset"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "x"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "float",
+                "name": "y"
             },
             {
-                "type": "Any",
-                "name": "p5"
+                "type": "float",
+                "name": "z"
             },
             {
-                "type": "Any",
-                "name": "p6"
+                "type": "Entity",
+                "name": "targetEntity"
             },
             {
-                "type": "Any",
-                "name": "p7"
-            },
-            {
-                "type": "Any",
-                "name": "p8"
-            },
-            {
-                "type": "Any",
-                "name": "p9"
+                "type": "const char*",
+                "name": "name"
             }
         ],
         "return_type": "void",
@@ -49,7 +41,7 @@
         "examples": [
            {
             "lang": "lua",
-            "code:": "AddPlayerInteractiveFocusPresetAtCoords(PlayerId(),GetEntityCoords(PlayerPedId()),'ForcedILONoIcon',0.0,0.0,0.0,PlayerPedId(),'anytext')"
+            "code:": "AddPlayerInteractiveFocusPresetAtCoords(PlayerId(),GetEntityCoords(PlayerPedId()),'ForcedILONoIcon',0.0,0.0,0.0,PlayerPedId(),'text')"
            }
         ],
         "apiset": "client"
