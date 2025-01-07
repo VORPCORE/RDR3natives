@@ -1,7 +1,7 @@
 {
     "0xBBA140062B15A8AC": {
-        "name": "_0xBBA140062B15A8AC",
-        "comment": "Used in script function INIT_DEADEYE_SLOWDOWN\n_SPECIAL_ABILITY*",
+        "name": "_SPECIAL_ABILITY_SET_ACTIVATE",
+        "comment": "Activates the special ability for the specified player.",
         "params": [
             {
                 "type": "Player",
@@ -11,6 +11,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
