@@ -1,15 +1,15 @@
 {
     "0x75CFAC49301E134E": {
-        "name": "_0x75CFAC49301E134E",
-        "comment": "p0: value returned by 0x9D21B185ABC2DBC5",
+        "name": "_INVENTORY_APPLY_WEAPON_STATS_TO_ENTRY",
+        "comment": "Apply the weapon stats to the CatalogItemInspection stats entry id. get entryId with _INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY",
         "params": [
             {
-                "type": "Any",
-                "name": "data"
+                "type": "int",
+                "name": "entryId"
             },
             {
-                "type": "BOOL",
-                "name": "p1"
+                "type": "Hash",
+                "name": "weapon"
             },
             {
                 "type": "Ped",
@@ -19,6 +19,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
