@@ -89679,8 +89679,8 @@
             "apiset": ""
         },
         "0x06C3DB00B69D5435": {
-            "name": "_0x06C3DB00B69D5435",
-            "comment": "",
+            "name": "_SET_PLAYER_PROMPT_LEAVE_TEXT",
+            "comment": "Sets the stand prompt for a specific player using a predefined text entry. use AddTextEntry for promptTextKey for custom names",
             "params": [
                 {
                     "type": "Player",
@@ -89688,13 +89688,13 @@
                 },
                 {
                     "type": "const char*",
-                    "name": "p1"
+                    "name": "promptTextKey"
                 }
             ],
             "return_type": "void",
             "build": "1232",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x06E1FB78B1E59CA5": {
             "name": "_0x06E1FB78B1E59CA5",
