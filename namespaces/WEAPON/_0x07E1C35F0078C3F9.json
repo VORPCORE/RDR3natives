@@ -1,7 +1,7 @@
 {
     "0x07E1C35F0078C3F9": {
         "name": "_IS_PED_HOLDING_WEAPON",
-        "comment": "Returns whether the specified ped is holding a weapon with the given hash.\nonly these weapons return true `WEAPON_BOW` `WEAPON_MELEE_TORCH` `WEAPON_UNARMED`",
+        "comment": "Returns whether the specified ped is holding a weapon with the given hash.\nonly these weapons below return true\n WEAPON_BOW, WEAPON_KIT_METAL_DETECTOR, WEAPON_MELEE_CLEAVER, WEAPON_MELEE_DAVY_LANTERN, WEAPON_MELEE_HATCHET, WEAPON_MELEE_HATCHET_HUNTER, WEAPON_MELEE_KNIFE_JAWBONE, WEAPON_MELEE_LANTERN WEAPON_MELEE_TORCH, WEAPON_MOONSHINEJUG_MP, WEAPON_RIFLE_BOLTACTION, WEAPON_SHOTGUN_PUMP, WEAPON_THROWN_BOLAS, WEAPON_THROWN_MOLOTOV",
         "params": [
             {
                 "type": "Ped",
