@@ -1,16 +1,16 @@
 {
     "0xA62BBAAE67A05BB0": {
-        "name": "_0xA62BBAAE67A05BB0",
-        "comment": "",
+        "name": "_EAGLE_EYE_ARE_ALL_TRAILS_HIDDEN",
+        "comment": "Retrieves whether all trails are currently hidden during Eagle Eye mode for the specified player.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Player",
+                "name": "player"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
