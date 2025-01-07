@@ -1,7 +1,7 @@
 {
     "0xB7DF150605EEDC9B": {
         "name": "_ADD_EXPLOSION_WITH_DAMAGE_CAUSER",
-        "comment": "Add explosion with and assign an entity as damage causer.",
+        "comment": "Add explosion with and assign an entity as damage causer.\nexplosionType: https://github.com/femga/rdr3_discoveries/blob/master/graphics/explosions/README.md",
         "params": [
             {
                 "type": "Entity",
