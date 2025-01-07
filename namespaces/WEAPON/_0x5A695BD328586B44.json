@@ -1,20 +1,20 @@
 {
     "0x5A695BD328586B44": {
         "name": "_0x5A695BD328586B44",
-        "comment": "",
+        "comment": "Returns true if ped is on a horse while inside of a town\nParams: p1 = 0\nGET_L* - GET_MA*",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p1"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

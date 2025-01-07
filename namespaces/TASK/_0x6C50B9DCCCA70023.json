@@ -1,16 +1,16 @@
 {
     "0x6C50B9DCCCA70023": {
-        "name": "_0x6C50B9DCCCA70023",
+        "name": "_IS_ENTITY_REVIVABLE",
         "comment": "",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

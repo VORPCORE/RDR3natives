@@ -1,7 +1,7 @@
 {
     "0x8DECB02F88F428BC": {
         "name": "HAS_PED_GOT_WEAPON",
-        "comment": "",
+        "comment": "onlyCheckPlayerInventory: If true, it will only check the players current inventory. If false, it also checks your horse inventory",
         "params": [
             {
                 "type": "Ped",
@@ -17,7 +17,7 @@
             },
             {
                 "type": "BOOL",
-                "name": "p3"
+                "name": "onlyCheckPlayerInventory"
             }
         ],
         "return_type": "BOOL",
@@ -25,6 +25,6 @@
         "gta_hash": "0x8DECB02F88F428BC",
         "gta_jhash": "0x43D2FA82",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

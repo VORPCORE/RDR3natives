@@ -1,7 +1,7 @@
 {
     "0xBAD2A311667A50D7": {
-        "name": "_0xBAD2A311667A50D7",
-        "comment": "_SET_PED_D*",
+        "name": "_SET_PED_DESIRES_GROUP",
+        "comment": "",
         "params": [
             {
                 "type": "Ped",
@@ -9,12 +9,12 @@
             },
             {
                 "type": "BOOL",
-                "name": "p1"
+                "name": "toggle"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

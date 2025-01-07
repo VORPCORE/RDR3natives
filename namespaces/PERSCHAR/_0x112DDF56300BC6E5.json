@@ -1,16 +1,16 @@
 {
     "0x112DDF56300BC6E5": {
         "name": "_0x112DDF56300BC6E5",
-        "comment": "",
+        "comment": "Returns the PersChar index of the persCharHash passed",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "persCharHash"
             }
         ],
-        "return_type": "Any",
+        "return_type": "PersChar",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

@@ -1,43 +1,47 @@
 {
     "0x559FC1D310813031": {
-        "name": "_GET_IS_FIRE_AT_VOLUME_POS",
-        "comment": "name might not be accurate\n the 3 first parms seems to be from fire coords and this native is only used once in the decompiles, the other params are used from volume position and rotation",
+        "name": "_GET_CLOSEST_FIRE_POS_IN_VOLUME",
+        "comment": "",
         "params": [
             {
-                "type": "float",
-                "name": "x"
+                "type": "Vector3*",
+                "name": "outPosition"
             },
             {
                 "type": "float",
-                "name": "y"
+                "name": "posX"
             },
             {
                 "type": "float",
-                "name": "z"
+                "name": "posY"
             },
             {
                 "type": "float",
-                "name": "volx"
+                "name": "posZ"
             },
             {
                 "type": "float",
-                "name": "voly"
+                "name": "rotX"
             },
             {
                 "type": "float",
-                "name": "volz"
+                "name": "rotY"
             },
             {
                 "type": "float",
-                "name": "volrotx"
+                "name": "rotZ"
             },
             {
                 "type": "float",
-                "name": "volroty"
+                "name": "scaleX"
             },
             {
                 "type": "float",
-                "name": "volrotz"
+                "name": "scaleY"
+            },
+            {
+                "type": "float",
+                "name": "scaleZ"
             }
         ],
         "return_type": "BOOL",

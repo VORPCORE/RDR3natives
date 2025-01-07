@@ -1,16 +1,16 @@
 {
     "0x71D71E08A7ED5BD7": {
         "name": "_0x71D71E08A7ED5BD7",
-        "comment": "",
+        "comment": "Zooms in the third person camera closer to ground level.\nMust be called every frame to interpolate.\nPass false to reset.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "BOOL",
+                "name": "toggle"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

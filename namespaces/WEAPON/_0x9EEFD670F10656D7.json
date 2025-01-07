@@ -1,6 +1,6 @@
 {
     "0x9EEFD670F10656D7": {
-        "name": "_GET_WEAPON_HASH_FROM_DEFAULT_PED_WEAPON_COLLECTION",
+        "name": "_GET_WEAPON_FROM_DEFAULT_PED_WEAPON_COLLECTION",
         "comment": "this native gets the weapon hash from the default ped weapon collection (see GetDefaultPedWeaponCollection for more info) will randomly return one of it's weapons",
         "params": [
             {

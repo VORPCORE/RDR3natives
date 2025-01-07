@@ -1,11 +1,11 @@
 {
     "0x718C6ECF5E8CBDD4": {
-        "name": "_0x718C6ECF5E8CBDD4",
-        "comment": "",
+        "name": "_FORCE_THIRD_PERSON_CLOSE_THIS_FRAME",
+        "comment": "Forces camera position to closest 3rd person",
         "params": [],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

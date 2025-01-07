@@ -1,9 +1,9 @@
 {
     "0x1431540BCA1A1BD2": {
-        "name": "_0x1431540BCA1A1BD2",
+        "name": "_SAVEGAME_HAS_SAVE_FAILED",
         "comment": "",
         "params": [],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

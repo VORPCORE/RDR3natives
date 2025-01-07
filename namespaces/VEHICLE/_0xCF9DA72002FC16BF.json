@@ -1,24 +1,24 @@
 {
     "0xCF9DA72002FC16BF": {
-        "name": "_0xCF9DA72002FC16BF",
+        "name": "_REQUEST_VEHICLE_ASSET_ANIMS",
         "comment": "",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "int",
+                "name": "vehicleAsset"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

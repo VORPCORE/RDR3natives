@@ -17,6 +17,6 @@
         "gta_hash": "0x08AAFD0814722BC3",
         "gta_jhash": "0x2544E7A6",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
