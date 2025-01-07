@@ -1,7 +1,7 @@
 {
     "0xC67A4910425F11F1": {
-        "name": "_0xC67A4910425F11F1",
-        "comment": "_DISABLE_*(PLAYER_FORCED_INTERACTION_LOCKON?)",
+        "name": "_DISABLE_PLAYER_INTERACTIVE_FOCUS_PRESET",
+        "comment": "Disables the previously set interactive focus mode preset for a given player. see `_SET_PLAYER_INTERACTIVE_FOCUS_PRESET - 0x3C1B1807C7A415D6`",
         "params": [
             {
                 "type": "Player",
@@ -15,6 +15,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
