@@ -1,35 +1,35 @@
 {
     "0x61E360B7E040D12E": {
         "name": "TASK_GO_STRAIGHT_TO_COORD_RELATIVE_TO_ENTITY",
-        "comment": "",
+        "comment": "Tells the ped to go to an offset coord from an entity, without using the navmesh. if timeBeforeTeleport is -1 the ped will never warp, p7 is 1 or 0 still unknown param ",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "xOffset"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "Yoffset"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "float",
+                "name": "zOffset"
             },
             {
-                "type": "Any",
-                "name": "p5"
+                "type": "int",
+                "name": "moveBlendRatio"
             },
             {
-                "type": "Any",
-                "name": "p6"
+                "type": "int",
+                "name": "timeBeforeTeleport"
             },
             {
                 "type": "Any",
@@ -41,6 +41,6 @@
         "gta_hash": "0x61E360B7E040D12E",
         "gta_jhash": "0xD26CAC68",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
