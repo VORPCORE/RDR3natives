@@ -108199,7 +108199,7 @@
                     "name": "timeBeforeTeleport"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p7"
                 }
             ],
