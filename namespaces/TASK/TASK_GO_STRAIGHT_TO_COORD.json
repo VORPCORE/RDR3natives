@@ -1,7 +1,7 @@
 {
     "0xD76B57B44F1E6F8B": {
         "name": "TASK_GO_STRAIGHT_TO_COORD",
-        "comment": "",
+        "comment": "Tells the ped to go to a coord, without using the navemesh. if timeBeforeTeleport is -1 the ped will never warp, p8 is always 0 or 1 still unknown",
         "params": [
             {
                 "type": "Ped",
@@ -21,19 +21,19 @@
             },
             {
                 "type": "float",
-                "name": "moveBlendSpeedY"
+                "name": "moveBlendRatio"
             },
             {
                 "type": "int",
-                "name": "p5"
+                "name": "timeBeforeTeleport"
             },
             {
                 "type": "float",
-                "name": "p6"
+                "name": "finalHeading"
             },
             {
                 "type": "float",
-                "name": "p7"
+                "name": "targetRadius"
             },
             {
                 "type": "int",
@@ -45,6 +45,6 @@
         "gta_hash": "0xD76B57B44F1E6F8B",
         "gta_jhash": "0x80A9E7A7",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
