@@ -81084,8 +81084,8 @@
             "apiset": ""
         },
         "0xFB4891BD7578CDC1": {
-            "name": "_IS_META_PED_USING_COMPONENT",
-            "comment": "",
+            "name": "_IS_META_PED_USING_COMPONENT_CATEGORY",
+            "comment": "checks if a ped is using a component category\nsee component category hashes here https://raw.githubusercontent.com/femga/rdr3_discoveries/refs/heads/master/clothes/cloth_hash_names.lua\nOld name: _IS_META_PED_USING_COMPONENT",
             "params": [
                 {
                     "type": "Ped",
@@ -81093,13 +81093,13 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "component"
+                    "name": "componentCategory"
                 }
             ],
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xAAB0FE202E9FC9F0": {
             "name": "_IS_MOUNT_SEAT_FREE",
