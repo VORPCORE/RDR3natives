@@ -4,7 +4,7 @@
         "comment": "Return whether the ped is in the herd.",
         "params": [
             {
-                "type": "Herd",
+                "type": "Entity",
                 "name": "herd"
             },
             {

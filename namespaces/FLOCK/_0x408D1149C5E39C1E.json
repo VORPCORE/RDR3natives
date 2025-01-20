@@ -4,7 +4,7 @@
         "comment": "Remove the ped from a herd.",
         "params": [
             {
-                "type": "Herd",
+                "type": "Entity",
                 "name": "herd"
             },
             {

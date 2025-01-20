@@ -4,7 +4,7 @@
         "comment": "Delete and invalidate the herd.",
         "params": [
             {
-                "type": "Herd",
+                "type": "Entity",
                 "name": "herd"
             }
         ],
