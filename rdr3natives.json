@@ -25587,15 +25587,15 @@
         },
         "0x408D1149C5E39C1E": {
             "name": "_0x408D1149C5E39C1E",
-            "comment": "_REMOVE_HERD_PED",
+            "comment": "",
             "params": [
                 {
-                    "type": "Herd",
-                    "name": "herd"
+                    "type": "Any",
+                    "name": "p0"
                 },
                 {
-                    "type": "Ped",
-                    "name": "ped"
+                    "type": "Any",
+                    "name": "p1"
                 }
             ],
             "return_type": "void",
@@ -25619,11 +25619,11 @@
         },
         "0x67A43EA3F6FE0076": {
             "name": "_0x67A43EA3F6FE0076",
-            "comment": "_CLEAR_HERD",
+            "comment": "",
             "params": [
                 {
-                    "type": "Herd",
-                    "name": "herd"
+                    "type": "Any",
+                    "name": "p0"
                 }
             ],
             "return_type": "void",
@@ -25703,18 +25703,18 @@
         },
         "0x9E13ACC38BA8F9C3": {
             "name": "_0x9E13ACC38BA8F9C3",
-            "comment": "_IS_PED_IN_HERD",
+            "comment": "",
             "params": [
                 {
-                    "type": "Herd",
-                    "name": "herd"
+                    "type": "Any",
+                    "name": "p0"
                 },
                 {
-                    "type": "Ped",
-                    "name": "ped"
+                    "type": "Any",
+                    "name": "p1"
                 }
             ],
-            "return_type": "BOOL",
+            "return_type": "Any",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -25845,11 +25845,11 @@
         },
         "0xE0961AED72642B80": {
             "name": "_0xE0961AED72642B80",
-            "comment": "_DELETE_HERD",
+            "comment": "",
             "params": [
                 {
-                    "type": "Herd",
-                    "name": "herd"
+                    "type": "Any",
+                    "name": "p0"
                 }
             ],
             "return_type": "void",
