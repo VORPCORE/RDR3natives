@@ -1,18 +1,18 @@
 {
     "0x9E13ACC38BA8F9C3": {
         "name": "_0x9E13ACC38BA8F9C3",
-        "comment": "",
+        "comment": "_IS_PED_IN_HERD",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Herd",
+                "name": "herd"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""
