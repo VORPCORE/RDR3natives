@@ -1,7 +1,7 @@
 {
     "0x67A43EA3F6FE0076": {
-        "name": "_0x67A43EA3F6FE0076",
-        "comment": "_CLEAR_HERD",
+        "name": "_CLEAR_HERD",
+        "comment": "Clear the herd.",
         "params": [
             {
                 "type": "Herd",

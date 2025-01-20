@@ -1,7 +1,7 @@
 {
     "0xE0961AED72642B80": {
-        "name": "_0xE0961AED72642B80",
-        "comment": "_DELETE_HERD",
+        "name": "_DELETE_HERD",
+        "comment": "Delete and invalidate the herd.",
         "params": [
             {
                 "type": "Herd",

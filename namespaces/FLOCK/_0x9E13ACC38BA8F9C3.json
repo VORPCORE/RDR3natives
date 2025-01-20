@@ -1,7 +1,7 @@
 {
     "0x9E13ACC38BA8F9C3": {
-        "name": "_0x9E13ACC38BA8F9C3",
-        "comment": "_IS_PED_IN_HERD",
+        "name": "_IS_PED_IN_HERD",
+        "comment": "Return whether the ped is in the herd.",
         "params": [
             {
                 "type": "Herd",

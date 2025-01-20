@@ -1,7 +1,7 @@
 {
     "0x408D1149C5E39C1E": {
-        "name": "_0x408D1149C5E39C1E",
-        "comment": "_REMOVE_HERD_PED",
+        "name": "_REMOVE_HERD_PED",
+        "comment": "Remove the ped from a herd.",
         "params": [
             {
                 "type": "Herd",
