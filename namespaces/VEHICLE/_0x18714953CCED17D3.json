@@ -1,7 +1,7 @@
 {
     "0x18714953CCED17D3": {
-        "name": "_0x18714953CCED17D3",
-        "comment": "_ARE_ANY_VEHICLE_(WHEELS_DESTROYED?)*",
+        "name": "_ARE_ANY_VEHICLE_WHEELS_DESTROYED",
+        "comment": "returns true if any wheel is destroyed/detached",
         "params": [
             {
                 "type": "Vehicle",
@@ -11,6 +11,6 @@
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
