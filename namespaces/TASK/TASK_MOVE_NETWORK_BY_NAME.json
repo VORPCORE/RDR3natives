@@ -8,7 +8,7 @@
                 "name": "ped"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "task"
             },
             {
@@ -20,7 +20,7 @@
                 "name": "p3"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "animDict"
             },
             {
@@ -33,6 +33,6 @@
         "gta_hash": "0x2D537BA194896636",
         "gta_jhash": "0x6F5D215F",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

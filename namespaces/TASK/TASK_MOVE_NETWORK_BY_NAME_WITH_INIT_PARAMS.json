@@ -8,7 +8,7 @@
                 "name": "ped"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "moveNetworkDefName"
             },
             {
@@ -24,7 +24,7 @@
                 "name": "p4"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "animDict"
             },
             {
@@ -35,6 +35,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
