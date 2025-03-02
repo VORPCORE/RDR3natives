@@ -109867,7 +109867,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "moveNetworkDefName"
                 },
                 {
@@ -109926,7 +109926,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xF92171093BCABED4": {
             "name": "TASK_MOVE_NETWORK_ADVANCED_BY_NAME_WITH_INIT_PARAMS_ATTACHED",
@@ -110019,7 +110019,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "task"
                 },
                 {
@@ -110031,7 +110031,7 @@
                     "name": "p3"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "animDict"
                 },
                 {
@@ -110044,7 +110044,7 @@
             "gta_hash": "0x2D537BA194896636",
             "gta_jhash": "0x6F5D215F",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x139805C2A67C4795": {
             "name": "TASK_MOVE_NETWORK_BY_NAME_WITH_INIT_PARAMS",
@@ -110055,7 +110055,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "moveNetworkDefName"
                 },
                 {
@@ -110071,7 +110071,7 @@
                     "name": "p4"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "animDict"
                 },
                 {
@@ -110082,7 +110082,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xBDA5DF49D080FE4E": {
             "name": "TASK_PATROL",
@@ -110093,7 +110093,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "patrolRoute"
                 },
                 {
@@ -110114,7 +110114,7 @@
             "gta_hash": "0xBDA5DF49D080FE4E",
             "gta_jhash": "0xB92E5AF6",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xE73A266DB0CA9042": {
             "name": "TASK_PAUSE",
