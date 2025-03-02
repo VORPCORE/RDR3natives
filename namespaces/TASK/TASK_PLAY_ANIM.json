@@ -48,7 +48,7 @@
                 "name": "p10"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "taskFilter"
             },
             {
@@ -61,6 +61,6 @@
         "gta_hash": "0xEA47FE3719165B94",
         "gta_jhash": "0x5AB552C6",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
