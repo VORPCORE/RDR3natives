@@ -4,7 +4,7 @@
         "comment": "flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eAnimSceneFlag",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "animDict"
             },
             {
@@ -12,7 +12,7 @@
                 "name": "flags"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "playbackListName"
             },
             {
