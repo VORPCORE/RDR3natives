@@ -8,7 +8,7 @@
                 "name": "p0"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "variableName"
             }
         ],

@@ -8,13 +8,13 @@
                 "name": "scenario"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "propName"
             }
         ],
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

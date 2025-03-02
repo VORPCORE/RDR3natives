@@ -8,7 +8,7 @@
                 "name": "ped"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "clipset"
             }
         ],

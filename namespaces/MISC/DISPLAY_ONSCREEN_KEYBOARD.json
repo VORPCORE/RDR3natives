@@ -8,27 +8,27 @@
                 "name": "textType"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "windowTitle"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "p2"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "defaultText"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "defaultConcat1"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "defaultConcat2"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "defaultConcat3"
             },
             {

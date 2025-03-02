@@ -12,13 +12,13 @@
                 "name": "p1"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "clipset"
             }
         ],
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "scenarioGroup"
             }
         ],
@@ -13,6 +13,6 @@
         "gta_hash": "0x367A09DED4E05B99",
         "gta_jhash": "0x90991122",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

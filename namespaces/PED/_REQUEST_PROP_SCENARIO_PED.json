@@ -12,15 +12,15 @@
                 "name": "object"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "p2"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "p3"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "p4"
             },
             {

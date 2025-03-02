@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "patrolRoute"
             }
         ],
@@ -13,6 +13,6 @@
         "gta_hash": "0x7767DD9D65E91319",
         "gta_jhash": "0x2A4E6706",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

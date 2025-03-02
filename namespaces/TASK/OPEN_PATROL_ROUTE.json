@@ -4,7 +4,7 @@
         "comment": "Note: patrolRoute must be prefixed with 'miss_' for it to be valid",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "patrolRoute"
             }
         ],
@@ -13,6 +13,6 @@
         "gta_hash": "0xA36BFB5EE89F3D82",
         "gta_jhash": "0xF33F83CA",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

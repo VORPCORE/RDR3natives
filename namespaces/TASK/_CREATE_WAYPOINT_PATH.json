@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "pathName"
             },
             {
-                "type": "Any*",
+                "type": "Any",
                 "name": "p1"
             },
             {
@@ -23,6 +23,6 @@
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

@@ -8,7 +8,7 @@
                 "name": "persCharHash"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "schedule"
             }
         ],

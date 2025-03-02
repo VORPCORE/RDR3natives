@@ -24,7 +24,7 @@
                 "name": "z"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "reactionName"
             },
             {

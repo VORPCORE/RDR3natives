@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "appName"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "entry"
             }
         ],

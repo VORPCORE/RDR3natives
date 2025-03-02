@@ -4,7 +4,7 @@
         "comment": "Note: you must use VAR_STRING",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "text"
             },
             {

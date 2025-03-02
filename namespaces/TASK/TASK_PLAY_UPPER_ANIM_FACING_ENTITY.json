@@ -8,11 +8,11 @@
                 "name": "ped"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "animDict"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "animName"
             },
             {
@@ -52,7 +52,7 @@
                 "name": "p11"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "p12"
             },
             {

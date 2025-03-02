@@ -8,7 +8,7 @@
                 "name": "ped"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "name"
             }
         ],
@@ -17,6 +17,6 @@
         "gta_hash": "0xD01015C7316AE176",
         "gta_jhash": "0x885724DE",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

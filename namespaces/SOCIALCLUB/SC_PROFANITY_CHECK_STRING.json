@@ -4,7 +4,7 @@
         "comment": "Starts a task to check an entered string for profanity on the ROS/Social Club services.",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "string"
             },
             {

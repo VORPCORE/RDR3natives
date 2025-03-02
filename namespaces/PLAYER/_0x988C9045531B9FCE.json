@@ -8,7 +8,7 @@
                 "name": "playerID"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "label"
             }
         ],

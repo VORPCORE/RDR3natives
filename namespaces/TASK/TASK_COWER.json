@@ -16,7 +16,7 @@
                 "name": "pedToCowerFrom"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "p3"
             }
         ],
@@ -25,6 +25,6 @@
         "gta_hash": "0x3EB1FE9E8E908E15",
         "gta_jhash": "0x9CF1C19B",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

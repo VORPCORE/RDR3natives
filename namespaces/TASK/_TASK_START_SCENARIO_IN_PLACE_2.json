@@ -12,7 +12,7 @@
                 "name": "p1"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "p2"
             },
             {

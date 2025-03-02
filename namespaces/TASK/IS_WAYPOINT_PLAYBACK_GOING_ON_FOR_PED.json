@@ -8,7 +8,7 @@
                 "name": "ped"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "waypointRecording"
             }
         ],
@@ -17,6 +17,6 @@
         "gta_hash": "0xE03B3F2D3DC59B64",
         "gta_jhash": "0x85B7725F",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

@@ -12,7 +12,7 @@
                 "name": "ped1"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "waypointRecording"
             },
             {
@@ -43,6 +43,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

@@ -8,7 +8,7 @@
 					"name": "entity"
 				},
 				{
-					"type": "const char*",
+					"type": "char*",
 					"name": "filterName"
 				},
 				{

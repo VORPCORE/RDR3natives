@@ -8,13 +8,13 @@
                 "name": "scenarioPoint"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "name"
             }
         ],
         "return_type": "Entity",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

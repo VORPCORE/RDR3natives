@@ -12,7 +12,7 @@
                 "name": "entity"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "propName"
             },
             {

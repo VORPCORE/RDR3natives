@@ -40,7 +40,7 @@
                 "name": "teleport"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "p9"
             },
             {

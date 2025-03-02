@@ -12,7 +12,7 @@
                 "name": "vehicle"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "waypointRecording"
             },
             {

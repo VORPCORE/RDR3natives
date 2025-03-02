@@ -8,7 +8,7 @@
                 "name": "player"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "speech"
             }
         ],

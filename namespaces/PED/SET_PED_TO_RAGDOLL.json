@@ -28,7 +28,7 @@
                 "name": "abortIfDead"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "nmTaskMessageParameterName"
             }
         ],

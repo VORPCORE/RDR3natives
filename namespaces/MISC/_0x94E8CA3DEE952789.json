@@ -4,11 +4,11 @@
         "comment": "Not officially named \n, Counts the number of segments in a string that are separated by specified delimiter characters, ignoring consecutive delimiters.",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "inputString"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "delimiters"
             }
         ],

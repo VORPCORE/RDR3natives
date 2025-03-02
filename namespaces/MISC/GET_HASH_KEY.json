@@ -4,7 +4,7 @@
         "comment": "Computes a hash for the given string. It is hashed using Jenkins' One-at-a-Time hash algorithm (https://en.wikipedia.org/wiki/Jenkins_hash_function)\nNote: this implementation is case-insensitive.",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "string"
             }
         ],

@@ -8,7 +8,7 @@
                 "name": "blip"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "textLabel"
             }
         ],

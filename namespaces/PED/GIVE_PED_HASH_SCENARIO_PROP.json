@@ -12,7 +12,7 @@
                 "name": "object"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "conditionalAnim"
             },
             {

@@ -4,11 +4,11 @@
         "comment": "The hash of the created relationship group is output in the second parameter.",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "name"
             },
             {
-                "type": "Hash*",
+                "type": "Hash",
                 "name": "groupHash"
             }
         ],

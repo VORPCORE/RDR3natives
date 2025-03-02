@@ -28,7 +28,7 @@
                 "name": "groundSetting"
             },
             {
-                "type": "Any*",
+                "type": "Any",
                 "name": "p6"
             },
             {
@@ -39,6 +39,6 @@
         "return_type": "int",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

@@ -8,11 +8,11 @@
                 "name": "ped"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "animDictionary"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "animationName"
             },
             {
@@ -25,6 +25,6 @@
         "gta_hash": "0x97FF36A1D40EA00A",
         "gta_jhash": "0x2B520A57",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

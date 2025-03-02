@@ -8,7 +8,7 @@
                 "name": "entity"
             },
             {
-                "type": "Any*",
+                "type": "Any",
                 "name": "args"
             }
         ],
@@ -17,6 +17,6 @@
         "gta_hash": "0x77A1EEC547E7FCF1",
         "gta_jhash": "0x02F72AE5",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

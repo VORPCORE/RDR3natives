@@ -24,7 +24,7 @@
                 "name": "heading"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "scenarioName"
             }
         ],

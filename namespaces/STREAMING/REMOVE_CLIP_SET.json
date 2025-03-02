@@ -4,7 +4,7 @@
         "comment": "Alias for REMOVE_ANIM_SET.",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "clipSet"
             }
         ],

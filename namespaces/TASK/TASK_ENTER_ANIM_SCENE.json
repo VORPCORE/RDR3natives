@@ -12,11 +12,11 @@
                 "name": "animScene"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "entityName"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "playbackListName"
             },
             {
@@ -43,6 +43,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

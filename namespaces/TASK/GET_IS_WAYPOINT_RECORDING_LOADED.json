@@ -4,7 +4,7 @@
         "comment": "",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "waypointRecording"
             }
         ],
@@ -13,6 +13,6 @@
         "gta_hash": "0xCB4E8BE8A0063C5D",
         "gta_jhash": "0x87125F5D",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

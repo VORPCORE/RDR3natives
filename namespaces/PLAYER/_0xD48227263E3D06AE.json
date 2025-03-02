@@ -12,7 +12,7 @@
                 "name": "p1"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "preset"
             },
             {
@@ -32,7 +32,7 @@
                 "name": "targetEntity"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "name"
             }
         ],
