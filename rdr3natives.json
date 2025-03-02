@@ -109871,7 +109871,7 @@
                     "name": "moveNetworkDefName"
                 },
                 {
-                    "type": "Any*",
+                    "type": "Any",
                     "name": "taskData"
                 },
                 {
