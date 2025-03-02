@@ -1917,7 +1917,7 @@
             "comment": "flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eAnimSceneFlag",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "animDict"
                 },
                 {
@@ -1925,7 +1925,7 @@
                     "name": "flags"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "playbackListName"
                 },
                 {
@@ -110415,7 +110415,7 @@
                     "name": "p10"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "taskFilter"
                 },
                 {
@@ -110428,7 +110428,7 @@
             "gta_hash": "0xEA47FE3719165B94",
             "gta_jhash": "0x5AB552C6",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x83CDB10EA29B370B": {
             "name": "TASK_PLAY_ANIM_ADVANCED",
