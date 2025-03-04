@@ -44603,8 +44603,8 @@
             "apiset": ""
         },
         "0x40D72189F46D2E15": {
-            "name": "_DISABLE_COMPOSITE_EAT_PROMPT_THIS_FRAME",
-            "comment": "disables prompt eat \nold name DISABLE_LOOTING_COMPOSITE_LOOTABLE_THIS_FRAME",
+            "name": "DISABLE_LOOTING_COMPOSITE_LOOTABLE_THIS_FRAME",
+            "comment": "disables prompt eat ",
             "params": [
                 {
                     "type": "int",
