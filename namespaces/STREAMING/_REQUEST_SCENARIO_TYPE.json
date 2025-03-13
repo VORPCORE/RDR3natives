@@ -12,11 +12,11 @@
                 "name": "p1"
             },
             {
-                "type": "Any",
+                "type": "Hash",
                 "name": "entityModel"
             },
             {
-                "type": "Any",
+                "type": "Hash",
                 "name": "conditionalAnim"
             }
         ],
