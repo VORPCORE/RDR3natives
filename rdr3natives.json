@@ -103106,7 +103106,7 @@
         },
         "0x19A6BE7D9C6884D3": {
             "name": "_REQUEST_SCENARIO_TYPE",
-            "comment": "p1 seems to be some kind of flag? p2 can be false or entity model accepts hash joaat(\"a_c_bear_01\") or with GetEntityModel(entity), just not a string, might load for the entitymodel if passed p3 can be false or pass the conditional anim",
+            "comment": "p1 seems to be some kind of flag? p2 can be 0 or entity model accepts hash joaat(\"a_c_bear_01\") or with GetEntityModel(entity) p3 can be 0 or pass the conditional anim or using _GET_ACTIVE_DYNAMIC_SCENARIO",
             "params": [
                 {
                     "type": "Hash",
