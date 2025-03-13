@@ -1,7 +1,7 @@
 {
     "0x19A6BE7D9C6884D3": {
         "name": "_REQUEST_SCENARIO_TYPE",
-        "comment": "",
+        "comment": "p1 seems to be some kind of flag? p2 can be false or entity model accepts hash joaat(\"a_c_bear_01\") or with GetEntityModel(entity), just not a string, might load for the entitymodel if passed p3 can be false or pass the conditional anim",
         "params": [
             {
                 "type": "Hash",
@@ -13,16 +13,16 @@
             },
             {
                 "type": "Any",
-                "name": "p2"
+                "name": "entityModel"
             },
             {
                 "type": "Any",
-                "name": "p3"
+                "name": "conditionalAnim"
             }
         ],
         "return_type": "int",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
