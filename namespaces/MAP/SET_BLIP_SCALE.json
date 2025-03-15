@@ -1,7 +1,7 @@
 {
     "0xD38744167B2FA257": {
         "name": "SET_BLIP_SCALE",
-        "comment": "",
+        "comment": "only works for BLIP_ADD_FOR_RADIUS AND BLIP_ADD_FOR_AREA, this native works as a radius not really a scale",
         "params": [
             {
                 "type": "Blip",
@@ -17,6 +17,6 @@
         "gta_hash": "0xD38744167B2FA257",
         "gta_jhash": "0x1E6EC434",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
