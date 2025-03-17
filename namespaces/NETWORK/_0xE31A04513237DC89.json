@@ -1,6 +1,6 @@
 {
     "0xE31A04513237DC89": {
-        "name": "_0xE31A04513237DC89",
+        "name": "NETWORK_UNREGISTER_NETWORKED_ENTITY",
         "comment": "",
         "params": [
             {
@@ -12,6 +12,6 @@
         "build": "1207",
         "unused": true,
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
