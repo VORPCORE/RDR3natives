@@ -1,7 +1,7 @@
 {
     "0x9CF1836C03FB67A2": {
         "name": "REMOVE_VEG_MODIFIER_SPHERE",
-        "comment": "",
+        "comment": "only works by invoking and passing as pointer value Citizen.InvokeNative(0x9CF1836C03FB67A2, Citizen.PointerValueIntInitialized(vegModifierId),1) p1 is 1 or 0",
         "params": [
             {
                 "type": "int",
@@ -15,6 +15,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

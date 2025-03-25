@@ -1,7 +1,7 @@
 {
     "0x839BFD7D7E49FE09": {
         "name": "REMOVE_MP_GAMER_TAG",
-        "comment": "",
+        "comment": "only works by invoking and passing as pointer value Citizen.InvokeNative(0x839BFD7D7E49FE09, Citizen.PointerValueIntInitialized(gamerTagId))",
         "params": [
             {
                 "type": "int",
@@ -13,6 +13,6 @@
         "gta_hash": "0x31698AA80E0223F8",
         "gta_jhash": "0x3D081FE4",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
