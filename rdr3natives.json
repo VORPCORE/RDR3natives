@@ -28154,7 +28154,7 @@
         },
         "0x9CF1836C03FB67A2": {
             "name": "REMOVE_VEG_MODIFIER_SPHERE",
-            "comment": "",
+            "comment": "only works by invoking and passing as pointer value Citizen.InvokeNative(0x9CF1836C03FB67A2, Citizen.PointerValueIntInitialized(vegModifierId),1) p1 is 1 or 0",
             "params": [
                 {
                     "type": "int",
@@ -28168,7 +28168,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x297B72E2AF094742": {
             "name": "RESET_ADAPTATION",
@@ -32691,7 +32691,7 @@
         },
         "0x839BFD7D7E49FE09": {
             "name": "REMOVE_MP_GAMER_TAG",
-            "comment": "",
+            "comment": "only works by invoking and passing as pointer value Citizen.InvokeNative(0x839BFD7D7E49FE09, Citizen.PointerValueIntInitialized(gamerTagId))",
             "params": [
                 {
                     "type": "int",
@@ -32703,7 +32703,7 @@
             "gta_hash": "0x31698AA80E0223F8",
             "gta_jhash": "0x3D081FE4",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xCE47C21C0687EBC2": {
             "name": "SET_FRONTEND_ACTIVE",
