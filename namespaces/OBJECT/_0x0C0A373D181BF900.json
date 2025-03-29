@@ -1,16 +1,16 @@
 {
     "0x0C0A373D181BF900": {
         "name": "_0x0C0A373D181BF900",
-        "comment": "",
+        "comment": "something to do with doors lockdown when navmesh is swapping?UPDATE_WORLD_STATE  seems to be for unlocking something",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "doorHash"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

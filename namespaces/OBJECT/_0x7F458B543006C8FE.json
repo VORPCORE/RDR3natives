@@ -1,20 +1,20 @@
 {
     "0x7F458B543006C8FE": {
         "name": "_0x7F458B543006C8FE",
-        "comment": "",
+        "comment": "something to do with doors lockdown when navmesh is swapping? UPDATE_WORLD_STATE, seems to be for locking something",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "doorHash"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p1"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
