@@ -60728,17 +60728,17 @@
         },
         "0x0C0A373D181BF900": {
             "name": "_0x0C0A373D181BF900",
-            "comment": "",
+            "comment": "something to do with doors lockdown when navmesh is swapping?UPDATE_WORLD_STATE  seems to be for unlocking something",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "doorHash"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x1F5E07E14A86FAFC": {
             "name": "_0x1F5E07E14A86FAFC",
@@ -61066,21 +61066,21 @@
         },
         "0x7F458B543006C8FE": {
             "name": "_0x7F458B543006C8FE",
-            "comment": "",
+            "comment": "something to do with doors lockdown when navmesh is swapping? UPDATE_WORLD_STATE, seems to be for locking something",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "doorHash"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p1"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x7FCD49388BC9B775": {
             "name": "_0x7FCD49388BC9B775",
