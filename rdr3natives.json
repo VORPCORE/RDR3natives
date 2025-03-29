@@ -56736,13 +56736,13 @@
             "apiset": ""
         },
         "0xFD4272A137703449": {
-            "name": "_0xFD4272A137703449",
-            "comment": "Only used in R* Script startup_clip",
+            "name": "_NETWORK_LEAVE_SESSION",
+            "comment": "Only used in R* Script startup_clip Seems to just kill the network connection, sets the players coords to 0, 0, 0 when doing GetEntityCoords",
             "params": [],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xFD8112109A96877C": {
             "name": "_0xFD8112109A96877C",
@@ -77446,8 +77446,8 @@
             "apiset": ""
         },
         "0xDC88D06719070C39": {
-            "name": "_0xDC88D06719070C39",
-            "comment": "_IS_PED_IN_* (near water?)\nReturns true if ped is swimming in water",
+            "name": "_IS_PED_AFLOAT",
+            "comment": "detects if ped is afloat in water like swimming or in a boat (driving or standing on it)",
             "params": [
                 {
                     "type": "Ped",
@@ -77457,7 +77457,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xDC91F22F09BC6C2F": {
             "name": "_0xDC91F22F09BC6C2F",
