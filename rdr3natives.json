@@ -73046,29 +73046,29 @@
         },
         "0x31B2E7F2E3C58B89": {
             "name": "_0x31B2E7F2E3C58B89",
-            "comment": "",
+            "comment": "_GET_SHOP_ITEM_NUM_*? returns a number of ? p1 seems to be always joaat(\"base\") ",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "componentHash"
                 },
                 {
-                    "type": "Any",
+                    "type": "Hash",
                     "name": "p1"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "int",
+                    "name": "metapedType"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "BOOL",
+                    "name": "isMP"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x32417CB860A3BDC4": {
             "name": "_0x32417CB860A3BDC4",
