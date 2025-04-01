@@ -89780,21 +89780,21 @@
         },
         "0x08E22898A6AF4905": {
             "name": "_0x08E22898A6AF4905",
-            "comment": "",
+            "comment": "_SET_PLAYER_*? some multiplier or modifier for health or statmina ?",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
                 },
                 {
-                    "type": "Any",
+                    "type": "float",
                     "name": "p1"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x0B7803F6F7BB43E0": {
             "name": "_0x0B7803F6F7BB43E0",
