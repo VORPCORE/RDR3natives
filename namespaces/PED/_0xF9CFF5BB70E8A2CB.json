@@ -1,7 +1,7 @@
 {
     "0xF9CFF5BB70E8A2CB": {
-        "name": "_0xF9CFF5BB70E8A2CB",
-        "comment": "_SET_PED_WETNESS*",
+        "name": "_SET_PED_WETNESS",
+        "comment": "only works when you use SET_PED_WETNESS_HEIGHT first , if you do 0.0 (it resets) you need to apply again with SET_PED_WETNESS_HEIGHT to see the wetness effects again",
         "params": [
             {
                 "type": "Ped",
@@ -15,6 +15,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
