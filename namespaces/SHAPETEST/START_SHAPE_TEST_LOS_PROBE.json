@@ -1,7 +1,7 @@
 {
     "0x7EE9F5D83DD4F90E": {
         "name": "START_SHAPE_TEST_LOS_PROBE",
-        "comment": "Asynchronously starts a line-of-sight (raycast) world probe shape test.\n\nUse the handle with 0x3D87450E15D98694 or 0x65287525D951F6BE until it returns 0 or 2.\n\np8 is a bit mask with bits 1, 2 and/or 4, relating to collider types; 4 should usually be used.",
+        "comment": "Asynchronously starts a line-of-sight (raycast) world probe shape test.\n\nUse the handle with 0x3D87450E15D98694 or 0x65287525D951F6BE until it returns 0 or 2.\n\np8 is a bit mask with bits 1, 2 and/or 4, relating to collider types; 4 should usually be used. flags used are mostly 83 and 3167 ",
         "params": [
             {
                 "type": "float",
