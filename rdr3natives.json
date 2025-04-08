@@ -42984,15 +42984,11 @@
         },
         "0xDA98246C7A3C2189": {
             "name": "_MAP_DISCOVERY_SET_ENABLED",
-            "comment": "removes activated discovery",
+            "comment": "",
             "params": [
                 {
                     "type": "Hash",
                     "name": "discoveryHash"
-                },
-                {
-                    "type": "BOOL",
-                    "name": "enable"
                 }
             ],
             "return_type": "void",
