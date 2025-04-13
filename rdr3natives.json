@@ -113912,18 +113912,18 @@
             "apiset": ""
         },
         "0x1ACBC313966C21F3": {
-            "name": "_0x1ACBC313966C21F3",
-            "comment": "",
+            "name": "_IS_SCENARIO_IN_USE",
+            "comment": "Checks whether a specified scenario is currently being used (actively played) by any entity (player or ped). Returns true if the scenario is already occupied, otherwise false.",
             "params": [
                 {
-                    "type": "int",
-                    "name": "scenario"
+                    "type": "Hash",
+                    "name": "scenarioHash"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1436",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x1D125814EBC517EB": {
             "name": "_0x1D125814EBC517EB",
