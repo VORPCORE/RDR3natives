@@ -1,36 +1,36 @@
 {
     "0xC4B67EF3FD65622D": {
-        "name": "_0xC4B67EF3FD65622D",
-        "comment": "",
+        "name": "_MODIFY_PROPSET_COORDS_AND_HEADING",
+        "comment": "Relocates an existing prop set to specified coordinates and adjusts its heading (rotation) without affecting the prop set's internal layout or structure. The `propSet` parameter identifies the prop set to move. The parameters (`coordsX`, `coordsY`, `coordsZ`) set the new central position of the prop set, while `heading` specifies its rotation around the Z-axis (in degrees). When `onGroundProperly` is true, the prop set automatically aligns accurately with the terrain",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "int",
+                "name": "propset"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "posX"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "posY"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "posZ"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "BOOL",
+                "name": "onGroundProperly"
             },
             {
-                "type": "Any",
-                "name": "p5"
+                "type": "float",
+                "name": "heading"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
