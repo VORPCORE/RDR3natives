@@ -1,7 +1,7 @@
 {
     "0xE143FA2249364369": {
         "name": "GET_CLOSEST_OBJECT_OF_TYPE",
-        "comment": "this native is broken it makes the local objects you check to be networked??\n the last parameters also don't matter if they are all true or false networked or not it will find the object bScriptedHosted or not it will find the object, use this only for networked objects until it's fixed",
+        "comment": "Returns the closest object of a specified type within a given radius from a specified position",
         "params": [
             {
                 "type": "float",
