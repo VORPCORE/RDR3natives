@@ -108518,7 +108518,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "cruiseSpeed"
+                    "name": "cruiseSpeed_2"
                 },
                 {
                     "type": "Any",
@@ -108534,7 +108534,7 @@
             "gta_hash": "0xB8ECD61F531A7B02",
             "gta_jhash": "0x86DC03F9",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x11315AB3385B8AC0": {
             "name": "TASK_GO_TO_COORD_WHILE_AIMING_AT_COORD",
