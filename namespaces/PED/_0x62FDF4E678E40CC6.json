@@ -1,20 +1,20 @@
 {
     "0x62FDF4E678E40CC6": {
-        "name": "_0x62FDF4E678E40CC6",
-        "comment": "Returns p1 value for 0x8E84119A23C16623",
+        "name": "_GET_METAPED_OUTFIT_BY_INDEX",
+        "comment": "Returns p1 value for 0x8E84119A23C16623,  get index outfit using GET_NUM_META_PED_OUTFITS",
         "params": [
             {
                 "type": "Entity",
                 "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "int",
+                "name": "index"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
