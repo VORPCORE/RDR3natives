@@ -1,7 +1,7 @@
 {
     "0x77BA37622E22023B": {
         "name": "_GET_SHOP_ITEM_COMPONENT_AT_INDEX",
-        "comment": "",
+        "comment": "Returns the current shop item component at index and it's wearable state",
         "params": [
             {
                 "type": "Ped",
@@ -20,13 +20,18 @@
                 "name": "argStruct"
             },
             {
-                "type": "Any*",
-                "name": "argStruct2"
+                "type": "Hash*",
+                "name": "wearableState"
             }
         ],
         "return_type": "Hash",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "local ped = PlayerPedId()\nlocal numComponent = GetNumComponentsInPed(ped)\nfor index = 0, numComponent -1 do\n\tlocal componentHash,_,wearableState = GetShopItemComponentAtIndex(ped, index, true, Citizen.ResultAsInteger(), Citizen.ResultAsInteger())\n\tprint('Index:',index,'Hash:',componentHash,'wearable state:', wearableState)\nend"
+            }
+        ],
         "apiset": ""
     }
 }
