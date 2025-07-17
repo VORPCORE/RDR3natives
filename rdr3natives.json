@@ -989,14 +989,14 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
             "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0xADF1D53F3B1FE0A7": {
             "name": "GET_ANIM_SCENE_ORIGIN",
