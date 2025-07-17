@@ -9,7 +9,7 @@
             },
             {
                 "type": "float",
-                "name": "health"
+                "name": "p1"
             },
             {
                 "type": "BOOL",
@@ -19,6 +19,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": "client"
+        "apiset": ""
     }
 }

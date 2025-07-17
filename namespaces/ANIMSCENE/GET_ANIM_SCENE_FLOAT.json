@@ -8,13 +8,13 @@
                 "name": "animScene"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "name"
             }
         ],
         "return_type": "float",
         "build": "1207",
         "examples": [],
-        "apiset": "client"
+        "apiset": ""
     }
 }

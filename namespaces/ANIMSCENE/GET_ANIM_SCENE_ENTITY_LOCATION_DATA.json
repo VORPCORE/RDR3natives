@@ -1,7 +1,7 @@
 {
     "0x8398438D8F14F56D": {
         "name": "GET_ANIM_SCENE_ENTITY_LOCATION_DATA",
-        "comment": "p5 is always 2",
+        "comment": "",
         "params": [
             {
                 "type": "AnimScene",
@@ -20,7 +20,7 @@
                 "name": "p3"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "playbackListName"
             },
             {
@@ -31,6 +31,6 @@
         "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": "client"
+        "apiset": ""
     }
 }

@@ -8,13 +8,13 @@
                 "name": "animScene"
             },
             {
-                "type": "char*",
+                "type": "const char*",
                 "name": "playbackListName"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": "client"
+        "apiset": ""
     }
 }
