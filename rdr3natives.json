@@ -905,14 +905,14 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "name"
                 }
             ],
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x4822A65D5AF64E69": {
             "name": "GET_ANIM_SCENE_CURRENT_ACTIVE_CAMERA_COUNT",
@@ -949,7 +949,7 @@
                     "name": "p3"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "playbackListName"
                 },
                 {
@@ -971,7 +971,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "name"
                 }
             ],
@@ -989,7 +989,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "name"
                 }
             ],
@@ -1065,7 +1065,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "entityName"
                 }
             ],
@@ -1115,7 +1115,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "sectionName"
                 },
                 {
@@ -1195,7 +1195,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "entityName"
                 }
             ],
@@ -1245,7 +1245,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "entityName"
                 },
                 {
@@ -1267,7 +1267,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "playlistName"
                 }
             ],
@@ -1285,7 +1285,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "playbackListName"
                 }
             ],
@@ -1317,7 +1317,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "name"
                 },
                 {
@@ -1343,7 +1343,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "entityName"
                 },
                 {
@@ -1369,7 +1369,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "name"
                 },
                 {
@@ -1399,7 +1399,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "name"
                 },
                 {
@@ -1485,7 +1485,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "playbackListName"
                 }
             ],
@@ -1503,7 +1503,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "playlistName"
                 },
                 {
@@ -6544,7 +6544,7 @@
                     "name": "soundId"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "soundName"
                 },
                 {
@@ -6552,7 +6552,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "soundsetName"
                 },
                 {
@@ -6596,7 +6596,7 @@
             "comment": "Old name: _PLAY_SOUND_FROM_POSITION",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "SoundName"
                 },
                 {
@@ -6612,7 +6612,7 @@
                     "name": "positionZ"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "SetName"
                 },
                 {
@@ -6646,7 +6646,7 @@
                     "name": "soundId"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "soundName"
                 },
                 {
@@ -6662,7 +6662,7 @@
                     "name": "z"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "soundsetName"
                 },
                 {
@@ -6692,11 +6692,11 @@
                     "name": "soundId"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "name"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "soundSet"
                 },
                 {
@@ -6714,11 +6714,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "soundName"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "soundsetName"
                 }
             ],
@@ -6732,7 +6732,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "soundsetName"
                 }
             ],
@@ -6746,7 +6746,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "ambientZone"
                 },
                 {
@@ -6776,11 +6776,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "audioName"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "sceneset"
                 }
             ],
@@ -6798,11 +6798,11 @@
                     "name": "ped"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "p1"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "p2"
                 }
             ],
@@ -6820,7 +6820,7 @@
                     "name": "soundId"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "variableName"
                 },
                 {
@@ -6846,11 +6846,11 @@
                     "name": "variableValue"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "audioName"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "audioRef"
                 }
             ],
@@ -6886,7 +6886,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "whistleConfig"
                 },
                 {
@@ -6904,11 +6904,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "audioName"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "sceneset"
                 }
             ],
@@ -6953,7 +6953,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "sceneset"
                 }
             ],
@@ -6981,11 +6981,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "audioName"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "audioRef"
                 }
             ],
@@ -7013,7 +7013,7 @@
             "comment": "_UNLOAD_[A-C]* - USE_*",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*", 
                     "name": "speechContext"
                 }
             ],
@@ -22750,11 +22750,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "animName"
                 }
             ],
@@ -72892,7 +72892,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "p1"
+                    "name": "health"
                 }
             ],
             "return_type": "void",
@@ -83660,7 +83660,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "p1"
+                    "name": "health"
                 }
             ],
             "return_type": "void",
@@ -109309,7 +109309,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "p1"
+                    "name": "health"
                 },
                 {
                     "type": "BOOL",
