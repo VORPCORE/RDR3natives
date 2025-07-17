@@ -905,14 +905,14 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0x4822A65D5AF64E69": {
             "name": "GET_ANIM_SCENE_CURRENT_ACTIVE_CAMERA_COUNT",
@@ -930,7 +930,7 @@
         },
         "0x8398438D8F14F56D": {
             "name": "GET_ANIM_SCENE_ENTITY_LOCATION_DATA",
-            "comment": "p5 is always 2",
+            "comment": "",
             "params": [
                 {
                     "type": "AnimScene",
@@ -949,7 +949,7 @@
                     "name": "p3"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "playbackListName"
                 },
                 {
@@ -960,7 +960,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0xCC24CB07F60B496E": {
             "name": "GET_ANIM_SCENE_FLOAT",
@@ -971,14 +971,14 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
             "return_type": "float",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0x2B7277484CC095FD": {
             "name": "GET_ANIM_SCENE_INT",
@@ -1399,7 +1399,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 },
                 {
@@ -1414,7 +1414,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0x020894BF17A02EF2": {
             "name": "SET_ANIM_SCENE_ORIGIN",
@@ -1485,14 +1485,14 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "playbackListName"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0x15598CFB25F3DC7E": {
             "name": "SET_ANIM_SCENE_PLAY_LIST",
@@ -1503,7 +1503,7 @@
                     "name": "animScene"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "playlistName"
                 },
                 {
@@ -1514,7 +1514,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0x75820B801CFF262A": {
             "name": "SET_ANIM_SCENE_RATE",
@@ -18275,11 +18275,11 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 }
             ],
@@ -18288,7 +18288,7 @@
             "gta_hash": "0xFEDDF04D62B8D790",
             "gta_jhash": "0x8B5E3E3D",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0x61914209C36EFDDB": {
             "name": "GET_CARRIABLE_ENTITY_STATE",
@@ -22750,11 +22750,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 }
             ],
@@ -72892,13 +72892,13 @@
                 },
                 {
                     "type": "float",
-                    "name": "health"
+                    "name": "p1"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0x29F3539189D3E277": {
             "name": "_0x29F3539189D3E277",
@@ -83660,13 +83660,13 @@
                 },
                 {
                     "type": "float",
-                    "name": "health"
+                    "name": "p1"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0x05CE6AF4DF071D23": {
             "name": "_SET_PED_LADDER_MOVEMENT_SPEED_MODIFIER",
@@ -109309,7 +109309,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "health"
+                    "name": "p1"
                 },
                 {
                     "type": "BOOL",
@@ -109319,7 +109319,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0x42AC6401ABB8C7E5": {
             "name": "TASK_KNOCKED_OUT_AND_HOGTIED",
