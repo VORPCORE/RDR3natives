@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "animDict"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "animName"
             }
         ],
@@ -17,6 +17,6 @@
         "gta_hash": "0xFEDDF04D62B8D790",
         "gta_jhash": "0x8B5E3E3D",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
