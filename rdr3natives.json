@@ -135849,7 +135849,7 @@
         },
         "0xEC97101A8F311282": {
             "name": "_GET_DEFAULT_WEAPON_AMMO_TYPE",
-            "comment": "",
+            "comment": "Returns the default ammo type for a weapon",
             "params": [
                 {
                     "type": "Hash",
