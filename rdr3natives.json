@@ -135848,18 +135848,18 @@
             "apiset": "client"
         },
         "0xEC97101A8F311282": {
-            "name": "_0xEC97101A8F311282",
+            "name": "_GET_DEFAULT_WEAPON_AMMO_TYPE",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "weaponHash"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "Hash",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xECBB26529A737EF6": {
             "name": "_0xECBB26529A737EF6",
