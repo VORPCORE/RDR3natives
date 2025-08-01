@@ -65436,10 +65436,10 @@
         },
         "0x9E7738B291706746": {
             "name": "COMPUTE_SATCHEL_ITEM_FOR_PED_DAMAGE",
-            "comment": "returns the hash of the carcass quality of the ped",
+            "comment": "",
             "params": [
                 {
-                    "type": "Any*", 
+                    "type": "Any",
                     "name": "p0"
                 },
                 {
@@ -65454,7 +65454,7 @@
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0x5407B7288D0478B7": {
             "name": "COUNT_PEDS_IN_COMBAT_WITH_TARGET",
