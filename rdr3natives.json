@@ -115423,14 +115423,14 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1311",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x7FB78B2199C10E92": {
             "name": "_0x7FB78B2199C10E92",
