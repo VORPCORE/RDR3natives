@@ -135931,7 +135931,7 @@
         },
         "0xF8204EF17410BF43": {
             "name": "_0xF8204EF17410BF43",
-            "comment": "Returns weaponHash",
+            "comment": "seems to only return WEAPON_UNARMED hash p3 is always 0",
             "params": [
                 {
                     "type": "Hash",
@@ -135946,14 +135946,14 @@
                     "name": "p2"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p3"
                 }
             ],
             "return_type": "Hash",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xB190BCA3F4042F95": {
             "name": "_ADD_AMMO_TO_PED",
