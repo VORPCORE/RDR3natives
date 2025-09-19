@@ -8,11 +8,11 @@
                 "name": "ped"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animDict"
             },
             {
-                "type": "char*",
+                "type": "char",
                 "name": "animName"
             },
             {
@@ -77,6 +77,6 @@
         "gta_hash": "0x83CDB10EA29B370B",
         "gta_jhash": "0x3DDEB0E6",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
