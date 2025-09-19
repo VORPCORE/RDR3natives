@@ -1,28 +1,28 @@
 {
-	"0x87B66D77D545DB66": {
-		"name": "SET_ANIM_FILTER",
-		"comment": "",
-		"params": [
-			{
-				"type": "Entity",
-				"name": "entity"
-			},
-			{
-				"type": "const char",
-				"name": "filterName"
-			},
-			{
-				"type": "int",
-				"name": "priority"
-			},
-			{
-				"type": "BOOL",
-				"name": "secondary"
-			}
-		],
-		"return_type": "void",
-		"build": "1207",
-		"examples": [],
-		"apiset": "client"
-	}
+    "0x87B66D77D545DB66": {
+        "name": "SET_ANIM_FILTER",
+        "comment": "",
+       "params": [
+				{
+					"type": "Entity",
+					"name": "entity"
+				},
+				{
+					"type": "char*",
+					"name": "filterName"
+				},
+				{
+					"type": "int",
+					"name": "priority"
+				},
+				{
+					"type": "BOOL",
+					"name": "secondary"
+				}
+			],
+        "return_type": "void",
+        "build": "1207",
+        "examples": [],
+        "apiset": "client"
+    }
 }
