@@ -23250,11 +23250,11 @@
                     "name": "entity"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "animDict"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "animName"
                 },
                 {
@@ -110513,7 +110513,7 @@
             "gta_hash": "0x83CDB10EA29B370B",
             "gta_jhash": "0x3DDEB0E6",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xB31A277C1AC7B7FF": {
             "name": "TASK_PLAY_EMOTE_WITH_HASH",
