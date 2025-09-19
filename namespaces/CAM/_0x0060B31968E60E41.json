@@ -4,7 +4,7 @@
         "comment": "shakeNames in script_rel: CORRECTOR_SHAKE, MINIGAME_BOUNTY_SHAKE, POV_DRUNK_SHAKE, DRUNK_SHAKE, MINIGAME_TRAIN_SHAKE\n_IS_GAMEPLAY_*",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "shakeName"
             }
         ],
