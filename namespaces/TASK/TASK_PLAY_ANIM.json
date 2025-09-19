@@ -8,11 +8,11 @@
                 "name": "ped"
             },
             {
-                "type": "char",
+                "type": "const char",
                 "name": "animDict"
             },
             {
-                "type": "char",
+                "type": "const char",
                 "name": "animName"
             },
             {
@@ -48,7 +48,7 @@
                 "name": "p10"
             },
             {
-                "type": "char",
+                "type": "const char",
                 "name": "taskFilter"
             },
             {
