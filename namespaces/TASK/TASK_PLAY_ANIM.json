@@ -1,7 +1,7 @@
 {
     "0xEA47FE3719165B94": {
         "name": "TASK_PLAY_ANIM",
-        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/animations\nflags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eScriptedAnimFlags\nikFlags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eIkControlFlags ",
+        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/animations\n\nflags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eScriptedAnimFlags\n\nikFlags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eIkControlFlags \n\nanimFilters: https://pastebin.com/1sGhKVvS ",
         "params": [
             {
                 "type": "Ped",
