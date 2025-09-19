@@ -10486,14 +10486,14 @@
             "comment": "shakeNames in script_rel: CORRECTOR_SHAKE, MINIGAME_BOUNTY_SHAKE, POV_DRUNK_SHAKE, DRUNK_SHAKE, MINIGAME_TRAIN_SHAKE\n_IS_GAMEPLAY_*",
             "params": [
                 {
-                    "type": "const char",
+                    "type": "const char*",
                     "name": "shakeName"
                 }
             ],
             "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0x04084490CC302CFB": {
             "name": "_0x04084490CC302CFB",
@@ -71690,7 +71690,7 @@
         },
         "0xBF25EB89375A37AD": {
             "name": "SET_RELATIONSHIP_BETWEEN_GROUPS",
-            "comment": "enum eRelationType\n{\n\tACQUAINTANCE_TYPE_PED_NONE = 0,\n\tACQUAINTANCE_TYPE_PED_RESPECT = 1,\n\tACQUAINTANCE_TYPE_PED_LIKE = 2,\n\tACQUAINTANCE_TYPE_PED_IGNORE = 3,\n\tACQUAINTANCE_TYPE_PED_DISLIKE = 4,\n\tACQUAINTANCE_TYPE_PED_WANTED = 5,\n\tACQUAINTANCE_TYPE_PED_HATE = 6,\n\tACQUAINTANCE_TYPE_PED_DEAD = 7,\n\tACQUAINTANCE_TYPE_PED_DISGUISE = 8,\n\tACQUAINTANCE_TYPE_PED_THIEF = 9,\n}; \n\n https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eRelationType",
+            "comment": "",
             "params": [
                 {
                     "type": "int",
@@ -110373,7 +110373,7 @@
         },
         "0xEA47FE3719165B94": {
             "name": "TASK_PLAY_ANIM",
-            "comment": "https://github.com/femga/rdr3_discoveries/tree/master/animations\n\nflags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eScriptedAnimFlags\n\nikFlags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eIkControlFlags \n\nanimFilters: https://pastebin.com/1sGhKVvS ",
+            "comment": "https://github.com/femga/rdr3_discoveries/tree/master/animations\nflags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eScriptedAnimFlags\nikFlags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eIkControlFlags ",
             "params": [
                 {
                     "type": "Ped",
