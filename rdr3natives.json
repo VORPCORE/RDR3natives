@@ -4571,7 +4571,7 @@
             "comment": "https://github.com/femga/rdr3_discoveries/blob/master/audio/music_events/music_events.lua",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "eventName"
                 }
             ],
