@@ -116033,18 +116033,18 @@
             "apiset": ""
         },
         "0xAC5045AB7F1A34FD": {
-            "name": "_0xAC5045AB7F1A34FD",
-            "comment": "",
+            "name": "_IS_PED_BEING_LED",
+            "comment": "returns true if the specified mount (horse) is currently being led by the player, otherwise false.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "mount"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xADC45010BC17AF0E": {
             "name": "_0xADC45010BC17AF0E",
