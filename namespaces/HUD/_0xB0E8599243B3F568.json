@@ -1,16 +1,16 @@
 {
     "0xB0E8599243B3F568": {
-        "name": "_0xB0E8599243B3F568",
-        "comment": "",
+        "name": "_UI_PROMPT_HAS_MASH_MODE_JUST_PRESSED",
+        "comment": "returns true if the mash mode have just been pressed",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Prompt",
+                "name": "prompt"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
