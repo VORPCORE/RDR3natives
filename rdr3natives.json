@@ -62673,7 +62673,7 @@
             "comment": "rumbleCurve: common_0/data/rumblecurves.meta",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "rumbleCurve"
                 },
                 {
@@ -64590,7 +64590,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "name"
                 }
             ],
@@ -64608,7 +64608,7 @@
                     "name": "vehicle"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "navMeshName"
                 }
             ],
@@ -73547,7 +73547,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -73565,7 +73565,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -73985,7 +73985,7 @@
                     "name": "zRot"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "damagePack"
                 }
             ],
@@ -75725,7 +75725,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -77128,11 +77128,11 @@
                     "name": "object"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "propName"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "animName"
                 }
             ],
@@ -77730,7 +77730,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p1"
                 }
             ],
@@ -77958,7 +77958,7 @@
                     "name": "p1"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p2"
                 },
                 {
@@ -78298,7 +78298,7 @@
                     "name": "p8"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "p9"
                 }
             ],
@@ -79958,7 +79958,7 @@
                     "name": "ped"
                 },
                 {
-                    "type": "char*",
+                    "type": "const char*",
                     "name": "variableName"
                 }
             ],
