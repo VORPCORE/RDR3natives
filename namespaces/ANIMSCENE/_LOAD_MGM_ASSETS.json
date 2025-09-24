@@ -4,7 +4,7 @@
         "comment": "Used to request MiniGameMoments Assets.\n\nmgmFilename's:\nPoker\nPokerArthur\nPokerArthurCamp\nPokerJohn\nPokerJohnCamp",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "mgmFilename"
             }
         ],

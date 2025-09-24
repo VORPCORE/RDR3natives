@@ -4,7 +4,7 @@
         "comment": "_UNLOAD_[A-C]* - USE_*",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*", 
                 "name": "speechContext"
             }
         ],

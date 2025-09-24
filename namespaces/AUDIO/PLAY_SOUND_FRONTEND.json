@@ -1,14 +1,14 @@
 {
     "0x67C540AA08E4A6F5": {
         "name": "PLAY_SOUND_FRONTEND",
-        "comment": "https://github.com/femga/rdr3_discoveries/tree/master/audio/frontend_soundsets",
+        "comment": "see a list of frontend sounds here: https://github.com/femga/rdr3_discoveries/tree/master/audio/frontend_soundsets",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "audioName"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "audioRef"
             },
             {

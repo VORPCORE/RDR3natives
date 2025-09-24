@@ -4,7 +4,7 @@
         "comment": "Used in SP R* Scripts only\n_IS_ANIM_SCENE_R* - _IS_ANIM_SCENE_S*",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "p0"
             }
         ],

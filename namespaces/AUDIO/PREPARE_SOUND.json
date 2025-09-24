@@ -4,11 +4,11 @@
         "comment": "soundId maybe be incorrect name for param p2, in the decompiles is always -2",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "soundName"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "soundsetName"
             },
             {

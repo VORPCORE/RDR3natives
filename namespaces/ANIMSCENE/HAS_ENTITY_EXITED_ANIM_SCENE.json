@@ -8,7 +8,7 @@
                 "name": "animScene"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "entityName"
             }
         ],

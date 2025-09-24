@@ -4,11 +4,11 @@
         "comment": "Creates stream and returns streamId handle to be used with PLAY_STREAM_* natives\nhttps://github.com/femga/rdr3_discoveries/tree/master/audio/create_stream",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "streamName"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "soundSet"
             }
         ],

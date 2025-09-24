@@ -4,11 +4,11 @@
         "comment": "",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "streamName"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "soundSet"
             }
         ],

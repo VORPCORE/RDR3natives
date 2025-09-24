@@ -4,7 +4,7 @@
         "comment": "https://github.com/femga/rdr3_discoveries/tree/master/audio/soundsets",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "soundsetName"
             },
             {

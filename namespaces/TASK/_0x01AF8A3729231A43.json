@@ -1,16 +1,16 @@
 {
     "0x01AF8A3729231A43": {
-        "name": "_0x01AF8A3729231A43",
-        "comment": "",
+        "name": "_GET_SCENARIO_CONTAINER_REMAINING_LOOT_COUNT",
+        "comment": "Returns the total number of lootable items currently inside the specified scenario container entity.This value decreases as items are looted. Before opening, it may return 0 because contents are not always loaded until the container is opened",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

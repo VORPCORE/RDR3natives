@@ -8,7 +8,7 @@
                 "name": "vehicle"
             },
             {
-                "type": "const char*",
+                "type": "char*", 
                 "name": "audioName"
             }
         ],

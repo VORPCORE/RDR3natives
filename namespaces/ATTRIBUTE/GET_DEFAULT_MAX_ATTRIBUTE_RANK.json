@@ -4,8 +4,8 @@
         "comment": "attributeIndex: see SET_ATTRIBUTE_BASE_RANK",
         "params": [
             {
-                "type": "Ped",
-                "name": "ped"
+                "type": "Hash",
+                "name": "modelHash"
             },
             {
                 "type": "int",
@@ -15,6 +15,6 @@
         "return_type": "int",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

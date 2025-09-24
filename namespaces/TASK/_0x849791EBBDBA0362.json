@@ -1,16 +1,16 @@
 {
     "0x849791EBBDBA0362": {
-        "name": "_0x849791EBBDBA0362",
-        "comment": "",
+        "name": "_GET_SCENARIO_CONTAINER_NUM_OPEN_COMPARTMENTS",
+        "comment": "Returns the number of currently open compartments for the specified scenario container entity if the container has closeable compartments (like drawers), this will return how many of them are currently open  if the container is not closeable (like a chest or safe that cannot be closed again), it will return 0",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }

@@ -4,7 +4,7 @@
         "comment": "MGM stands for MiniGameMoments.",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "mgmFilename"
             }
         ],

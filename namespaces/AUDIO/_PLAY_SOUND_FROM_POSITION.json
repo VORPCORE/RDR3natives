@@ -4,7 +4,7 @@
 		"comment": "Old name: _PLAY_SOUND_FROM_POSITION",
 		"params": [
 			{
-				"type": "const char*",
+				"type": "char*",
 				"name": "SoundName"
 			},
 			{
@@ -20,7 +20,7 @@
 				"name": "positionZ"
 			},
 			{
-				"type": "const char*",
+				"type": "char*",
 				"name": "SetName"
 			},
 			{

@@ -8,7 +8,7 @@
                 "name": "animScene"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "entityName"
             },
             {
@@ -20,7 +20,7 @@
                 "name": "p3"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "playbackListName"
             },
             {

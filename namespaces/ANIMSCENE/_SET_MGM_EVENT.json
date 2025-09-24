@@ -8,7 +8,7 @@
                 "name": "mgmEventHandle"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "p1"
             },
             {
