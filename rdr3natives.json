@@ -73575,8 +73575,8 @@
             "apiset": ""
         },
         "0x4642182A298187D0": {
-            "name": "_0x4642182A298187D0",
-            "comment": "",
+            "name": "_REQUEST_PED_CARRYING_STATE",
+            "comment": "Return the status of the wanted carrying action of a ped. unk3 is usually 4.You can also get the entity being carried and the entity it was taken from with a buffer.\n\nStatus:\n`INVALID = 0,\nSTARTING = 1,\nPROGRESSING = 2,\nFINISHING = 3`\nCARRYING TYPES:\n`UNK_0 = -1,\nUNK_1 = 0,\nUNK_2 = 1,\nUNK_3 = 2,\nUNK_4 = 3,\nCARRYING_FROM_GROUND = 4,\nCARRYING_FROM_MOUNT = 5,\nPUTTING_DOWN_GROUND = 6,\nPUTTING_DOWN_MOUNT = 7,\nUNK_9 = 8,\nUNK_10 = 9,\nUNK_11 = 10`\nFilters:\n`ENTITY_ONLY = 0,\nNOTHING = 1,\nENTITY_AND_TAKEN_FROM_ENTITY = 2`",
             "params": [
                 {
                     "type": "Ped",
@@ -73584,11 +73584,11 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "pcarryingType"
                 },
                 {
-                    "type": "Any*",
-                    "name": "p2"
+                    "type": "int*",
+                    "name": "outEntities"
                 },
                 {
                     "type": "int",
@@ -73596,13 +73596,18 @@
                 },
                 {
                     "type": "int",
-                    "name": "p4"
+                    "name": "filter"
                 }
             ],
             "return_type": "int",
             "build": "1207",
-            "examples": [],
-            "apiset": ""
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "local retval, entity = Citizen.InvokeNative(0x4642182A298187D0, PlayerPedId(), 1, Citizen.PointerValueInt(), 4, 0, Citizen.ResultAsInteger())\nlocal struct = DataView.ArrayBuffer(2*8)\nlocal retval = Citizen.InvokeNative(0x4642182A298187D0, PlayerPedId(), 5, struct:Buffer(), 4, 2, Citizen.ResultAsInteger())\nif retval ~= 0 then\nlocal entity = struct:GetInt32(0*8)\nlocal fromEntity = struct:GetInt32(1*8)\nend"
+                }
+            ],
+            "apiset": "client"
         },
         "0x46BF2A810679D6E6": {
             "name": "_0x46BF2A810679D6E6",
@@ -113811,8 +113816,8 @@
             "apiset": "client"
         },
         "0x141BC64C8D7C5529": {
-            "name": "_0x141BC64C8D7C5529",
-            "comment": "",
+            "name": "_CLEAR_VEHICLE_TASKS",
+            "comment": "Clears all active tasks assigned to the specified vehicle This cancels ongoing behaviors such as TASK_VEHICLE_DRIVE_TO_DESTINATION_2, or even tasks triggered by horses pulling the vehicle when they start moving due to gunfire etc.",
             "params": [
                 {
                     "type": "Vehicle",
@@ -113822,7 +113827,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x152664AA3188B193": {
             "name": "_0x152664AA3188B193",
