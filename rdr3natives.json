@@ -113580,18 +113580,23 @@
             "apiset": ""
         },
         "0x03D741CB4052E26C": {
-            "name": "_0x03D741CB4052E26C",
-            "comment": "",
+            "name": "_GET_PED_BREAK_FREE_PROGRESS",
+            "comment": "Returns the current progress of the (Break Free) prompt when the specified ped is hogtied or knocked out.  The value increases as the player spams the prompt key until it reaches 1.0, at which point the ped breaks free.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "float",
             "build": "1232",
-            "examples": [],
-            "apiset": ""
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "local progress = Citizen.InvokeNative(0x03D741CB4052E26C, PlayerPedId(), Citizen.ResultAsFloat())\n\n--progress will be between 0.0 and 1.0 depending on how far the break free action has advanced."
+                }
+            ],
+            "apiset": "client"
         },
         "0x06ECF3925BC2ABAE": {
             "name": "_SET_PED_PATH_MAY_USE_SLIDING_SURFACES",
