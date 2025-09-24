@@ -2639,8 +2639,8 @@
             "comment": "attributeIndex: see SET_ATTRIBUTE_BASE_RANK",
             "params": [
                 {
-                    "type": "Ped",
-                    "name": "ped"
+                    "type": "Hash",
+                    "name": "modelHash"
                 },
                 {
                     "type": "int",
@@ -2650,7 +2650,7 @@
             "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x223BF310F854871C": {
             "name": "GET_MAX_ATTRIBUTE_POINTS",
@@ -2686,7 +2686,7 @@
             "return_type": "int",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x5DA12E025D47D4E5": {
             "name": "SET_ATTRIBUTE_BASE_RANK",
@@ -2708,7 +2708,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x920F9488BD115EFB": {
             "name": "SET_ATTRIBUTE_BONUS_RANK",
