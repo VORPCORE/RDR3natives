@@ -1,7 +1,7 @@
 {
     "0x141BC64C8D7C5529": {
-        "name": "_0x141BC64C8D7C5529",
-        "comment": "",
+        "name": "_CLEAR_VEHICLE_TASKS",
+        "comment": "Clears all active tasks assigned to the specified vehicle This cancels ongoing behaviors such as TASK_VEHICLE_DRIVE_TO_DESTINATION_2, or even tasks triggered by horses pulling the vehicle when they start moving due to gunfire etc.",
         "params": [
             {
                 "type": "Vehicle",
@@ -11,6 +11,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
