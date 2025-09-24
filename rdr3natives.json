@@ -113708,30 +113708,35 @@
             "apiset": ""
         },
         "0x0FE797DD9F70DFA6": {
-            "name": "_0x0FE797DD9F70DFA6",
-            "comment": "",
+            "name": "_SET_INTIMIDATED_FACING_ANGLE",
+            "comment": "Configures how an intimidated/hogtied ped faces the player If useLimits is false (0), the ped always fully faces the player.If useLimits is true (1), the ped\u2019s facing is restricted within the given angle range [minAngle, maxAngle]",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "useLimits"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "minAngle"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "maxAngle"
                 }
             ],
             "return_type": "void",
             "build": "1207",
-            "examples": [],
-            "apiset": ""
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "--Set ped interaction personality to scripted timid robbery\nCitizen.InvokeNative(0x24C82EF607105FAA, ped, joaat(\"SCRIPTEDTIMIDROB\"))\n-- Start intimidated task with the player\nCitizen.InvokeNative(0x933ACC1A1771A288, ped, PlayerPedId(), 1, 0, 0, 0, 0, 0, 83968)\n-- Make the ped face within the range 0.0 to -360.0 degrees\nCitizen.InvokeNative(0x0FE797DD9F70DFA6, ped, 1, 0.0, -360.0)\n-- Force the ped to always face the player\nCitizen.InvokeNative(0x0FE797DD9F70DFA6, ped, 0)"
+                }
+            ],
+            "apiset": "client"
         },
         "0x10ADFDF07B7DFFBA": {
             "name": "_0x10ADFDF07B7DFFBA",
