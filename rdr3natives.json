@@ -113593,7 +113593,7 @@
             "examples": [
                 {
                     "lang": "lua",
-                    "code": "local progress = Citizen.InvokeNative(0x03D741CB4052E26C, PlayerPedId(), Citizen.ResultAsFloat())\n\n--progress will be between 0.0 and 1.0 depending on how far the break free action has advanced."
+                    "code": "local progress = Citizen.InvokeNative(0x03D741CB4052E26C, PlayerPedId(), Citizen.ResultAsFloat())\n--progress will be between 0.0 and 1.0 depending on how far the break free action has advanced."
                 }
             ],
             "apiset": "client"
