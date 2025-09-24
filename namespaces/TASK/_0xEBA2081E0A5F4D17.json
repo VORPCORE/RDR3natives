@@ -1,16 +1,16 @@
 {
     "0xEBA2081E0A5F4D17": {
         "name": "_0xEBA2081E0A5F4D17",
-        "comment": "",
+        "comment": "in the decompiles seems to always be paired with _CLEAR_VEHICLE_TASKS",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
