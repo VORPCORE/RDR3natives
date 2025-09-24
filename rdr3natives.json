@@ -115020,18 +115020,18 @@
             "apiset": ""
         },
         "0x640A602946A8C972": {
-            "name": "_GET_SCENARIO_CONTAINER_NUM_COMPARTMENTS",
-            "comment": "returns the total number of compartments (drawers, lids, etc.) the specified scenario container entity has for example, a chest has 1 compartment, while a cabinet with 3 drawers returns 3.",
+            "name": "_0x640A602946A8C972",
+            "comment": "",
             "params": [
                 {
-                    "type": "Entity",
-                    "name": "entity"
+                    "type": "Any",
+                    "name": "p0"
                 }
             ],
-            "return_type": "int",
+            "return_type": "Any",
             "build": "1207",
             "examples": [],
-            "apiset": "client"
+            "apiset": ""
         },
         "0x643FD1556F621772": {
             "name": "_0x643FD1556F621772",
