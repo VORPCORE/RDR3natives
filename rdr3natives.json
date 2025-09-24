@@ -113817,7 +113817,7 @@
         },
         "0x141BC64C8D7C5529": {
             "name": "_CLEAR_VEHICLE_TASKS",
-            "comment": "Clears all active tasks assigned to the specified vehicle This cancels ongoing behaviors such as TASK_VEHICLE_DRIVE_TO_DESTINATION_2, or even tasks triggered by horses pulling the vehicle when they start moving due to gunfire etc.",
+            "comment": "Clears all active tasks assigned to the specified vehicle This cancels ongoing behaviors such as TASK_VEHICLE_DRIVE_TO_DESTINATION_2, or even tasks triggered by horses pulling the vehicle when they start moving due to gunfire etc. in the decompiles seems to always be paired with `0xEBA2081E0A5F4D17`",
             "params": [
                 {
                     "type": "Vehicle",
@@ -116794,17 +116794,17 @@
         },
         "0xEBA2081E0A5F4D17": {
             "name": "_0xEBA2081E0A5F4D17",
-            "comment": "",
+            "comment": "in the decompiles seems to always be paired with _CLEAR_VEHICLE_TASKS",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 }
             ],
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xEC516FE805D2CB2D": {
             "name": "_0xEC516FE805D2CB2D",
