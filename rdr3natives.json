@@ -33323,7 +33323,7 @@
         },
         "0x8BC7C1F929D07BF3": {
             "name": "_DISABLE_HUD_CONTEXT",
-            "comment": "Old name: _DISPLAY_HUD_COMPONENT",
+            "comment": "https://gist.github.com/outsider31000/c640961d17b2e4fb0435a413710e1930 list of presets\nOld name: _DISPLAY_HUD_COMPONENT",
             "params": [
                 {
                     "type": "Hash",
@@ -33333,7 +33333,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xC5C7A2F6567FCCBC": {
             "name": "_DISABLE_REDUCED_MENU_TIME_SCALE",
@@ -33383,7 +33383,7 @@
         },
         "0x4CC5F2FC1332577F": {
             "name": "_ENABLE_HUD_CONTEXT",
-            "comment": "https://github.com/femga/rdr3_discoveries/tree/master/graphics/HUD/hud_presets\nOld name: _HIDE_HUD_COMPONENT",
+            "comment": "https://gist.github.com/outsider31000/c640961d17b2e4fb0435a413710e1930 list of presets\nOld name: _HIDE_HUD_COMPONENT",
             "params": [
                 {
                     "type": "Hash",
@@ -33393,11 +33393,11 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0xC9CAEAEEC1256E54": {
             "name": "_ENABLE_HUD_CONTEXT_THIS_FRAME",
-            "comment": "",
+            "comment": "https://gist.github.com/outsider31000/c640961d17b2e4fb0435a413710e1930 list of presets",
             "params": [
                 {
                     "type": "Hash",
@@ -33407,7 +33407,7 @@
             "return_type": "void",
             "build": "1207",
             "examples": [],
-            "apiset": ""
+            "apiset": "client"
         },
         "0x26F6BBEA2CE3E3DC": {
             "name": "_ENABLE_REDUCED_MENU_TIME_SCALE",
@@ -116249,7 +116249,7 @@
         },
         "0xB8F52A3F84A7CC59": {
             "name": "_HAS_CARRIABLE_CONFIG_HASH_LOADED",
-            "comment": "list of carriable configs  https://gist.github.com/WesternGamer/95a1f8daf02520cad2bf96af6d957e70",
+            "comment": "list of carriable configs  https://gist.github.com/outsider31000/6272561fb992ccff80efbd130e0e9b9f",
             "params": [
                 {
                     "type": "Hash",
@@ -117005,7 +117005,7 @@
         },
         "0xFF745B0346E19E2C": {
             "name": "_LOAD_CARRIABLE_CONFIG_HASH",
-            "comment": "https://gist.github.com/WesternGamer/95a1f8daf02520cad2bf96af6d957e70 carriable config list ",
+            "comment": "https://gist.github.com/outsider31000/6272561fb992ccff80efbd130e0e9b9f carriable config list ",
             "params": [
                 {
                     "type": "Hash",
