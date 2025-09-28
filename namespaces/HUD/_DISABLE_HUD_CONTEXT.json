@@ -1,7 +1,7 @@
 {
     "0x8BC7C1F929D07BF3": {
         "name": "_DISABLE_HUD_CONTEXT",
-        "comment": "Old name: _DISPLAY_HUD_COMPONENT",
+        "comment": "https://gist.github.com/outsider31000/c640961d17b2e4fb0435a413710e1930 list of presets\nOld name: _DISPLAY_HUD_COMPONENT",
         "params": [
             {
                 "type": "Hash",
@@ -11,6 +11,6 @@
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
