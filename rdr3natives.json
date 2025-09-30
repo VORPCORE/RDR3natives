@@ -4645,15 +4645,15 @@
         },
         "0x018ABE833CA64D2A": {
             "name": "_0x018ABE833CA64D2A",
-            "comment": "",
+            "comment": "_RESET_PED_* hash used is MOONSHINE_BAND used along side 0xBC07CA8FD710E7FD",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Hash",
+                    "name": "hash"
                 }
             ],
             "return_type": "void",
@@ -4784,14 +4784,14 @@
         },
         "0x139A4B9DF2D26CBF": {
             "name": "_0x139A4B9DF2D26CBF",
-            "comment": "",
+            "comment": "p1 is an int seems to be a duration returned from 0x886657C5B3D8EDE3",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p1"
                 }
             ],
@@ -5101,26 +5101,26 @@
         },
         "0x448F2647DD6F2E27": {
             "name": "_0x448F2647DD6F2E27",
-            "comment": "",
+            "comment": "_SET_PED_PLAY_GESTURE_ANIMS? p2 seems to be a flag string used example \n AI_GESTURES@INSTRUMENTS@FIDDLE@STANDING@MALE@NORMAL",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Hash",
+                    "name": "hash"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p2"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "char*",
+                    "name": "gestureAnim"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p4"
                 }
             ],
@@ -5588,14 +5588,14 @@
         },
         "0x886657C5B3D8EDE3": {
             "name": "_0x886657C5B3D8EDE3",
-            "comment": "",
+            "comment": "seems to return a duration to be used in 0x139A4B9DF2D26CBF",
             "params": [
                 {
-                    "type": "Entity",
-                    "name": "entity"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1232",
             "examples": [],
             "apiset": ""
@@ -5802,7 +5802,7 @@
         },
         "0xB93A769B8B726950": {
             "name": "_0xB93A769B8B726950",
-            "comment": "Used in Script Function NET_CAMP_CLIENT_UPDATE_PED_ROLE_STATE_SHOP: hash exists! Playing hash",
+            "comment": "seems to be for moonshine_band stuff heres some hashes it accepts\n1949731019, -1542215752, 978192019 == moonshine_band, 533120, 1180906091, 1260094407, 1057811885, -1044357807,487746791,51469403",
             "params": [
                 {
                     "type": "Ped",
@@ -5820,15 +5820,15 @@
         },
         "0xBC07CA8FD710E7FD": {
             "name": "_0xBC07CA8FD710E7FD",
-            "comment": "",
+            "comment": "_RESET_PED_* hash used is MOONSHINE_BAND used along side 0x018ABE833CA64D2A",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Hash",
+                    "name": "hash"
                 }
             ],
             "return_type": "void",
@@ -5838,11 +5838,11 @@
         },
         "0xBE28DB99556FF8D9": {
             "name": "_0xBE28DB99556FF8D9",
-            "comment": "Checks for MOONSHINE_BAND",
+            "comment": "Checks if ped  has moonshine_band _GET_PED_*",
             "params": [
                 {
-                    "type": "Entity",
-                    "name": "entity"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
             "return_type": "Hash",
@@ -6111,14 +6111,14 @@
         },
         "0xE9694B2D6CB87B06": {
             "name": "_0xE9694B2D6CB87B06",
-            "comment": "",
+            "comment": "seems to be a _SET_PED_* that accepts p1 from GET_PED_SONG_INDEX_HOST",
             "params": [
                 {
-                    "type": "Entity",
-                    "name": "entity"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p1"
                 }
             ],
@@ -6391,14 +6391,14 @@
         },
         "0x2DBBF0C5E19383EE": {
             "name": "_GET_PED_SONG_INDEX_HOST",
-            "comment": "",
+            "comment": " seems to be used for  0xE9694B2D6CB87B06",
             "params": [
                 {
                     "type": "Ped",
                     "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1232",
             "examples": [],
             "apiset": ""
