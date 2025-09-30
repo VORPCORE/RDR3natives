@@ -1,10 +1,10 @@
 {
     "0x64340DC208D671D5": {
-        "name": "_0x64340DC208D671D5",
-        "comment": "coverLayer: see levels_0/levels/rdr3/coverlayers",
+        "name": "_ACTIVATE_COVER_LAYER",
+        "comment": "activates a cover layer, these seem to be for specifc scenes in SP for example where a table is flipped using \"grand_korr_poker_table_flipped\" see more in levels\\rdr3\\coverlayers.rpf ",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "coverLayer"
             }
         ],
