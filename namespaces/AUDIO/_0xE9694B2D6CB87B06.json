@@ -1,14 +1,14 @@
 {
     "0xE9694B2D6CB87B06": {
         "name": "_0xE9694B2D6CB87B06",
-        "comment": "",
+        "comment": "seems to be a _SET_PED_* that accepts p1 from GET_PED_SONG_INDEX_HOST",
         "params": [
             {
-                "type": "Entity",
-                "name": "entity"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p1"
             }
         ],

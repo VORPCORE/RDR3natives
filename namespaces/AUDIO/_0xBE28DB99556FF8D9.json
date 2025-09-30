@@ -1,11 +1,11 @@
 {
     "0xBE28DB99556FF8D9": {
         "name": "_0xBE28DB99556FF8D9",
-        "comment": "Checks for MOONSHINE_BAND",
+        "comment": "Checks if ped  has moonshine_band _GET_PED_*",
         "params": [
             {
-                "type": "Entity",
-                "name": "entity"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
         "return_type": "Hash",

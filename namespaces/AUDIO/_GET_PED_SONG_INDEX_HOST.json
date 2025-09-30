@@ -1,14 +1,14 @@
 {
     "0x2DBBF0C5E19383EE": {
         "name": "_GET_PED_SONG_INDEX_HOST",
-        "comment": "",
+        "comment": " seems to be used for  0xE9694B2D6CB87B06",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1232",
         "examples": [],
         "apiset": ""

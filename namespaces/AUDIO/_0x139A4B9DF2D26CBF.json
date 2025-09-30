@@ -1,14 +1,14 @@
 {
     "0x139A4B9DF2D26CBF": {
         "name": "_0x139A4B9DF2D26CBF",
-        "comment": "",
+        "comment": "p1 is an int seems to be a duration returned from 0x886657C5B3D8EDE3",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p1"
             }
         ],

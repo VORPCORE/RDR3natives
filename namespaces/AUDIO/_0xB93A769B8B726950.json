@@ -1,7 +1,7 @@
 {
     "0xB93A769B8B726950": {
         "name": "_0xB93A769B8B726950",
-        "comment": "Used in Script Function NET_CAMP_CLIENT_UPDATE_PED_ROLE_STATE_SHOP: hash exists! Playing hash",
+        "comment": "seems to be for moonshine_band stuff heres some hashes it accepts\n1949731019, -1542215752, 978192019 == moonshine_band, 533120, 1180906091, 1260094407, 1057811885, -1044357807,487746791,51469403",
         "params": [
             {
                 "type": "Ped",

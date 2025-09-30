@@ -1,14 +1,14 @@
 {
     "0x886657C5B3D8EDE3": {
         "name": "_0x886657C5B3D8EDE3",
-        "comment": "",
+        "comment": "seems to return a duration to be used in 0x139A4B9DF2D26CBF",
         "params": [
             {
-                "type": "Entity",
-                "name": "entity"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1232",
         "examples": [],
         "apiset": ""
