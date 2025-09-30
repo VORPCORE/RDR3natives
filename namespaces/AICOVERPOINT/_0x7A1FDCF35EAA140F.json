@@ -1,10 +1,10 @@
 {
     "0x7A1FDCF35EAA140F": {
-        "name": "_0x7A1FDCF35EAA140F",
-        "comment": "coverLayer: see levels_0/levels/rdr3/coverlayers",
+        "name": "_DEACTIVATE_COVER_LAYER",
+        "comment": "deactivates a cover layer activated with 0x64340DC208D671D5 coverLayer: see levels_0/levels/rdr3/coverlayers",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "coverLayer"
             }
         ],
