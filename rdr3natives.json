@@ -121809,8 +121809,8 @@
             "apiset": ""
         },
         "0x18D6869FBFFEC0F8": {
-            "name": "_UI_FEED_POST_INTERACTIVE_TOAST",
-            "comment": "notification you need dataview",
+            "name": "_0x18D6869FBFFEC0F8",
+            "comment": "Only used in R* SP Scripts",
             "params": [
                 {
                     "type": "Any*",
@@ -121875,8 +121875,8 @@
             "apiset": ""
         },
         "0xAFF5BE9BA496CE40": {
-            "name": "_UI_FEED_POST_COLLECTOR_TOAST",
-            "comment": "notification you need dataview",
+            "name": "_0xAFF5BE9BA496CE40",
+            "comment": "",
             "params": [
                 {
                     "type": "Any*",
