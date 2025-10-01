@@ -1,7 +1,7 @@
 {
     "0xAFF5BE9BA496CE40": {
-        "name": "_0xAFF5BE9BA496CE40",
-        "comment": "",
+        "name": "_UI_FEED_POST_COLLECTOR_TOAST",
+        "comment": "notification you need dataview",
         "params": [
             {
                 "type": "Any*",
