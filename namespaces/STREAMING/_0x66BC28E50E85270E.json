@@ -1,14 +1,14 @@
 {
     "0x66BC28E50E85270E": {
-        "name": "_0x66BC28E50E85270E",
-        "comment": "",
+        "name": "_REMOVE_SCENARIO_TYPE_FOR_PED",
+        "comment": "removes the requested scenario type for ped using the id returned by `_REQUEST_SCENARIO_TYPE_FOR_PED`",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "int",
+                "name": "scenarioTypeId"
             }
         ],
-        "return_type": "Any",
+        "return_type": "void",
         "build": "1207",
         "examples": [],
         "apiset": ""

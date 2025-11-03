@@ -1,34 +1,34 @@
 {
     "0xD508FA229F1C4900": {
-        "name": "_0xD508FA229F1C4900",
-        "comment": "",
+        "name": "_FIND_SCENARIO_AT_OBJECT_OF_TYPE",
+        "comment": "Returns a scenario point handle of the given scenario type that is associated with / found near the specified object. Useful for attached scenarios (e.g., ransackable lockboxes on a prop)",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Object",
+                "name": "object"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "x"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "y"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "z"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "Hash",
+                "name": "scenarioType"
             },
             {
-                "type": "Any",
-                "name": "p5"
+                "type": "float",
+                "name": "radius"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
         "apiset": ""

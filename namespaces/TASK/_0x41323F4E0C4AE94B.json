@@ -1,34 +1,34 @@
 {
     "0x41323F4E0C4AE94B": {
-        "name": "_0x41323F4E0C4AE94B",
-        "comment": "",
+        "name": "TASK_FORCE_AIM_AT_COORD",
+        "comment": "Force a ped that is already attacking to aim directly at the specified world coordinates",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "x"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "y"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "z"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p4"
             },
             {
-                "type": "Any",
+                "type": "BOOL",
                 "name": "p5"
             },
             {
-                "type": "Any",
+                "type": "BOOL",
                 "name": "p6"
             }
         ],

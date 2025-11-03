@@ -1,7 +1,7 @@
 {
     "0x957D7E750216D74B": {
-        "name": "_0x957D7E750216D74B",
-        "comment": "",
+        "name": "_GET_PED_COVER_POINT_TRANSITION_STATE",
+        "comment": "returns the active transition state of a cover point for about 2 seconds unless its peeking\n 1 - transition from pointing a gun to not pointing a gun\n2 - transition to pointing a gun\n3 - broke the window \n4 - when opening a door while in cover (a prompt will show and once pressed state is changed to 4)\n5 - cover transition like from one corner of a house to the other corner\n6 - changing cover to cover like crossing from one side of the door to the other\n7 - when the ped is facing foward with the camera, might be to detect when going from left to right\n8 - when the ped is peeking through a door window etc (this will return 8 while is in peek)\n9 - when a ped is aiming in crouch and enters cover (it doesnt always trigger)\n10 - enters cover\n12 - leaves cover\n16 - changed to crouch or to standing up position",
         "params": [
             {
                 "type": "Ped",

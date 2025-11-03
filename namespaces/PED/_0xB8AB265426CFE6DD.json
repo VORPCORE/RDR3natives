@@ -1,7 +1,7 @@
 {
     "0xB8AB265426CFE6DD": {
         "name": "_0xB8AB265426CFE6DD",
-        "comment": "_SET_HO*",
+        "comment": "_SET_HO* Sets some flag on a horse",
         "params": [
             {
                 "type": "Ped",

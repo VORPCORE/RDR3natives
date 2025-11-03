@@ -1,23 +1,23 @@
 {
     "0xAF2EF28CE3084505": {
-        "name": "_0xAF2EF28CE3084505",
-        "comment": "",
+        "name": "_UPDATE_TASK_VEHICLE_SHOOT_AT_COORD",
+        "comment": "Updates the target coordinate of an ongoing SCRIPT_TASK_VEHICLE_SHOOT_AT_COORD for the given ped This lets you retarget the shooting point in real time without restarting the task\nHas effect only while the ped’s task status for `SCRIPT_TASK_VEHICLE_SHOOT_AT_COORD` is `TASK_STATUS_ONGOING` (commonly 1) If the task hasn’t started yet (status 0 or not running), use `TASK_VEHICLE_SHOOT_AT_COORD` first; after it becomes active, call this to update the aim point Compared to `TASK_VEHICLE_SHOOT_AT_COORD`: the latter starts (or re-queues) the task with an initial target; this native *only* updates the active task’s target coordinate.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "x"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "y"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "z"
             }
         ],
         "return_type": "void",

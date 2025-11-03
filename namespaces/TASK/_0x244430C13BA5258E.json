@@ -1,26 +1,26 @@
 {
     "0x244430C13BA5258E": {
         "name": "_0x244430C13BA5258E",
-        "comment": "",
+        "comment": "_FIND_NEAREST_PED_*\nFinds the nearest ped around the specified originPed, with optional filters for life state and predator/fish behavior\n(all false) returns the nearest ped regardless of alive/dead state",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "originPed"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "aliveOnly"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "BOOL",
+                "name": "deadOnly"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "BOOL",
+                "name": "predatorPreferDead"
             }
         ],
-        "return_type": "Any",
+        "return_type": "Ped",
         "build": "1207",
         "examples": [],
         "apiset": ""

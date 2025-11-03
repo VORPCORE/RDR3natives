@@ -1,7 +1,7 @@
 {
     "0xCE7A6C1D5CDE1F9D": {
-        "name": "_0xCE7A6C1D5CDE1F9D",
-        "comment": "",
+        "name": "_PLAY_CONDITIONAL_ANIM_WITH_PROPITEM",
+        "comment": "Plays a conditional locomotion animation with an attached prop item,commonly used for LOCO attachment interactions (e.g., attaching/carrying a crate) ex conditionalAnimName: LOCO_ATTACH_CRATE_TNT",
         "params": [
             {
                 "type": "Ped",
@@ -12,12 +12,12 @@
                 "name": "object"
             },
             {
-                "type": "const char*",
-                "name": "propName"
+                "type": "char*",
+                "name": "propItemName"
             },
             {
-                "type": "const char*",
-                "name": "animName"
+                "type": "char*",
+                "name": "conditionalAnimName"
             }
         ],
         "return_type": "void",

@@ -1,7 +1,7 @@
 {
     "0x2C497BDEF897C6DF": {
         "name": "_0x2C497BDEF897C6DF",
-        "comment": "",
+        "comment": "_GET_ANIM_SCENE_FROM_PED_*",
         "params": [
             {
                 "type": "Any",

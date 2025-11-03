@@ -1,6 +1,6 @@
 {
     "0xFD4272A137703449": {
-        "name": "_NETWORK_LEAVE_SESSION",
+        "name": "_NETWORK_SESSION_REQUEST_TERMINATE",
         "comment": "Only used in R* Script startup_clip Seems to just kill the network connection, sets the players coords to 0, 0, 0 when doing GetEntityCoords",
         "params": [],
         "return_type": "void",

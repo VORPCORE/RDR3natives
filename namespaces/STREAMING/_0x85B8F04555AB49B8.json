@@ -1,14 +1,14 @@
 {
     "0x85B8F04555AB49B8": {
-        "name": "_0x85B8F04555AB49B8",
+        "name": "_HAS_CLIP_SET_LOADED_2",
         "comment": "",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "char*",
+                "name": "clipset"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

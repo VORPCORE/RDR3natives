@@ -1,7 +1,7 @@
 {
     "0x9ADDBB9242179D56": {
-        "name": "_0x9ADDBB9242179D56",
-        "comment": "",
+        "name": "_REQUEST_CARRIABLE_HAT_EQUIP_TO_PED",
+        "comment": "Requests that the given carriable hat be assigned for equip by the ped. After success, `_IS_CARRIABLE_HAT_PICKUP_REQUEST_ACTIVE` will return true",
         "params": [
             {
                 "type": "Object",

@@ -1,11 +1,11 @@
 {
     "0x9EBD34958AB6F824": {
-        "name": "_0x9EBD34958AB6F824",
-        "comment": "",
+        "name": "_REMOVE_TASK_CARRIABLE",
+        "comment": "Removes the TaskCarriable association for the given entity. If a ped is currently carrying this entity, it will be **dropped** immediately. If it is not being carried, the carriable link/state created via TaskCarriable(...) is cleared",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             }
         ],
         "return_type": "void",

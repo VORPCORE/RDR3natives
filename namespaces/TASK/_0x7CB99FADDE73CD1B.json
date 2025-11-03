@@ -1,14 +1,14 @@
 {
     "0x7CB99FADDE73CD1B": {
-        "name": "_0x7CB99FADDE73CD1B",
-        "comment": "",
+        "name": "_HAS_PED_ANIMAL_BEEN_SAMPLED",
+        "comment": "Returns true if the specified ped (animal) has been flagged as sampled. This is presumed to read a boolean flag set by:`_FORCE_ANIMAL_SAMPLED`",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "animal"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1311",
         "examples": [],
         "apiset": ""

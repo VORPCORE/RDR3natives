@@ -1,7 +1,7 @@
 {
     "0xDBEADA0DF5F9AB9F": {
-        "name": "_0xDBEADA0DF5F9AB9F",
-        "comment": "",
+        "name": "_ITEMDATABASE_GET_SHOP_LAYOUT_PAGE_INFO_BY_INDEX",
+        "comment": "Returns the layout page info at the selected index",
         "params": [
             {
                 "type": "Hash",
@@ -13,12 +13,17 @@
             },
             {
                 "type": "int*",
-                "name": "outMenuKey"
+                "name": "outPageKey"
             }
         ],
         "return_type": "BOOL",
         "build": "1355",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "local data = DataView.ArrayBuffer(4 * 8)\nif (Citizen.InvokeNative(0xDBEADA0DF5F9AB9F, `st_doctor`, 0, data:Buffer()) == 1) then\nlocal pageKey = data:GetInt32(0)\nend"
+            }
+        ],
         "apiset": ""
     }
 }

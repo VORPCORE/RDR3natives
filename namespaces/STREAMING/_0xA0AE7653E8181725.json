@@ -1,14 +1,14 @@
 {
     "0xA0AE7653E8181725": {
-        "name": "_0xA0AE7653E8181725",
-        "comment": "",
+        "name": "_HAS_SCENARIO_TYPE_FOR_PED_LOADED",
+        "comment": "returns 1 if the scenario type for ped is loaded using the id returned by `_REQUEST_SCENARIO_TYPE_FOR_PED` or false",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "int",
+                "name": "scenarioTypeId"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

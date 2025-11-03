@@ -1,18 +1,14 @@
 {
     "0x140B3CB1D424A945": {
-        "name": "_0x140B3CB1D424A945",
-        "comment": "weaponHash can also be -1",
+        "name": "_GET_PED_FROM_COVER_POINT",
+        "comment": "returns the ped that is using this cover point created by ADD_COVER_POINT and adding the ped using tasks like `TASK_PUT_PED_DIRECTLY_(*`",
         "params": [
             {
-                "type": "Ped",
-                "name": "ped"
-            },
-            {
-                "type": "Hash",
-                "name": "weaponHash"
+                "type": "ScrHandle",
+                "name": "coverpoint"
             }
         ],
-        "return_type": "void",
+        "return_type": "Ped",
         "build": "1207",
         "examples": [],
         "apiset": ""

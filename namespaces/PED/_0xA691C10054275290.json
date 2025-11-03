@@ -1,7 +1,7 @@
 {
     "0xA691C10054275290": {
-        "name": "_0xA691C10054275290",
-        "comment": "",
+        "name": "_SET_PLAYER_DISMOUNT_TIMESTAMP_FOR_HORSE",
+        "comment": "dismountTimer gets called with the data from `_GET_PLAYER_DISMOUNT_TIMESTAMP`",
         "params": [
             {
                 "type": "Ped",
@@ -18,7 +18,12 @@
         ],
         "return_type": "void",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "local size = 15\nlocal struct = DataView.ArrayBuffer(size * 8)\nstruct:SetInt32(0, size)\nlocal numLoot = Citizen.InvokeNative(0xB29C553BA582D09E, struct:Buffer(), `a_c_cow`, 0, 2, Citizen.ResultAsInteger())\nif (numLoot > 0) then\nfor i = 1, numLoot do\nlocal hash = struct:GetInt32(i * 8)\nprint((\"i: %d: loot: %d\"):format(i, hash))\nend\nend"
+            }
+        ],
         "apiset": ""
     }
 }

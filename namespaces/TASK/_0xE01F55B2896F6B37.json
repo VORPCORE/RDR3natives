@@ -1,15 +1,15 @@
 {
     "0xE01F55B2896F6B37": {
-        "name": "_0xE01F55B2896F6B37",
-        "comment": "",
+        "name": "_SWAP_REINS_FOR_VEHICLE",
+        "comment": "Transfers the driving reins/control of a vehicle (e.g., wagon/coach) to another occupant when there is more than one ped inside. If instant is true, the handover happens instantly",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Vehicle",
+                "name": "vehicle"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "instant"
             }
         ],
         "return_type": "void",

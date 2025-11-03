@@ -1,7 +1,7 @@
 {
     "0xE4B7945EF4F1BFB2": {
-        "name": "_0xE4B7945EF4F1BFB2",
-        "comment": "",
+        "name": "_SET_CAM_DOF_PARAMS",
+        "comment": "Set cam DOF and focal settings",
         "params": [
             {
                 "type": "Cam",
@@ -9,12 +9,17 @@
             },
             {
                 "type": "Any*",
-                "name": "args"
+                "name": "outCamDofParams"
             }
         ],
         "return_type": "void",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "local struct = DataView.ArrayBuffer(10*8)\nstruct:SetFloat32(0*8, 5.0)\nstruct:SetFloat32(1*8, 2.0)\nstruct:SetFloat32(2*8, 128.0)\nstruct:SetFloat32(3*8, 25.0)\nstruct:SetFloat32(4*8, 25.0)\nstruct:SetFloat32(5*8, 60.0)\nstruct:SetInt32(6*8, 1)\nstruct:SetInt32(7*8, 0)\nstruct:SetInt32(8*8, 1)\nstruct:SetInt32(9*8, 1)\nCitizen.InvokeNative(0xE4B7945EF4F1BFB2, cam, struct:Buffer())"
+            }
+        ],
         "apiset": ""
     }
 }

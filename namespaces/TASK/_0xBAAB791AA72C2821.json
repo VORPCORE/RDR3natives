@@ -1,15 +1,15 @@
 {
     "0xBAAB791AA72C2821": {
-        "name": "_0xBAAB791AA72C2821",
-        "comment": "",
+        "name": "_PED_APPLY_FOLLOW_ROAD_SPEED_OVERRIDE",
+        "comment": "Sets the AI travel speed for a mount (horse). Affects how fast the horse's AI will move when being controlled by AI logic (not player input), e.g. during escorts, flee, wander, or scripted tasks \nhttps://youtu.be/aupII2O9vT8",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "speed"
             }
         ],
         "return_type": "void",

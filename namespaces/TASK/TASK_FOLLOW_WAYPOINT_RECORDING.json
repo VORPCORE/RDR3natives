@@ -1,7 +1,7 @@
 {
     "0x0759591819534F7B": {
         "name": "TASK_FOLLOW_WAYPOINT_RECORDING",
-        "comment": "",
+        "comment": "Orders ped to follow a waypoint recording with control over start/end node indices, optional patrol (back-and-forth) behavior,aiming stance, and total traversal duration\nNOTES:The recording must be requested and loaded using `REQUEST_WAYPOINT_RECORDING`.\nThe indices (startIndex, endIndex) restrict which part of the route is used.\npatrol controls whether the ped returns to the start after reaching the end.\naimWeapon only affects stance — no firing occurs.\nduration determines total task time before snapping to the end node\nhttps://www.youtube.com/watch?v=RIsXDJSmeGU",
         "params": [
             {
                 "type": "Ped",
@@ -13,7 +13,7 @@
             },
             {
                 "type": "int",
-                "name": "p2"
+                "name": "startIndex"
             },
             {
                 "type": "int",
@@ -21,19 +21,19 @@
             },
             {
                 "type": "int",
-                "name": "p4"
+                "name": "endIndex"
             },
             {
                 "type": "BOOL",
-                "name": "p5"
+                "name": "patrol"
             },
             {
-                "type": "Any",
-                "name": "p6"
+                "type": "BOOL",
+                "name": "aimWeapon"
             },
             {
                 "type": "int",
-                "name": "p7"
+                "name": "duration"
             }
         ],
         "return_type": "void",

@@ -1,7 +1,7 @@
 {
     "0x6B67320E0D57856A": {
-        "name": "_0x6B67320E0D57856A",
-        "comment": "",
+        "name": "_REFRESH_CARRIED_PED_FOR_PED",
+        "comment": "Retruns the carried ped",
         "params": [
             {
                 "type": "Ped",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "Any*",
-                "name": "p1"
+                "name": "carriedPed"
             },
             {
                 "type": "int",
@@ -22,7 +22,12 @@
         ],
         "return_type": "void",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "local carriedPed = Citizen.InvokeNative(0x6B67320E0D57856A, PlayerPedId(), Citizen.PointerValueInt(), 2,false)"
+            }
+        ],
         "apiset": ""
     }
 }

@@ -1,11 +1,11 @@
 {
     "0xAA0AF6025160243A": {
         "name": "_TASK_EQUIP_HAT",
-        "comment": "_A*",
+        "comment": "Immediately applies the given hat to the ped’s head without any animation Directly equips the hat, skipping the pickup anim flow",
         "params": [
             {
                 "type": "Object",
-                "name": "hatObject"
+                "name": "object"
             },
             {
                 "type": "Ped",

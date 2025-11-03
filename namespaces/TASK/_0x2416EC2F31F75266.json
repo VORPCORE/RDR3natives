@@ -1,11 +1,11 @@
 {
     "0x2416EC2F31F75266": {
-        "name": "_0x2416EC2F31F75266",
-        "comment": "",
+        "name": "_TASK_FORCE_THROWABLE_AT_ENTITY_WHEN_AIMING",
+        "comment": "Forces a ped to attack a target with throwable or projectile weapons (like bows, throwing knives, tomahawks, dynamite) for a specified duration while aiming\nWith a bow: the ped keeps firing arrows continuously until durationMs expires (as long as the aiming condition is maintained).With other throwables: throws are generally single-use (one per animation cycle).Excluded weapons: lasso and bolas",
         "params": [
             {
-                "type": "Entity",
-                "name": "entity"
+                "type": "Ped",
+                "name": "ped"
             },
             {
                 "type": "Entity",
@@ -16,11 +16,11 @@
                 "name": "duration"
             },
             {
-                "type": "Any",
+                "type": "BOOL",
                 "name": "p3"
             },
             {
-                "type": "Any",
+                "type": "BOOL",
                 "name": "p4"
             }
         ],

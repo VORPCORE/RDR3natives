@@ -1,11 +1,11 @@
 {
     "0xE62754D09354F6CF": {
-        "name": "_0xE62754D09354F6CF",
-        "comment": "",
+        "name": "_GET_DRIVING_SEAT",
+        "comment": "Returns the seat index currently set as the driving seat for the specified vehicle vehicle: The vehicle to query. Returns: Seat index (default = -1 for driver seat, custom index if changed with SET_DRIVING_SEAT)",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Vehicle",
+                "name": "vehicle"
             }
         ],
         "return_type": "Any",

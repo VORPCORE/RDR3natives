@@ -1,7 +1,7 @@
 {
     "0x5E214112806591EA": {
-        "name": "_0x5E214112806591EA",
-        "comment": "Attaches scenario to bone with an offset\n_GET_I* - _GET_M*",
+        "name": "_GET_OFFSET_FROM_ENTITY_BONE",
+        "comment": "Return the offset from the entity for the selected bone index",
         "params": [
             {
                 "type": "Entity",

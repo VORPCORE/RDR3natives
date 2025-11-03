@@ -1,15 +1,15 @@
 {
     "0x3A50753042B6891B": {
-        "name": "_REMOVE_PED_PROP",
-        "comment": "",
+        "name": "_REMOVE_PED_PROPITEM_CONDITONAL_ANIM",
+        "comment": "Stops and clears a running conditional locomotion animation previously started by _PLAY_CONDITIONAL_ANIM_WITH_PROPITEM ex: P_CS_CRATETNT01X_PH_R_HAND\nThis does not remove the physical prop entity itself, but rather ends the active locomotion/conditional animation associated with it.",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             },
             {
-                "type": "const char*",
-                "name": "propName"
+                "type": "char*",
+                "name": "propItemName"
             }
         ],
         "return_type": "void",

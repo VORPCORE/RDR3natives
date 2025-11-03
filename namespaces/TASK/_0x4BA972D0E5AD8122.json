@@ -1,15 +1,15 @@
 {
     "0x4BA972D0E5AD8122": {
-        "name": "_0x4BA972D0E5AD8122",
-        "comment": "",
+        "name": "_SET_DRIVING_SEAT",
+        "comment": "Sets which seat index acts as the driver seat for driving tasks",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Vehicle",
+                "name": "vehicle"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "int",
+                "name": "seatIndex"
             }
         ],
         "return_type": "void",

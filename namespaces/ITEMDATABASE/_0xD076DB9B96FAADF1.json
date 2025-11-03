@@ -1,7 +1,7 @@
 {
     "0xD076DB9B96FAADF1": {
         "name": "_0xD076DB9B96FAADF1",
-        "comment": "",
+        "comment": "_ITEMDATABASE_GET_AWARD_*",
         "params": [
             {
                 "type": "Hash",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "Any*",
-                "name": "outData"
+                "name": "outPageKey"
             }
         ],
         "return_type": "BOOL",

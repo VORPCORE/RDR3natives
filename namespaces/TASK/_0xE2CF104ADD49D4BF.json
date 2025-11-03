@@ -1,11 +1,11 @@
 {
     "0xE2CF104ADD49D4BF": {
-        "name": "_0xE2CF104ADD49D4BF",
-        "comment": "",
+        "name": "_CANCEL_PED_HOGTIE",
+        "comment": "Cancels the hogtie state of a ped, releasing them from ropes or restraints.If the ped is currently hogtied on the ground, carried on a shoulder,lassoed, or tied to a horse, this native will clear the hogtie state andreturn the ped to free/normal behavior.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
         "return_type": "void",

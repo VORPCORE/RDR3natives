@@ -1,6 +1,6 @@
 {
     "0x9AC53CB6907B4428": {
-        "name": "_0x9AC53CB6907B4428",
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_COMPATIBLE_SLOTS",
         "comment": "p1 (out) and p2 (in) are both script arrays?\nitem: can be a component item, see SHOP_CATALOG_BUILD_LIST_OF_WEAPON_COMPONENTS",
         "params": [
             {
@@ -9,11 +9,11 @@
             },
             {
                 "type": "Any*",
-                "name": "p1"
+                "name": "outSlotIds"
             },
             {
-                "type": "Any*",
-                "name": "p2"
+                "type": "int",
+                "name": "maxResults"
             }
         ],
         "return_type": "BOOL",

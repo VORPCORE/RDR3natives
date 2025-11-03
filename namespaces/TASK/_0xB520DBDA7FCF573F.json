@@ -1,7 +1,7 @@
 {
     "0xB520DBDA7FCF573F": {
-        "name": "_0xB520DBDA7FCF573F",
-        "comment": "",
+        "name": "_IS_PED_WAITING_ON_FISH_TO_BITE",
+        "comment": "Returns true while the ped has cast the fishing line and is waiting for a fish to bite Once the ped hooks a fish and enters the struggle/reeled-in phase, this returns false.",
         "params": [
             {
                 "type": "Ped",

@@ -1,10 +1,10 @@
 {
     "0x3ACC128510142B9D": {
-        "name": "_0x3ACC128510142B9D",
-        "comment": "",
+        "name": "_CALCULATE_WAYPOINT_DISTANCE_FROM_START",
+        "comment": "Returns the signed distance along the waypoint recording from its start (first node) to the point on the recording that corresponds to coords\n need `REQUEST_WAYPOINT_RECORDING`",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "waypointRecording"
             },
             {

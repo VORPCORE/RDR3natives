@@ -1,7 +1,7 @@
 {
     "0x583AE9AF9CEE0958": {
-        "name": "_0x583AE9AF9CEE0958",
-        "comment": "",
+        "name": "_TASK_VEHICLE_HAS_DESTINATION",
+        "comment": "Returns true if the vehicle’s has a destination set previously set with `_TASK_VEHICLE_DRIVE_TO_DESTINATION_2` clear using `_CLEAR_VEHICLE_TASKS`",
         "params": [
             {
                 "type": "Vehicle",

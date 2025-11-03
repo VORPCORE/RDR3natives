@@ -1,14 +1,14 @@
 {
     "0x756C7B4C43DF0422": {
-        "name": "_0x756C7B4C43DF0422",
-        "comment": "",
+        "name": "_IS_REVIVE_HORSE_PROMPT_VISIBLE",
+        "comment": "Returns true if a revivable horse prompt is currently visibled (i.e., visible and interactable) near the player.This indicates that there is a downed horse nearby which can be revived",
         "params": [
             {
-                "type": "Any",
+                "type": "BOOL",
                 "name": "p0"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

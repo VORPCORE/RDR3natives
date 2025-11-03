@@ -1,14 +1,14 @@
 {
     "0x9FF5F9B24E870748": {
-        "name": "_0x9FF5F9B24E870748",
-        "comment": "",
+        "name": "_HAS_PED_DIRECTED_TASK_ACTIVE",
+        "comment": "Returns true if the given entity currently has an active directed task that is, a task with a specific external objective (coordinate, entity, vehicle, or combat target)\nKnown to return true for:\nTaskGoToCoordAnyMeans(ped, ...)\nTaskGoToEntity(ped, target, ...)\nTaskCombatPed(ped, targetPed, ...)\nTaskWarpPedIntoVehicle(ped, vehicle)",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

@@ -1,23 +1,23 @@
 {
     "0x4161648394262FDF": {
-        "name": "_0x4161648394262FDF",
-        "comment": "",
+        "name": "_RESET_SCENARIO_POINTS_IN_AREA",
+        "comment": "Resets/clears all scenario entities within the given spherical area",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "float",
+                "name": "x"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "y"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "z"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "radius"
             }
         ],
         "return_type": "void",

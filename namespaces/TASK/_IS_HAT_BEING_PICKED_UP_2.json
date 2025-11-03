@@ -1,11 +1,11 @@
 {
     "0x4ECCC2815CA79AE2": {
-        "name": "_IS_HAT_BEING_PICKED_UP_2",
-        "comment": "Returns true while a hat is being picked up. Similar to 0x11CD066F54DA0133\n_IS_A* - _IS_D*",
+        "name": "_IS_CARRIABLE_HAT_PICKUP_REQUEST_ACTIVE",
+        "comment": "old name _IS_HAT_BEING_PICKED_UP_2\nReturns whether a carriable hat equip request is currently active Usually becomes true right after `_REQUEST_CARRIABLE_HAT_EQUIP_TO_PED` is called",
         "params": [
             {
                 "type": "Object",
-                "name": "hatObject"
+                "name": "object"
             }
         ],
         "return_type": "BOOL",
