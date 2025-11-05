@@ -111656,7 +111656,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p6"
+                    "name": "idleForever"
                 }
             ],
             "return_type": "void",
@@ -119000,8 +119000,8 @@
                     "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "scenarioPoint"
                 },
                 {
                     "type": "char*",
@@ -119021,7 +119021,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p6"
+                    "name": "idleForever"
                 }
             ],
             "return_type": "void",
