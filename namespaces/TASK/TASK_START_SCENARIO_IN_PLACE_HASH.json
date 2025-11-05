@@ -29,7 +29,7 @@
             },
             {
                 "type": "BOOL",
-                "name": "p6"
+                "name": "idleForever"
             }
         ],
         "return_type": "void",
