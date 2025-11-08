@@ -1,7 +1,7 @@
 {
     "0x4E511D093A86AD49": {
         "name": "IS_UIAPP_RUNNING_BY_HASH",
-        "comment": "",
+        "comment": "Checks to see if the specified UI app is currently running by its hash.",
         "params": [
             {
                 "type": "Hash",
@@ -10,7 +10,12 @@
         ],
         "return_type": "BOOL",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "if IsUiappActiveByHash(`PAUSE_MENU`) then\r\n   CloseUiappByHashImmediate(`PAUSE_MENU`)\r\nend"
+            }
+        ],
         "apiset": ""
     }
 }

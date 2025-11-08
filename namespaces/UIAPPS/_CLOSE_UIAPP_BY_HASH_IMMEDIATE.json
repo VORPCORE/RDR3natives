@@ -1,7 +1,7 @@
 {
     "0x04428420A248A354": {
         "name": "_CLOSE_UIAPP_BY_HASH_IMMEDIATE",
-        "comment": "",
+        "comment": "Immediately closes the specified UI app by its hash.",
         "params": [
             {
                 "type": "Hash",
@@ -10,7 +10,12 @@
         ],
         "return_type": "void",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "if IsUiappActiveByHash(`abilities`) then\r\n   CloseUiappByHashImmediate(`abilities`)\r\nend"
+            }
+        ],
         "apiset": ""
     }
 }
