@@ -1,19 +1,19 @@
 {
     "0xF40A109B4B79A848": {
         "name": "_0xF40A109B4B79A848",
-        "comment": "",
+        "comment": "Orders the ped to point at the given entity (finger/upper-body point), similar to task point entity",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "ped",
+                "name": "Ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "targetEntity",
+                "name": "Entity"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "int",
+                "name": "durationMs"
             }
         ],
         "return_type": "void",

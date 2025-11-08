@@ -1,7 +1,7 @@
 {
     "0xF90427F00A495A28": {
         "name": "TASK_KNOCKED_OUT",
-        "comment": "",
+        "comment": "Puts the ped into a knocked out state for a specified duration. If 'permanently' is set to true, the ped will remain knocked out until mainually reset. Duration in seconds.",
         "params": [
             {
                 "type": "Ped",
