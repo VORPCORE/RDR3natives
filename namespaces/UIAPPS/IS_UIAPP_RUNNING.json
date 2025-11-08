@@ -1,7 +1,7 @@
 {
     "0xDE4A9B35D028979F": {
         "name": "IS_UIAPP_RUNNING",
-        "comment": "",
+        "comment": "Returns if specified UI App is running",
         "params": [
             {
                 "type": "char*",

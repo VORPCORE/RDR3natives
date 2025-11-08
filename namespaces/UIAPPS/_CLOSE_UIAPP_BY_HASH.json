@@ -1,7 +1,7 @@
 {
     "0x2FF10C9C3F92277E": {
         "name": "_CLOSE_UIAPP_BY_HASH",
-        "comment": "",
+        "comment": "Closes Ui App by hash",
         "params": [
             {
                 "type": "Hash",
