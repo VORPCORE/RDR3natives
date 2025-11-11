@@ -4,8 +4,8 @@
         "comment": "Swaps the horse drawn wagon/coach reings control between the ped and their adjacent front-seat partner",
         "params": [
             {
-                "type": "ped",
-                "name": "Ped"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
         "return_type": "void",
