@@ -4,7 +4,7 @@
         "comment": "Create a scripted speech to control speech. If handle is less than 0, it's invalid.\nparams struct for ScriptedSpeechParams see: PLAY_PED_AMBIENT_SPEECH_NATIVE\nReturns scriptedSpeech handle.",
         "params": [
             {
-                "type": "ped",
+                "type": "Ped",
                 "name": "speaker"
             },
             {
