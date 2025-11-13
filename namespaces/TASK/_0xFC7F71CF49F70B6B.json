@@ -1,6 +1,6 @@
 {
     "0xFC7F71CF49F70B6B": {
-        "name": "_0xFC7F71CF49F70B6B",
+        "name": "SWAP_REINS",
         "comment": "Swaps the horse drawn wagon/coach reings control between the ped and their adjacent front-seat partner",
         "params": [
             {
