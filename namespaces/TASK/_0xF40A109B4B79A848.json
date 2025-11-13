@@ -1,6 +1,6 @@
 {
     "0xF40A109B4B79A848": {
-        "name": "_0xF40A109B4B79A848",
+        "name": "TASK_POINT_AT_ENTITY",
         "comment": "Orders the ped to point at the given entity (finger/upper-body point), similar to task point entity",
         "params": [
             {
