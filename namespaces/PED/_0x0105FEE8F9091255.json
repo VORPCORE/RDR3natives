@@ -1,6 +1,6 @@
 {
     "0x0105FEE8F9091255": {
-        "name": "GET_PED_DIRT_LEVEL",
+        "name": "_GET_PED_DIRT_LEVEL",
         "comment": "Return the dirt level of the ped (0.0 - 1.0). p1 is always set to 1.",
         "params": [
             {
