@@ -1,11 +1,12 @@
 {
     "0x12769EEB8DBD7A7B": {
         "name": "_CLOSE_ALL_UIAPPS_IMMEDIATE",
-        "comment": "",
+        "comment": "Immediately Closes all Native UI Apps",
         "params": [],
         "return_type": "void",
         "build": "1207",
-        "examples": [],
+        "examples": [
+        ],
         "apiset": ""
     }
 }

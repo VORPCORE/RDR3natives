@@ -1,11 +1,11 @@
 {
     "0x7EC0D68233E391AC": {
-        "name": "_0x7EC0D68233E391AC",
-        "comment": "",
+        "name": "_GET_HUD_STATE",
+        "comment": "Returns the state of a specific HUD Component",
         "params": [
             {
                 "type": "int",
-                "name": "p0"
+                "name": "hudComponent"
             }
         ],
         "return_type": "int",
