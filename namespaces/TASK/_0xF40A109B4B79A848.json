@@ -4,8 +4,8 @@
         "comment": "Orders the ped to point at the given entity (finger/upper-body point), similar to task point entity",
         "params": [
             {
-                "type": "Ped",
-                "name": "ped"
+                "type": "ped",
+                "name": "Ped"
             },
             {
                 "type": "targetEntity",
