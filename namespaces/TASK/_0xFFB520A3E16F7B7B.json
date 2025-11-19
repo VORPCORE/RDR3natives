@@ -1,6 +1,6 @@
 {
     "0xFFB520A3E16F7B7B": {
-        "name": "TASK_KNOCKED_OUT_SET_DURATION",
+        "name": "_TASK_KNOCKED_OUT_SET_DURATION",
         "comment": "Sets the knockout timer for a ped that is currently knocked out (See Task_Knocked_Out or Task_Knocked_Out_And_Hogtied). p1 is the duration in seconds.",
         "params": [
             {
