@@ -1,15 +1,15 @@
 {
     "0xE296208C273BD7F0": {
-        "name": "_REQUEST_LETTER_BOX_OVERTIME",
+        "name": "REQUEST_LETTER_BOX_OVERTIME",
         "comment": "",
         "params": [
             {
                 "type": "int",
-                "name": "p0"
+                "name": "startTransitionTime"
             },
             {
                 "type": "int",
-                "name": "p1"
+                "name": "endTransitionTime"
             },
             {
                 "type": "BOOL",
@@ -30,7 +30,9 @@
         ],
         "return_type": "void",
         "build": "1207",
-        "examples": [],
-        "apiset": ""
+        "examples": [
+            { lang: "lua", code: 'local inLetterBox = true\r\nCreateThread(function()\r\n    while inLetterBox do\r\n        Wait(0)\r\n        RequestLetterBoxOvertime(1000, 1000)\r\n    end\r\nend)\r\nWait(10000)\r\ninLetterBox = false' }
+        ],
+        "apiset": "client"
     }
 }
