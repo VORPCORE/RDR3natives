@@ -31,7 +31,7 @@
         "return_type": "void",
         "build": "1207",
         "examples": [
-            { lang: "lua", code: 'local inLetterBox = true\r\nCreateThread(function()\r\n    while inLetterBox do\r\n        Wait(0)\r\n        RequestLetterBoxOvertime(1000, 1000)\r\n    end\r\nend)\r\nWait(10000)\r\ninLetterBox = false' }
+            { lang: "lua", code: "local inLetterBox = true\r\nCreateThread(function()\r\n    while inLetterBox do\r\n        Wait(0)\r\n        RequestLetterBoxOvertime(1000, 1000)\r\n    end\r\nend)\r\nWait(10000)\r\ninLetterBox = false" }
         ],
         "apiset": "client"
     }
