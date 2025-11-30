@@ -1,6 +1,6 @@
 {
     "0xE296208C273BD7F0": {
-        "name": "REQUEST_LETTER_BOX_OVERTIME",
+        "name": "_REQUEST_LETTER_BOX_OVERTIME",
         "comment": "Creates Cinematic Black Bars (at top and bottom) (this frame)",
         "params": [
             {
@@ -31,7 +31,7 @@
         "return_type": "void",
         "build": "1207",
         "examples": [
-            { lang: "lua", code: "CreateThread(function()\r\n    local inLetterBoxFrom = GetGameTimer()\r\n    while GetGameTimer() - inLetterBoxFrom >= 10000 do\r\n        Wait(0)\r\n        RequestLetterBoxOvertime(1000, 1000)\r\n    end\r\nend)" }
+            { "lang": "lua", "code": "CreateThread(function()\r\n    local inLetterBoxFrom = GetGameTimer()\r\n    while GetGameTimer() - inLetterBoxFrom >= 10000 do\r\n        Wait(0)\r\n        RequestLetterBoxOvertime(1000, 1000)\r\n    end\r\nend)" }
         ],
         "apiset": "client"
     }
