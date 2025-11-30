@@ -1,20 +1,20 @@
 {
     "0x69D65E89FFD72313": {
         "name": "_REQUEST_LETTER_BOX_NOW",
-        "comment": "Creates Cinematic Black Bars (at top and bottom)\nDisable instantly: false/false, Enable instantly: true/true",
+        "comment": "Creates Cinematic Black Bars (at top and bottom)",
         "params": [
             {
                 "type": "BOOL",
-                "name": "p0"
+                "name": "state"
             },
             {
-                "type": "BOOL",
-                "name": "p1"
+                "type": "int",
+                "name": "transitionTime"
             }
         ],
         "return_type": "void",
         "build": "1207",
         "examples": [],
-        "apiset": ""
+        "apiset": "client"
     }
 }
