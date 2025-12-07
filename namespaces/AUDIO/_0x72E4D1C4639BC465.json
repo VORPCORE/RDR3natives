@@ -5,7 +5,7 @@
         "params": [
             {
                 "type": "Ped",
-                "name": "speaker"
+                "name": "ped"
             },
             {
                 "type": "Any",
