@@ -8,8 +8,8 @@
                 "name": "ped"
             },
             {
-                "type": "targetEntity",
-                "name": "Entity"
+                "type": "Entity",
+                "name": "targetEntity"
             },
             {
                 "type": "int",
