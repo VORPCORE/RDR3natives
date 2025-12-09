@@ -1,11 +1,11 @@
 {
     "0xB18FEC133C7C6C69": {
-        "name": "_0xB18FEC133C7C6C69",
-        "comment": "",
+        "name": "_PLAY_SOUND_FROM_SCRIPTED_SPEECH",
+        "comment": "Play/advance a scripted speech created via _CREATE_NEW_SCRIPTED_PED_AMBIENT_SPEECH and return a status code.\nReturn values:\n  0 = not ready/invalid/failed\n  1 = started/playing\n  2 = finished/consumed (you can drop the handle)\nTypical usage: poll this in a tick after creating the speech; when it returns 2, clear your handle.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "int",
+                "name": "scriptedSpeech"
             }
         ],
         "return_type": "Any",

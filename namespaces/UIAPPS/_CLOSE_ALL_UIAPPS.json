@@ -1,7 +1,7 @@
 {
     "0xAD7B70F7230C5A12": {
         "name": "_CLOSE_ALL_UIAPPS",
-        "comment": "",
+        "comment": "Closes All UI Apps with transition",
         "params": [],
         "return_type": "void",
         "build": "1207",

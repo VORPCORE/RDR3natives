@@ -1,7 +1,7 @@
 {
     "0xDE4A9B35D028979F": {
         "name": "IS_UIAPP_RUNNING",
-        "comment": "",
+        "comment": "Returns true if the Native UI Application is running. ",
         "params": [
             {
                 "type": "char*",
