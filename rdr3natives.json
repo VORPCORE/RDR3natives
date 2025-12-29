@@ -397,7 +397,12 @@
             ],
             "return_type": "void",
             "build": "1207",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "struct args\n{\n  Any p0;\n  Any p1;\n  Any p2;\n  Ped ped;\n  Vehicle vehicle;\n  int seatIndex;\n  int timer;\n  float pedSpeed;\n  int flags;\n}"
+                }
+            ],
             "apiset": ""
         },
         "0xC273A5B8488F7838": {
@@ -411,7 +416,12 @@
             ],
             "return_type": "void",
             "build": "1207",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "struct args\n{\n  Any p0;\n  Any p1;\n  Any p2;\n  Ped ped;\n  Vehicle vehicle;\n  float pedSpeed;\n  int flags;\n}"
+                }
+            ],
             "apiset": ""
         },
         "0x4248AB2EEB3C75AD": {
@@ -21208,16 +21218,16 @@
             "apiset": ""
         },
         "0x119A5714578F4E05": {
-            "name": "_0x119A5714578F4E05",
-            "comment": "",
+            "name": "_FORCE_TRAIN_WAGON_POPULATION",
+            "comment": "Enables or disables automatic passenger population on a specific train wagon (carriage).\n\nWhen toggle == true, the game keeps this wagon filled with ambient passengers.\nIf a passenger ped is deleted or removed from the wagon, a new ped is spawned almost\nimmediately to occupy that seat.\n\nWhen toggle == false, the engine stops auto-filling this wagon. After you delete or\nremove the existing passengers, no new peds will spawn for that wagon until you enable\nit again with true.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "carriage"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "force"
                 }
             ],
             "return_type": "void",
@@ -39744,7 +39754,7 @@
         },
         "0x532C5FDDB986EE5C": {
             "name": "GET_PLAYER_REGISTERED_CRIME",
-            "comment": "",
+            "comment": "Returns the player registed crime data at the index",
             "params": [
                 {
                     "type": "Player",
@@ -39752,16 +39762,21 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "index"
                 },
                 {
-                    "type": "Hash*",
-                    "name": "crimeType"
+                    "type": "Any*",
+                    "name": "outData"
                 }
             ],
             "return_type": "BOOL",
             "build": "1207",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "struct outData\n{\n  Hash crimeType;\n  int bounty;\n  Hash unk2;\n  Any unk3;\n  Any unk4;\n  Any unk5;\n  Any unk6;\n  int unk7;\n  Any unk8;\n  Any unk9;\n  bool unk10;\n}"
+                }
+            ],
             "apiset": ""
         },
         "0xDD5FD601481F648B": {
@@ -65961,28 +65976,33 @@
         },
         "0x608BC6A6AACD5036": {
             "name": "GET_CARRIED_ATTACHED_INFO_FOR_SLOT",
-            "comment": "",
+            "comment": "Outputs carriable infos for selected ped carriable slot.\n\nParameters:\n- outData: Any* \u2014 A structure of 4 explained below\n- ped: Ped to check\n- carriableSlot: int See TASK_CARRIABLE for available slots\n- p3: int always 0 in R* scripts",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Any*",
+                    "name": "outData"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "int",
+                    "name": "carriableSlot"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p3"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "struct outData\n{\n  Hash model;\n  Hash carryConfig;\n  Hash carriableSlot;\n  Entity entityCarried;\n}"
+                }
+            ],
             "apiset": ""
         },
         "0xC33AB876A77F8164": {
@@ -127119,15 +127139,15 @@
             "apiset": "client"
         },
         "0x0BA4250D20007C2E": {
-            "name": "_0x0BA4250D20007C2E",
-            "comment": "",
+            "name": "_GET_BALLOON_OBJECT_FROM_VEHICLE",
+            "comment": "Returns the balloon object attached to a hot air balloon vehicle. \n\nIf the input vehicle is a hot air balloon, the native returns the object entity\nthat represents the balloon itself (the inflated top part). \nIf the vehicle is not balloon-type or the balloon object does not exist,the function returns 0. \nAlways validate the returned handle with ENTITY::DOES_ENTITY_EXIST.\nNotes:\n- Only useful for hot air balloon vehicles.\n- The returned handle is typically an OBJECT, not a PED or VEHICLE.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "Entity",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -127165,19 +127185,19 @@
             "apiset": ""
         },
         "0x0E558D3A49D759D6": {
-            "name": "_0x0E558D3A49D759D6",
-            "comment": "",
+            "name": "_GET_ALL_TRAIN_PASSENGERS",
+            "comment": "Collects all passenger peds (excluding the driver) from the specified wagon-type vehicle and adds them as indexed items to the provided itemset.\nNotes:\n- Always clear the itemset before calling.\n- Returns 0 if the wagon is empty or auto-population is disabled\n  (ENTITY::_0x119A5714578F4E05(wagon, false)).\n- Itemset may contain dead peds; filter with IS_ENTITY_DEAD if needed.\n- Often used alongside wagon auto-population management.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "train"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "ItemSet",
+                    "name": "itemset"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -128519,8 +128539,8 @@
             "apiset": ""
         },
         "0x9CC94A948EAF5372": {
-            "name": "_0x9CC94A948EAF5372",
-            "comment": "_GET_P - _GET_T*",
+            "name": "_GET_STATION_FROM_TRAIN_STATION_DATA",
+            "comment": "Returns the station hash for a track and station index.\n- trackIndex: int \u2014 From 0 to 24\n- stationIndex: int \u2014 From 0 to 7",
             "params": [
                 {
                     "type": "int",
@@ -134972,8 +134992,8 @@
             "apiset": "client"
         },
         "0x0DE0944ECCB3DF5D": {
-            "name": "_0x0DE0944ECCB3DF5D",
-            "comment": "_GET_D* - _GET_L*",
+            "name": "_IS_PED_TAKING_POISON_GAS_DAMAGE",
+            "comment": "Checks whether the given ped is currently taking damage from poisonous gas/fog volumes (e.g., toxic moonshine cloud, scripted poison fog).",
             "params": [
                 {
                     "type": "Ped",
@@ -134986,8 +135006,8 @@
             "apiset": ""
         },
         "0x14FF0C2545527F9B": {
-            "name": "_0x14FF0C2545527F9B",
-            "comment": "Puts the gun visibly in your horse's holster without having to be close to the horse. Use 0xE9BD19F8121ADE3E before using this native\n_A* or _B*",
+            "name": "_ATTACH_WEAPON_TO_HORSE_HOLSTER",
+            "comment": "Puts the gun visibly in your horse's holster without having to be close to the horse. Use 0xE9BD19F8121ADE3E before using this native\nNotes:\n- Must call _SEND_WEAPON_TO_INVENTORY (0xE9BD19F8121ADE3E) beforehand to move the weapon into the horse inventory. That native makes it accessible from the weapon wheel but not visible; this native makes it visible on the horse.\n- Works at a distance; proximity to the horse is not required.",
             "params": [
                 {
                     "type": "Ped",
@@ -134999,7 +135019,7 @@
                 },
                 {
                     "type": "Ped",
-                    "name": "ped"
+                    "name": "horseOwner"
                 }
             ],
             "return_type": "void",
@@ -135044,22 +135064,22 @@
             "apiset": ""
         },
         "0x23BF601A42F329A0": {
-            "name": "_0x23BF601A42F329A0",
-            "comment": "",
+            "name": "_CAN_PED_ACCESS_MOUNT_WEAPONS",
+            "comment": "Returns true if the given ped is in a valid state to stow or retrieve weapons from their *owned* mount.\nThis typically means the ped is either on their horse or close enough to it for saddle weapon interactions.\nNotes:\n- The ped does **not** need to currently hold a weapon. This check simply determines if saddle stowing/retrieval actions are allowed.\n- Commonly used to enable weapon wheel or stow prompts near the player\u2019s own horse.\n- Will return false if the ped is near a non-owned horse or too far from their own.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
         },
         "0x2EBF70E1D8C06683": {
-            "name": "_0x2EBF70E1D8C06683",
-            "comment": "_SET_A* - _SET_B*",
+            "name": "_SET_ARROW_TRAIL",
+            "comment": "Sets the visual trail FX for arrows fired from a Bow by the given ped",
             "params": [
                 {
                     "type": "Ped",
@@ -135076,30 +135096,30 @@
             "apiset": ""
         },
         "0x3799EFCC3C8CD5E1": {
-            "name": "_0x3799EFCC3C8CD5E1",
-            "comment": "",
+            "name": "_GET_LOCKON_RANGE_CURRENT_WEAPON",
+            "comment": "Returns the effective lock-on or targeting range for the ped\u2019s current weapon.\nThis value reflects the weapon\u2019s maximum aim assist or targeting distance, used for systems like auto-aim and lock-on overrides.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "float",
             "build": "1207",
             "examples": [],
             "apiset": ""
         },
         "0x404514D231DB27A0": {
-            "name": "_0x404514D231DB27A0",
-            "comment": "",
+            "name": "_ENABLE_ALL_SPECIAL_AMMO_FOR_PED",
+            "comment": "Enables all special ammo types for the specified weapon on the given ped.\nThis is the inverse of _DISABLE_ALL_SPECIAL_AMMO_FOR_PED, restoring the ped\u2019s ability to use any special ammo variants available for that weapon.\nRestores full access to special ammo categories such as express, high velocity, split point, explosive, etc.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Hash",
+                    "name": "weaponHash"
                 }
             ],
             "return_type": "void",
@@ -135126,8 +135146,8 @@
             "apiset": ""
         },
         "0x44C8F4908F1B2622": {
-            "name": "_0x44C8F4908F1B2622",
-            "comment": "",
+            "name": "_EXPLODE_PED_AMMO_TYPE",
+            "comment": "Forces the detonation or effect of a throwable ammo type owned or placed by the specified ped.\nCommonly used for remotely exploding dynamite that belong to the ped.\nammoHashes:\n- joaat(\"AMMO_DYNAMITE\")\n- joaat(\"AMMO_MOLOTOV\")\n- joaat(\"AMMO_POISONBOTTLE\")",
             "params": [
                 {
                     "type": "Ped",
@@ -135138,7 +135158,7 @@
                     "name": "ammoHash"
                 }
             ],
-            "return_type": "BOOL",
+            "return_type": "void",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -135276,8 +135296,8 @@
             "apiset": "client"
         },
         "0x5A695BD328586B44": {
-            "name": "_0x5A695BD328586B44",
-            "comment": "Returns true if ped is on a horse while inside of a town\nParams: p1 = 0\nGET_L* - GET_MA*",
+            "name": "_GET_LONGARM_STORE_ON_DISMOUNT_STATE",
+            "comment": "Returns the current state of longarm storage on dismount for the specified ped.",
             "params": [
                 {
                     "type": "Ped",
@@ -135376,16 +135396,16 @@
             "apiset": ""
         },
         "0x74C8000FDD1BB111": {
-            "name": "_0x74C8000FDD1BB111",
-            "comment": "",
+            "name": "_GET_IGNITED_PROJECTILE_IN_VOLUME",
+            "comment": "Returns the first ignited (lit/fused) explosive projectile entity found within the specified Volume.\nSimilar to WEAPON::_GET_FIRST_PROJECTILE_IN_VOLUME (0x74C8000FDD1BB222), but only returns projectiles that are currently ignited (e.g., a lit dynamite about to explode).",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Volume",
+                    "name": "volume"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Any*",
+                    "name": "outProjectile"
                 }
             ],
             "return_type": "Any",
@@ -135394,16 +135414,16 @@
             "apiset": ""
         },
         "0x74C8000FDD1BB222": {
-            "name": "_0x74C8000FDD1BB222",
+            "name": "_GET_PROJECTILE_IN_VOLUME",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Volume",
+                    "name": "volume"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Any*",
+                    "name": "outProjectile"
                 }
             ],
             "return_type": "Any",
@@ -135412,16 +135432,16 @@
             "apiset": ""
         },
         "0x74C9080FDD1BB48E": {
-            "name": "_0x74C9080FDD1BB48E",
-            "comment": "",
+            "name": "_SET_PROJECTILE_FUSE_TIME",
+            "comment": "Sets the remaining fuse time (in seconds) for an ignited explosive projectile entity, such as a thrown dynamite.\n Must be called on an already ignited projectile; calling before ignition has no effect.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "projectile"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "fuseTime"
                 }
             ],
             "return_type": "void",
@@ -135430,16 +135450,16 @@
             "apiset": ""
         },
         "0x74C9080FDD1BB48F": {
-            "name": "_0x74C9080FDD1BB48F",
-            "comment": "",
+            "name": "_SET_PROJECTILE_EFFECT_RADIUS",
+            "comment": "Sets the explosion or impact effect radius of a projectile entity (e.g., thrown dynamite or similar explosives).\nNotes:\n- Must be called before the projectile explodes; changing the radius afterward has no effect.\n- Commonly used after retrieving the projectile entity with MISC::GET_PROJECTILE_OF_PROJECTILE_TYPE_WITHIN_DISTANCE.\n- This does not trigger an explosion; it only defines how large the explosion\u2019s area of effect will be.\n- Compared to MISC::ADD_EXPLOSION, which spawns a new explosion at a location, this modifies an existing projectile\u2019s explosion properties.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "projectile"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "radius"
                 }
             ],
             "return_type": "void",
@@ -135448,12 +135468,12 @@
             "apiset": ""
         },
         "0x74C90AAACC1DD48F": {
-            "name": "_0x74C90AAACC1DD48F",
-            "comment": "",
+            "name": "_REGISTER_WEAPON_OBJECT_FOR_IGNITION",
+            "comment": "Marks a created weapon object (e.g., a dynamite weapon object) as ignitable so it can be lit and detonate.\nUse this after CreateWeaponObject for thrown explosives to enable fuse/ignition behavior.\nweaponObject: Weapon object entity created via CreateWeaponObject (e.g., WEAPON_THROWN_DYNAMITE)",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "weaponObject"
                 }
             ],
             "return_type": "void",
@@ -135480,16 +135500,16 @@
             "apiset": "client"
         },
         "0x8A779706DA5CA3DD": {
-            "name": "_0x8A779706DA5CA3DD",
-            "comment": "Only used in R* SP Scripts native_son2, native_son3 and smuggler2\nParams: p2 = -1",
+            "name": "_SET_VEHICLE_WEAPON_RELOAD_MODE",
+            "comment": "Enables/disables reload behavior for vehicle-mounted **cannons**.\nWhen noReload is true, the cannon fires without requiring a reload; when false, it must reload after shots.\nSupported vehicles only:**breach_cannon** and **hotchkiss_cannon**",
             "params": [
                 {
-                    "type": "Ped",
-                    "name": "ped"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "noReload"
                 },
                 {
                     "type": "int",
@@ -135583,8 +135603,8 @@
             "apiset": "client"
         },
         "0x9F0E1892C7F228A8": {
-            "name": "_0x9F0E1892C7F228A8",
-            "comment": "",
+            "name": "_GET_WEAPON_LAST_GIVEN",
+            "comment": "gets the last weapon given to ped , if you give a weapon_lasso to ped and then give another it returns the weapon_lasso other wise 0,p0 usually is 1 is unknown, it does not work for all weapons.",
             "params": [
                 {
                     "type": "BOOL",
@@ -135677,15 +135697,15 @@
             "apiset": "client"
         },
         "0xAFFD0CCF31F469B8": {
-            "name": "_0xAFFD0CCF31F469B8",
-            "comment": "",
+            "name": "_GET_WEAPON_FROM_MOUNT",
+            "comment": "Returns the weapon hash stored in the first holster slot of the specified mount.\nreturns 0 if no weapon or invalid",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "mount"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "Hash",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -135735,15 +135755,15 @@
             "apiset": "client"
         },
         "0xBC9444F2FF94A9C0": {
-            "name": "_0xBC9444F2FF94A9C0",
-            "comment": "",
+            "name": "_GET_PED_CAN_SWITCH_WEAPON",
+            "comment": "Returns true if the ped can switch of weapon.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1355",
             "examples": [],
             "apiset": ""
@@ -135781,30 +135801,30 @@
             "apiset": ""
         },
         "0xD2209866B0CB72EA": {
-            "name": "_0xD2209866B0CB72EA",
-            "comment": "",
+            "name": "_IS_PED_CARRYING_WEAPON_SNIPER_AT_ATTACH_POINT",
+            "comment": "Returns true if the ped has a sniper-type weapon equipped or stored in the specified attach point (slot).",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "attachPoint"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
         },
         "0xD4C6E24D955FF061": {
-            "name": "_0xD4C6E24D955FF061",
-            "comment": "",
+            "name": "_DELETE_WEAPON_OBJECT_FROM_MOUNT",
+            "comment": "Deletes the weapon object on the specified mount where its holstered.\nDeletes all visible weapon PROP objects attached to the mount's holsters.\nThis ONLY removes objects; the weapons remain in inventory and are still accessible.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "horse"
                 }
             ],
             "return_type": "void",
@@ -135835,16 +135855,16 @@
             "apiset": ""
         },
         "0xD63B4BA3A02A99E0": {
-            "name": "_0xD63B4BA3A02A99E0",
-            "comment": "",
+            "name": "_DISABLE_ALL_SPECIAL_AMMO_FOR_PED",
+            "comment": "Disables all special ammo types for the specified weapon on the given ped, forcing the weapon to use only its basic/regular ammunition.\n- After calling this native, the weapon on that ped becomes restricted to regular ammo only.\n- Works as a higher-level override compared to _DISABLE_AMMO_TYPE_FOR_PED and _DISABLE_AMMO_TYPE_FOR_PED_WEAPON, which target individual ammo types.\n- Useful when ensuring a weapon cannot use any special ammo variants such as high velocity, express, explosive, or split point.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Hash",
+                    "name": "weaponHash"
                 }
             ],
             "return_type": "void",
