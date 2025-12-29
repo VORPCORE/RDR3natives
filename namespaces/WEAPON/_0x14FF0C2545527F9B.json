@@ -1,7 +1,7 @@
 {
     "0x14FF0C2545527F9B": {
-        "name": "_0x14FF0C2545527F9B",
-        "comment": "Puts the gun visibly in your horse's holster without having to be close to the horse. Use 0xE9BD19F8121ADE3E before using this native\n_A* or _B*",
+        "name": "_ATTACH_WEAPON_TO_HORSE_HOLSTER",
+        "comment": "Puts the gun visibly in your horse's holster without having to be close to the horse. Use 0xE9BD19F8121ADE3E before using this native\nNotes:\n- Must call _SEND_WEAPON_TO_INVENTORY (0xE9BD19F8121ADE3E) beforehand to move the weapon into the horse inventory. That native makes it accessible from the weapon wheel but not visible; this native makes it visible on the horse.\n- Works at a distance; proximity to the horse is not required.",
         "params": [
             {
                 "type": "Ped",
@@ -13,7 +13,7 @@
             },
             {
                 "type": "Ped",
-                "name": "ped"
+                "name": "horseOwner"
             }
         ],
         "return_type": "void",

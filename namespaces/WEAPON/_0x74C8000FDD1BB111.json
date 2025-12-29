@@ -1,15 +1,15 @@
 {
     "0x74C8000FDD1BB111": {
-        "name": "_0x74C8000FDD1BB111",
-        "comment": "",
+        "name": "_GET_IGNITED_PROJECTILE_IN_VOLUME",
+        "comment": "Returns the first ignited (lit/fused) explosive projectile entity found within the specified Volume.\nSimilar to WEAPON::_GET_FIRST_PROJECTILE_IN_VOLUME (0x74C8000FDD1BB222), but only returns projectiles that are currently ignited (e.g., a lit dynamite about to explode).",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Volume",
+                "name": "volume"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Any*",
+                "name": "outProjectile"
             }
         ],
         "return_type": "Any",

@@ -1,7 +1,7 @@
 {
     "0x2EBF70E1D8C06683": {
-        "name": "_0x2EBF70E1D8C06683",
-        "comment": "_SET_A* - _SET_B*",
+        "name": "_SET_ARROW_TRAIL",
+        "comment": "Sets the visual trail FX for arrows fired from a Bow by the given ped",
         "params": [
             {
                 "type": "Ped",

@@ -1,18 +1,18 @@
 {
     "0x0E558D3A49D759D6": {
-        "name": "_0x0E558D3A49D759D6",
-        "comment": "",
+        "name": "_GET_ALL_TRAIN_PASSENGERS",
+        "comment": "Collects all passenger peds (excluding the driver) from the specified wagon-type vehicle and adds them as indexed items to the provided itemset.\nNotes:\n- Always clear the itemset before calling.\n- Returns 0 if the wagon is empty or auto-population is disabled\n  (ENTITY::_0x119A5714578F4E05(wagon, false)).\n- Itemset may contain dead peds; filter with IS_ENTITY_DEAD if needed.\n- Often used alongside wagon auto-population management.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Vehicle",
+                "name": "train"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "ItemSet",
+                "name": "itemset"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
         "apiset": ""

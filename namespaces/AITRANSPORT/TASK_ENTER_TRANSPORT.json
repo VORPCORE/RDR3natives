@@ -10,7 +10,12 @@
         ],
         "return_type": "void",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "struct args\n{\n  Any p0;\n  Any p1;\n  Any p2;\n  Ped ped;\n  Vehicle vehicle;\n  int seatIndex;\n  int timer;\n  float pedSpeed;\n  int flags;\n}"
+            }
+        ],
         "apiset": ""
     }
 }

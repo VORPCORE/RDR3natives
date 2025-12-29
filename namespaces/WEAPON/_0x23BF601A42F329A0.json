@@ -1,14 +1,14 @@
 {
     "0x23BF601A42F329A0": {
-        "name": "_0x23BF601A42F329A0",
-        "comment": "",
+        "name": "_CAN_PED_ACCESS_MOUNT_WEAPONS",
+        "comment": "Returns true if the given ped is in a valid state to stow or retrieve weapons from their *owned* mount.\nThis typically means the ped is either on their horse or close enough to it for saddle weapon interactions.\nNotes:\n- The ped does **not** need to currently hold a weapon. This check simply determines if saddle stowing/retrieval actions are allowed.\n- Commonly used to enable weapon wheel or stow prompts near the player’s own horse.\n- Will return false if the ped is near a non-owned horse or too far from their own.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

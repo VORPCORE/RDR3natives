@@ -1,15 +1,15 @@
 {
     "0x8A779706DA5CA3DD": {
-        "name": "_0x8A779706DA5CA3DD",
-        "comment": "Only used in R* SP Scripts native_son2, native_son3 and smuggler2\nParams: p2 = -1",
+        "name": "_SET_VEHICLE_WEAPON_RELOAD_MODE",
+        "comment": "Enables/disables reload behavior for vehicle-mounted **cannons**.\nWhen noReload is true, the cannon fires without requiring a reload; when false, it must reload after shots.\nSupported vehicles only:**breach_cannon** and **hotchkiss_cannon**",
         "params": [
             {
-                "type": "Ped",
-                "name": "ped"
+                "type": "Vehicle",
+                "name": "vehicle"
             },
             {
                 "type": "BOOL",
-                "name": "p1"
+                "name": "noReload"
             },
             {
                 "type": "int",

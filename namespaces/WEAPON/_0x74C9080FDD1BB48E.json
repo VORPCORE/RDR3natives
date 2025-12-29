@@ -1,15 +1,15 @@
 {
     "0x74C9080FDD1BB48E": {
-        "name": "_0x74C9080FDD1BB48E",
-        "comment": "",
+        "name": "_SET_PROJECTILE_FUSE_TIME",
+        "comment": "Sets the remaining fuse time (in seconds) for an ignited explosive projectile entity, such as a thrown dynamite.\n Must be called on an already ignited projectile; calling before ignition has no effect.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "projectile"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "fuseTime"
             }
         ],
         "return_type": "void",

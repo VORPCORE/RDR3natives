@@ -1,14 +1,14 @@
 {
     "0xBC9444F2FF94A9C0": {
-        "name": "_0xBC9444F2FF94A9C0",
-        "comment": "",
+        "name": "_GET_PED_CAN_SWITCH_WEAPON",
+        "comment": "Returns true if the ped can switch of weapon.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1355",
         "examples": [],
         "apiset": ""

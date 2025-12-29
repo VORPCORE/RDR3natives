@@ -1,7 +1,7 @@
 {
     "0x9F0E1892C7F228A8": {
-        "name": "_0x9F0E1892C7F228A8",
-        "comment": "",
+        "name": "_GET_WEAPON_LAST_GIVEN",
+        "comment": "gets the last weapon given to ped , if you give a weapon_lasso to ped and then give another it returns the weapon_lasso other wise 0,p0 usually is 1 is unknown, it does not work for all weapons.",
         "params": [
             {
                 "type": "BOOL",

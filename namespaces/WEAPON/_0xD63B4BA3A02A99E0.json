@@ -1,15 +1,15 @@
 {
     "0xD63B4BA3A02A99E0": {
-        "name": "_0xD63B4BA3A02A99E0",
-        "comment": "",
+        "name": "_DISABLE_ALL_SPECIAL_AMMO_FOR_PED",
+        "comment": "Disables all special ammo types for the specified weapon on the given ped, forcing the weapon to use only its basic/regular ammunition.\n- After calling this native, the weapon on that ped becomes restricted to regular ammo only.\n- Works as a higher-level override compared to _DISABLE_AMMO_TYPE_FOR_PED and _DISABLE_AMMO_TYPE_FOR_PED_WEAPON, which target individual ammo types.\n- Useful when ensuring a weapon cannot use any special ammo variants such as high velocity, express, explosive, or split point.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Hash",
+                "name": "weaponHash"
             }
         ],
         "return_type": "void",

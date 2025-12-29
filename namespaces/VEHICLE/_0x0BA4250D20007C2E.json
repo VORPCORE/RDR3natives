@@ -1,14 +1,14 @@
 {
     "0x0BA4250D20007C2E": {
-        "name": "_0x0BA4250D20007C2E",
-        "comment": "",
+        "name": "_GET_BALLOON_OBJECT_FROM_VEHICLE",
+        "comment": "Returns the balloon object attached to a hot air balloon vehicle. \n\nIf the input vehicle is a hot air balloon, the native returns the object entity\nthat represents the balloon itself (the inflated top part). \nIf the vehicle is not balloon-type or the balloon object does not exist,the function returns 0. \nAlways validate the returned handle with ENTITY::DOES_ENTITY_EXIST.\nNotes:\n- Only useful for hot air balloon vehicles.\n- The returned handle is typically an OBJECT, not a PED or VEHICLE.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Vehicle",
+                "name": "vehicle"
             }
         ],
-        "return_type": "Any",
+        "return_type": "Entity",
         "build": "1207",
         "examples": [],
         "apiset": ""

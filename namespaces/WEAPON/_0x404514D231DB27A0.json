@@ -1,15 +1,15 @@
 {
     "0x404514D231DB27A0": {
-        "name": "_0x404514D231DB27A0",
-        "comment": "",
+        "name": "_ENABLE_ALL_SPECIAL_AMMO_FOR_PED",
+        "comment": "Enables all special ammo types for the specified weapon on the given ped.\nThis is the inverse of _DISABLE_ALL_SPECIAL_AMMO_FOR_PED, restoring the ped’s ability to use any special ammo variants available for that weapon.\nRestores full access to special ammo categories such as express, high velocity, split point, explosive, etc.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Hash",
+                "name": "weaponHash"
             }
         ],
         "return_type": "void",

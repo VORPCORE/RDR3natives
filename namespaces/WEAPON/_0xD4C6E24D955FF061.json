@@ -1,11 +1,11 @@
 {
     "0xD4C6E24D955FF061": {
-        "name": "_0xD4C6E24D955FF061",
-        "comment": "",
+        "name": "_DELETE_WEAPON_OBJECT_FROM_MOUNT",
+        "comment": "Deletes the weapon object on the specified mount where its holstered.\nDeletes all visible weapon PROP objects attached to the mount's holsters.\nThis ONLY removes objects; the weapons remain in inventory and are still accessible.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "horse"
             }
         ],
         "return_type": "void",

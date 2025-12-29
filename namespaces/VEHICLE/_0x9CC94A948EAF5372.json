@@ -1,7 +1,7 @@
 {
     "0x9CC94A948EAF5372": {
-        "name": "_0x9CC94A948EAF5372",
-        "comment": "_GET_P - _GET_T*",
+        "name": "_GET_STATION_FROM_TRAIN_STATION_DATA",
+        "comment": "Returns the station hash for a track and station index.\n- trackIndex: int — From 0 to 24\n- stationIndex: int — From 0 to 7",
         "params": [
             {
                 "type": "int",

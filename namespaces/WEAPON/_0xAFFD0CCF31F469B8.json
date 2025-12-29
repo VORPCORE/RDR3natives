@@ -1,14 +1,14 @@
 {
     "0xAFFD0CCF31F469B8": {
-        "name": "_0xAFFD0CCF31F469B8",
-        "comment": "",
+        "name": "_GET_WEAPON_FROM_MOUNT",
+        "comment": "Returns the weapon hash stored in the first holster slot of the specified mount.\nreturns 0 if no weapon or invalid",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "mount"
             }
         ],
-        "return_type": "Any",
+        "return_type": "Hash",
         "build": "1207",
         "examples": [],
         "apiset": ""

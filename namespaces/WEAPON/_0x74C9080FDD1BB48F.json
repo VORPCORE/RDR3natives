@@ -1,15 +1,15 @@
 {
     "0x74C9080FDD1BB48F": {
-        "name": "_0x74C9080FDD1BB48F",
-        "comment": "",
+        "name": "_SET_PROJECTILE_EFFECT_RADIUS",
+        "comment": "Sets the explosion or impact effect radius of a projectile entity (e.g., thrown dynamite or similar explosives).\nNotes:\n- Must be called before the projectile explodes; changing the radius afterward has no effect.\n- Commonly used after retrieving the projectile entity with MISC::GET_PROJECTILE_OF_PROJECTILE_TYPE_WITHIN_DISTANCE.\n- This does not trigger an explosion; it only defines how large the explosion’s area of effect will be.\n- Compared to MISC::ADD_EXPLOSION, which spawns a new explosion at a location, this modifies an existing projectile’s explosion properties.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "projectile"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "radius"
             }
         ],
         "return_type": "void",

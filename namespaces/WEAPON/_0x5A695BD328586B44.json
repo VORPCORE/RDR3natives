@@ -1,7 +1,7 @@
 {
     "0x5A695BD328586B44": {
-        "name": "_0x5A695BD328586B44",
-        "comment": "Returns true if ped is on a horse while inside of a town\nParams: p1 = 0\nGET_L* - GET_MA*",
+        "name": "_GET_LONGARM_STORE_ON_DISMOUNT_STATE",
+        "comment": "Returns the current state of longarm storage on dismount for the specified ped.",
         "params": [
             {
                 "type": "Ped",

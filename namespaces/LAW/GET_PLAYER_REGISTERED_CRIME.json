@@ -1,7 +1,7 @@
 {
     "0x532C5FDDB986EE5C": {
         "name": "GET_PLAYER_REGISTERED_CRIME",
-        "comment": "",
+        "comment": "Returns the player registed crime data at the index",
         "params": [
             {
                 "type": "Player",
@@ -9,16 +9,21 @@
             },
             {
                 "type": "int",
-                "name": "p1"
+                "name": "index"
             },
             {
-                "type": "Hash*",
-                "name": "crimeType"
+                "type": "Any*",
+                "name": "outData"
             }
         ],
         "return_type": "BOOL",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "struct outData\n{\n  Hash crimeType;\n  int bounty;\n  Hash unk2;\n  Any unk3;\n  Any unk4;\n  Any unk5;\n  Any unk6;\n  int unk7;\n  Any unk8;\n  Any unk9;\n  bool unk10;\n}"
+            }
+        ],
         "apiset": ""
     }
 }

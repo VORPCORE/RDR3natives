@@ -1,15 +1,15 @@
 {
     "0x119A5714578F4E05": {
-        "name": "_0x119A5714578F4E05",
-        "comment": "",
+        "name": "_FORCE_TRAIN_WAGON_POPULATION",
+        "comment": "Enables or disables automatic passenger population on a specific train wagon (carriage).\n\nWhen toggle == true, the game keeps this wagon filled with ambient passengers.\nIf a passenger ped is deleted or removed from the wagon, a new ped is spawned almost\nimmediately to occupy that seat.\n\nWhen toggle == false, the engine stops auto-filling this wagon. After you delete or\nremove the existing passengers, no new peds will spawn for that wagon until you enable\nit again with true.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "carriage"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "force"
             }
         ],
         "return_type": "void",

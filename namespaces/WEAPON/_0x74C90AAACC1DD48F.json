@@ -1,11 +1,11 @@
 {
     "0x74C90AAACC1DD48F": {
-        "name": "_0x74C90AAACC1DD48F",
-        "comment": "",
+        "name": "_REGISTER_WEAPON_OBJECT_FOR_IGNITION",
+        "comment": "Marks a created weapon object (e.g., a dynamite weapon object) as ignitable so it can be lit and detonate.\nUse this after CreateWeaponObject for thrown explosives to enable fuse/ignition behavior.\nweaponObject: Weapon object entity created via CreateWeaponObject (e.g., WEAPON_THROWN_DYNAMITE)",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "weaponObject"
             }
         ],
         "return_type": "void",
