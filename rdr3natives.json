@@ -47900,39 +47900,31 @@
             "apiset": ""
         },
         "0xBBE5B63EFFB08E68": {
-            "name": "_0xBBE5B63EFFB08E68",
-            "comment": "",
+            "name": "_GET_GROUND_Z_AND_MATERIAL_FOR_3D_COORD",
+            "comment": "Outputs the ground Z axis, its material and flags.Input flags are 17, 129 or 3423 in R* scripts.similar to flags of shapes test native",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vector3*",
+                    "name": "coords"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "flags"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float*",
+                    "name": "groundZ"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "Hash*",
+                    "name": "material"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
-                },
-                {
-                    "type": "Any",
-                    "name": "p5"
-                },
-                {
-                    "type": "Any",
-                    "name": "p6"
+                    "type": "int*",
+                    "name": "outFlags"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
