@@ -4,7 +4,7 @@
         "comment": "Outputs the ground Z axis, its material and flags.Input flags are 17, 129 or 3423 in R* scripts.similar to flags of shapes test native",
         "params": [
             {
-                "type": "Vector3*",
+                "type": "Any",
                 "name": "coords"
             },
             {
