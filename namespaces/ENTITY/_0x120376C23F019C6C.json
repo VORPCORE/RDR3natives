@@ -1,18 +1,18 @@
 {
     "0x120376C23F019C6C": {
-        "name": "_0x120376C23F019C6C",
-        "comment": "",
+        "name": "_GET_PELT_TEXTURE_BY_CARRIABLE",
+        "comment": "returns the albedo hash by carriable hash, use Citizen.pointerValueInt() as last parameter",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "carriableHash"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Hash*",
+                "name": "albedoHash"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""
