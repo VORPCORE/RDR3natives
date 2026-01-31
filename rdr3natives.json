@@ -21591,31 +21591,31 @@
             "apiset": ""
         },
         "0x5744562E973E33CD": {
-            "name": "_0x5744562E973E33CD",
-            "comment": "",
+            "name": "_GET_PELT_TEXTURE",
+            "comment": "Get the pelt TXDs by the animal albedo hash, returns: normal map hash, material hash and albedo hash, this native needs dataview to be passed in, then use it to get the pelt TXDs",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "albedoHash"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Any*",
+                    "name": "txdAlbedoDV"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "Any*",
+                    "name": "txdNormalMapDV"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "Any*",
+                    "name": "txdMaterialDV"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p4"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -22279,23 +22279,23 @@
             "apiset": ""
         },
         "0xDD03FC2089AD093C": {
-            "name": "_0xDD03FC2089AD093C",
-            "comment": "",
+            "name": "_SET_PELT_TEXTURE",
+            "comment": "Set the pelt texture to the object, by albedo hash and inventory item hash\nExamples: object: P_CS_PELT_MEDLARGE  albedo: a_c_boar_01_head_000_c0_000_ab, inventoryItem: PROVISION_BOAR_HIDE_POOR",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Object",
+                    "name": "object"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Hash",
+                    "name": "inventoryItem"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "Hash",
+                    "name": "albedo"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p3"
                 }
             ],
