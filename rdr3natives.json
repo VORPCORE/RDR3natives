@@ -21599,15 +21599,15 @@
                     "name": "albedoHash"
                 },
                 {
-                    "type": "Any*",
+                    "type": "Any",
                     "name": "txdAlbedoDV"
                 },
                 {
-                    "type": "Any*",
+                    "type": "Any",
                     "name": "txdNormalMapDV"
                 },
                 {
-                    "type": "Any*",
+                    "type": "Any",
                     "name": "txdMaterialDV"
                 },
                 {
