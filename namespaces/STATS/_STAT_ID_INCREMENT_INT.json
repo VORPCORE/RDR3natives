@@ -1,27 +1,26 @@
 {
-    "_STAT_ID_INCREMENT_INT": {
-        "0x6A0184E904CDF25E": {
-            "name": "_STAT_ID_INCREMENT_INT",
-            "comment": "Increments an integer stat by the supplied amount. `statId` is not a raw stat hash; it is a stat-id buffer/struct in the same format used by STAT_ID_IS_VALID. In common usage this is an 8-byte buffer with the stat hash written as int32 at offset 0 and 0 written as int32 at offset 4. Use this for counter-style stats, for example incrementing FISH_ESCAPED by 1. The first argument is not a plain integer stat hash; it is a stat-id buffer.",
-            "params": [
-                {
-                    "type": "Any*",
-                    "name": "statId"
-                },
-                {
-                    "type": "int",
-                    "name": "amount"
-                }
-            ],
-            "return_type": "void",
-            "build": "1207",
-            "examples": [
-                {
-                    "lang": "lua",
-                    "code": "local function createStatIdBuffer(statHash)\n    local view = DataView.ArrayBuffer(8)\n    view:SetInt32(0, statHash, true)\n    view:SetInt32(4, 0, true)\n    return view\nend\n\nlocal statId = createStatIdBuffer(GetHashKey(\"FISH_ESCAPED\"))\nCitizen.InvokeNative(0x6A0184E904CDF25E, statId:Buffer(), 1)"
-                }
-            ],
-            "apiset": "client"
-        }
+    "0x6A0184E904CDF25E": {
+        "name": "_STAT_ID_INCREMENT_INT",
+        "comment": "Increments an integer stat by the supplied amount. `statId` is not a raw stat hash; it is a stat-id buffer/struct in the same format used by STAT_ID_IS_VALID. In common usage this is an 8-byte buffer with the stat hash written as int32 at offset 0 and 0 written as int32 at offset 4. Use this for counter-style stats, for example incrementing FISH_ESCAPED by 1. The first argument is not a plain integer stat hash; it is a stat-id buffer.",
+        "params": [
+            {
+                "type": "Any*",
+                "name": "statId"
+            },
+            {
+                "type": "int",
+                "name": "amount"
+            }
+        ],
+        "return_type": "void",
+        "build": "1207",
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "local function createStatIdBuffer(statHash)\n    local view = DataView.ArrayBuffer(8)\n    view:SetInt32(0, statHash, true)\n    view:SetInt32(4, 0, true)\n    return view\nend\n\nlocal statId = createStatIdBuffer(GetHashKey(\"FISH_ESCAPED\"))\nCitizen.InvokeNative(0x6A0184E904CDF25E, statId:Buffer(), 1)"
+            }
+        ],
+        "apiset": "client"
     }
+
 }
