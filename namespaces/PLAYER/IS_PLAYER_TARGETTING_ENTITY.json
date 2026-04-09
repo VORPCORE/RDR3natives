@@ -1,7 +1,7 @@
 {
     "0x27F89FDC16688A7A": {
         "name": "IS_PLAYER_TARGETTING_ENTITY",
-        "comment": "",
+        "comment": "p2 will return true if player is targetting entity with a weapon if false will return true if player is targetting entity without a weapon",
         "params": [
             {
                 "type": "Player",
@@ -13,7 +13,7 @@
             },
             {
                 "type": "BOOL",
-                "name": "p2"
+                "name": "withWeapon"
             }
         ],
         "return_type": "BOOL",
