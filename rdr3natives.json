@@ -425,8 +425,8 @@
             "apiset": ""
         },
         "0x4248AB2EEB3C75AD": {
-            "name": "_0x4248AB2EEB3C75AD",
-            "comment": "_SET_TRANSPORT_*",
+            "name": "_SET_TRANSPORT_EXCLUSIVE_DRIVER",
+            "comment": "",
             "params": [
                 {
                     "type": "Entity",
@@ -438,7 +438,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p2"
+                    "name": "seatIndex"
                 }
             ],
             "return_type": "void",
@@ -448,11 +448,11 @@
         },
         "0x4B6C9A43F7D9109B": {
             "name": "_0x4B6C9A43F7D9109B",
-            "comment": "",
+            "comment": "Used for ROWBOAT and ROWBOATSWAMP in R* Scripts",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "transportEntity"
                 },
                 {
                     "type": "Any",
@@ -465,8 +465,8 @@
             "apiset": ""
         },
         "0x5639FBEA922788DA": {
-            "name": "_0x5639FBEA922788DA",
-            "comment": "_CLEAR_A*",
+            "name": "_CLEAR_ALL_SEAT_PREFERENCE_SLOTS",
+            "comment": "",
             "params": [
                 {
                     "type": "Entity",
@@ -479,8 +479,8 @@
             "apiset": ""
         },
         "0x8C8371EDFAF014A0": {
-            "name": "_0x8C8371EDFAF014A0",
-            "comment": "_SET_TRANSPORT_*",
+            "name": "_SET_TRANSPORT_EXIT_BLEND_RATIO",
+            "comment": "",
             "params": [
                 {
                     "type": "Ped",
@@ -488,7 +488,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "p1"
+                    "name": "ratio"
                 }
             ],
             "return_type": "void",
@@ -497,8 +497,8 @@
             "apiset": ""
         },
         "0xF8C20282B237E3F7": {
-            "name": "_0xF8C20282B237E3F7",
-            "comment": "_SET_TRANSPORT_*",
+            "name": "_CLEAR_TRANSPORT_EXIT_BLEND_RATIO",
+            "comment": "",
             "params": [
                 {
                     "type": "Ped",
@@ -5151,14 +5151,14 @@
         },
         "0x4A98E228A936DBCC": {
             "name": "_0x4A98E228A936DBCC",
-            "comment": "",
+            "comment": "Gets the hash for the currently playing speech line.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "Hash",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -5662,26 +5662,26 @@
         },
         "0x9D6DEC9791A4E501": {
             "name": "_0x9D6DEC9791A4E501",
-            "comment": "",
+            "comment": "Returns true or false if the ped can say a specific speech line with PLAY_PED_AMBIENT_SPEECH_NATIVE, similar to DOES_CONTEXT_EXIST_FOR_THIS_PED",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "char*",
+                    "name": "speechName"
                 },
                 {
-                    "type": "Any",
+                    "type": "BOOL",
                     "name": "p2"
                 },
                 {
-                    "type": "Any",
+                    "type": "BOOL",
                     "name": "p3"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -9361,7 +9361,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "p5"
+                    "name": "renderingFlags"
                 }
             ],
             "return_type": "void",
@@ -9613,15 +9613,15 @@
                 },
                 {
                     "type": "int",
-                    "name": "p9"
+                    "name": "graphType1"
                 },
                 {
                     "type": "int",
-                    "name": "p10"
+                    "name": "graphType2"
                 },
                 {
                     "type": "int",
-                    "name": "p11"
+                    "name": "rotationOrder"
                 },
                 {
                     "type": "Any",
@@ -14724,8 +14724,8 @@
             "apiset": ""
         },
         "0x6318FB3BE37E11B3": {
-            "name": "_0x6318FB3BE37E11B3",
-            "comment": "",
+            "name": "_DATABINDING_REMOVE_UI_ITEM_FROM_LIST_BY_INDEX",
+            "comment": "Removes a UI item from it's list by index",
             "params": [
                 {
                     "type": "Hash",
@@ -17536,7 +17536,7 @@
             "apiset": ""
         },
         "0xB1682B2443F0540B": {
-            "name": "_DECOR_GET_UINT8",
+            "name": "_DECOR_GET_PLAYER_INDEX",
             "comment": "",
             "params": [
                 {
@@ -17544,7 +17544,7 @@
                     "name": "entity"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "propertyName"
                 }
             ],
@@ -17554,11 +17554,11 @@
             "apiset": ""
         },
         "0x4587374F88B7F6C2": {
-            "name": "_DECOR_REGISTER_2",
-            "comment": "",
+            "name": "_DECOR_REGISTER_NETWORKED",
+            "comment": "Old Name: _DECOR_REGISTER_2",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "propertyName"
                 },
                 {
@@ -17567,7 +17567,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p2"
+                    "name": "isNetworked"
                 }
             ],
             "return_type": "void",
@@ -17576,15 +17576,15 @@
             "apiset": ""
         },
         "0x4BDC83150D43772D": {
-            "name": "_DECOR_SET_UINT8",
-            "comment": "",
+            "name": "_DECOR_SET_PLAYER_INDEX",
+            "comment": "Old name: _DECOR_SET_UINT8",
             "params": [
                 {
                     "type": "Entity",
                     "name": "entity"
                 },
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "propertyName"
                 },
                 {
@@ -20286,11 +20286,11 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "scriptHostObject"
                 },
                 {
                     "type": "BOOL",
-                    "name": "p2"
+                    "name": "grabFromOtherScript"
                 }
             ],
             "return_type": "void",
@@ -21536,7 +21536,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "p7"
+                    "name": "timer"
                 },
                 {
                     "type": "BOOL",
@@ -21675,7 +21675,7 @@
             "apiset": ""
         },
         "0x669655FFB29EF1A9": {
-            "name": "_SET_FILL_IN_STATE_FOR_ENTITY",
+            "name": "_SET_MATERIAL_FILL_LEVEL_FOR_ENTITY",
             "comment": "sets the fill in state for some objects like for the stew, coffee mug ,poker chips, jugs ? P1 is either 0 or 2 p2 seems to be a label/name p3 is the fill in state, max seems to be for some 3.0 (most is 1.0) - 0.0\nheres some of the labels/names found \ntumbler_fill, Canvas, Stew_Fill, from Chip01_Ctrl to Chip10_Ctrl, from empty_jug01_Ctrl to empty_jug20_Ctrl, from full_jug01_Ctrl to full_jug20_Ctrl, CTRL_cupFill, Food_DOF_Fill, from WhiteChip_Ctrl_0 to WhiteChip_Ctrl_10, from BlueChip_Ctrl_0 to BlueChip_Ctrl_10, from BlackChip_Ctrl_0 to BlackChip_Ctrl_10, from RedChip_Ctrl_0 to RedChip_Ctrl_10,",
             "params": [
                 {
@@ -21684,15 +21684,15 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "expressionType"
                 },
                 {
-                    "type": "const char*",
-                    "name": "p2"
+                    "type": "char*",
+                    "name": "dofName"
                 },
                 {
                     "type": "float",
-                    "name": "fill"
+                    "name": "fillState"
                 }
             ],
             "return_type": "void",
@@ -24740,20 +24740,20 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "intensity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "int",
+                    "name": "boneIndex"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "int",
+                    "name": "fireFlags"
                 }
             ],
             "return_type": "void",
@@ -25639,7 +25639,7 @@
             "params": [
                 {
                     "type": "Entity",
-                    "name": "herd"
+                    "name": "herdHandle"
                 }
             ],
             "return_type": "void",
@@ -27064,15 +27064,15 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "eventType"
                 },
                 {
                     "type": "BOOL",
-                    "name": "p2"
+                    "name": "peekOnly"
                 },
                 {
                     "type": "BOOL*",
-                    "name": "p3"
+                    "name": "isRegistered"
                 }
             ],
             "return_type": "BOOL",
@@ -29450,15 +29450,15 @@
                 },
                 {
                     "type": "int",
-                    "name": "eventType"
+                    "name": "xAxis"
                 },
                 {
                     "type": "BOOL",
-                    "name": "bPeekOnly"
+                    "name": "yAxis"
                 },
                 {
                     "type": "BOOL",
-                    "name": "bIsRegistered"
+                    "name": "zAxis"
                 }
             ],
             "return_type": "BOOL",
@@ -30577,7 +30577,7 @@
             "apiset": ""
         },
         "0xDFE332A5DA6FE7C9": {
-            "name": "_0xDFE332A5DA6FE7C9",
+            "name": "_NUM_PIXELS_VISIBLE_AT_TRACKED_POINT",
             "comment": "Returns iNumPixels, iPixelsVisible",
             "params": [
                 {
@@ -33059,7 +33059,7 @@
         },
         "0x7EC0D68233E391AC": {
             "name": "_GET_HUD_STATE",
-            "comment": "Returns the state of a specific HUD Component",
+            "comment": "Returns the state of a specific HUD Component\neHudVisibilitySlotType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eHudVisibilitySlotType",
             "params": [
                 {
                     "type": "int",
@@ -33072,20 +33072,20 @@
             "apiset": ""
         },
         "0x806862E5D266CF38": {
-            "name": "_0x806862E5D266CF38",
-            "comment": "",
+            "name": "_GET_TEXT_SUBSTRING_3",
+            "comment": "Example: HUD::_0x806862E5D266CF38(&string1, 0, HUD::GET_LENGTH_OF_LITERAL_STRING(&string1) - HUD::GET_LENGTH_OF_LITERAL_STRING(\"_DUALWIELD\"))",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "char*",
+                    "name": "text"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "begin"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "int",
+                    "name": "length"
                 }
             ],
             "return_type": "Any",
@@ -33165,9 +33165,9 @@
         },
         "0x9C409BBC492CB5B1": {
             "name": "_HUD_WEAPON_WHEEL_GET_SELECTED_ITEM_HASH",
-            "comment": "Returns the hash of the currently highlighted item in the weapon wheel.\nOnly works while the wheel is open will return false\n\nUse in conjunction with IS_CONTROL_JUST_RELEASED(0, 'INPUT_OPEN_WHEEL_MENU') to detect item selection/usage.",
+            "comment": "Returns the hash of the currently highlighted item in the weapon wheel.\nOnly works while the wheel is open otherwise will return false\n\nUse in conjunction with IS_CONTROL_JUST_RELEASED(0, 'INPUT_OPEN_WHEEL_MENU') to detect item selection/usage.",
             "params": [],
-            "return_type": "Any",
+            "return_type": "Hash",
             "build": "1207",
             "examples": [],
             "apiset": "client"
@@ -35177,7 +35177,7 @@
         },
         "0x74C7D7B72ED0D3CF": {
             "name": "_UI_PROMPT_SET_STANDARDIZED_HOLD_MODE",
-            "comment": "Hashes: SHORT_TIMED_EVENT_MP, SHORT_TIMED_EVENT, MEDIUM_TIMED_EVENT, LONG_TIMED_EVENT, RUSTLING_CALM_TIMING, PLAYER_FOCUS_TIMING, PLAYER_REACTION_TIMING",
+            "comment": "HoldType Hashes: SHORT_TIMED_EVENT_MP, SHORT_TIMED_EVENT, MEDIUM_TIMED_EVENT, LONG_TIMED_EVENT, RUSTLING_CALM_TIMING, PLAYER_FOCUS_TIMING, PLAYER_REACTION_TIMING",
             "params": [
                 {
                     "type": "Prompt",
@@ -35185,7 +35185,7 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "timedEventHash"
+                    "name": "holdType"
                 }
             ],
             "return_type": "void",
@@ -36267,8 +36267,8 @@
             "apiset": ""
         },
         "0x112BCA290D2EB53C": {
-            "name": "_0x112BCA290D2EB53C",
-            "comment": "Only used in R* SP Scripts",
+            "name": "_INVENTORY_GET_INVENTORY_ITEM_LAST_CREATION",
+            "comment": "Returns the last creation date of an inventory item",
             "params": [
                 {
                     "type": "int",
@@ -36276,7 +36276,7 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "p1"
+                    "name": "item"
                 },
                 {
                     "type": "int*",
@@ -36416,7 +36416,7 @@
         },
         "0x75CFAC49301E134E": {
             "name": "_INVENTORY_APPLY_WEAPON_STATS_TO_ENTRY",
-            "comment": "Apply the weapon stats to the CatalogItemInspection stats entry id. get entryId with _INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY",
+            "comment": "Apply the weapon stats to the CatalogItemInspection stats entry id. get entryId with _INVENTORY_ADD_CATALOG_ITEM_INSPECTION_STATS_ENTRY",
             "params": [
                 {
                     "type": "int",
@@ -36437,8 +36437,8 @@
             "apiset": "client"
         },
         "0x75CFAC49301E134F": {
-            "name": "_0x75CFAC49301E134F",
-            "comment": "p1, p2: 0",
+            "name": "_INVENTORY_APPLY_ITEM_EFFECT_TO_STATS_ENTRY",
+            "comment": "entry id from _INVENTORY_ADD_CATALOG_ITEM_INSPECTION_EFFECTS_ENTRY",
             "params": [
                 {
                     "type": "Hash",
@@ -36512,8 +36512,8 @@
             "apiset": ""
         },
         "0x9D21B185ABC2DBC4": {
-            "name": "_INVENTORY_GET_CATALOG_ITEM_INSPECTION_EFFECTS_ENTRY",
-            "comment": "Returns effects entry id of CatalogItemInspection container.",
+            "name": "_INVENTORY_ADD_CATALOG_ITEM_INSPECTION_EFFECTS_ENTRY",
+            "comment": "Adds an effects entry to the CatalogItemInspection container, return int to be used with _0x75CFAC49301E134F",
             "params": [
                 {
                     "type": "int",
@@ -36538,7 +36538,7 @@
             "apiset": "client"
         },
         "0x9D21B185ABC2DBC5": {
-            "name": "_INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY",
+            "name": "_INVENTORY_ADD_CATALOG_ITEM_INSPECTION_STATS_ENTRY",
             "comment": "Returns stats entry id of CatalogItemInspection container",
             "params": [
                 {
@@ -37865,7 +37865,7 @@
         },
         "0xFE90ABBCBFDC13B2": {
             "name": "ITEMDATABASE_FILLOUT_ITEM_INFO",
-            "comment": "",
+            "comment": "outputs struct ItemInfo { Hash category; Hash itemType; Hash unk2; Hash model; Hash award; }",
             "params": [
                 {
                     "type": "Hash",
@@ -38132,8 +38132,8 @@
             "apiset": ""
         },
         "0xD076DB9B96FAADF1": {
-            "name": "_0xD076DB9B96FAADF1",
-            "comment": "_ITEMDATABASE_GET_AWARD_*",
+            "name": "_ITEMDATABASE_GET_AWARD_INFO",
+            "comment": "",
             "params": [
                 {
                     "type": "Hash",
@@ -40132,7 +40132,7 @@
             "apiset": ""
         },
         "0x148E7AC8141C9E64": {
-            "name": "_0x148E7AC8141C9E64",
+            "name": "_GET_CRIME_DISPATCH_TYPE_FOR_PLAYER",
             "comment": "",
             "params": [
                 {
@@ -42583,7 +42583,7 @@
             "params": [
                 {
                     "type": "Blip",
-                    "name": "blipid"
+                    "name": "blip"
                 }
             ],
             "return_type": "Any",
@@ -42633,7 +42633,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "blipId"
+                    "name": "blip"
                 }
             ],
             "return_type": "BOOL",
@@ -42643,7 +42643,7 @@
         },
         "0x44813684F72B563C": {
             "name": "_CLEAR_BLIP_ICON_FROM_LOCKON_ENTITY_PROMPT",
-            "comment": "will remove the blip icon from the entity lockon prompt, use 0 for p1",
+            "comment": "will remove the blip icon from the entity lockon prompt,p1 = GET_BLIP_FROM_ENTITY",
             "params": [
                 {
                     "type": "Entity",
@@ -42651,7 +42651,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "blip"
                 }
             ],
             "return_type": "void",
@@ -56754,7 +56754,7 @@
             "apiset": ""
         },
         "0xFD4272A137703449": {
-            "name": "_NETWORK_SESSION_REQUEST_TERMINATE",
+            "name": "_NETWORK_SESSION_SHUTDOWN",
             "comment": "Only used in R* Script startup_clip Seems to just kill the network connection, sets the players coords to 0, 0, 0 when doing GetEntityCoords",
             "params": [],
             "return_type": "void",
@@ -59026,7 +59026,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "value"
+                    "name": "amount"
                 },
                 {
                     "type": "Hash",
@@ -59034,15 +59034,15 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p7"
+                    "name": "createAsScriptObject"
                 },
                 {
                     "type": "BOOL",
-                    "name": "p8"
+                    "name": "scriptHostObject"
                 },
                 {
                     "type": "int",
-                    "name": "p9"
+                    "name": "customAmmoType"
                 },
                 {
                     "type": "float",
@@ -61267,16 +61267,16 @@
             "apiset": ""
         },
         "0xCAAF2BCCFEF37F77": {
-            "name": "_0xCAAF2BCCFEF37F77",
-            "comment": "_SET_OBJECT_*",
+            "name": "_SET_OBJECT_INTERACTION_PRESET",
+            "comment": "",
             "params": [
                 {
                     "type": "Object",
                     "name": "object"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "presetFlags"
                 }
             ],
             "return_type": "void",
@@ -65179,7 +65179,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p3"
+                    "name": "doFoliageCheck"
                 }
             ],
             "return_type": "int",
@@ -72048,18 +72048,18 @@
         },
         "0x0105FEE8F9091255": {
             "name": "_GET_PED_DIRT_LEVEL",
-            "comment": "Return the dirt level of the ped (0.0 - 1.0). p1 is always set to 1.",
+            "comment": "Return the dirt level of the ped (0.0 - 1.0). p1 is always set to 1.\nThe second parameter is treated as a boolean selector (0 or 1). Internally it indexes a 2-slot graphics/appearance bank (base + 0xB8 * index + 0xE4); Rockstar scripts pass 1.",
             "params": [
                 {
                     "type": "Ped",
                     "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "useCompositeLayer"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "float",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -72083,7 +72083,7 @@
             "apiset": ""
         },
         "0x028E7B3BBA0BD2FC": {
-            "name": "_0x028E7B3BBA0BD2FC",
+            "name": "_SET_STAGED_PED_FLAG",
             "comment": "_SET_ST* - _SET_SW* Sets a ped config flag for the specified ped",
             "params": [
                 {
@@ -72352,20 +72352,20 @@
             "apiset": ""
         },
         "0x0EA9EACBA3B01601": {
-            "name": "_0x0EA9EACBA3B01601",
-            "comment": "_CAN_PED_B* - _CAN_PED_I*",
+            "name": "_CAN_PED_HEAR_TARGET_PED",
+            "comment": "Returns true if `listener` can hear `source`.\nIf `includeNoiseBoost` is true, the source's noise radius is applied (easier to hear).\nIt treats the source as louder\u2014its current noise expands the effective hearing range (by subtracting noiseRadius\u00b2 from dist\u00b2), while false uses the baseline distance-only check (stealth).",
             "params": [
                 {
                     "type": "Ped",
-                    "name": "ped1"
+                    "name": "source"
                 },
                 {
                     "type": "Ped",
-                    "name": "ped2"
+                    "name": "listener"
                 },
                 {
                     "type": "BOOL",
-                    "name": "p2"
+                    "name": "includeNoiseBoost"
                 }
             ],
             "return_type": "float",
@@ -72708,7 +72708,7 @@
             "apiset": ""
         },
         "0x1E017404784AA6A3": {
-            "name": "_0x1E017404784AA6A3",
+            "name": "_PED_APPLY_SPEECH_RELATIONSHIP",
             "comment": "something to do with speech lines? \n some hashs MAR2_RIDE1, MAR2_RIDE1, RBCH1_RIDE1, SAD5_RIDE1",
             "params": [
                 {
@@ -72942,7 +72942,7 @@
             "apiset": ""
         },
         "0x2B4CE170DE09F346": {
-            "name": "_0x2B4CE170DE09F346",
+            "name": "_PED_REMOVE_SPEECH_RELATIONSHIP",
             "comment": "",
             "params": [
                 {
@@ -73388,7 +73388,7 @@
             "apiset": ""
         },
         "0x3D9F958834AB9C30": {
-            "name": "_0x3D9F958834AB9C30",
+            "name": "_GET_PED_WHO_HOGITIED_THIS_PED",
             "comment": "",
             "params": [
                 {
@@ -73607,7 +73607,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "pcarryingType"
+                    "name": "carryingType"
                 },
                 {
                     "type": "int*",
@@ -73615,11 +73615,11 @@
                 },
                 {
                     "type": "int",
-                    "name": "p3"
+                    "name": "outEntsCount"
                 },
                 {
                     "type": "int",
-                    "name": "filter"
+                    "name": "filterFlags"
                 }
             ],
             "return_type": "int",
@@ -73633,7 +73633,7 @@
             "apiset": "client"
         },
         "0x46BF2A810679D6E6": {
-            "name": "_0x46BF2A810679D6E6",
+            "name": "_COMPUTE_PED_MOVE_BLEND_RATIO_FOR_MAX_SPEED",
             "comment": "Returns vehicle (desired) speed\n_COMPUTE_(VEHICLE_SPEED_USING_BLEND_RATIO?)*",
             "params": [
                 {
@@ -74494,8 +74494,8 @@
             "apiset": ""
         },
         "0x6DB875AFC584FA32": {
-            "name": "_0x6DB875AFC584FA32",
-            "comment": "Only used in R* SP Script winter1: p1 = 5000\n_SET_PED_M*",
+            "name": "_SET_PED_MELEE_FORCED_DURATION",
+            "comment": "",
             "params": [
                 {
                     "type": "Ped",
@@ -74503,7 +74503,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "durationMs"
                 }
             ],
             "return_type": "Any",
@@ -74812,7 +74812,7 @@
             "apiset": ""
         },
         "0x7C8AA850617651D9": {
-            "name": "_0x7C8AA850617651D9",
+            "name": "_GET_PED_SPEECH_RELATIONSHIP",
             "comment": "Returns wether `0x1E017404784AA6A3` was applied on the ped.\n some hashs MAR2_RIDE1, MAR2_RIDE1, RBCH1_RIDE1, SAD5_RIDE1",
             "params": [
                 {
@@ -75102,7 +75102,7 @@
             "apiset": ""
         },
         "0x88A5564B19C15391": {
-            "name": "_0x88A5564B19C15391",
+            "name": "_IS_ANIMAL_SKINNED",
             "comment": "",
             "params": [
                 {
@@ -75862,7 +75862,7 @@
             "apiset": ""
         },
         "0x9E3842E5DAD69F80": {
-            "name": "_0x9E3842E5DAD69F80",
+            "name": "_SET_SCENARIO_PED_VOLUME_REFERENCE",
             "comment": "Only used in SP R* Script loanshark_hunter",
             "params": [
                 {
@@ -76142,7 +76142,7 @@
             "apiset": ""
         },
         "0xA691C10054275290": {
-            "name": "_SET_PLAYER_DISMOUNT_TIMESTAMP_FOR_HORSE",
+            "name": "_SET_PLAYER_DISMOUNT_TIMESTAMP",
             "comment": "dismountTimer gets called with the data from `_GET_PLAYER_DISMOUNT_TIMESTAMP`",
             "params": [
                 {
@@ -76501,8 +76501,8 @@
             "apiset": ""
         },
         "0xB7DBB2986B87E230": {
-            "name": "_0xB7DBB2986B87E230",
-            "comment": "_HAS_PED_SHOT_IN_LAST_X_SECONDS*",
+            "name": "_HAS_PED_SHOT_RECENTLY",
+            "comment": "",
             "params": [
                 {
                     "type": "Ped",
@@ -76510,7 +76510,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "timeInSeconds"
+                    "name": "seconds"
                 }
             ],
             "return_type": "BOOL",
@@ -76519,8 +76519,8 @@
             "apiset": ""
         },
         "0xB8AB265426CFE6DD": {
-            "name": "_0xB8AB265426CFE6DD",
-            "comment": "_SET_HO* Sets some flag on a horse",
+            "name": "_SET_HORSE_SCRIPTED_FLAG",
+            "comment": "Sets some flag on a horse",
             "params": [
                 {
                     "type": "Ped",
@@ -76528,7 +76528,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "toggle"
                 }
             ],
             "return_type": "void",
@@ -76748,8 +76748,8 @@
             "apiset": ""
         },
         "0xC3995D396F1D97B6": {
-            "name": "_0xC3995D396F1D97B6",
-            "comment": "_GET_PED_G* - _GET_PED_I*",
+            "name": "_GET_PED_HAS_SIMPLE_PLAYER_MEMORY_CHANGED",
+            "comment": "",
             "params": [
                 {
                     "type": "Ped",
@@ -76757,11 +76757,11 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "memoryType"
                 },
                 {
                     "type": "int",
-                    "name": "p2"
+                    "name": "ms"
                 }
             ],
             "return_type": "BOOL",
@@ -76779,15 +76779,15 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "itemHash"
+                    "name": "inventoryItem"
                 },
                 {
                     "type": "Hash",
-                    "name": "albedo"
+                    "name": "albedoHash"
                 },
                 {
                     "type": "Hash",
-                    "name": "normal"
+                    "name": "normalHash"
                 },
                 {
                     "type": "BOOL",
@@ -76968,8 +76968,8 @@
             "apiset": ""
         },
         "0xCA95924C893A0C91": {
-            "name": "_0xCA95924C893A0C91",
-            "comment": "Returns vehicle speed\n_COMPUTE_*",
+            "name": "_COMPUTE_SPEED_FOR_PED_MOVE_BLEND_RATIO",
+            "comment": "Returns vehicle speed",
             "params": [
                 {
                     "type": "Ped",
@@ -76977,7 +76977,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "p1"
+                    "name": "speed"
                 }
             ],
             "return_type": "float",
@@ -77498,7 +77498,7 @@
             "apiset": "client"
         },
         "0xDC91F22F09BC6C2F": {
-            "name": "_0xDC91F22F09BC6C2F",
+            "name": "_SET_RELATIONSHIP_GROUP_SCRIPT_REGISTERED",
             "comment": "Used in Script Function MP_MAIN_OFFLINE__INITIALIZE_GAME\n_SET_RELATIONSHIP_*",
             "params": [
                 {
@@ -77507,7 +77507,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "unregister"
                 }
             ],
             "return_type": "void",
@@ -77882,7 +77882,7 @@
             "apiset": ""
         },
         "0xE76687023D8C8505": {
-            "name": "_0xE76687023D8C8505",
+            "name": "_GET_PED_INDEX_FROM_PERSCHAR_HASH",
             "comment": "Used for AUDIO / ANIMSCENE (REFERENCE_REGIONAL_CHARACTER)\nParams: p1 = 0\n_GET_PED_IN*",
             "params": [
                 {
@@ -78346,7 +78346,7 @@
             "apiset": ""
         },
         "0xF9CFF5BB70E8A2CB": {
-            "name": "_SET_PED_WETNESS",
+            "name": "_SET_PED_WETNESS_AMOUNT",
             "comment": "only works when you use SET_PED_WETNESS_HEIGHT first , if you do 0.0 (it resets) you need to apply again with SET_PED_WETNESS_HEIGHT to see the wetness effects again",
             "params": [
                 {
@@ -78355,7 +78355,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "p1"
+                    "name": "amount"
                 }
             ],
             "return_type": "void",
@@ -82936,11 +82936,11 @@
             "params": [
                 {
                     "type": "Ped",
-                    "name": "PedIndex"
+                    "name": "ped"
                 },
                 {
                     "type": "BOOL",
-                    "name": "bEnableIK"
+                    "name": "toggle"
                 }
             ],
             "return_type": "void",
@@ -84780,7 +84780,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p4"
+                    "name": "isMp"
                 },
                 {
                     "type": "int",
@@ -89849,7 +89849,7 @@
             "apiset": ""
         },
         "0x0E9057A9DA78D0F8": {
-            "name": "_CLEAR_DEADEYE_AURA_INTENSITY_WITH_FLAG",
+            "name": "_CLEAR_DEADEYE_AURA_INTENSITY",
             "comment": "Clears the intensity of aura effects applied to entities for a specific player in Deadeye mode based on a flag parameter. This function is used to reset any intensity modifications set by `_SET_DEADEYE_ENTITY_AURA_INTENSITY_WITH_FLAG - 0x131E294EF60160DF`, restoring affected entities' aura intensity to their default state.",
             "params": [
                 {
@@ -90262,7 +90262,7 @@
             "apiset": "client"
         },
         "0x2B12B6FC8B8772AB": {
-            "name": "_SET_DEADEYE_ENTITY_AURA_WITH_FLAG",
+            "name": "_SET_DEADEYE_ENTITY_AURA",
             "comment": "Applies a aura effect to nearby entities when Deadeye is active, based on a flag parameter. This includes humans, animals, vehicles, and horses pulling those vehicles. Additionally, depending on the flag value, the player's appearance may change (e.g., turning gray).\n- flag (int): A flag that determines the behavior of the aura effect. 2 means people 4 means animal etc.",
             "params": [
                 {
@@ -90974,7 +90974,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "p3"
+                    "name": "heading"
                 }
             ],
             "return_type": "void",
@@ -91355,7 +91355,7 @@
             "params": [
                 {
                     "type": "Player",
-                    "name": "playerID"
+                    "name": "player"
                 },
                 {
                     "type": "char*",
@@ -92068,7 +92068,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "attachSlotId"
+                    "name": "weaponDrawOrder"
                 }
             ],
             "return_type": "void",
@@ -92351,7 +92351,7 @@
         },
         "0xE910932F4B30BE23": {
             "name": "_RESET_DEADEYE_AURA_EFFECT",
-            "comment": "Resets any aura effects applied to entities for a specific player in Deadeye mode, returning all aura-related visuals to their default state. This function is primarily used to remove any highlighting or aura effects set by `_SET_DEADEYE_ENTITY_AURA_WITH_FLAG - 0x2B12B6FC8B8772AB` and `_SET_DEADEYE_ENTITY_AURA_INTENSITY_WITH_FLAG - 0x131E294EF60160DF`",
+            "comment": "Resets any aura effects applied to entities for a specific player in Deadeye mode, returning all aura-related visuals to their default state. This function is primarily used to remove any highlighting or aura effects set by `_SET_DEADEYE_ENTITY_AURA - 0x2B12B6FC8B8772AB` and `_SET_DEADEYE_ENTITY_AURA_INTENSITY - 0x131E294EF60160DF`",
             "params": [
                 {
                     "type": "Player",
@@ -94815,7 +94815,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "abilityType"
                 },
                 {
                     "type": "BOOL",
@@ -96062,7 +96062,7 @@
             "apiset": ""
         },
         "0xC4B67EF3FD65622D": {
-            "name": "_MODIFY_PROPSET_COORDS_AND_HEADING",
+            "name": "_MOVE_PROPSET_COORDS_AND_HEADING",
             "comment": "Relocates an existing prop set to specified coordinates and adjusts its heading (rotation) without affecting the prop set's internal layout or structure. The `propSet` parameter identifies the prop set to move. The parameters (`coordsX`, `coordsY`, `coordsZ`) set the new central position of the prop set, while `heading` specifies its rotation around the Z-axis (in degrees). When `onGroundProperly` is true, the prop set automatically aligns accurately with the terrain",
             "params": [
                 {
@@ -105826,20 +105826,20 @@
                     "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "x"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "z"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "int",
+                    "name": "time"
                 },
                 {
                     "type": "Any",
@@ -105864,12 +105864,12 @@
                     "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Entity",
+                    "name": "targetEntity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "int",
+                    "name": "time"
                 },
                 {
                     "type": "Any",
@@ -108188,7 +108188,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "moveBlendRatio"
+                    "name": "moveBlendSpeedY"
                 },
                 {
                     "type": "int",
@@ -109366,7 +109366,7 @@
         },
         "0x42AC6401ABB8C7E5": {
             "name": "TASK_KNOCKED_OUT_AND_HOGTIED",
-            "comment": "",
+            "comment": "koTimeOffset (seconds): offset applied to the knockout timer\u2014positive delays recovery (longer KO), negative brings recovery sooner, 0.0 initializes with no extension (immediate baseline).\nflags (bitmask): 1 = default variant (forwarded to the KO task ctor; R* commonly uses 1), 2 = sets an unk internal synced toggle for this task, 4 = sets another unk internal synced toggle.",
             "params": [
                 {
                     "type": "Ped",
@@ -109374,11 +109374,11 @@
                 },
                 {
                     "type": "float",
-                    "name": "p1"
+                    "name": "koTimeOffset"
                 },
                 {
                     "type": "int",
-                    "name": "p2"
+                    "name": "flags"
                 }
             ],
             "return_type": "void",
@@ -110958,15 +110958,15 @@
                 },
                 {
                     "type": "Any",
-                    "name": "p1"
+                    "name": "target"
                 },
                 {
                     "type": "Any",
                     "name": "p2"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "int",
+                    "name": "flag"
                 },
                 {
                     "type": "Any",
@@ -113984,24 +113984,24 @@
             "apiset": "client"
         },
         "0x1D125814EBC517EB": {
-            "name": "_0x1D125814EBC517EB",
-            "comment": "",
+            "name": "_TASK_VEHICLE_ADD_NEXT_DESTINATION",
+            "comment": "Adds a waypoint to an AI vehicle's active drive-to-destination task; only the last 3 points are kept (ignored if no such task).",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "x"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "z"
                 }
             ],
             "return_type": "void",
@@ -114010,16 +114010,16 @@
             "apiset": ""
         },
         "0x1ECF56C040FD839C": {
-            "name": "_0x1ECF56C040FD839C",
+            "name": "_EMIT_PED_CARRIABLE_STRUGGLE_DIRECTION",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "direction"
                 }
             ],
             "return_type": "void",
@@ -114150,7 +114150,7 @@
             "apiset": ""
         },
         "0x2416EC2F31F75266": {
-            "name": "_TASK_FORCE_THROWABLE_AT_ENTITY_WHEN_AIMING",
+            "name": "_TASK_FORCE_THROWABLE_AT_ENTITY_WHILE_AIMING",
             "comment": "Forces a ped to attack a target with throwable or projectile weapons (like bows, throwing knives, tomahawks, dynamite) for a specified duration while aiming\nWith a bow: the ped keeps firing arrows continuously until durationMs expires (as long as the aiming condition is maintained).With other throwables: throws are generally single-use (one per animation cycle).Excluded weapons: lasso and bolas",
             "params": [
                 {
@@ -114180,12 +114180,12 @@
             "apiset": ""
         },
         "0x244430C13BA5258E": {
-            "name": "_0x244430C13BA5258E",
-            "comment": "_FIND_NEAREST_PED_*\nFinds the nearest ped around the specified originPed, with optional filters for life state and predator/fish behavior\n(all false) returns the nearest ped regardless of alive/dead state",
+            "name": "_FIND_NEAREST_PED_AROUND_ANIMAL",
+            "comment": "Finds the nearest ped around the specified originPed, with optional filters for life state and predator/fish behavior\n(all false) returns the nearest ped regardless of alive/dead state",
             "params": [
                 {
                     "type": "Ped",
-                    "name": "originPed"
+                    "name": "animalPed"
                 },
                 {
                     "type": "BOOL",
@@ -114197,7 +114197,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "predatorPreferDead"
+                    "name": "preferDeadPredators"
                 }
             ],
             "return_type": "Ped",
@@ -114513,44 +114513,44 @@
             "apiset": ""
         },
         "0x3FFCD7BBA074CC80": {
-            "name": "_0x3FFCD7BBA074CC80",
-            "comment": "",
+            "name": "_UPDATE_TASK_GO_TO_COORD_WITH_OFFSET",
+            "comment": "In-place update for a running follow-to-offset/go-to task: sets new target coords + local offset, with speed and arrival tolerance (foot or mount; no effect if no compatible task)",
             "params": [
                 {
                     "type": "Ped",
                     "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "targetX"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "targetY"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "targetZ"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "float",
+                    "name": "offsetX"
                 },
                 {
-                    "type": "Any",
-                    "name": "p5"
+                    "type": "float",
+                    "name": "offsetY"
                 },
                 {
-                    "type": "Any",
-                    "name": "p6"
+                    "type": "float",
+                    "name": "offsetZ"
                 },
                 {
-                    "type": "Any",
-                    "name": "p7"
+                    "type": "float",
+                    "name": "speed"
                 },
                 {
-                    "type": "Any",
-                    "name": "p8"
+                    "type": "float",
+                    "name": "tolerance"
                 }
             ],
             "return_type": "void",
@@ -114808,8 +114808,8 @@
             "apiset": ""
         },
         "0x517D01BF27B682D1": {
-            "name": "_0x517D01BF27B682D1",
-            "comment": "",
+            "name": "_SET_ABOARD_PED_BOAT_POSE",
+            "comment": "Set a ped's boat-local offset and/or facing (degrees). Boats only. Flags: 0=apply both; 1=heading only (lock offset); 2=offset only (lock heading); 3=apply neither.",
             "params": [
                 {
                     "type": "Ped",
@@ -114817,27 +114817,27 @@
                 },
                 {
                     "type": "Entity",
-                    "name": "entity"
+                    "name": "boat"
                 },
                 {
                     "type": "float",
-                    "name": "p2"
+                    "name": "offsetX"
                 },
                 {
                     "type": "float",
-                    "name": "p3"
+                    "name": "offsetY"
                 },
                 {
                     "type": "float",
-                    "name": "p4"
+                    "name": "offsetZ"
                 },
                 {
                     "type": "float",
-                    "name": "p5"
+                    "name": "heading"
                 },
                 {
                     "type": "int",
-                    "name": "p6"
+                    "name": "flags"
                 }
             ],
             "return_type": "void",
@@ -114902,16 +114902,16 @@
             "apiset": ""
         },
         "0x5952DFA38FA529FE": {
-            "name": "_0x5952DFA38FA529FE",
-            "comment": "",
+            "name": "_GET_HOLD_TO_REEL_SETTING_ENABLED",
+            "comment": "returns an int in decompiles usually 0 or 1",
             "params": [],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1232",
             "examples": [],
             "apiset": ""
         },
         "0x59872EA4CBD11C56": {
-            "name": "_GET_COVERPOINT_FROM_ENTITY_WITH_OFFSET",
+            "name": "_ADD_COVERPOINT_FOR_ENTITY",
             "comment": "Returns the entity coverpoint with offset.",
             "params": [
                 {
@@ -115197,40 +115197,40 @@
             "apiset": ""
         },
         "0x6A1AF481407BF6E9": {
-            "name": "_0x6A1AF481407BF6E9",
-            "comment": "",
+            "name": "_TASK_EMOTE_ACTION",
+            "comment": "Triggers the 'action / flourish' sub-clip of the ped's currently playing emote.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "void",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
         },
         "0x6AFD84AEAA3EA538": {
-            "name": "_0x6AFD84AEAA3EA538",
+            "name": "_EVALUATE_PED_CARRIABLE_STRUGGLE_AVAILABLE",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
         },
         "0x6AFDA2264925BD11": {
-            "name": "_0x6AFDA2264925BD11",
+            "name": "_REMOVE_CARRIABLE_CONFIG",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "carriableConfig"
                 }
             ],
             "return_type": "void",
@@ -115239,15 +115239,15 @@
             "apiset": ""
         },
         "0x6BA606AB3A83BC4D": {
-            "name": "_0x6BA606AB3A83BC4D",
-            "comment": "",
+            "name": "_GET_TASK_PED_MOUNT_LEAP_PROGRESS",
+            "comment": "Returns 0.0-1.0 progress for the current mount-leap task, or -1.0f if no leap is active.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "float",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -115406,49 +115406,49 @@
             "apiset": ""
         },
         "0x78D8C1D4EB80C588": {
-            "name": "_0x78D8C1D4EB80C588",
-            "comment": "",
+            "name": "_GET_WHISTLE_RANGE_MAX_FOR_BONDING_LEVEL",
+            "comment": "Returns the maximum (target) whistle/call distance associated with the next horse bonding level.\nUsed together with the current level's minimum to derive an effective whistle range based on the horse's bonding progress toward the next rank",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "int",
+                    "name": "bondingLevel"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "float",
             "build": "1207",
             "examples": [],
             "apiset": ""
         },
         "0x79197F7D2BB5E73A": {
-            "name": "_0x79197F7D2BB5E73A",
-            "comment": "",
+            "name": "_TRANSITION_SCENARIO_TO_CONDITIONAL_ANIM",
+            "comment": "Smoothly transitions an active scenario actor (ped) into a specific conditional / clipset defined in the scenario's conditional-anim graph, breaking or restarting the scenario.\nReturns `true` if the transition was successfully triggered, or `false` if it failed",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "scenarioPoint"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "char*",
+                    "name": "clipsetDict"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "char*",
+                    "name": "clipsetName"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "char*",
+                    "name": "fromConditionalAnim"
                 },
                 {
-                    "type": "Any",
-                    "name": "p5"
+                    "type": "int",
+                    "name": "flags"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -115526,16 +115526,16 @@
             "apiset": ""
         },
         "0x816A3ACD265E2297": {
-            "name": "_0x816A3ACD265E2297",
-            "comment": "",
+            "name": "_SET_CARRIABLE_CONFIG_PROMPT_ENABLED",
+            "comment": "Enables or disables the interaction prompt for a given carriable config (e.g. DEAD_CARRIABLE_HUMAN).",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "carriableConfig"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "toggle"
                 }
             ],
             "return_type": "void",
@@ -115658,8 +115658,8 @@
             "apiset": ""
         },
         "0x8B1FDF63C3193EDA": {
-            "name": "_0x8B1FDF63C3193EDA",
-            "comment": "",
+            "name": "_TASK_KNOCKED_OUT_SET_TUNING",
+            "comment": "Sets an unknown float tuning setting for a ped that is currently in the knocked-out state.",
             "params": [
                 {
                     "type": "Ped",
@@ -115667,7 +115667,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "p1"
+                    "name": "tuning"
                 }
             ],
             "return_type": "void",
@@ -115812,15 +115812,15 @@
             "apiset": ""
         },
         "0x9420FB11B8D77948": {
-            "name": "_0x9420FB11B8D77948",
-            "comment": "",
+            "name": "_GET_TASK_PED_MOUNT_LEAP_STATE",
+            "comment": "Returns a coarse state for the mount-leap task (jumping from your mount onto another mount/wagon/train).\n-1 = no task; 0 = in-air/ongoing; 1 = boarded/mounted; 2 = boarded rear train trailer\nUse with _GET_TASK_PED_MOUNT_LEAP_PROGRESS for timing",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -116291,7 +116291,7 @@
             "params": [
                 {
                     "type": "Hash",
-                    "name": "hash"
+                    "name": "carriableConfig"
                 }
             ],
             "return_type": "BOOL",
@@ -116336,16 +116336,16 @@
             "apiset": ""
         },
         "0xBD1C3C0F271C39D3": {
-            "name": "_0xBD1C3C0F271C39D3",
+            "name": "_EMIT_PED_CARRIABLE_STRUGGLE_INTENSITY",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "intensity"
                 }
             ],
             "return_type": "void",
@@ -116745,20 +116745,20 @@
             "apiset": ""
         },
         "0xE7BBC4E56B989449": {
-            "name": "_0xE7BBC4E56B989449",
-            "comment": "",
+            "name": "_GET_LINKED_SCENARIO_POINTS",
+            "comment": "Fills an output array with scenario points linked (chained) to a given parent scenario point. Returns the number of linked points found. Writes up to maxPoints and zeroes remaining entries. Useful for flows like chained put-down scenarios.",
             "params": [
                 {
                     "type": "Any",
-                    "name": "p0"
+                    "name": "scenarioPoint"
                 },
                 {
                     "type": "Any",
-                    "name": "p1"
+                    "name": "outPoints"
                 },
                 {
                     "type": "Any",
-                    "name": "p2"
+                    "name": "maxPoints"
                 }
             ],
             "return_type": "Any",
@@ -116817,15 +116817,15 @@
             "apiset": ""
         },
         "0xEB67D4E056C85A81": {
-            "name": "_0xEB67D4E056C85A81",
-            "comment": "",
+            "name": "_GET_WHISTLE_RANGE_MIN_FOR_BONDING_LEVEL",
+            "comment": "Returns the minimum (baseline) whistle/call distance for the given horse bonding level.\nThis value represents the lower bound used when computing whether a horse is considered near or far relative to the player, and is interpolated against the next level's max.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "int",
+                    "name": "bondingLevel"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "float",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -116988,7 +116988,7 @@
             "apiset": ""
         },
         "0xFC7F71CF49F70B6B": {
-            "name": "_SWAP_REINS",
+            "name": "_SWAP_REINS_FOR_PED",
             "comment": "Swaps the horse drawn wagon/coach reings control between the ped and their adjacent front-seat partner",
             "params": [
                 {
@@ -118239,7 +118239,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p2"
+                    "name": "flee"
                 },
                 {
                     "type": "Hash",
@@ -118251,7 +118251,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "p5"
+                    "name": "boneId"
                 }
             ],
             "return_type": "void",
@@ -118280,12 +118280,12 @@
                     "name": "p3"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "float",
+                    "name": "speed"
                 },
                 {
-                    "type": "Any",
-                    "name": "p5"
+                    "type": "int",
+                    "name": "boardingFlags"
                 }
             ],
             "return_type": "void",
@@ -118311,11 +118311,11 @@
                 },
                 {
                     "type": "float",
-                    "name": "p3"
+                    "name": "speed"
                 },
                 {
                     "type": "int",
-                    "name": "flags"
+                    "name": "boardingFlags"
                 }
             ],
             "return_type": "void",
@@ -124104,7 +124104,7 @@
                     "name": "trailerNumber"
                 }
             ],
-            "return_type": "Entity",
+            "return_type": "Vehicle",
             "build": "1207",
             "gta_hash": "0x08AAFD0814722BC3",
             "gta_jhash": "0x2544E7A6",
@@ -127091,16 +127091,16 @@
             "apiset": ""
         },
         "0x07E2E21E799080A0": {
-            "name": "_0x07E2E21E799080A0",
-            "comment": "",
+            "name": "_SET_TRAIN_DESTRUCTION_ENABLED",
+            "comment": "Enables/disables damage/explosion flags on the engine and all attached cars; typically set true before EXPLODE_VEHICLE.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "train"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "enabled"
                 }
             ],
             "return_type": "void",
@@ -127182,7 +127182,7 @@
             "apiset": ""
         },
         "0x0E558D3A49D759D6": {
-            "name": "_GET_ALL_TRAIN_PASSENGERS",
+            "name": "_GET_ALL_TRAIN_WAGON_PASSENGERS",
             "comment": "Collects all passenger peds (excluding the driver) from the specified wagon-type vehicle and adds them as indexed items to the provided itemset.\nNotes:\n- Always clear the itemset before calling.\n- Returns 0 if the wagon is empty or auto-population is disabled\n  (ENTITY::_0x119A5714578F4E05(wagon, false)).\n- Itemset may contain dead peds; filter with IS_ENTITY_DEAD if needed.\n- Often used alongside wagon auto-population management.",
             "params": [
                 {
@@ -127246,15 +127246,15 @@
             "apiset": ""
         },
         "0x1121B07088ED3013": {
-            "name": "_0x1121B07088ED3013",
-            "comment": "",
+            "name": "_GET_NUM_DRAFT_VEHICLE_STRAPS",
+            "comment": "Return the number of straps that hold the logs of a draft vehicle.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -127300,15 +127300,15 @@
             "apiset": ""
         },
         "0x13C190302369308B": {
-            "name": "_0x13C190302369308B",
-            "comment": "",
+            "name": "_GET_TRACK_AMOUNT_OF_VISIBLE_PIXELS",
+            "comment": "Requires a visibility tracker on the vehicle (TRACK_VEHICLE_VISIBILITY)",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -127469,7 +127469,7 @@
             "apiset": ""
         },
         "0x1BFBAFCC6760FF02": {
-            "name": "_0x1BFBAFCC6760FF02",
+            "name": "_SET_RANDOM_TRAINS_WHISTLE_ENABLED",
             "comment": "",
             "params": [
                 {
@@ -127478,7 +127478,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "enabled"
                 }
             ],
             "return_type": "void",
@@ -127571,15 +127571,15 @@
             "apiset": ""
         },
         "0x288CBB414C3C2FBB": {
-            "name": "_0x288CBB414C3C2FBB",
-            "comment": "",
+            "name": "_GET_NUM_DRAFT_VEHICLE_LOGS",
+            "comment": "Return the number of logs on a draft vehicle.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -127826,12 +127826,12 @@
             "apiset": ""
         },
         "0x42404D57D621601A": {
-            "name": "_0x42404D57D621601A",
-            "comment": "",
+            "name": "_RECOVER_DRAFT_VEHICLE_FALLING_LOG",
+            "comment": "Returns the log prop entity that is currently detaching/falling from a draft (log) wagon. Returns 0 if no log is in the falling phase. R* scripts call this repeatedly to fetch each fallen piece, then apply forces to it.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 }
             ],
             "return_type": "Any",
@@ -128347,16 +128347,16 @@
             "apiset": ""
         },
         "0x785639D89F8451AB": {
-            "name": "_0x785639D89F8451AB",
-            "comment": "",
+            "name": "_GET_JUNCTION_COORDS_FOR_TRAIN_TRACK",
+            "comment": "Returns the world coordinates of a junction node for the given train track configuration. trainTrack: see _RETURN_TRAIN_INFO_FROM_HANDLE.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "trainTrack"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "junctionIndex"
                 }
             ],
             "return_type": "Vector3",
@@ -128536,7 +128536,7 @@
             "apiset": ""
         },
         "0x9CC94A948EAF5372": {
-            "name": "_GET_STATION_FROM_TRAIN_STATION_DATA",
+            "name": "_GET_STATION_FROM_TRAIN_STATION_INDEX",
             "comment": "Returns the station hash for a track and station index.\n- trackIndex: int \u2014 From 0 to 24\n- stationIndex: int \u2014 From 0 to 7",
             "params": [
                 {
@@ -128739,36 +128739,36 @@
             "apiset": ""
         },
         "0xC2E62678D602853C": {
-            "name": "_0xC2E62678D602853C",
-            "comment": "",
+            "name": "_SET_VEHICLE_ROAD_LINK_FORCED",
+            "comment": "Picks the road/path link nearest (start to end) and stores it on the vehicle's driving component (used by R* Scripts to choose an exit link).",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "startX"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "startY"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "startZ"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "float",
+                    "name": "endX"
                 },
                 {
-                    "type": "Any",
-                    "name": "p5"
+                    "type": "float",
+                    "name": "endY"
                 },
                 {
-                    "type": "Any",
-                    "name": "p6"
+                    "type": "float",
+                    "name": "endZ"
                 }
             ],
             "return_type": "void",
@@ -129087,24 +129087,24 @@
             "apiset": ""
         },
         "0xD1EFA8D68BF5D63D": {
-            "name": "_0xD1EFA8D68BF5D63D",
-            "comment": "",
+            "name": "_BREAK_VEHICLE_STRAPS",
+            "comment": "Only used to break draft vehicle log straps. Coords is always equal to the vehicle coords.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "x"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "z"
                 }
             ],
             "return_type": "void",
@@ -133684,7 +133684,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "p8"
+                    "name": "ignoreHeight"
                 }
             ],
             "return_type": "void",
@@ -135075,7 +135075,7 @@
             "apiset": ""
         },
         "0x2EBF70E1D8C06683": {
-            "name": "_SET_ARROW_TRAIL",
+            "name": "_SET_ARROW_TRAIL_FX",
             "comment": "Sets the visual trail FX for arrows fired from a Bow by the given ped",
             "params": [
                 {
@@ -135084,7 +135084,7 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "p1"
+                    "name": "trailHash"
                 }
             ],
             "return_type": "void",
@@ -135581,7 +135581,7 @@
             "comment": "this native gets the weapon hash from the default ped weapon collection (see GetDefaultPedWeaponCollection for more info) will randomly return one of it's weapons",
             "params": [
                 {
-                    "type": "int",
+                    "type": "Hash",
                     "name": "weaponCollection"
                 },
                 {
@@ -135906,15 +135906,15 @@
             "apiset": "client"
         },
         "0xEC97101A8F311282": {
-            "name": "_0xEC97101A8F311282",
+            "name": "_GET_AMMO_RECOMMENDED_TYPE_FOR_WEAPON",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "weaponHash"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "Hash",
             "build": "1207",
             "examples": [],
             "apiset": ""
