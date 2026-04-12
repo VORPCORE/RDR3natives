@@ -1,6 +1,6 @@
 {
     "0x028E7B3BBA0BD2FC": {
-        "name": "_0x028E7B3BBA0BD2FC",
+        "name": "_SET_STAGED_PED_FLAG",
         "comment": "_SET_ST* - _SET_SW* Sets a ped config flag for the specified ped",
         "params": [
             {

@@ -1,14 +1,14 @@
 {
     "0x6A1AF481407BF6E9": {
-        "name": "_0x6A1AF481407BF6E9",
-        "comment": "",
+        "name": "_TASK_EMOTE_ACTION",
+        "comment": "Triggers the 'action / flourish' sub-clip of the ped's currently playing emote.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
-        "return_type": "void",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

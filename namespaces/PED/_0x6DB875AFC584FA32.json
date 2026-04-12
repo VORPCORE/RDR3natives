@@ -1,7 +1,7 @@
 {
     "0x6DB875AFC584FA32": {
-        "name": "_0x6DB875AFC584FA32",
-        "comment": "Only used in R* SP Script winter1: p1 = 5000\n_SET_PED_M*",
+        "name": "_SET_PED_MELEE_FORCED_DURATION",
+        "comment": "",
         "params": [
             {
                 "type": "Ped",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "int",
-                "name": "p1"
+                "name": "durationMs"
             }
         ],
         "return_type": "Any",

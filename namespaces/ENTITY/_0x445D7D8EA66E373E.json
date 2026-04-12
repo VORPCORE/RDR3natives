@@ -33,7 +33,7 @@
             },
             {
                 "type": "float",
-                "name": "p7"
+                "name": "timer"
             },
             {
                 "type": "BOOL",

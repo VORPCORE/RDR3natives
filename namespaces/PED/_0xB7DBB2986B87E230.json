@@ -1,7 +1,7 @@
 {
     "0xB7DBB2986B87E230": {
-        "name": "_0xB7DBB2986B87E230",
-        "comment": "_HAS_PED_SHOT_IN_LAST_X_SECONDS*",
+        "name": "_HAS_PED_SHOT_RECENTLY",
+        "comment": "",
         "params": [
             {
                 "type": "Ped",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "float",
-                "name": "timeInSeconds"
+                "name": "seconds"
             }
         ],
         "return_type": "BOOL",

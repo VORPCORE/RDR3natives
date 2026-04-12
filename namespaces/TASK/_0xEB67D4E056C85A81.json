@@ -1,14 +1,14 @@
 {
     "0xEB67D4E056C85A81": {
-        "name": "_0xEB67D4E056C85A81",
-        "comment": "",
+        "name": "_GET_WHISTLE_RANGE_MIN_FOR_BONDING_LEVEL",
+        "comment": "Returns the minimum (baseline) whistle/call distance for the given horse bonding level.\nThis value represents the lower bound used when computing whether a horse is considered near or far relative to the player, and is interpolated against the next level's max.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "int",
+                "name": "bondingLevel"
             }
         ],
-        "return_type": "Any",
+        "return_type": "float",
         "build": "1207",
         "examples": [],
         "apiset": ""

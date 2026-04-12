@@ -1,14 +1,14 @@
 {
     "0x78D8C1D4EB80C588": {
-        "name": "_0x78D8C1D4EB80C588",
-        "comment": "",
+        "name": "_GET_WHISTLE_RANGE_MAX_FOR_BONDING_LEVEL",
+        "comment": "Returns the maximum (target) whistle/call distance associated with the next horse bonding level.\nUsed together with the current level's minimum to derive an effective whistle range based on the horse's bonding progress toward the next rank",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "int",
+                "name": "bondingLevel"
             }
         ],
-        "return_type": "Any",
+        "return_type": "float",
         "build": "1207",
         "examples": [],
         "apiset": ""

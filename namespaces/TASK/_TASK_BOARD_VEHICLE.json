@@ -20,12 +20,12 @@
                 "name": "p3"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "float",
+                "name": "speed"
             },
             {
-                "type": "Any",
-                "name": "p5"
+                "type": "int",
+                "name": "boardingFlags"
             }
         ],
         "return_type": "void",

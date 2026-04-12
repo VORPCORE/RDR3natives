@@ -1,6 +1,6 @@
 {
     "0x59872EA4CBD11C56": {
-        "name": "_GET_COVERPOINT_FROM_ENTITY_WITH_OFFSET",
+        "name": "_ADD_COVERPOINT_FOR_ENTITY",
         "comment": "Returns the entity coverpoint with offset.",
         "params": [
             {

@@ -1,6 +1,6 @@
 {
     "0x1BFBAFCC6760FF02": {
-        "name": "_0x1BFBAFCC6760FF02",
+        "name": "_SET_RANDOM_TRAINS_WHISTLE_ENABLED",
         "comment": "",
         "params": [
             {
@@ -9,7 +9,7 @@
             },
             {
                 "type": "BOOL",
-                "name": "p1"
+                "name": "enabled"
             }
         ],
         "return_type": "void",

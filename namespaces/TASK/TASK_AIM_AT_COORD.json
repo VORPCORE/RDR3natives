@@ -8,20 +8,20 @@
                 "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "x"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "y"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "z"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "int",
+                "name": "time"
             },
             {
                 "type": "Any",

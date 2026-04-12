@@ -1,6 +1,6 @@
 {
     "0x2EBF70E1D8C06683": {
-        "name": "_SET_ARROW_TRAIL",
+        "name": "_SET_ARROW_TRAIL_FX",
         "comment": "Sets the visual trail FX for arrows fired from a Bow by the given ped",
         "params": [
             {
@@ -9,7 +9,7 @@
             },
             {
                 "type": "Hash",
-                "name": "p1"
+                "name": "trailHash"
             }
         ],
         "return_type": "void",

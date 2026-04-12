@@ -1,6 +1,6 @@
 {
     "0xC4B67EF3FD65622D": {
-        "name": "_MODIFY_PROPSET_COORDS_AND_HEADING",
+        "name": "_MOVE_PROPSET_COORDS_AND_HEADING",
         "comment": "Relocates an existing prop set to specified coordinates and adjusts its heading (rotation) without affecting the prop set's internal layout or structure. The `propSet` parameter identifies the prop set to move. The parameters (`coordsX`, `coordsY`, `coordsZ`) set the new central position of the prop set, while `heading` specifies its rotation around the Z-axis (in degrees). When `onGroundProperly` is true, the prop set automatically aligns accurately with the terrain",
         "params": [
             {

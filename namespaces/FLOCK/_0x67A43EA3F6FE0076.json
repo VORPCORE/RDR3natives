@@ -5,7 +5,7 @@
         "params": [
             {
                 "type": "Entity",
-                "name": "herd"
+                "name": "herdHandle"
             }
         ],
         "return_type": "void",

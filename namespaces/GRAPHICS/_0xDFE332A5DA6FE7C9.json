@@ -1,6 +1,6 @@
 {
     "0xDFE332A5DA6FE7C9": {
-        "name": "_0xDFE332A5DA6FE7C9",
+        "name": "_NUM_PIXELS_VISIBLE_AT_TRACKED_POINT",
         "comment": "Returns iNumPixels, iPixelsVisible",
         "params": [
             {

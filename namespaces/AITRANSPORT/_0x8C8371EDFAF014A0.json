@@ -1,7 +1,7 @@
 {
     "0x8C8371EDFAF014A0": {
-        "name": "_0x8C8371EDFAF014A0",
-        "comment": "_SET_TRANSPORT_*",
+        "name": "_SET_TRANSPORT_EXIT_BLEND_RATIO",
+        "comment": "",
         "params": [
             {
                 "type": "Ped",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "float",
-                "name": "p1"
+                "name": "ratio"
             }
         ],
         "return_type": "void",

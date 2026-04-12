@@ -9,15 +9,15 @@
             },
             {
                 "type": "Hash",
-                "name": "itemHash"
+                "name": "inventoryItem"
             },
             {
                 "type": "Hash",
-                "name": "albedo"
+                "name": "albedoHash"
             },
             {
                 "type": "Hash",
-                "name": "normal"
+                "name": "normalHash"
             },
             {
                 "type": "BOOL",

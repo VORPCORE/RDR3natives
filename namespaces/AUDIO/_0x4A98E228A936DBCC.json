@@ -1,14 +1,14 @@
 {
     "0x4A98E228A936DBCC": {
         "name": "_0x4A98E228A936DBCC",
-        "comment": "",
+        "comment": "Gets the hash for the currently playing speech line.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
-        "return_type": "Any",
+        "return_type": "Hash",
         "build": "1207",
         "examples": [],
         "apiset": ""

@@ -9,7 +9,7 @@
             },
             {
                 "type": "int",
-                "name": "p1"
+                "name": "abilityType"
             },
             {
                 "type": "BOOL",

@@ -1,15 +1,15 @@
 {
     "0x816A3ACD265E2297": {
-        "name": "_0x816A3ACD265E2297",
-        "comment": "",
+        "name": "_SET_CARRIABLE_CONFIG_PROMPT_ENABLED",
+        "comment": "Enables or disables the interaction prompt for a given carriable config (e.g. DEAD_CARRIABLE_HUMAN).",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "carriableConfig"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "toggle"
             }
         ],
         "return_type": "void",

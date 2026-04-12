@@ -17,11 +17,11 @@
             },
             {
                 "type": "float",
-                "name": "p3"
+                "name": "speed"
             },
             {
                 "type": "int",
-                "name": "flags"
+                "name": "boardingFlags"
             }
         ],
         "return_type": "void",

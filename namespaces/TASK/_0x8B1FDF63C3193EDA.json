@@ -1,7 +1,7 @@
 {
     "0x8B1FDF63C3193EDA": {
-        "name": "_0x8B1FDF63C3193EDA",
-        "comment": "",
+        "name": "_TASK_KNOCKED_OUT_SET_TUNING",
+        "comment": "Sets an unknown float tuning setting for a ped that is currently in the knocked-out state.",
         "params": [
             {
                 "type": "Ped",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "float",
-                "name": "p1"
+                "name": "tuning"
             }
         ],
         "return_type": "void",

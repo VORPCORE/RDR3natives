@@ -5,7 +5,7 @@
         "params": [
             {
                 "type": "Player",
-                "name": "playerID"
+                "name": "player"
             },
             {
                 "type": "char*",

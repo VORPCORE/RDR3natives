@@ -1,19 +1,19 @@
 {
     "0xE7BBC4E56B989449": {
-        "name": "_0xE7BBC4E56B989449",
-        "comment": "",
+        "name": "_GET_LINKED_SCENARIO_POINTS",
+        "comment": "Fills an output array with scenario points linked (chained) to a given parent scenario point. Returns the number of linked points found. Writes up to maxPoints and zeroes remaining entries. Useful for flows like chained put-down scenarios.",
         "params": [
             {
                 "type": "Any",
-                "name": "p0"
+                "name": "scenarioPoint"
             },
             {
                 "type": "Any",
-                "name": "p1"
+                "name": "outPoints"
             },
             {
                 "type": "Any",
-                "name": "p2"
+                "name": "maxPoints"
             }
         ],
         "return_type": "Any",

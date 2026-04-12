@@ -41,15 +41,15 @@
             },
             {
                 "type": "int",
-                "name": "p9"
+                "name": "graphType1"
             },
             {
                 "type": "int",
-                "name": "p10"
+                "name": "graphType2"
             },
             {
                 "type": "int",
-                "name": "p11"
+                "name": "rotationOrder"
             },
             {
                 "type": "Any",

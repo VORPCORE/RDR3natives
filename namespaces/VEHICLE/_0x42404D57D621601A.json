@@ -1,11 +1,11 @@
 {
     "0x42404D57D621601A": {
-        "name": "_0x42404D57D621601A",
-        "comment": "",
+        "name": "_RECOVER_DRAFT_VEHICLE_FALLING_LOG",
+        "comment": "Returns the log prop entity that is currently detaching/falling from a draft (log) wagon. Returns 0 if no log is in the falling phase. R* scripts call this repeatedly to fetch each fallen piece, then apply forces to it.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Vehicle",
+                "name": "vehicle"
             }
         ],
         "return_type": "Any",

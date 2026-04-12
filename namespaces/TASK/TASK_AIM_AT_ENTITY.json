@@ -8,12 +8,12 @@
                 "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Entity",
+                "name": "targetEntity"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "int",
+                "name": "time"
             },
             {
                 "type": "Any",

@@ -1,34 +1,34 @@
 {
     "0x79197F7D2BB5E73A": {
-        "name": "_0x79197F7D2BB5E73A",
-        "comment": "",
+        "name": "_TRANSITION_SCENARIO_TO_CONDITIONAL_ANIM",
+        "comment": "Smoothly transitions an active scenario actor (ped) into a specific conditional / clipset defined in the scenario's conditional-anim graph, breaking or restarting the scenario.\nReturns `true` if the transition was successfully triggered, or `false` if it failed",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "int",
+                "name": "scenarioPoint"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "char*",
+                "name": "clipsetDict"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "char*",
+                "name": "clipsetName"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "char*",
+                "name": "fromConditionalAnim"
             },
             {
-                "type": "Any",
-                "name": "p5"
+                "type": "int",
+                "name": "flags"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

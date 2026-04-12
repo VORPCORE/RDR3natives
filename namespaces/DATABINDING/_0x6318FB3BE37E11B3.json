@@ -1,7 +1,7 @@
 {
     "0x6318FB3BE37E11B3": {
-        "name": "_0x6318FB3BE37E11B3",
-        "comment": "",
+        "name": "_DATABINDING_REMOVE_UI_ITEM_FROM_LIST_BY_INDEX",
+        "comment": "Removes a UI item from it's list by index",
         "params": [
             {
                 "type": "Hash",

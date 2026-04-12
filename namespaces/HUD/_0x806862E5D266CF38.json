@@ -1,19 +1,19 @@
 {
     "0x806862E5D266CF38": {
-        "name": "_0x806862E5D266CF38",
-        "comment": "",
+        "name": "_GET_TEXT_SUBSTRING_3",
+        "comment": "Example: HUD::_0x806862E5D266CF38(&string1, 0, HUD::GET_LENGTH_OF_LITERAL_STRING(&string1) - HUD::GET_LENGTH_OF_LITERAL_STRING(\"_DUALWIELD\"))",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "char*",
+                "name": "text"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "int",
+                "name": "begin"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "int",
+                "name": "length"
             }
         ],
         "return_type": "Any",

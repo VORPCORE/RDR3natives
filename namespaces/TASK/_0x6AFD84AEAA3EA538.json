@@ -1,14 +1,14 @@
 {
     "0x6AFD84AEAA3EA538": {
-        "name": "_0x6AFD84AEAA3EA538",
+        "name": "_EVALUATE_PED_CARRIABLE_STRUGGLE_AVAILABLE",
         "comment": "",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

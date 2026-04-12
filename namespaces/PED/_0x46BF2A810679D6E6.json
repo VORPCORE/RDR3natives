@@ -1,6 +1,6 @@
 {
     "0x46BF2A810679D6E6": {
-        "name": "_0x46BF2A810679D6E6",
+        "name": "_COMPUTE_PED_MOVE_BLEND_RATIO_FOR_MAX_SPEED",
         "comment": "Returns vehicle (desired) speed\n_COMPUTE_(VEHICLE_SPEED_USING_BLEND_RATIO?)*",
         "params": [
             {

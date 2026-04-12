@@ -9,7 +9,7 @@
             },
             {
                 "type": "int",
-                "name": "pcarryingType"
+                "name": "carryingType"
             },
             {
                 "type": "int*",
@@ -17,11 +17,11 @@
             },
             {
                 "type": "int",
-                "name": "p3"
+                "name": "outEntsCount"
             },
             {
                 "type": "int",
-                "name": "filter"
+                "name": "filterFlags"
             }
         ],
         "return_type": "int",

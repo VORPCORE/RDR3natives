@@ -1,7 +1,7 @@
 {
     "0xC3995D396F1D97B6": {
-        "name": "_0xC3995D396F1D97B6",
-        "comment": "_GET_PED_G* - _GET_PED_I*",
+        "name": "_GET_PED_HAS_SIMPLE_PLAYER_MEMORY_CHANGED",
+        "comment": "",
         "params": [
             {
                 "type": "Ped",
@@ -9,11 +9,11 @@
             },
             {
                 "type": "int",
-                "name": "p1"
+                "name": "memoryType"
             },
             {
                 "type": "int",
-                "name": "p2"
+                "name": "ms"
             }
         ],
         "return_type": "BOOL",

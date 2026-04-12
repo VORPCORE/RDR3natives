@@ -1,6 +1,6 @@
 {
     "0x9D21B185ABC2DBC5": {
-        "name": "_INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY",
+        "name": "_INVENTORY_ADD_CATALOG_ITEM_INSPECTION_STATS_ENTRY",
         "comment": "Returns stats entry id of CatalogItemInspection container",
         "params": [
             {

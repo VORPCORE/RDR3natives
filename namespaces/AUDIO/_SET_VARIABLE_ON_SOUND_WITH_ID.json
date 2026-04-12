@@ -1,14 +1,14 @@
 {
     "0x503703EC1781B7D6": {
-       "name": "SET_VARIABLE_ON_SOUND",
-		"comment": "Old Name: _SET_VARIABLE_ON_SOUND_WITH_ID",
+        "name": "SET_VARIABLE_ON_SOUND",
+        "comment": "Old Name: _SET_VARIABLE_ON_SOUND_WITH_ID",
         "params": [
             {
                 "type": "int",
                 "name": "soundId"
             },
             {
-                "type": "char*", 
+                "type": "char*",
                 "name": "variableName"
             },
             {

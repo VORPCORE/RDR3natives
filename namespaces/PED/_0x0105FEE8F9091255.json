@@ -1,18 +1,18 @@
 {
     "0x0105FEE8F9091255": {
         "name": "_GET_PED_DIRT_LEVEL",
-        "comment": "Return the dirt level of the ped (0.0 - 1.0). p1 is always set to 1.",
+        "comment": "Return the dirt level of the ped (0.0 - 1.0). p1 is always set to 1.\nThe second parameter is treated as a boolean selector (0 or 1). Internally it indexes a 2-slot graphics/appearance bank (base + 0xB8 * index + 0xE4); Rockstar scripts pass 1.",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "useCompositeLayer"
             }
         ],
-        "return_type": "Any",
+        "return_type": "float",
         "build": "1207",
         "examples": [],
         "apiset": ""

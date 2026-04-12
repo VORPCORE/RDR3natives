@@ -17,7 +17,7 @@
             },
             {
                 "type": "BOOL",
-                "name": "p3"
+                "name": "doFoliageCheck"
             }
         ],
         "return_type": "int",

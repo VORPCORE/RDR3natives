@@ -1,6 +1,6 @@
 {
     "0xB1682B2443F0540B": {
-        "name": "_DECOR_GET_UINT8",
+        "name": "_DECOR_GET_PLAYER_INDEX",
         "comment": "",
         "params": [
             {
@@ -8,7 +8,7 @@
                 "name": "entity"
             },
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "propertyName"
             }
         ],

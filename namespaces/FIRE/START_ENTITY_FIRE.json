@@ -4,20 +4,20 @@
         "comment": "",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "intensity"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "int",
+                "name": "boneIndex"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "int",
+                "name": "fireFlags"
             }
         ],
         "return_type": "void",

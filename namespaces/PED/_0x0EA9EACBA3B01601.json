@@ -1,19 +1,19 @@
 {
     "0x0EA9EACBA3B01601": {
-        "name": "_0x0EA9EACBA3B01601",
-        "comment": "_CAN_PED_B* - _CAN_PED_I*",
+        "name": "_CAN_PED_HEAR_TARGET_PED",
+        "comment": "Returns true if `listener` can hear `source`.\nIf `includeNoiseBoost` is true, the source's noise radius is applied (easier to hear).\nIt treats the source as louder—its current noise expands the effective hearing range (by subtracting noiseRadius² from dist²), while false uses the baseline distance-only check (stealth).",
         "params": [
             {
                 "type": "Ped",
-                "name": "ped1"
+                "name": "source"
             },
             {
                 "type": "Ped",
-                "name": "ped2"
+                "name": "listener"
             },
             {
                 "type": "BOOL",
-                "name": "p2"
+                "name": "includeNoiseBoost"
             }
         ],
         "return_type": "float",

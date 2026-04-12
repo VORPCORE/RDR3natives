@@ -1,7 +1,7 @@
 {
     "0x517D01BF27B682D1": {
-        "name": "_0x517D01BF27B682D1",
-        "comment": "",
+        "name": "_SET_ABOARD_PED_BOAT_POSE",
+        "comment": "Set a ped's boat-local offset and/or facing (degrees). Boats only. Flags: 0=apply both; 1=heading only (lock offset); 2=offset only (lock heading); 3=apply neither.",
         "params": [
             {
                 "type": "Ped",
@@ -9,27 +9,27 @@
             },
             {
                 "type": "Entity",
-                "name": "entity"
+                "name": "boat"
             },
             {
                 "type": "float",
-                "name": "p2"
+                "name": "offsetX"
             },
             {
                 "type": "float",
-                "name": "p3"
+                "name": "offsetY"
             },
             {
                 "type": "float",
-                "name": "p4"
+                "name": "offsetZ"
             },
             {
                 "type": "float",
-                "name": "p5"
+                "name": "heading"
             },
             {
                 "type": "int",
-                "name": "p6"
+                "name": "flags"
             }
         ],
         "return_type": "void",

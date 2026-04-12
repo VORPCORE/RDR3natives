@@ -1,15 +1,15 @@
 {
     "0xCAAF2BCCFEF37F77": {
-        "name": "_0xCAAF2BCCFEF37F77",
-        "comment": "_SET_OBJECT_*",
+        "name": "_SET_OBJECT_INTERACTION_PRESET",
+        "comment": "",
         "params": [
             {
                 "type": "Object",
                 "name": "object"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "int",
+                "name": "presetFlags"
             }
         ],
         "return_type": "void",

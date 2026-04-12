@@ -37,15 +37,15 @@
             },
             {
                 "type": "int",
-                "name": "eventType"
+                "name": "xAxis"
             },
             {
                 "type": "BOOL",
-               "name": "bPeekOnly"
+                "name": "yAxis"
             },
             {
                 "type": "BOOL",
-                "name": "bIsRegistered"
+                "name": "zAxis"
             }
         ],
         "return_type": "BOOL",

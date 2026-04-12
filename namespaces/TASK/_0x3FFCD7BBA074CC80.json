@@ -1,43 +1,43 @@
 {
     "0x3FFCD7BBA074CC80": {
-        "name": "_0x3FFCD7BBA074CC80",
-        "comment": "",
+        "name": "_UPDATE_TASK_GO_TO_COORD_WITH_OFFSET",
+        "comment": "In-place update for a running follow-to-offset/go-to task: sets new target coords + local offset, with speed and arrival tolerance (foot or mount; no effect if no compatible task)",
         "params": [
             {
                 "type": "Ped",
                 "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "targetX"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "targetY"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "targetZ"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "float",
+                "name": "offsetX"
             },
             {
-                "type": "Any",
-                "name": "p5"
+                "type": "float",
+                "name": "offsetY"
             },
             {
-                "type": "Any",
-                "name": "p6"
+                "type": "float",
+                "name": "offsetZ"
             },
             {
-                "type": "Any",
-                "name": "p7"
+                "type": "float",
+                "name": "speed"
             },
             {
-                "type": "Any",
-                "name": "p8"
+                "type": "float",
+                "name": "tolerance"
             }
         ],
         "return_type": "void",

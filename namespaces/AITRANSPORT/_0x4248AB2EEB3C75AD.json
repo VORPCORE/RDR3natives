@@ -1,7 +1,7 @@
 {
     "0x4248AB2EEB3C75AD": {
-        "name": "_0x4248AB2EEB3C75AD",
-        "comment": "_SET_TRANSPORT_*",
+        "name": "_SET_TRANSPORT_EXCLUSIVE_DRIVER",
+        "comment": "",
         "params": [
             {
                 "type": "Entity",
@@ -13,7 +13,7 @@
             },
             {
                 "type": "BOOL",
-                "name": "p2"
+                "name": "seatIndex"
             }
         ],
         "return_type": "void",

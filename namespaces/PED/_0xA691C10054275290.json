@@ -1,6 +1,6 @@
 {
     "0xA691C10054275290": {
-        "name": "_SET_PLAYER_DISMOUNT_TIMESTAMP_FOR_HORSE",
+        "name": "_SET_PLAYER_DISMOUNT_TIMESTAMP",
         "comment": "dismountTimer gets called with the data from `_GET_PLAYER_DISMOUNT_TIMESTAMP`",
         "params": [
             {

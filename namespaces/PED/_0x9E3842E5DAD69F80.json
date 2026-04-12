@@ -1,6 +1,6 @@
 {
     "0x9E3842E5DAD69F80": {
-        "name": "_0x9E3842E5DAD69F80",
+        "name": "_SET_SCENARIO_PED_VOLUME_REFERENCE",
         "comment": "Only used in SP R* Script loanshark_hunter",
         "params": [
             {

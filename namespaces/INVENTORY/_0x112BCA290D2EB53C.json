@@ -1,7 +1,7 @@
 {
     "0x112BCA290D2EB53C": {
-        "name": "_0x112BCA290D2EB53C",
-        "comment": "Only used in R* SP Scripts",
+        "name": "_INVENTORY_GET_INVENTORY_ITEM_LAST_CREATION",
+        "comment": "Returns the last creation date of an inventory item",
         "params": [
             {
                 "type": "int",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "Hash",
-                "name": "p1"
+                "name": "item"
             },
             {
                 "type": "int*",

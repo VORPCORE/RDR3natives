@@ -1,7 +1,7 @@
 {
     "0xFE90ABBCBFDC13B2": {
         "name": "ITEMDATABASE_FILLOUT_ITEM_INFO",
-        "comment": "",
+        "comment": "outputs struct ItemInfo { Hash category; Hash itemType; Hash unk2; Hash model; Hash award; }",
         "params": [
             {
                 "type": "Hash",

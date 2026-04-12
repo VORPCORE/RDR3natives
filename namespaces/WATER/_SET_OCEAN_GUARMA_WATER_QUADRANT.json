@@ -37,7 +37,7 @@
             },
             {
                 "type": "int",
-                "name": "p8"
+                "name": "ignoreHeight"
             }
         ],
         "return_type": "void",

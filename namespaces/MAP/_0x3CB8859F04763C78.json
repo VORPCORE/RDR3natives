@@ -9,7 +9,7 @@
             },
             {
                 "type": "int",
-                "name": "blipId"
+                "name": "blip"
             }
         ],
         "return_type": "BOOL",

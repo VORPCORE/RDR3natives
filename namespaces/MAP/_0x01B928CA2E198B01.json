@@ -5,7 +5,7 @@
         "params": [
             {
                 "type": "Blip",
-                "name": "blipid"
+                "name": "blip"
             }
         ],
         "return_type": "Any",

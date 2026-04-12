@@ -9,11 +9,11 @@
             },
             {
                 "type": "BOOL",
-                "name": "p1"
+                "name": "scriptHostObject"
             },
             {
                 "type": "BOOL",
-                "name": "p2"
+                "name": "grabFromOtherScript"
             }
         ],
         "return_type": "void",

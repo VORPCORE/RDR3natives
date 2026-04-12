@@ -1,9 +1,9 @@
 {
     "0x5952DFA38FA529FE": {
-        "name": "_0x5952DFA38FA529FE",
-        "comment": "",
+        "name": "_GET_HOLD_TO_REEL_SETTING_ENABLED",
+        "comment": "returns an int in decompiles usually 0 or 1",
         "params": [],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1232",
         "examples": [],
         "apiset": ""

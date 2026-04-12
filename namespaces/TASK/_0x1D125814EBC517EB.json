@@ -1,23 +1,23 @@
 {
     "0x1D125814EBC517EB": {
-        "name": "_0x1D125814EBC517EB",
-        "comment": "",
+        "name": "_TASK_VEHICLE_ADD_NEXT_DESTINATION",
+        "comment": "Adds a waypoint to an AI vehicle's active drive-to-destination task; only the last 3 points are kept (ignored if no such task).",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Vehicle",
+                "name": "vehicle"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "x"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "y"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "z"
             }
         ],
         "return_type": "void",

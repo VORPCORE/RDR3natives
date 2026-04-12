@@ -1,14 +1,14 @@
 {
     "0x9420FB11B8D77948": {
-        "name": "_0x9420FB11B8D77948",
-        "comment": "",
+        "name": "_GET_TASK_PED_MOUNT_LEAP_STATE",
+        "comment": "Returns a coarse state for the mount-leap task (jumping from your mount onto another mount/wagon/train).\n-1 = no task; 0 = in-air/ongoing; 1 = boarded/mounted; 2 = boarded rear train trailer\nUse with _GET_TASK_PED_MOUNT_LEAP_PROGRESS for timing",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
         "apiset": ""

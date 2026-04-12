@@ -1,7 +1,7 @@
 {
     "0x75CFAC49301E134E": {
         "name": "_INVENTORY_APPLY_WEAPON_STATS_TO_ENTRY",
-        "comment": "Apply the weapon stats to the CatalogItemInspection stats entry id. get entryId with _INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY",
+        "comment": "Apply the weapon stats to the CatalogItemInspection stats entry id. get entryId with _INVENTORY_ADD_CATALOG_ITEM_INSPECTION_STATS_ENTRY",
         "params": [
             {
                 "type": "int",

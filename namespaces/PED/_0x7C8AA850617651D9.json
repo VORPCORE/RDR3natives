@@ -1,6 +1,6 @@
 {
     "0x7C8AA850617651D9": {
-        "name": "_0x7C8AA850617651D9",
+        "name": "_GET_PED_SPEECH_RELATIONSHIP",
         "comment": "Returns wether `0x1E017404784AA6A3` was applied on the ped.\n some hashs MAR2_RIDE1, MAR2_RIDE1, RBCH1_RIDE1, SAD5_RIDE1",
         "params": [
             {

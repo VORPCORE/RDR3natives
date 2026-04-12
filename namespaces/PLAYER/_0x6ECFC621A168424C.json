@@ -17,7 +17,7 @@
             },
             {
                 "type": "int",
-                "name": "p3"
+                "name": "heading"
             }
         ],
         "return_type": "void",

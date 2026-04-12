@@ -5,7 +5,7 @@
         "params": [
             {
                 "type": "Hash",
-                "name": "hash"
+                "name": "carriableConfig"
             }
         ],
         "return_type": "BOOL",

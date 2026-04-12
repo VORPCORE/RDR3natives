@@ -25,7 +25,7 @@
             },
             {
                 "type": "int",
-                "name": "p5"
+                "name": "renderingFlags"
             }
         ],
         "return_type": "void",

@@ -1,7 +1,7 @@
 {
     "0x42AC6401ABB8C7E5": {
         "name": "TASK_KNOCKED_OUT_AND_HOGTIED",
-        "comment": "",
+        "comment": "koTimeOffset (seconds): offset applied to the knockout timer—positive delays recovery (longer KO), negative brings recovery sooner, 0.0 initializes with no extension (immediate baseline).\nflags (bitmask): 1 = default variant (forwarded to the KO task ctor; R* commonly uses 1), 2 = sets an unk internal synced toggle for this task, 4 = sets another unk internal synced toggle.",
         "params": [
             {
                 "type": "Ped",
@@ -9,11 +9,11 @@
             },
             {
                 "type": "float",
-                "name": "p1"
+                "name": "koTimeOffset"
             },
             {
                 "type": "int",
-                "name": "p2"
+                "name": "flags"
             }
         ],
         "return_type": "void",

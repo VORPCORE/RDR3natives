@@ -12,7 +12,7 @@
                 "name": "trailerNumber"
             }
         ],
-        "return_type": "Entity",
+        "return_type": "Vehicle",
         "build": "1207",
         "gta_hash": "0x08AAFD0814722BC3",
         "gta_jhash": "0x2544E7A6",

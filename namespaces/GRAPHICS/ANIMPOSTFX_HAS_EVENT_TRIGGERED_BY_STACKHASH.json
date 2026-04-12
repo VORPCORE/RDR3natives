@@ -9,15 +9,15 @@
             },
             {
                 "type": "int",
-                "name": "p1"
+                "name": "eventType"
             },
             {
                 "type": "BOOL",
-                "name": "p2"
+                "name": "peekOnly"
             },
             {
                 "type": "BOOL*",
-                "name": "p3"
+                "name": "isRegistered"
             }
         ],
         "return_type": "BOOL",

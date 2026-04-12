@@ -1,14 +1,14 @@
 {
     "0x6BA606AB3A83BC4D": {
-        "name": "_0x6BA606AB3A83BC4D",
-        "comment": "",
+        "name": "_GET_TASK_PED_MOUNT_LEAP_PROGRESS",
+        "comment": "Returns 0.0-1.0 progress for the current mount-leap task, or -1.0f if no leap is active.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
-        "return_type": "Any",
+        "return_type": "float",
         "build": "1207",
         "examples": [],
         "apiset": ""
