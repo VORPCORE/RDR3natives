@@ -1,7 +1,7 @@
 {
     "0x62D2916F56B9CD2D": {
         "name": "TASK_RELOAD_WEAPON",
-        "comment": "",
+        "comment": "ped can't reload and walk, setting ammo needs to be set after using this or it will not make the animation reload, wont work if you are in first person",
         "params": [
             {
                 "type": "Ped",
