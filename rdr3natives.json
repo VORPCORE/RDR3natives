@@ -11282,11 +11282,11 @@
             "apiset": ""
         },
         "0xC3E9E5D4F413B773": {
-            "name": "_0xC3E9E5D4F413B773",
+            "name": "_SHAKE_GAMEPLAY_CAM_WITH_NAME",
             "comment": "shakeName: REINFORCED_LASSO_STRUGGLE_SHAKE\n_RES*",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "shakeName"
                 },
                 {
@@ -21236,15 +21236,15 @@
             "apiset": ""
         },
         "0x120376C23F019C6C": {
-            "name": "_GET_PELT_TEXTURE_BY_CARRIABLE",
-            "comment": "returns the albedo hash by carriable hash, use Citizen.pointerValueInt() as last parameter",
+            "name": "_GET_ENTITY_ALBEDO",
+            "comment": "returns the albedo hash by carriable hash, use Citizen.pointerValueInt() as last parameter \nthis native writes an albedo-related hash to the output pointer and returns whether the entity already has a valid albedo/material entry assigned if not it loads it and applies it using 0xDD03FC2089AD093C",
             "params": [
                 {
-                    "type": "Hash",
-                    "name": "carriableHash"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Hash*",
+                    "type": "Any*",
                     "name": "albedoHash"
                 }
             ],
@@ -21254,28 +21254,28 @@
             "apiset": ""
         },
         "0x16908E859C3AB698": {
-            "name": "_0x16908E859C3AB698",
-            "comment": "",
+            "name": "_SET_ENTITY_ATTACHED_OFFSET",
+            "comment": "Applies and updates the positional offset of an entity relative to the entity it is attached to, while also controlling whether the offset is interpreted horizontally or vertically\nThis native is typically used after ATTACH_ENTITY_TO_ENTITY ",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "horizontalMode"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "offsetX"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "offsetY"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "float",
+                    "name": "offsetZ"
                 }
             ],
             "return_type": "void",
@@ -21311,30 +21311,30 @@
             "apiset": ""
         },
         "0x2A77EF9BEC8518F4": {
-            "name": "_0x2A77EF9BEC8518F4",
-            "comment": "",
+            "name": "_GET_ENTITY_FROM_PELT",
+            "comment": "Returns the original animal (carcass) entity from which a pelt entity was obtained if it still exists",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "pelt"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
             "apiset": ""
         },
         "0x2D40BCBFE9305DEA": {
-            "name": "_0x2D40BCBFE9305DEA",
-            "comment": "",
+            "name": "_SET_ENTITY_LIGHTS_DISABLED",
+            "comment": "Controls a forced \"lights off\" state for entities that have built-in light sources.\nThis native does not enable lights, instead it overrides the light state by forcing them off.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "disabled"
                 }
             ],
             "return_type": "void",
@@ -21389,12 +21389,12 @@
             "apiset": ""
         },
         "0x37CEB637BA3B1A47": {
-            "name": "_0x37CEB637BA3B1A47",
-            "comment": "",
+            "name": "_DISABLE_STAIRS_STEP_FOR_VOLUME",
+            "comment": "Disables stair stepping behavior within the specified volume.\nWhen active, entities (typically peds/players) can still move up stairs, but their stepping animation and foot placement become irregular, causing them to skip steps or slide slightly instead of properly stepping each stair.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "int",
+                    "name": "volumeId"
                 }
             ],
             "return_type": "void",
@@ -21437,23 +21437,23 @@
             "apiset": ""
         },
         "0x3AB3A77672F6473F": {
-            "name": "_0x3AB3A77672F6473F",
-            "comment": "",
+            "name": "_GET_HEADING_OF_ENTITY_BONE",
+            "comment": "Returns the rotation/heading of a specific bone on an entity as a Vector3.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "boneIndex"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p2"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p3"
                 }
             ],
@@ -21489,12 +21489,12 @@
             "apiset": ""
         },
         "0x3F08C6163A4AB1D6": {
-            "name": "_0x3F08C6163A4AB1D6",
-            "comment": "",
+            "name": "_REQUEST_ENTITY_VISIBILITY_TRACKING",
+            "comment": "Enables visibility tracking for the specified entity\nFor peds, calling this makes PED::_IS_PED_VISIBILITY_TRACKED(ped) return true.\nFor vehicles, calling this makes VEHICLE::IS_VEHICLE_VISIBLE(vehicle) return true in the tracked/visible state context observed from scripts",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 }
             ],
             "return_type": "void",
@@ -21573,16 +21573,16 @@
             "apiset": "client"
         },
         "0x56E0735D6273B227": {
-            "name": "_0x56E0735D6273B227",
-            "comment": "",
+            "name": "_SET_ENTITY_DISABLE_FLAME",
+            "comment": "disables the flames only of fires like campfires",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "enabled"
                 }
             ],
             "return_type": "void",
@@ -21701,16 +21701,16 @@
             "apiset": "client"
         },
         "0x6C31B06E91518269": {
-            "name": "_0x6C31B06E91518269",
-            "comment": "",
+            "name": "_PRELOAD_ENTITY_INTERIOR",
+            "comment": "This native can enable interiors for train carriages that the game engine has disabled due to distance-based optimization.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "enabled"
                 }
             ],
             "return_type": "void",
@@ -21719,8 +21719,8 @@
             "apiset": ""
         },
         "0x6D58167F62238284": {
-            "name": "_0x6D58167F62238284",
-            "comment": "",
+            "name": "_GET_COLLISION_INTENSITY",
+            "comment": "Returns the collision intensity currently registered on the specified entity.\nUsed after HAS_ENTITY_COLLIDED_WITH_ANYTHING to measure how strong the impact was. Higher values indicate a stronger collision/impact",
             "params": [
                 {
                     "type": "Vehicle",
@@ -21881,8 +21881,8 @@
             "apiset": ""
         },
         "0xA48E4801DEBDF7E4": {
-            "name": "_0xA48E4801DEBDF7E4",
-            "comment": "",
+            "name": "_SET_CARRIABLE_PICKUP_LIGHT",
+            "comment": "Enables or disables the pickup light effect for carriable/interactable entities\nThis native specifically works on entities that are carriable and can be interacted with (e.g. after TASK::_MAKE_OBJECT_CARRIABLE).\n- Unlike SET_PICKUP_LIGHT, this does NOT apply a generic light effect to all objects.\n  Instead, it only highlights entities that the player can interact with (pickup context)",
             "params": [
                 {
                     "type": "Entity",
@@ -21890,7 +21890,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "enabled"
                 }
             ],
             "return_type": "void",
@@ -21917,36 +21917,36 @@
             "apiset": ""
         },
         "0xAAACB74442C1BED3": {
-            "name": "_0xAAACB74442C1BED3",
+            "name": "_PIN_MAP_ENTITY",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
             "apiset": ""
         },
         "0xAF72EC7E1B54539B": {
-            "name": "_0xAF72EC7E1B54539B",
-            "comment": "",
+            "name": "_GET_LAST_ENTITY_TO_DAMAGE_ENTITY",
+            "comment": "Returns the last entity that dealt any damage to the specified entity.\nThis native appears to retrieve the attacker responsible for the most recent damage event on the given entity.",
             "params": [
                 {
                     "type": "Entity",
                     "name": "entity"
                 }
             ],
-            "return_type": "Entity",
+            "return_type": "int",
             "build": "1311",
             "examples": [],
             "apiset": ""
         },
         "0xAF7F3099B9FEB535": {
-            "name": "_0xAF7F3099B9FEB535",
-            "comment": "SET_ENTITY_LO*",
+            "name": "_SET_ENTITY_LOCKON_POINT_OFFSET",
+            "comment": "Sets an offset for the entity's lock-on / target focus point.",
             "params": [
                 {
                     "type": "Entity",
@@ -21954,15 +21954,15 @@
                 },
                 {
                     "type": "float",
-                    "name": "p1"
+                    "name": "offsetX"
                 },
                 {
                     "type": "float",
-                    "name": "p2"
+                    "name": "offsetY"
                 },
                 {
                     "type": "float",
-                    "name": "p3"
+                    "name": "offsetZ"
                 }
             ],
             "return_type": "void",
@@ -22037,32 +22037,32 @@
             "apiset": ""
         },
         "0xBD94CECFB2D65119": {
-            "name": "_0xBD94CECFB2D65119",
-            "comment": "",
+            "name": "_SET_AUTO_PICKUP",
+            "comment": "Configures automatic pickup behavior for a carriable entity.\nThis native is typically used after TASK_CARRIABLE and enables auto-pickup functionality with configurable parameters such as pickup animation behavior, pickup range, and pickup prompt state",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "noPickupAnim"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "range"
                 },
                 {
-                    "type": "Any",
+                    "type": "float",
                     "name": "p3"
                 },
                 {
-                    "type": "Any",
+                    "type": "float",
                     "name": "p4"
                 },
                 {
-                    "type": "Any",
-                    "name": "p5"
+                    "type": "BOOL",
+                    "name": "enablePickupPrompt"
                 }
             ],
             "return_type": "void",
@@ -22071,8 +22071,8 @@
             "apiset": ""
         },
         "0xC0EDEF16D90661EE": {
-            "name": "_0xC0EDEF16D90661EE",
-            "comment": "SET_ENTITY_A*",
+            "name": "_SET_ENTITY_FLAME_INTENSITY",
+            "comment": "Sets the intensity of the flames for a torch",
             "params": [
                 {
                     "type": "Entity",
@@ -22080,7 +22080,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "p1"
+                    "name": "intensity"
                 }
             ],
             "return_type": "void",
@@ -22089,15 +22089,15 @@
             "apiset": ""
         },
         "0xC2E71D7E0A7B4C89": {
-            "name": "_0xC2E71D7E0A7B4C89",
-            "comment": "",
+            "name": "_IS_TRAIN_INTERIOR_LOADED",
+            "comment": "Checks whether the entity's interior is currently loaded by the game engine.\nThis is mainly used for train carriages. When the player is far away or not standing on the train, the game unloads interiors of distant carriages as an optimization. If the interior of the entity is currently loaded, this native returns true",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -22197,39 +22197,39 @@
             "apiset": ""
         },
         "0xD45BB89B53FC0CFD": {
-            "name": "_0xD45BB89B53FC0CFD",
-            "comment": "",
+            "name": "_SET_ENTITY_ROTATION_PARALLEL_TO_LINE",
+            "comment": "Sets the entity's rotation so that it becomes parallel to the direction defined by the line between coords1 and coords2, without moving the entity from its current position.\n\nThis native does NOT make the entity face coords1 or coords2. Instead, it keeps the entity at its current world position and adjusts its orientation so that it is aligned parallel to the direction derived from the two coordinates",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "coords1X"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "coords1Y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "coords1Z"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "float",
+                    "name": "coords2X"
                 },
                 {
-                    "type": "Any",
-                    "name": "p5"
+                    "type": "float",
+                    "name": "coords2Y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p6"
+                    "type": "float",
+                    "name": "coords2Z"
                 },
                 {
-                    "type": "Any",
+                    "type": "int",
                     "name": "p7"
                 }
             ],
@@ -22239,15 +22239,15 @@
             "apiset": ""
         },
         "0xD4636C2EDB0DEA8A": {
-            "name": "_0xD4636C2EDB0DEA8A",
-            "comment": "",
+            "name": "_IS_MODEL_IN_NEED_OF_VEG_MODIFIER",
+            "comment": "Checks whether the specified model can be handled through the vegetation modifier path.\nThis is not limited strictly to foliage. Testing shows many natural world\nmodels can return TRUE, including rocks, trees, bushes, grass, crops, branches, roots, logs, debris, and similar environment assets.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "modelHash"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -22279,12 +22279,12 @@
             "apiset": ""
         },
         "0xDD03FC2089AD093C": {
-            "name": "_SET_PELT_TEXTURE",
-            "comment": "Set the pelt texture to the object, by albedo hash and inventory item hash\nExamples: object: P_CS_PELT_MEDLARGE  albedo: a_c_boar_01_head_000_c0_000_ab, inventoryItem: PROVISION_BOAR_HIDE_POOR",
+            "name": "_SET_ENTITY_PELT_TEXTURE",
+            "comment": "Set the pelt texture to the entity, by albedo hash and inventory item hash\nExamples: object: P_CS_PELT_MEDLARGE  albedo: a_c_boar_01_head_000_c0_000_ab, inventoryItem: PROVISION_BOAR_HIDE_POOR",
             "params": [
                 {
-                    "type": "Object",
-                    "name": "object"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
                     "type": "Hash",
@@ -22327,16 +22327,16 @@
             "apiset": ""
         },
         "0xDFC2B226D56D85F6": {
-            "name": "_0xDFC2B226D56D85F6",
-            "comment": "",
+            "name": "_GET_ENTITY_COLLISION_INTENSITY",
+            "comment": "Returns a float that appears to represent the collision impact intensity between two entities.\n\nBased on observed usage, this value becomes large when entity1 hits entity2 with enough force. In the example below, if the returned value is greater than 500.0f, the first entity is moving, the second entity is nearly stationary, and the second entity is not already ragdolled, then SET_PED_TO_RAGDOLL is triggered.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Entity",
+                    "name": "entiy2"
                 }
             ],
             "return_type": "float",
@@ -22437,12 +22437,12 @@
             "apiset": ""
         },
         "0xEAB3D91D30A344F1": {
-            "name": "_0xEAB3D91D30A344F1",
-            "comment": "",
+            "name": "_ENABLE_STAIRS_STEP_FOR_VOLUME",
+            "comment": "Re-enables normal stair stepping behavior within the specified volume.\nThis restores proper step-by-step movement and foot placement for entities that was previously altered by _DISABLE_STAIRS_STEP_FOR_VOLUME",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "int",
+                    "name": "volumeId"
                 }
             ],
             "return_type": "void",
@@ -23455,7 +23455,7 @@
         },
         "0xEBDC12861D079ABA": {
             "name": "_SET_ENTITY_LIGHTS_ENABLED",
-            "comment": "",
+            "comment": "Forces entity lights to stay enabled regardless of environmental conditions (day/night cycle)\nThis native overrides the default behavior where lights typically only activate at night\ntrue  = lights are always enabled (day and night)\nfalse = original behavior is restored",
             "params": [
                 {
                     "type": "Entity",
@@ -23498,8 +23498,8 @@
             "comment": "",
             "params": [
                 {
-                    "type": "Entity",
-                    "name": "entity"
+                    "type": "int",
+                    "name": "pinId"
                 }
             ],
             "return_type": "void",
@@ -29793,12 +29793,12 @@
             "apiset": ""
         },
         "0x21F00E08CBB5F37B": {
-            "name": "_0x21F00E08CBB5F37B",
-            "comment": "Params: component - used in odriscolls1 and sean1 R* SP Script: COMPONENT_BINOCULARS_SCOPE01\nTriggers the binocular scaleform",
+            "name": "_SET_MASK_OVERLAY",
+            "comment": "Params: COMPONENT_BINOCULARS_SCOPE01",
             "params": [
                 {
-                    "type": "const char*",
-                    "name": "component"
+                    "type": "char*",
+                    "name": "overlay"
                 }
             ],
             "return_type": "void",
@@ -30055,8 +30055,8 @@
             "apiset": ""
         },
         "0x5AC6E0FA028369DE": {
-            "name": "_0x5AC6E0FA028369DE",
-            "comment": "Closes the the binocular scaleform",
+            "name": "_REMOVE_MASK_OVERLAY",
+            "comment": "Removes the mask overlay that was set with SET_MASK_OVERLAY",
             "params": [],
             "return_type": "void",
             "build": "1207",
@@ -30717,29 +30717,34 @@
             "apiset": ""
         },
         "0xFBF161FCFEC8589E": {
-            "name": "_0xFBF161FCFEC8589E",
-            "comment": "ANIMPOSTFX_*",
+            "name": "_ANIMPOSTFX_HAS_EVENT_TRIGGERED",
+            "comment": "Return true if the event have just been triggered. Literaly the same system of ANIMPOSTFX_HAS_EVENT_TRIGGERED_BY_STACKHASH, but works with a string.",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "effectName"
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "eventType"
                 },
                 {
                     "type": "BOOL",
-                    "name": "p2"
+                    "name": "peekOnly"
                 },
                 {
                     "type": "BOOL*",
-                    "name": "p3"
+                    "name": "isRegistered"
                 }
             ],
             "return_type": "BOOL",
             "build": "1207",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "CreateThread(function()\n    AnimpostfxPlay(\"ChapterTitle_IntroCh01\")\n    while true do\n        local hasEventTriggered1, isRegistered1 = AnimpostfxHasEventTriggered(\"ChapterTitle_IntroCh01\", 1, false)\n        local hasEventTriggered2, isRegistered2 = AnimpostfxHasEventTriggered(\"ChapterTitle_IntroCh01\", 2, false)\n        if (hasEventTriggered1) then\n            print(\"AnimpostfxHasEventTriggered('ChapterTitle_IntroCh01', 1, false)\", hasEventTriggered1)\n        end\n        if (hasEventTriggered2) then\n            print(\"AnimpostfxHasEventTriggered('ChapterTitle_IntroCh01', 2, false)\", hasEventTriggered2)\n        end\n        Wait(0)\n    end\nend)"
+                }
+            ],
             "apiset": ""
         },
         "0xFC9B53C072F418E0": {
@@ -35402,8 +35407,8 @@
     },
     "IK": {
         "0x0B9F7A01EC50448D": {
-            "name": "_0x0B9F7A01EC50448D",
-            "comment": "",
+            "name": "_INVERSE_KINEMATICS_POINT_AT",
+            "comment": "Make the ped point at with arms, must be called every frame.",
             "params": [
                 {
                     "type": "Ped",
@@ -35411,17 +35416,22 @@
                 },
                 {
                     "type": "Any*",
-                    "name": "args"
+                    "name": "parameters"
                 }
             ],
             "return_type": "void",
             "build": "1207",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "struct parameters {\n  bool isRightHand;\n  Vector3 offset;\n  Entity entity;\n  int boneIndex;\n  int flags; // (1 << 22) makes attach to point at\n  int unk1; // 1-5\n  int unk2; // 1-2\n}"
+                }
+            ],
             "apiset": ""
         },
         "0x6098139150DCC745": {
-            "name": "_0x6098139150DCC745",
-            "comment": "",
+            "name": "_INVERSE_KINEMATICS_IS_ACTIVE",
+            "comment": "Get the ped ik activity state.",
             "params": [
                 {
                     "type": "Ped",
@@ -35429,7 +35439,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "ik"
                 }
             ],
             "return_type": "BOOL",
@@ -37940,8 +37950,8 @@
             "apiset": "client"
         },
         "0x388088BFF3681189": {
-            "name": "_0x388088BFF3681189",
-            "comment": "",
+            "name": "_ITEMDATABASE_GET_BUNDLE_ACQUIRE_COSTS_COUNT_FROM_COST",
+            "comment": "Return the number of currencies available for a bundle. To use with _ITEMDATABASE_FILLOUT_BUNDLE\nbundle: Hash \u2014 e.g: BUNDLE_CLOTHING_ITEM_F_OFFHAND_000_TINT_001\ncost: Hash \u2014 e.g: COST_GOLD, COST_CRAFTING_MP...",
             "params": [
                 {
                     "type": "Hash",
@@ -37949,7 +37959,7 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "costtype"
+                    "name": "cost"
                 }
             ],
             "return_type": "int",
@@ -37958,30 +37968,35 @@
             "apiset": ""
         },
         "0x3A0B667ABFF87F6E": {
-            "name": "_0x3A0B667ABFF87F6E",
-            "comment": "",
+            "name": "_ITEMDATABASE_GET_BUNDLE_ACQUIRE_COST",
+            "comment": "eg: BUNDLE_CLOTHING_ITEM_F_OFFHAND_000_TINT_001 index: To use with 0x7A35A72A692BE9DB",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "bundle"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "index"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "Any*",
+                    "name": "outData"
                 }
             ],
             "return_type": "BOOL",
             "build": "1207",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "struct outData {\n  Hash cost;\n  Any unk1; // Maybe bool, int otherwise\n  Hash costType;\n  int numCosts;\n  int unk2;\n  Any* costs; // Array of costs\n};\n\nstruct Cost {\n  Hash currency;\n  int amount;\n};"
+                }
+            ],
             "apiset": ""
         },
         "0x48229CE0C7938237": {
-            "name": "_0x48229CE0C7938237",
-            "comment": "_ITEMDATABASE_GET_(A)* - _ITEMDATABASE_GET_(B)*",
+            "name": "_ITEMDATABASE_GET_AWARD_UNLOCK_FLAG_COUNT",
+            "comment": "hash eg: AWARD_DEBUG_HIDE_LEGENDARY_BOUNTY_00",
             "params": [
                 {
                     "type": "Hash",
@@ -38030,12 +38045,12 @@
             "apiset": ""
         },
         "0x7A35A72A692BE9DB": {
-            "name": "_0x7A35A72A692BE9DB",
-            "comment": "",
+            "name": "_ITEMDATABASE_GET_BUNDLE_ACQUIRE_COSTS_COUNT",
+            "comment": "eg: BUNDLE_CLOTHING_ITEM_F_OFFHAND_000_TINT_001",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "bundle"
                 }
             ],
             "return_type": "int",
@@ -38066,8 +38081,8 @@
             "apiset": ""
         },
         "0x8D029948CA29409B": {
-            "name": "_0x8D029948CA29409B",
-            "comment": "_ITEMDATABASE_FILLOUT_(A)* - _ITEMDATABASE_FILLOUT_(B)*",
+            "name": "_ITEMDATABASE_FILLOUT_AWARD_UNLOCK_FLAG",
+            "comment": "",
             "params": [
                 {
                     "type": "Hash",
@@ -38088,12 +38103,12 @@
             "apiset": ""
         },
         "0xAA29A5F13B2C20B2": {
-            "name": "_0xAA29A5F13B2C20B2",
-            "comment": "Returns Pathset Hash",
+            "name": "_ITEMDATABASE_GET_CATALOG_ITEM_CATEGORY_PATHSET",
+            "comment": "Returns Pathset Hash catalogItemCategory: Hash \u2014 e.g: CI_CATEGORY_AMMO, CI_CATEGORY_CAMP_TENT...\nDefault: Hash \u2014 Always DEFAULT in R* scripts.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "catalogItemCategory"
                 },
                 {
                     "type": "Hash",
@@ -38344,7 +38359,7 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "costtype"
+                    "name": "cost"
                 },
                 {
                     "type": "int",
@@ -38357,7 +38372,12 @@
             ],
             "return_type": "BOOL",
             "build": "1232",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "struct Cost {\n  Hash currency;\n  int amount;\n};"
+                }
+            ],
             "apiset": ""
         },
         "0x74C3B1093728D263": {
@@ -40237,8 +40257,8 @@
             "apiset": ""
         },
         "0x29CD4896ECB66C12": {
-            "name": "_0x29CD4896ECB66C12",
-            "comment": "",
+            "name": "_STOP_LAW_SEARCH",
+            "comment": "stops law from searching player",
             "params": [],
             "return_type": "void",
             "build": "1207",
@@ -40441,7 +40461,7 @@
             "apiset": ""
         },
         "0x7803436E68C32B26": {
-            "name": "_0x7803436E68C32B26",
+            "name": "_FORCE_LAW_SEARCH",
             "comment": "",
             "params": [],
             "return_type": "void",
@@ -40602,8 +40622,8 @@
             "apiset": ""
         },
         "0x9945A3E2528A02E8": {
-            "name": "_0x9945A3E2528A02E8",
-            "comment": "",
+            "name": "_HAS_PLAYER_BEEN_FOUND_BY_LAW_ACTIVE_SEARCH",
+            "comment": "returns true when law finds player after searching for player for the first time , false when player evades or dies.Note: must use SET_LAW_REGION for law to get aware of crimes.",
             "params": [
                 {
                     "type": "Player",
@@ -40730,8 +40750,8 @@
             "apiset": ""
         },
         "0xC310239ACCCF5579": {
-            "name": "_0xC310239ACCCF5579",
-            "comment": "",
+            "name": "_FORCE_LAW_SEARCH_THIS_FRAME",
+            "comment": "forces law to search player must be called every frame",
             "params": [],
             "return_type": "void",
             "build": "1207",
@@ -41035,8 +41055,8 @@
             "apiset": ""
         },
         "0xF46108C50A22B029": {
-            "name": "_0xF46108C50A22B029",
-            "comment": "",
+            "name": "_IS_LAW_SEARCH_ACTIVE",
+            "comment": "returns true if law is searching player",
             "params": [],
             "return_type": "BOOL",
             "build": "1207",
@@ -41245,7 +41265,7 @@
         },
         "0xC805EB785824F712": {
             "name": "_ENABLE_DISPATCH_LAW",
-            "comment": "",
+            "comment": "despite their names this doesn't disable the dispatch system. if you shoot a lawman when is disabled, the dispatch is still enabled because the law will  come after you.\nthis seems to disable/enable the create witnesses, if disabled it you can shoot npcs and they wont witness anything or report\nEnableDispatchLaw_2 called toghether",
             "params": [
                 {
                     "type": "BOOL",
@@ -41685,7 +41705,7 @@
         },
         "0x8DE82BC774F3B862": {
             "name": "_SET_LAW_DISABLED",
-            "comment": "",
+            "comment": "This native is what temporary disables the dispatch, even if witnesses report it the lawman will not come also disables temporarily the GetCrimeDispatchTypeForPlayer native from returning any crime dispatch\nif you enable it at any time , when before a report was done by witness, the dispatch will resume ,lawman will be looking for you.",
             "params": [
                 {
                     "type": "BOOL",
@@ -42204,7 +42224,7 @@
         },
         "0x0DF2B55F717DDB10": {
             "name": "SET_BLIP_FLASHES",
-            "comment": "",
+            "comment": "_GET_BLIP_MAP_CARD_INFO this should be the name there is no flash timer for blips\n",
             "params": [
                 {
                     "type": "Blip",
@@ -42223,12 +42243,17 @@
             "build": "1207",
             "gta_hash": "0xB14552383D39CE3E",
             "gta_jhash": "0xC0047F15",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "local blipType, mapCardId = Citizen.InvokeNative(0x0DF2B55F717DDB10, intParameter, Citizen.PointerValueInt(), Citizen.PointerValueInt())\n// will return whatever you passed in blipType as long is an int"
+                }
+            ],
             "apiset": ""
         },
         "0x02FF4CF43B7209D1": {
             "name": "SET_BLIP_FLASH_TIMER",
-            "comment": "",
+            "comment": "_SET_BLIP_MAP_CARD_INFO this should be the name there is no flash timer for blips\nblipType can be any number, but you can use blipTypes\nmapCardId joaat(\"SHOP_MOONSHINE_STILL\") possibly to get the card info by this hash",
             "params": [
                 {
                     "type": "Blip",
@@ -42240,7 +42265,7 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "blipHash"
+                    "name": "mapCardId"
                 }
             ],
             "return_type": "void",
@@ -44737,7 +44762,12 @@
             ],
             "return_type": "void",
             "build": "1207",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "struct FireSingleBulletArgs\n{\n  float xStart;\n  float yStart;\n  float zStart;\n  float xEnd;\n  float yEnd;\n  float zEnd;\n  Hash weaponHash;\n  float damage;\n  float p8;\n  Entity instigator;\n  Entity entity2;\n  Entity entity3;\n  BOOL p12;\n  BOOL p13;\n  BOOL p14;\n  BOOL p15;\n  BOOL p16;\n  Any p17;\n  BOOL p18;\n  BOOL p19;\n}"
+                }
+            ],
             "apiset": ""
         },
         "0x369DB5B2510FA080": {
@@ -47506,23 +47536,23 @@
             "apiset": ""
         },
         "0x7A76104CC2CC69E8": {
-            "name": "_0x7A76104CC2CC69E8",
-            "comment": "",
+            "name": "_HAS_BULLET_IMPACTED_ENTITY",
+            "comment": "returns true if a bullet impacted the entity",
             "params": [
                 {
                     "type": "Entity",
                     "name": "entity"
                 },
                 {
-                    "type": "int",
+                    "type": "BOOL",
                     "name": "p1"
                 },
                 {
-                    "type": "int",
+                    "type": "BOOL",
                     "name": "p2"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -47691,23 +47721,23 @@
             "apiset": ""
         },
         "0x970339EFA4FDE518": {
-            "name": "_0x970339EFA4FDE518",
-            "comment": "",
+            "name": "_GET_NUMBER_OF_BULLETS_IMPACTED_ENTITY",
+            "comment": "returns the number of bullets that hit the entity",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Entity",
+                    "name": "entity"
                 },
                 {
-                    "type": "Any",
+                    "type": "BOOL",
                     "name": "p1"
                 },
                 {
-                    "type": "Any",
+                    "type": "BOOL",
                     "name": "p2"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -48013,35 +48043,35 @@
             "apiset": ""
         },
         "0xDC416CA762BC4F43": {
-            "name": "_0xDC416CA762BC4F43",
-            "comment": "",
+            "name": "_GET_NUMBER_OF_BULLETS_IN_AREA",
+            "comment": "returns the number of bullets that were shot in the area",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "float",
+                    "name": "x"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "y"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "z"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "radius"
                 },
                 {
-                    "type": "Any",
+                    "type": "BOOL",
                     "name": "p4"
                 },
                 {
-                    "type": "Any",
+                    "type": "BOOL",
                     "name": "p5"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -60727,8 +60757,8 @@
             "apiset": ""
         },
         "0x0943113E02322164": {
-            "name": "_0x0943113E02322164",
-            "comment": "Params: p1 = 23 in R* Scripts",
+            "name": "_CHECK_DOOR_ACTION_FLAG",
+            "comment": "Checks whether a specific door-related action/state flag is active for the given door object.\nObserved behavior:\n- flag 32: returns true when the door is being kicked (kick action event)\n- flag 23: returns true if the door has been previously opened by kicking (post-kick state)\n- flag 8:  returns true when attempting to open the door while it is locked",
             "params": [
                 {
                     "type": "Object",
@@ -60955,26 +60985,26 @@
             "apiset": ""
         },
         "0x4D8611DFE1126478": {
-            "name": "_0x4D8611DFE1126478",
-            "comment": "",
+            "name": "_GET_DOOR_KNOCKING_WHEN_LOCKED",
+            "comment": "Checks whether the specified door has the \"knocking when locked\" interaction enabled",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "doorHash"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
         },
         "0x5230BF34EB0EC645": {
-            "name": "_0x5230BF34EB0EC645",
-            "comment": "",
+            "name": "_DOOR_SYSTEM_CLEAR_FORCED_OPEN_PLAYER",
+            "comment": "Clears the stored player ID for a door that was force-opened via physical interaction\n(e.g. kick or shoulder bash).\nThis resets the value returned by:_DOOR_SYSTEM_GET_FORCED_OPEN_PLAYER",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "doorHash"
                 }
             ],
             "return_type": "void",
@@ -61001,15 +61031,15 @@
             "apiset": ""
         },
         "0x58DE624FA7FB0E7F": {
-            "name": "_0x58DE624FA7FB0E7F",
-            "comment": "",
+            "name": "_GET_OBJECT_FRAGMENT_COUNT",
+            "comment": "Returns the number of breakable fragments (indexed sections) defined for the specified object.\nThese fragments can be triggered individually using natives that target object fracture indices. eg: a box of bottles can have multiple fragments that can be broken individually.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Object",
+                    "name": "object"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -61047,19 +61077,19 @@
             "apiset": ""
         },
         "0x6E2AA80BB0C03728": {
-            "name": "_0x6E2AA80BB0C03728",
-            "comment": "",
+            "name": "_DOOR_SYSTEM_CHECK_ACTION_FLAG",
+            "comment": "Checks whether a specific door action/state flag is active for the given door hash.\n- flag 32: returns true while the door is being kicked\n- flag 23: returns true after the door has been opened by kicking\n- flag 8:  returns true when trying to open a locked door",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "doorHash"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "flag"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -61101,16 +61131,16 @@
             "apiset": "client"
         },
         "0x7FCD49388BC9B775": {
-            "name": "_0x7FCD49388BC9B775",
-            "comment": "",
+            "name": "_SET_OBJECT_LANTERN_DISABLE_LIGHT",
+            "comment": "Primarily used on lantern weapon entities after they have been dropped.\nThis native does NOT affect lanterns while they are being held by a ped",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Object",
+                    "name": "object"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "disable"
                 }
             ],
             "return_type": "void",
@@ -61133,34 +61163,34 @@
             "apiset": ""
         },
         "0x9F52AD67D1A91BAD": {
-            "name": "_0x9F52AD67D1A91BAD",
+            "name": "_IS_PICKUP_PICKABLE_FOR_TEAM",
             "comment": "",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Object",
+                    "name": "pickupObject"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "teamId"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
         },
         "0xA93F925F1942E434": {
-            "name": "_0xA93F925F1942E434",
-            "comment": "",
+            "name": "_SET_DOOR_KNOCKING_WHEN_LOCKED",
+            "comment": "Changes the interaction behavior for a locked door.\nNormally, when interacting with a locked door, the character tries the handle. When this native is enabled, that behavior is replaced with a knocking/tapping interaction for the specified door.\nWith toggle enabled:\n- pressing the interact button on a locked door makes the character knock/tap on the door instead of trying the handle\n- this does not unlock the door\n- if the door is in a breakable/force-open state, it may still be opened by physically forcing it (e.g. sprinting into it), but normal interaction still uses the knocking behavior",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "doorHash"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "enable"
                 }
             ],
             "return_type": "void",
@@ -61169,16 +61199,16 @@
             "apiset": ""
         },
         "0xAAACF33CBF9B990A": {
-            "name": "_0xAAACF33CBF9B990A",
-            "comment": "",
+            "name": "_DAMAGE_OBJECT_FRAGMENT_BY_INDEX",
+            "comment": "Damages or breaks a specific predefined fragment/section of an object using the provided fragment index.\nUnlike generic damage systems, this native appears to directly target one of the object's internal fracture sections. The index parameter determines which part of the object is damaged or broken.\nDifferent index values cause different fragments of the object to detach or break.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Object",
+                    "name": "object"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "fragmentIndex"
                 }
             ],
             "return_type": "void",
@@ -61219,28 +61249,28 @@
             "apiset": ""
         },
         "0xB3B1546D23DF8DE1": {
-            "name": "_0xB3B1546D23DF8DE1",
-            "comment": "",
+            "name": "_DOOR_SYSTEM_SWING_OPEN",
+            "comment": "swing door open between 2 points\nRequires DOOR_SYSTEM_SET_DOOR_STATE(hash, 0) beforehand\n- If door is locked (state=1), the impulse is ignored",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "doorHash"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "dirX"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "float",
+                    "name": "dirY"
                 },
                 {
-                    "type": "Any",
-                    "name": "p3"
+                    "type": "float",
+                    "name": "dirZ"
                 },
                 {
-                    "type": "Any",
-                    "name": "p4"
+                    "type": "BOOL",
+                    "name": "reverse"
                 }
             ],
             "return_type": "void",
@@ -61249,16 +61279,16 @@
             "apiset": ""
         },
         "0xC07B91B996C1DE89": {
-            "name": "_0xC07B91B996C1DE89",
-            "comment": "",
+            "name": "_SET_DOOR_ENABLE_KICK_PROMPT",
+            "comment": "Enables the kick prompt for a door",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "doorHash"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "enable"
                 }
             ],
             "return_type": "void",
@@ -61393,16 +61423,16 @@
             "apiset": ""
         },
         "0xE157A8A336C7F04A": {
-            "name": "_0xE157A8A336C7F04A",
-            "comment": "",
+            "name": "_SET_OBJECT_CAN_BE_TAGGED",
+            "comment": "Sets if the object can be tagged while using Dead Eye",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Object",
+                    "name": "object"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "BOOL",
+                    "name": "canBeTagged"
                 }
             ],
             "return_type": "void",
@@ -61411,15 +61441,15 @@
             "apiset": ""
         },
         "0xEBA314768FB35D58": {
-            "name": "_0xEBA314768FB35D58",
-            "comment": "",
+            "name": "_DOOR_SYSTEM_GET_FORCED_OPEN_PLAYER",
+            "comment": "Returns the player who forced the specified door open using physical interaction\n(e.g. kicking or shoulder bashing).\nIf a player breaks or forces the door open, this native returns the Player ID directly.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Hash",
+                    "name": "doorHash"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -65967,7 +65997,7 @@
             "apiset": ""
         },
         "0x608BC6A6AACD5036": {
-            "name": "GET_CARRIED_ATTACHED_INFO_FOR_SLOT",
+            "name": "_GET_CARRIED_ATTACHED_INFO_FOR_SLOT",
             "comment": "Outputs carriable infos for selected ped carriable slot.\n\nParameters:\n- outData: Any* \u2014 A structure of 4 explained below\n- ped: Ped to check\n- carriableSlot: int See TASK_CARRIABLE for available slots\n- p3: int always 0 in R* scripts",
             "params": [
                 {
@@ -70851,7 +70881,7 @@
         },
         "0x931B241409216C1F": {
             "name": "SET_PED_OWNS_ANIMAL",
-            "comment": "",
+            "comment": "enables horse items wheel",
             "params": [
                 {
                     "type": "Ped",
@@ -72960,8 +72990,8 @@
             "apiset": ""
         },
         "0x2BA9D7BF629F920C": {
-            "name": "_0x2BA9D7BF629F920C",
-            "comment": "Used in Script Function CHECK_IS_PLAYER_SEEN\n_GET_PED_*",
+            "name": "_GET_PED_SEEING_RANGE",
+            "comment": "Returns the seeing range of a ped. To use with SET_PED_SEEING_RANGE",
             "params": [
                 {
                     "type": "Ped",
@@ -75358,8 +75388,8 @@
             "apiset": ""
         },
         "0x900CA00CE703E1E2": {
-            "name": "_0x900CA00CE703E1E2",
-            "comment": "Used in Script Function AGGRO_SHOULD_PED_HEAR_DEATH\n_GET_PED_*",
+            "name": "_GET_PED_HEARING_RANGE",
+            "comment": "Returns the hearing range of a ped. To use with SET_PED_HEARING_RANGE",
             "params": [
                 {
                     "type": "Ped",
@@ -76678,8 +76708,8 @@
             "apiset": ""
         },
         "0xC17A94CC8FC3C61A": {
-            "name": "_0xC17A94CC8FC3C61A",
-            "comment": "_SET_PED_P* - _SET_PED_R*",
+            "name": "_SET_PED_RAGDOLL_BONE_SCALE",
+            "comment": "seems to modify the size/scale of the collision capsule (hitbox) for a specific ped bone",
             "params": [
                 {
                     "type": "Entity",
@@ -76800,8 +76830,8 @@
             "apiset": "client"
         },
         "0xC48AF420371C7407": {
-            "name": "_0xC48AF420371C7407",
-            "comment": "_SET_PED_M*",
+            "name": "_SET_PED_NEXT_MELEE_ATTACK",
+            "comment": "Sets the next melee attack of a ped eg AR_ATTACK_HAYMAKER_TO_HEAD_RIGHT_HAND_DIST_MED_V01 AR_GRAPPLE_MOUNT_FACEDOWN_FROM_FRONT",
             "params": [
                 {
                     "type": "Ped",
@@ -76809,7 +76839,7 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "grapple"
+                    "name": "actionHash"
                 }
             ],
             "return_type": "Any",
@@ -77004,12 +77034,12 @@
             "apiset": ""
         },
         "0xCAC43D060099EA72": {
-            "name": "_0xCAC43D060099EA72",
-            "comment": "",
+            "name": "_HIDE_MOUNT_REINS",
+            "comment": "Hides the reins of the mount",
             "params": [
                 {
                     "type": "Ped",
-                    "name": "ped"
+                    "name": "mount"
                 }
             ],
             "return_type": "void",
@@ -77516,8 +77546,8 @@
             "apiset": ""
         },
         "0xDD9540E7B1C9714F": {
-            "name": "_0xDD9540E7B1C9714F",
-            "comment": "",
+            "name": "_SET_PED_TORCH_VFX_COLOR",
+            "comment": "The native WILL NOT WORK if the specific component containing the VFX node is not equipped on the ped (e.g., the torch outfit -368114487 must be equipped first via _EQUIP_META_PED_OUTFIT).\nIt only colors the smoke/volumetrics, leaving the core fire sprites untouched.\nValues greater than 1.0f are clamped to 1.0f by the engine. To achieve specific RGB shades, you MUST normalize 0-255 values by dividing them by 255.0f (e.g., 128 becomes 0.5f)",
             "params": [
                 {
                     "type": "Ped",
@@ -77525,7 +77555,7 @@
                 },
                 {
                     "type": "Hash",
-                    "name": "p1"
+                    "name": "vfxNodeHash"
                 },
                 {
                     "type": "float",
@@ -77542,7 +77572,12 @@
             ],
             "return_type": "void",
             "build": "1207",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "RegisterCommand(\"testcolor\", function()\n  \n        local playerPed = PlayerPedId()\n        local horse = GetMount(playerPed)\n\n        if  horse ~= 0 then\n            local outfitHash = -368114487\n            Citizen.InvokeNative(0x1902C4CFCC5BE57C, horse, outfitHash)\n            Citizen.InvokeNative(0x704C908E9C405136, horse)\n\n            Wait(500)\n\n            local componentHash = -929362906\n            local r, g, b = 1.0, 0.0, 0.0\n\n            Citizen.InvokeNative(0xDD9540E7B1C9714F, horse, componentHash, r, g, b)\n        end\nend, false)"
+                }
+            ],
             "apiset": ""
         },
         "0xDDFAD4DEAA7FA362": {
@@ -78065,11 +78100,11 @@
             "params": [
                 {
                     "type": "Ped",
-                    "name": "ped1"
+                    "name": "ped"
                 },
                 {
-                    "type": "Ped",
-                    "name": "ped2"
+                    "type": "int",
+                    "name": "mount"
                 }
             ],
             "return_type": "void",
@@ -78160,8 +78195,8 @@
             "apiset": ""
         },
         "0xF4860514AD354226": {
-            "name": "_0xF4860514AD354226",
-            "comment": "Only used in SP Scripts\nReturns count / index\n_C*",
+            "name": "_COUNT_PEDS_AWARE_OF_EVENT",
+            "comment": "Only used in SP Scripts\ncounts how many peds that the ADD_SHOCKING_EVENT_FOR_ENTITY were add to based on position and radius, p0 is handleId from ADD_SHOCKING_EVENT_FOR_ENTITY\np3 is a collection of entities where max is 15 (in source code), its using itemSet to get them from a volume\nthis count seems to be used to add a task reactions etc to these peds",
             "params": [
                 {
                     "type": "ScrHandle",
@@ -78181,11 +78216,11 @@
                 },
                 {
                     "type": "float",
-                    "name": "p4"
+                    "name": "radius"
                 },
                 {
                     "type": "int*",
-                    "name": "p5"
+                    "name": "entities"
                 }
             ],
             "return_type": "int",
@@ -78416,8 +78451,8 @@
             "apiset": ""
         },
         "0xFA8C10DCE0706D43": {
-            "name": "_0xFA8C10DCE0706D43",
-            "comment": "_HAS_PED_*",
+            "name": "_HAS_PED_KNOCKED_ON_DOOR",
+            "comment": "Checks whether the specified ped has performed a door knocking interaction\nThis is typically used together with SET_DOOR_KNOCKING_WHEN_LOCKED.\nIf a door is configured to use knocking behavior when locked, and the player interacts\nwith it, this native returns true AFTER the knocking interaction/animation has completed ",
             "params": [
                 {
                     "type": "Ped",
@@ -78524,8 +78559,8 @@
             "apiset": ""
         },
         "0xFFA1594703ED27CA": {
-            "name": "_0xFFA1594703ED27CA",
-            "comment": "",
+            "name": "_SET_PED_OUTFIT_PRESET",
+            "comment": "doesnt seem to work on story characters possibly need to uese the metaped natives for those",
             "params": [
                 {
                     "type": "Ped",
@@ -78533,7 +78568,7 @@
                 },
                 {
                     "type": "int",
-                    "name": "p1"
+                    "name": "index"
                 }
             ],
             "return_type": "void",
@@ -86569,7 +86604,7 @@
             "apiset": ""
         },
         "0x1FC92BDBA1106BD2": {
-            "name": "_0x1FC92BDBA1106BD2",
+            "name": "_ROPE_FORCE_LENGHT",
             "comment": "",
             "params": [
                 {
@@ -86578,7 +86613,7 @@
                 },
                 {
                     "type": "float",
-                    "name": "p1"
+                    "name": "length"
                 }
             ],
             "return_type": "void",
@@ -88314,11 +88349,11 @@
         },
         "0x80B00EB26D9521C7": {
             "name": "GET_WANTED_LEVEL_RADIUS",
-            "comment": "",
+            "comment": "level 0 60.0 level 1 75.0 level 2 90.0 max level is 5 200.0 radius",
             "params": [
                 {
                     "type": "int",
-                    "name": "p0"
+                    "name": "wantedLevel"
                 }
             ],
             "return_type": "float",
@@ -90477,12 +90512,16 @@
             "apiset": "client"
         },
         "0x39D8D7082BC34B72": {
-            "name": "_0x39D8D7082BC34B72",
-            "comment": "",
+            "name": "_SET_PLAYER_WANTED_COOLDOWN",
+            "comment": "sets the player evasion cooldown timer 10000 short 35000 long",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Player",
+                    "name": "player"
+                },
+                {
+                    "type": "int",
+                    "name": "cooldown"
                 }
             ],
             "return_type": "void",
@@ -93830,8 +93869,8 @@
             "apiset": ""
         },
         "0x83FCD6921FC8FD05": {
-            "name": "_SET_DEADEYE_TAGGING_CONFIG",
-            "comment": "",
+            "name": "_SET_PLAYER_DEADEYE_TAGGING_CONFIG",
+            "comment": "old name _SET_DEADEYE_TAGGING_CONFIG \nFILTER_RESTRICTED = 6, Dead Eye Tagging is currently restricted to AI and Animals only...\nFILTER_UNRESTRICTED = 7, Dead Eye Tagging is enabled and not restricted...",
             "params": [
                 {
                     "type": "Player",
@@ -127055,8 +127094,8 @@
             "apiset": ""
         },
         "0x06A09A6E0C6D2A84": {
-            "name": "_0x06A09A6E0C6D2A84",
-            "comment": "_SET_TRAIN_*",
+            "name": "_SET_TRAIN_ENABLE_REVERSING",
+            "comment": "true to enable train reversing moving backwards, false to not allow reversing",
             "params": [
                 {
                     "type": "Vehicle",
@@ -127064,7 +127103,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "enabled"
                 }
             ],
             "return_type": "void",
@@ -127501,8 +127540,8 @@
             "apiset": ""
         },
         "0x2200AB13CBD10F4E": {
-            "name": "_0x2200AB13CBD10F4E",
-            "comment": "",
+            "name": "_SET_BALLOON_ROUTE",
+            "comment": "Makes the balloon go to the specified coordinates must be called every frame until it reaches destination if autoDrive is false,other wise player must drive it manually",
             "params": [
                 {
                     "type": "Vehicle",
@@ -127522,11 +127561,11 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p4"
+                    "name": "autoDrive"
                 },
                 {
                     "type": "float",
-                    "name": "p5"
+                    "name": "speedMultiplier"
                 }
             ],
             "return_type": "void",
@@ -127903,15 +127942,15 @@
             "apiset": ""
         },
         "0x51C7694E140FAE43": {
-            "name": "_0x51C7694E140FAE43",
-            "comment": "",
+            "name": "_IS_VEHICLE_COLLIDING_WITH_VEGETATION",
+            "comment": "true if the vehicle is colliding with vegetation/bushes, false if it is in the clear.",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -128019,16 +128058,16 @@
             "apiset": ""
         },
         "0x6835AFEA10E186F4": {
-            "name": "_0x6835AFEA10E186F4",
-            "comment": "",
+            "name": "_SET_OARS_ROWING_SPEED",
+            "comment": "3 speeds (1-3), higher it is faster it will be",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "speed"
                 }
             ],
             "return_type": "void",
@@ -128424,23 +128463,23 @@
             "apiset": ""
         },
         "0x877EA24EB1614495": {
-            "name": "_0x877EA24EB1614495",
-            "comment": "",
+            "name": "_DETERMINE_VEHICLE_COMPARTMENT_STATE",
+            "comment": " Determines the interaction/storage state of a vehicle rear compartment or storage area.\nReturns whether the query was successful and writes a state value to outState\nObserved states:\n* 1  = Compartment available / unopened\n* 57 = Vehicle has no valid compartment/storage\n* 72 = Compartment opened, resolved or depleted",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Any*",
+                    "name": "outState"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 },
                 {
-                    "type": "Any",
-                    "name": "p2"
+                    "type": "Ped",
+                    "name": "ped"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1207",
             "examples": [],
             "apiset": ""
@@ -128554,12 +128593,12 @@
             "apiset": ""
         },
         "0x9D12796EF4BF9EA9": {
-            "name": "_0x9D12796EF4BF9EA9",
-            "comment": "",
+            "name": "_BREAK_OFF_VEHICLE_PADLOCK",
+            "comment": "Breaks off the padlock of a vehicle if the vehicle contains the closed compartment to be looted",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 }
             ],
             "return_type": "void",
@@ -128586,16 +128625,16 @@
             "apiset": ""
         },
         "0xA13028E22564A1BD": {
-            "name": "_0xA13028E22564A1BD",
-            "comment": "",
+            "name": "_SET_VEHICLE_STOP_DISTANCE",
+            "comment": "Sets the stop distance of a vehicle when there something in it's way that forces it to stop or sets the view distance of the vehicle making it stop at a distance",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "float",
+                    "name": "distance"
                 }
             ],
             "return_type": "void",
@@ -128704,8 +128743,8 @@
             "apiset": ""
         },
         "0xB42C87521D1BDD2F": {
-            "name": "_0xB42C87521D1BDD2F",
-            "comment": "",
+            "name": "_SET_BALLOON_FACE_DIRECTION_THIS_FRAME",
+            "comment": "Makes the balloon face the specified direction to fly towards it must be called every frame until it reaches destination",
             "params": [
                 {
                     "type": "Vehicle",
@@ -129307,8 +129346,8 @@
             "apiset": ""
         },
         "0xE6BD7DD3FD474415": {
-            "name": "_0xE6BD7DD3FD474415",
-            "comment": "",
+            "name": "_SET_TRAIN_COLLISION_AVOIDANCE_ENABLED",
+            "comment": "Enables or disables collision avoidance behavior for AI-controlled trains.\n\nWhen enabled, the train will automatically stop if an obstacle or possible\ncollision is detected ahead on the track. When disabled, the train will\ncontinue moving without reacting to obstacles",
             "params": [
                 {
                     "type": "Vehicle",
@@ -129316,7 +129355,7 @@
                 },
                 {
                     "type": "BOOL",
-                    "name": "p1"
+                    "name": "enabled"
                 }
             ],
             "return_type": "void",
@@ -129371,8 +129410,8 @@
             "apiset": ""
         },
         "0xF05DFAF1ADFEF2CD": {
-            "name": "_0xF05DFAF1ADFEF2CD",
-            "comment": "_IS_* (related to CREATE_MISSION_TRAIN)",
+            "name": "_IS_SPAWN_POSITION_VALID_FOR_TRAIN",
+            "comment": "Return true if the specified train can be spawned at the location (automatically snap to the nearest track from coords) with the direction.",
             "params": [
                 {
                     "type": "Hash",
@@ -129445,12 +129484,12 @@
             "apiset": ""
         },
         "0xF6E3D38869D0F7AD": {
-            "name": "_0xF6E3D38869D0F7AD",
-            "comment": "",
+            "name": "_SET_VEHICLE_COMPARTMENT_DOOR_OPEN",
+            "comment": "Opens the compartment door of a vehicle if it has one, dropping the tailgate, opening a built-in lockbox, or revealing a hidden smuggler compartment",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Vehicle",
+                    "name": "vehicle"
                 }
             ],
             "return_type": "void",
@@ -131000,7 +131039,7 @@
             "apiset": ""
         },
         "0x0DED260A1958A82E": {
-            "name": "_0x0DED260A1958A82E",
+            "name": "_NETWORK_AM_I_MUTED_BY_PLAYER",
             "comment": "",
             "params": [
                 {
@@ -131194,7 +131233,7 @@
             "apiset": ""
         },
         "0xAA35FD9ABAB490A3": {
-            "name": "_0xAA35FD9ABAB490A3",
+            "name": "_NETWORK_PLAYER_HAS_HEADSET",
             "comment": "",
             "params": [
                 {
@@ -131296,7 +131335,7 @@
             "apiset": ""
         },
         "0xEF6F2A35FAAF2ED7": {
-            "name": "_0xEF6F2A35FAAF2ED7",
+            "name": "_NETWORK_IS_PLAYER_TALKING",
             "comment": "",
             "params": [
                 {
@@ -135225,37 +135264,42 @@
             "apiset": "client"
         },
         "0x4823F13A21F51964": {
-            "name": "_0x4823F13A21F51964",
-            "comment": "",
+            "name": "_GET_PED_WEAPON_AMMO_FROM_GUID",
+            "comment": "returns the full amount of ammo that the ped has for the weapon by guid",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "Any*",
+                    "name": "itemGuid"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "int",
             "build": "1207",
-            "examples": [],
+            "examples": [
+                {
+                    "lang": "lua",
+                    "code": "local function inventoryGetGuidFromItemid(item, pGuid, slotId)\n    local outGuid = DataView.ArrayBuffer(8 * 13)\n    local result = Citizen.InvokeNative(0x886DFD3E185C8A89, 1, pGuid, item, slotId, outGuid:Buffer(), Citizen.ResultAsInteger());\n    if result ~= 1 then return nil end\n    return outGuid:Buffer();\nend\n\nRegisterCommand(\"getammo\", function()\n    local characterGuid = inventoryGetGuidFromItemid(`CHARACTER`, 0, `SLOTID_NONE`)\n    if not characterGuid then return end\n\n    local weaponGuid = inventoryGetGuidFromItemid(`CARRIED_WEAPONS`, characterGuid, `SLOTID_CARRIED_WEAPONS`)\n    if not weaponGuid then return end\n\n    local itemGuid = inventoryGetGuidFromItemid(`WEAPON_SNIPERRIFLE_CARCANO`, weaponGuid, `SLOTID_WEAPON_0`)\n    if not itemGuid then return end\n\n    local ammo = Citizen.InvokeNative(0x4823F13A21F51964, PlayerPedId(), itemGuid)\n    print(\"ammo: \" .. ammo)\nend, false)"
+                }
+            ],
             "apiset": ""
         },
         "0x486C96A0DCD2BC92": {
-            "name": "_0x486C96A0DCD2BC92",
-            "comment": "",
+            "name": "_IS_PED_CARRYING_BACKUP_WEAPON",
+            "comment": "true if there is a back up ped weapon get it using GET_PED_BACKUP_WEAPON",
             "params": [
                 {
-                    "type": "Any",
-                    "name": "p0"
+                    "type": "Ped",
+                    "name": "ped"
                 },
                 {
-                    "type": "Any",
-                    "name": "p1"
+                    "type": "int",
+                    "name": "attachPoint"
                 }
             ],
-            "return_type": "Any",
+            "return_type": "BOOL",
             "build": "1232",
             "examples": [],
             "apiset": ""
