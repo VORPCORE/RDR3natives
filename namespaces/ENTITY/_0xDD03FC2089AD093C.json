@@ -1,11 +1,11 @@
 {
     "0xDD03FC2089AD093C": {
-        "name": "_SET_PELT_TEXTURE",
-        "comment": "Set the pelt texture to the object, by albedo hash and inventory item hash\nExamples: object: P_CS_PELT_MEDLARGE  albedo: a_c_boar_01_head_000_c0_000_ab, inventoryItem: PROVISION_BOAR_HIDE_POOR",
+        "name": "_SET_ENTITY_PELT_TEXTURE",
+        "comment": "Set the pelt texture to the entity, by albedo hash and inventory item hash\nExamples: object: P_CS_PELT_MEDLARGE  albedo: a_c_boar_01_head_000_c0_000_ab, inventoryItem: PROVISION_BOAR_HIDE_POOR",
         "params": [
             {
-                "type": "Object",
-                "name": "object"
+                "type": "Entity",
+                "name": "entity"
             },
             {
                 "type": "Hash",

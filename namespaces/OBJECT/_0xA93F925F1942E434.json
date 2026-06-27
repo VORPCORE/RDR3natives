@@ -1,15 +1,15 @@
 {
     "0xA93F925F1942E434": {
-        "name": "_0xA93F925F1942E434",
-        "comment": "",
+        "name": "_SET_DOOR_KNOCKING_WHEN_LOCKED",
+        "comment": "Changes the interaction behavior for a locked door.\nNormally, when interacting with a locked door, the character tries the handle. When this native is enabled, that behavior is replaced with a knocking/tapping interaction for the specified door.\nWith toggle enabled:\n- pressing the interact button on a locked door makes the character knock/tap on the door instead of trying the handle\n- this does not unlock the door\n- if the door is in a breakable/force-open state, it may still be opened by physically forcing it (e.g. sprinting into it), but normal interaction still uses the knocking behavior",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "doorHash"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "enable"
             }
         ],
         "return_type": "void",

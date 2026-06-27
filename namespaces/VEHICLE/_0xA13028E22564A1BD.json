@@ -1,15 +1,15 @@
 {
     "0xA13028E22564A1BD": {
-        "name": "_0xA13028E22564A1BD",
-        "comment": "",
+        "name": "_SET_VEHICLE_STOP_DISTANCE",
+        "comment": "Sets the stop distance of a vehicle when there something in it's way that forces it to stop or sets the view distance of the vehicle making it stop at a distance",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Vehicle",
+                "name": "vehicle"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "distance"
             }
         ],
         "return_type": "void",

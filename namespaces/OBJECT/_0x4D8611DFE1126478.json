@@ -1,14 +1,14 @@
 {
     "0x4D8611DFE1126478": {
-        "name": "_0x4D8611DFE1126478",
-        "comment": "",
+        "name": "_GET_DOOR_KNOCKING_WHEN_LOCKED",
+        "comment": "Checks whether the specified door has the \"knocking when locked\" interaction enabled",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "doorHash"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

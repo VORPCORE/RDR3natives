@@ -1,7 +1,7 @@
 {
     "0xC0EDEF16D90661EE": {
-        "name": "_0xC0EDEF16D90661EE",
-        "comment": "SET_ENTITY_A*",
+        "name": "_SET_ENTITY_FLAME_INTENSITY",
+        "comment": "Sets the intensity of the flames for a torch",
         "params": [
             {
                 "type": "Entity",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "float",
-                "name": "p1"
+                "name": "intensity"
             }
         ],
         "return_type": "void",

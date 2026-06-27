@@ -1,14 +1,14 @@
 {
     "0xAF72EC7E1B54539B": {
-        "name": "_0xAF72EC7E1B54539B",
-        "comment": "",
+        "name": "_GET_LAST_ENTITY_TO_DAMAGE_ENTITY",
+        "comment": "Returns the last entity that dealt any damage to the specified entity.\nThis native appears to retrieve the attacker responsible for the most recent damage event on the given entity.",
         "params": [
             {
                 "type": "Entity",
                 "name": "entity"
             }
         ],
-        "return_type": "Entity",
+        "return_type": "int",
         "build": "1311",
         "examples": [],
         "apiset": ""

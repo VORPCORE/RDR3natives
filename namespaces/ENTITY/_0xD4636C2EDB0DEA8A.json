@@ -1,14 +1,14 @@
 {
     "0xD4636C2EDB0DEA8A": {
-        "name": "_0xD4636C2EDB0DEA8A",
-        "comment": "",
+        "name": "_IS_MODEL_IN_NEED_OF_VEG_MODIFIER",
+        "comment": "Checks whether the specified model can be handled through the vegetation modifier path.\nThis is not limited strictly to foliage. Testing shows many natural world\nmodels can return TRUE, including rocks, trees, bushes, grass, crops, branches, roots, logs, debris, and similar environment assets.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "modelHash"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

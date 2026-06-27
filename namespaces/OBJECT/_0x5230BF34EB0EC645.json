@@ -1,11 +1,11 @@
 {
     "0x5230BF34EB0EC645": {
-        "name": "_0x5230BF34EB0EC645",
-        "comment": "",
+        "name": "_DOOR_SYSTEM_CLEAR_FORCED_OPEN_PLAYER",
+        "comment": "Clears the stored player ID for a door that was force-opened via physical interaction\n(e.g. kick or shoulder bash).\nThis resets the value returned by:_DOOR_SYSTEM_GET_FORCED_OPEN_PLAYER",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "doorHash"
             }
         ],
         "return_type": "void",

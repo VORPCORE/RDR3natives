@@ -1,11 +1,11 @@
 {
     "0x37CEB637BA3B1A47": {
-        "name": "_0x37CEB637BA3B1A47",
-        "comment": "",
+        "name": "_DISABLE_STAIRS_STEP_FOR_VOLUME",
+        "comment": "Disables stair stepping behavior within the specified volume.\nWhen active, entities (typically peds/players) can still move up stairs, but their stepping animation and foot placement become irregular, causing them to skip steps or slide slightly instead of properly stepping each stair.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "int",
+                "name": "volumeId"
             }
         ],
         "return_type": "void",

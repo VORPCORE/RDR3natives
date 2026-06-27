@@ -1,7 +1,7 @@
 {
     "0x6098139150DCC745": {
-        "name": "_0x6098139150DCC745",
-        "comment": "",
+        "name": "_INVERSE_KINEMATICS_IS_ACTIVE",
+        "comment": "Get the ped ik activity state.",
         "params": [
             {
                 "type": "Ped",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "int",
-                "name": "p1"
+                "name": "ik"
             }
         ],
         "return_type": "BOOL",

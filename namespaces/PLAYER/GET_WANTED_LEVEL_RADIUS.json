@@ -1,11 +1,11 @@
 {
     "0x80B00EB26D9521C7": {
         "name": "GET_WANTED_LEVEL_RADIUS",
-        "comment": "",
+        "comment": "level 0 60.0 level 1 75.0 level 2 90.0 max level is 5 200.0 radius",
         "params": [
             {
                 "type": "int",
-                "name": "p0"
+                "name": "wantedLevel"
             }
         ],
         "return_type": "float",

@@ -1,31 +1,31 @@
 {
     "0xBD94CECFB2D65119": {
-        "name": "_0xBD94CECFB2D65119",
-        "comment": "",
+        "name": "_SET_AUTO_PICKUP",
+        "comment": "Configures automatic pickup behavior for a carriable entity.\nThis native is typically used after TASK_CARRIABLE and enables auto-pickup functionality with configurable parameters such as pickup animation behavior, pickup range, and pickup prompt state",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "noPickupAnim"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "range"
             },
             {
-                "type": "Any",
+                "type": "float",
                 "name": "p3"
             },
             {
-                "type": "Any",
+                "type": "float",
                 "name": "p4"
             },
             {
-                "type": "Any",
-                "name": "p5"
+                "type": "BOOL",
+                "name": "enablePickupPrompt"
             }
         ],
         "return_type": "void",

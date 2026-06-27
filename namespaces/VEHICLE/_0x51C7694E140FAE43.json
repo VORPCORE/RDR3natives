@@ -1,14 +1,14 @@
 {
     "0x51C7694E140FAE43": {
-        "name": "_0x51C7694E140FAE43",
-        "comment": "",
+        "name": "_IS_VEHICLE_COLLIDING_WITH_VEGETATION",
+        "comment": "true if the vehicle is colliding with vegetation/bushes, false if it is in the clear.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Vehicle",
+                "name": "vehicle"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

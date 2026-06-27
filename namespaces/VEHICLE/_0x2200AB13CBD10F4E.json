@@ -1,7 +1,7 @@
 {
     "0x2200AB13CBD10F4E": {
-        "name": "_0x2200AB13CBD10F4E",
-        "comment": "",
+        "name": "_SET_BALLOON_ROUTE",
+        "comment": "Makes the balloon go to the specified coordinates must be called every frame until it reaches destination if autoDrive is false,other wise player must drive it manually",
         "params": [
             {
                 "type": "Vehicle",
@@ -21,11 +21,11 @@
             },
             {
                 "type": "BOOL",
-                "name": "p4"
+                "name": "autoDrive"
             },
             {
                 "type": "float",
-                "name": "p5"
+                "name": "speedMultiplier"
             }
         ],
         "return_type": "void",

@@ -1,7 +1,7 @@
 {
     "0x02FF4CF43B7209D1": {
         "name": "SET_BLIP_FLASH_TIMER",
-        "comment": "",
+        "comment": "_SET_BLIP_MAP_CARD_INFO this should be the name there is no flash timer for blips\nblipType can be any number, but you can use blipTypes\nmapCardId joaat(\"SHOP_MOONSHINE_STILL\") possibly to get the card info by this hash",
         "params": [
             {
                 "type": "Blip",
@@ -13,7 +13,7 @@
             },
             {
                 "type": "Hash",
-                "name": "blipHash"
+                "name": "mapCardId"
             }
         ],
         "return_type": "void",

@@ -1,15 +1,15 @@
 {
     "0xE157A8A336C7F04A": {
-        "name": "_0xE157A8A336C7F04A",
-        "comment": "",
+        "name": "_SET_OBJECT_CAN_BE_TAGGED",
+        "comment": "Sets if the object can be tagged while using Dead Eye",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Object",
+                "name": "object"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "canBeTagged"
             }
         ],
         "return_type": "void",

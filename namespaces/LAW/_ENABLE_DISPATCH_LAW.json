@@ -1,7 +1,7 @@
 {
     "0xC805EB785824F712": {
         "name": "_ENABLE_DISPATCH_LAW",
-        "comment": "",
+        "comment": "despite their names this doesn't disable the dispatch system. if you shoot a lawman when is disabled, the dispatch is still enabled because the law will  come after you.\nthis seems to disable/enable the create witnesses, if disabled it you can shoot npcs and they wont witness anything or report\nEnableDispatchLaw_2 called toghether",
         "params": [
             {
                 "type": "BOOL",

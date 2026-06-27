@@ -1,7 +1,7 @@
 {
     "0xA48E4801DEBDF7E4": {
-        "name": "_0xA48E4801DEBDF7E4",
-        "comment": "",
+        "name": "_SET_CARRIABLE_PICKUP_LIGHT",
+        "comment": "Enables or disables the pickup light effect for carriable/interactable entities\nThis native specifically works on entities that are carriable and can be interacted with (e.g. after TASK::_MAKE_OBJECT_CARRIABLE).\n- Unlike SET_PICKUP_LIGHT, this does NOT apply a generic light effect to all objects.\n  Instead, it only highlights entities that the player can interact with (pickup context)",
         "params": [
             {
                 "type": "Entity",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "BOOL",
-                "name": "p1"
+                "name": "enabled"
             }
         ],
         "return_type": "void",

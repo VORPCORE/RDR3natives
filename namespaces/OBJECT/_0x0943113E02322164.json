@@ -1,7 +1,7 @@
 {
     "0x0943113E02322164": {
-        "name": "_0x0943113E02322164",
-        "comment": "Params: p1 = 23 in R* Scripts",
+        "name": "_CHECK_DOOR_ACTION_FLAG",
+        "comment": "Checks whether a specific door-related action/state flag is active for the given door object.\nObserved behavior:\n- flag 32: returns true when the door is being kicked (kick action event)\n- flag 23: returns true if the door has been previously opened by kicking (post-kick state)\n- flag 8:  returns true when attempting to open the door while it is locked",
         "params": [
             {
                 "type": "Object",

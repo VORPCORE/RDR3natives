@@ -1,14 +1,14 @@
 {
     "0x58DE624FA7FB0E7F": {
-        "name": "_0x58DE624FA7FB0E7F",
-        "comment": "",
+        "name": "_GET_OBJECT_FRAGMENT_COUNT",
+        "comment": "Returns the number of breakable fragments (indexed sections) defined for the specified object.\nThese fragments can be triggered individually using natives that target object fracture indices. eg: a box of bottles can have multiple fragments that can be broken individually.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Object",
+                "name": "object"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
         "apiset": ""

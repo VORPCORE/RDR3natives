@@ -1,7 +1,7 @@
 {
     "0x0DF2B55F717DDB10": {
         "name": "SET_BLIP_FLASHES",
-        "comment": "",
+        "comment": "_GET_BLIP_MAP_CARD_INFO this should be the name there is no flash timer for blips\n",
         "params": [
             {
                 "type": "Blip",
@@ -20,7 +20,12 @@
         "build": "1207",
         "gta_hash": "0xB14552383D39CE3E",
         "gta_jhash": "0xC0047F15",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "local blipType, mapCardId = Citizen.InvokeNative(0x0DF2B55F717DDB10, intParameter, Citizen.PointerValueInt(), Citizen.PointerValueInt())\n// will return whatever you passed in blipType as long is an int"
+            }
+        ],
         "apiset": ""
     }
 }

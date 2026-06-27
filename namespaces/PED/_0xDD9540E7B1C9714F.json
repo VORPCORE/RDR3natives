@@ -1,7 +1,7 @@
 {
     "0xDD9540E7B1C9714F": {
-        "name": "_0xDD9540E7B1C9714F",
-        "comment": "",
+        "name": "_SET_PED_TORCH_VFX_COLOR",
+        "comment": "The native WILL NOT WORK if the specific component containing the VFX node is not equipped on the ped (e.g., the torch outfit -368114487 must be equipped first via _EQUIP_META_PED_OUTFIT).\nIt only colors the smoke/volumetrics, leaving the core fire sprites untouched.\nValues greater than 1.0f are clamped to 1.0f by the engine. To achieve specific RGB shades, you MUST normalize 0-255 values by dividing them by 255.0f (e.g., 128 becomes 0.5f)",
         "params": [
             {
                 "type": "Ped",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "Hash",
-                "name": "p1"
+                "name": "vfxNodeHash"
             },
             {
                 "type": "float",
@@ -26,7 +26,12 @@
         ],
         "return_type": "void",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "RegisterCommand(\"testcolor\", function()\n  \n        local playerPed = PlayerPedId()\n        local horse = GetMount(playerPed)\n\n        if  horse ~= 0 then\n            local outfitHash = -368114487\n            Citizen.InvokeNative(0x1902C4CFCC5BE57C, horse, outfitHash)\n            Citizen.InvokeNative(0x704C908E9C405136, horse)\n\n            Wait(500)\n\n            local componentHash = -929362906\n            local r, g, b = 1.0, 0.0, 0.0\n\n            Citizen.InvokeNative(0xDD9540E7B1C9714F, horse, componentHash, r, g, b)\n        end\nend, false)"
+            }
+        ],
         "apiset": ""
     }
 }

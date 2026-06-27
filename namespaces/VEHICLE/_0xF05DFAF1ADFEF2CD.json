@@ -1,7 +1,7 @@
 {
     "0xF05DFAF1ADFEF2CD": {
-        "name": "_0xF05DFAF1ADFEF2CD",
-        "comment": "_IS_* (related to CREATE_MISSION_TRAIN)",
+        "name": "_IS_SPAWN_POSITION_VALID_FOR_TRAIN",
+        "comment": "Return true if the specified train can be spawned at the location (automatically snap to the nearest track from coords) with the direction.",
         "params": [
             {
                 "type": "Hash",

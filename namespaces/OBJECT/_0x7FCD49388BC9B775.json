@@ -1,15 +1,15 @@
 {
     "0x7FCD49388BC9B775": {
-        "name": "_0x7FCD49388BC9B775",
-        "comment": "",
+        "name": "_SET_OBJECT_LANTERN_DISABLE_LIGHT",
+        "comment": "Primarily used on lantern weapon entities after they have been dropped.\nThis native does NOT affect lanterns while they are being held by a ped",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Object",
+                "name": "object"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "disable"
             }
         ],
         "return_type": "void",

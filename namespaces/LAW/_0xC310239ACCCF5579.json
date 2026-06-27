@@ -1,7 +1,7 @@
 {
     "0xC310239ACCCF5579": {
-        "name": "_0xC310239ACCCF5579",
-        "comment": "",
+        "name": "_FORCE_LAW_SEARCH_THIS_FRAME",
+        "comment": "forces law to search player must be called every frame",
         "params": [],
         "return_type": "void",
         "build": "1207",

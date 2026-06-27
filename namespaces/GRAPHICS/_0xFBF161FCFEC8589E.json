@@ -1,28 +1,33 @@
 {
     "0xFBF161FCFEC8589E": {
-        "name": "_0xFBF161FCFEC8589E",
-        "comment": "ANIMPOSTFX_*",
+        "name": "_ANIMPOSTFX_HAS_EVENT_TRIGGERED",
+        "comment": "Return true if the event have just been triggered. Literaly the same system of ANIMPOSTFX_HAS_EVENT_TRIGGERED_BY_STACKHASH, but works with a string.",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "effectName"
             },
             {
                 "type": "int",
-                "name": "p1"
+                "name": "eventType"
             },
             {
                 "type": "BOOL",
-                "name": "p2"
+                "name": "peekOnly"
             },
             {
                 "type": "BOOL*",
-                "name": "p3"
+                "name": "isRegistered"
             }
         ],
         "return_type": "BOOL",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "CreateThread(function()\n    AnimpostfxPlay(\"ChapterTitle_IntroCh01\")\n    while true do\n        local hasEventTriggered1, isRegistered1 = AnimpostfxHasEventTriggered(\"ChapterTitle_IntroCh01\", 1, false)\n        local hasEventTriggered2, isRegistered2 = AnimpostfxHasEventTriggered(\"ChapterTitle_IntroCh01\", 2, false)\n        if (hasEventTriggered1) then\n            print(\"AnimpostfxHasEventTriggered('ChapterTitle_IntroCh01', 1, false)\", hasEventTriggered1)\n        end\n        if (hasEventTriggered2) then\n            print(\"AnimpostfxHasEventTriggered('ChapterTitle_IntroCh01', 2, false)\", hasEventTriggered2)\n        end\n        Wait(0)\n    end\nend)"
+            }
+        ],
         "apiset": ""
     }
 }

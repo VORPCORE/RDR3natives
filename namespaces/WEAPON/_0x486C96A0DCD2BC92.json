@@ -1,18 +1,18 @@
 {
     "0x486C96A0DCD2BC92": {
-        "name": "_0x486C96A0DCD2BC92",
-        "comment": "",
+        "name": "_IS_PED_CARRYING_BACKUP_WEAPON",
+        "comment": "true if there is a back up ped weapon get it using GET_PED_BACKUP_WEAPON",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "int",
+                "name": "attachPoint"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1232",
         "examples": [],
         "apiset": ""

@@ -1,7 +1,7 @@
 {
     "0x06A09A6E0C6D2A84": {
-        "name": "_0x06A09A6E0C6D2A84",
-        "comment": "_SET_TRAIN_*",
+        "name": "_SET_TRAIN_ENABLE_REVERSING",
+        "comment": "true to enable train reversing moving backwards, false to not allow reversing",
         "params": [
             {
                 "type": "Vehicle",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "BOOL",
-                "name": "p1"
+                "name": "enabled"
             }
         ],
         "return_type": "void",

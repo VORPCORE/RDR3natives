@@ -1,7 +1,7 @@
 {
     "0xC48AF420371C7407": {
-        "name": "_0xC48AF420371C7407",
-        "comment": "_SET_PED_M*",
+        "name": "_SET_PED_NEXT_MELEE_ATTACK",
+        "comment": "Sets the next melee attack of a ped eg AR_ATTACK_HAYMAKER_TO_HEAD_RIGHT_HAND_DIST_MED_V01 AR_GRAPPLE_MOUNT_FACEDOWN_FROM_FRONT",
         "params": [
             {
                 "type": "Ped",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "Hash",
-                "name": "grapple"
+                "name": "actionHash"
             }
         ],
         "return_type": "Any",

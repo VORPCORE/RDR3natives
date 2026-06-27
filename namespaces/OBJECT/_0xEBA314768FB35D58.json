@@ -1,14 +1,14 @@
 {
     "0xEBA314768FB35D58": {
-        "name": "_0xEBA314768FB35D58",
-        "comment": "",
+        "name": "_DOOR_SYSTEM_GET_FORCED_OPEN_PLAYER",
+        "comment": "Returns the player who forced the specified door open using physical interaction\n(e.g. kicking or shoulder bashing).\nIf a player breaks or forces the door open, this native returns the Player ID directly.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "doorHash"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1207",
         "examples": [],
         "apiset": ""

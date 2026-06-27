@@ -1,27 +1,27 @@
 {
     "0x16908E859C3AB698": {
-        "name": "_0x16908E859C3AB698",
-        "comment": "",
+        "name": "_SET_ENTITY_ATTACHED_OFFSET",
+        "comment": "Applies and updates the positional offset of an entity relative to the entity it is attached to, while also controlling whether the offset is interpreted horizontally or vertically\nThis native is typically used after ATTACH_ENTITY_TO_ENTITY ",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "horizontalMode"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "offsetX"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "offsetY"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "float",
+                "name": "offsetZ"
             }
         ],
         "return_type": "void",

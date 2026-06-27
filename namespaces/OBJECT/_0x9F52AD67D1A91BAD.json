@@ -1,18 +1,18 @@
 {
     "0x9F52AD67D1A91BAD": {
-        "name": "_0x9F52AD67D1A91BAD",
+        "name": "_IS_PICKUP_PICKABLE_FOR_TEAM",
         "comment": "",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Object",
+                "name": "pickupObject"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "int",
+                "name": "teamId"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

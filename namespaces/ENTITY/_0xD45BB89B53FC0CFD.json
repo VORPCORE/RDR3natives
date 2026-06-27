@@ -1,38 +1,38 @@
 {
     "0xD45BB89B53FC0CFD": {
-        "name": "_0xD45BB89B53FC0CFD",
-        "comment": "",
+        "name": "_SET_ENTITY_ROTATION_PARALLEL_TO_LINE",
+        "comment": "Sets the entity's rotation so that it becomes parallel to the direction defined by the line between coords1 and coords2, without moving the entity from its current position.\n\nThis native does NOT make the entity face coords1 or coords2. Instead, it keeps the entity at its current world position and adjusts its orientation so that it is aligned parallel to the direction derived from the two coordinates",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "coords1X"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "coords1Y"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "coords1Z"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "float",
+                "name": "coords2X"
             },
             {
-                "type": "Any",
-                "name": "p5"
+                "type": "float",
+                "name": "coords2Y"
             },
             {
-                "type": "Any",
-                "name": "p6"
+                "type": "float",
+                "name": "coords2Z"
             },
             {
-                "type": "Any",
+                "type": "int",
                 "name": "p7"
             }
         ],

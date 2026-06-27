@@ -1,7 +1,7 @@
 {
     "0x900CA00CE703E1E2": {
-        "name": "_0x900CA00CE703E1E2",
-        "comment": "Used in Script Function AGGRO_SHOULD_PED_HEAR_DEATH\n_GET_PED_*",
+        "name": "_GET_PED_HEARING_RANGE",
+        "comment": "Returns the hearing range of a ped. To use with SET_PED_HEARING_RANGE",
         "params": [
             {
                 "type": "Ped",

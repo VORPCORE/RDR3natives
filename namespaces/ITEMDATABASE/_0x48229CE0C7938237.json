@@ -1,7 +1,7 @@
 {
     "0x48229CE0C7938237": {
-        "name": "_0x48229CE0C7938237",
-        "comment": "_ITEMDATABASE_GET_(A)* - _ITEMDATABASE_GET_(B)*",
+        "name": "_ITEMDATABASE_GET_AWARD_UNLOCK_FLAG_COUNT",
+        "comment": "hash eg: AWARD_DEBUG_HIDE_LEGENDARY_BOUNTY_00",
         "params": [
             {
                 "type": "Hash",

@@ -1,15 +1,15 @@
 {
     "0xC07B91B996C1DE89": {
-        "name": "_0xC07B91B996C1DE89",
-        "comment": "",
+        "name": "_SET_DOOR_ENABLE_KICK_PROMPT",
+        "comment": "Enables the kick prompt for a door",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "doorHash"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "enable"
             }
         ],
         "return_type": "void",

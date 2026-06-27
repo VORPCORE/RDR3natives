@@ -1,7 +1,7 @@
 {
     "0xEBDC12861D079ABA": {
         "name": "_SET_ENTITY_LIGHTS_ENABLED",
-        "comment": "",
+        "comment": "Forces entity lights to stay enabled regardless of environmental conditions (day/night cycle)\nThis native overrides the default behavior where lights typically only activate at night\ntrue  = lights are always enabled (day and night)\nfalse = original behavior is restored",
         "params": [
             {
                 "type": "Entity",

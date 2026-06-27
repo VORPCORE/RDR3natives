@@ -1,7 +1,7 @@
 {
     "0x83FCD6921FC8FD05": {
-        "name": "_SET_DEADEYE_TAGGING_CONFIG",
-        "comment": "",
+        "name": "_SET_PLAYER_DEADEYE_TAGGING_CONFIG",
+        "comment": "old name _SET_DEADEYE_TAGGING_CONFIG \nFILTER_RESTRICTED = 6, Dead Eye Tagging is currently restricted to AI and Animals only...\nFILTER_UNRESTRICTED = 7, Dead Eye Tagging is enabled and not restricted...",
         "params": [
             {
                 "type": "Player",

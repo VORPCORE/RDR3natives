@@ -1,15 +1,15 @@
 {
     "0xAAACF33CBF9B990A": {
-        "name": "_0xAAACF33CBF9B990A",
-        "comment": "",
+        "name": "_DAMAGE_OBJECT_FRAGMENT_BY_INDEX",
+        "comment": "Damages or breaks a specific predefined fragment/section of an object using the provided fragment index.\nUnlike generic damage systems, this native appears to directly target one of the object's internal fracture sections. The index parameter determines which part of the object is damaged or broken.\nDifferent index values cause different fragments of the object to detach or break.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Object",
+                "name": "object"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "int",
+                "name": "fragmentIndex"
             }
         ],
         "return_type": "void",

@@ -1,7 +1,7 @@
 {
     "0x8D029948CA29409B": {
-        "name": "_0x8D029948CA29409B",
-        "comment": "_ITEMDATABASE_FILLOUT_(A)* - _ITEMDATABASE_FILLOUT_(B)*",
+        "name": "_ITEMDATABASE_FILLOUT_AWARD_UNLOCK_FLAG",
+        "comment": "",
         "params": [
             {
                 "type": "Hash",

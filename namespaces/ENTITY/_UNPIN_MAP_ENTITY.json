@@ -4,8 +4,8 @@
         "comment": "",
         "params": [
             {
-                "type": "Entity",
-                "name": "entity"
+                "type": "int",
+                "name": "pinId"
             }
         ],
         "return_type": "void",

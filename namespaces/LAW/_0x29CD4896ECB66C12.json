@@ -1,7 +1,7 @@
 {
     "0x29CD4896ECB66C12": {
-        "name": "_0x29CD4896ECB66C12",
-        "comment": "",
+        "name": "_STOP_LAW_SEARCH",
+        "comment": "stops law from searching player",
         "params": [],
         "return_type": "void",
         "build": "1207",

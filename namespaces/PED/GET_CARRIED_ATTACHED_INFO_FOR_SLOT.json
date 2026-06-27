@@ -1,6 +1,6 @@
     {
         "0x608BC6A6AACD5036": {
-            "name": "GET_CARRIED_ATTACHED_INFO_FOR_SLOT",
+            "name": "_GET_CARRIED_ATTACHED_INFO_FOR_SLOT",
             "comment": "Outputs carriable infos for selected ped carriable slot.\n\nParameters:\n- outData: Any* — A structure of 4 explained below\n- ped: Ped to check\n- carriableSlot: int See TASK_CARRIABLE for available slots\n- p3: int always 0 in R* scripts",
             "params": [
                 {

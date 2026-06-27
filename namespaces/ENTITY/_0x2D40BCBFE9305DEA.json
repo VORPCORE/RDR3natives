@@ -1,15 +1,15 @@
 {
     "0x2D40BCBFE9305DEA": {
-        "name": "_0x2D40BCBFE9305DEA",
-        "comment": "",
+        "name": "_SET_ENTITY_LIGHTS_DISABLED",
+        "comment": "Controls a forced \"lights off\" state for entities that have built-in light sources.\nThis native does not enable lights, instead it overrides the light state by forcing them off.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "BOOL",
+                "name": "disabled"
             }
         ],
         "return_type": "void",

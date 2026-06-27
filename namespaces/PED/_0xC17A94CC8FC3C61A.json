@@ -1,7 +1,7 @@
 {
     "0xC17A94CC8FC3C61A": {
-        "name": "_0xC17A94CC8FC3C61A",
-        "comment": "_SET_PED_P* - _SET_PED_R*",
+        "name": "_SET_PED_RAGDOLL_BONE_SCALE",
+        "comment": "seems to modify the size/scale of the collision capsule (hitbox) for a specific ped bone",
         "params": [
             {
                 "type": "Entity",

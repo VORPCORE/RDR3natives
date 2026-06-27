@@ -1,24 +1,29 @@
 {
     "0x3A0B667ABFF87F6E": {
-        "name": "_0x3A0B667ABFF87F6E",
-        "comment": "",
+        "name": "_ITEMDATABASE_GET_BUNDLE_ACQUIRE_COST",
+        "comment": "eg: BUNDLE_CLOTHING_ITEM_F_OFFHAND_000_TINT_001 index: To use with 0x7A35A72A692BE9DB",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "bundle"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "int",
+                "name": "index"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "Any*",
+                "name": "outData"
             }
         ],
         "return_type": "BOOL",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "struct outData {\n  Hash cost;\n  Any unk1; // Maybe bool, int otherwise\n  Hash costType;\n  int numCosts;\n  int unk2;\n  Any* costs; // Array of costs\n};\n\nstruct Cost {\n  Hash currency;\n  int amount;\n};"
+            }
+        ],
         "apiset": ""
     }
 }

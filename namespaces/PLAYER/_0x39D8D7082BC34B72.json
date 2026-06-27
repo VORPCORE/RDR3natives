@@ -1,11 +1,15 @@
 {
     "0x39D8D7082BC34B72": {
-        "name": "_0x39D8D7082BC34B72",
-        "comment": "",
+        "name": "_SET_PLAYER_WANTED_COOLDOWN",
+        "comment": "sets the player evasion cooldown timer 10000 short 35000 long",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Player",
+                "name": "player"
+            },
+            {
+                "type": "int",
+                "name": "cooldown"
             }
         ],
         "return_type": "void",

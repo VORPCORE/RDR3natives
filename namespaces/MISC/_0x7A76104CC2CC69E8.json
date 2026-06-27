@@ -1,22 +1,22 @@
 {
     "0x7A76104CC2CC69E8": {
-        "name": "_0x7A76104CC2CC69E8",
-        "comment": "",
+        "name": "_HAS_BULLET_IMPACTED_ENTITY",
+        "comment": "returns true if a bullet impacted the entity",
         "params": [
             {
                 "type": "Entity",
                 "name": "entity"
             },
             {
-                "type": "int",
+                "type": "BOOL",
                 "name": "p1"
             },
             {
-                "type": "int",
+                "type": "BOOL",
                 "name": "p2"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

@@ -1,7 +1,7 @@
 {
     "0xE6BD7DD3FD474415": {
-        "name": "_0xE6BD7DD3FD474415",
-        "comment": "",
+        "name": "_SET_TRAIN_COLLISION_AVOIDANCE_ENABLED",
+        "comment": "Enables or disables collision avoidance behavior for AI-controlled trains.\n\nWhen enabled, the train will automatically stop if an obstacle or possible\ncollision is detected ahead on the track. When disabled, the train will\ncontinue moving without reacting to obstacles",
         "params": [
             {
                 "type": "Vehicle",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "BOOL",
-                "name": "p1"
+                "name": "enabled"
             }
         ],
         "return_type": "void",

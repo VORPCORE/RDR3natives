@@ -1,11 +1,11 @@
 {
     "0xF6E3D38869D0F7AD": {
-        "name": "_0xF6E3D38869D0F7AD",
-        "comment": "",
+        "name": "_SET_VEHICLE_COMPARTMENT_DOOR_OPEN",
+        "comment": "Opens the compartment door of a vehicle if it has one, dropping the tailgate, opening a built-in lockbox, or revealing a hidden smuggler compartment",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Vehicle",
+                "name": "vehicle"
             }
         ],
         "return_type": "void",

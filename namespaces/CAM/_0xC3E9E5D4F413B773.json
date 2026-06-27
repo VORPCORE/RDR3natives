@@ -1,10 +1,10 @@
 {
     "0xC3E9E5D4F413B773": {
-        "name": "_0xC3E9E5D4F413B773",
+        "name": "_SHAKE_GAMEPLAY_CAM_WITH_NAME",
         "comment": "shakeName: REINFORCED_LASSO_STRUGGLE_SHAKE\n_RES*",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "shakeName"
             },
             {

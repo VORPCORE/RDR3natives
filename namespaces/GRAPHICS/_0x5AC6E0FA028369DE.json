@@ -1,7 +1,7 @@
 {
     "0x5AC6E0FA028369DE": {
-        "name": "_0x5AC6E0FA028369DE",
-        "comment": "Closes the the binocular scaleform",
+        "name": "_REMOVE_MASK_OVERLAY",
+        "comment": "Removes the mask overlay that was set with SET_MASK_OVERLAY",
         "params": [],
         "return_type": "void",
         "build": "1207",

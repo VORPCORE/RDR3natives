@@ -1,11 +1,11 @@
 {
     "0xEAB3D91D30A344F1": {
-        "name": "_0xEAB3D91D30A344F1",
-        "comment": "",
+        "name": "_ENABLE_STAIRS_STEP_FOR_VOLUME",
+        "comment": "Re-enables normal stair stepping behavior within the specified volume.\nThis restores proper step-by-step movement and foot placement for entities that was previously altered by _DISABLE_STAIRS_STEP_FOR_VOLUME",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "int",
+                "name": "volumeId"
             }
         ],
         "return_type": "void",

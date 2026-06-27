@@ -1,11 +1,11 @@
 {
     "0xCAC43D060099EA72": {
-        "name": "_0xCAC43D060099EA72",
-        "comment": "",
+        "name": "_HIDE_MOUNT_REINS",
+        "comment": "Hides the reins of the mount",
         "params": [
             {
                 "type": "Ped",
-                "name": "ped"
+                "name": "mount"
             }
         ],
         "return_type": "void",

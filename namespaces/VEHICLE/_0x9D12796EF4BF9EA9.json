@@ -1,11 +1,11 @@
 {
     "0x9D12796EF4BF9EA9": {
-        "name": "_0x9D12796EF4BF9EA9",
-        "comment": "",
+        "name": "_BREAK_OFF_VEHICLE_PADLOCK",
+        "comment": "Breaks off the padlock of a vehicle if the vehicle contains the closed compartment to be looted",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Vehicle",
+                "name": "vehicle"
             }
         ],
         "return_type": "void",

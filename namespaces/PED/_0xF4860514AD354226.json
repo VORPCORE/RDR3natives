@@ -1,7 +1,7 @@
 {
     "0xF4860514AD354226": {
-        "name": "_0xF4860514AD354226",
-        "comment": "Only used in SP Scripts\nReturns count / index\n_C*",
+        "name": "_COUNT_PEDS_AWARE_OF_EVENT",
+        "comment": "Only used in SP Scripts\ncounts how many peds that the ADD_SHOCKING_EVENT_FOR_ENTITY were add to based on position and radius, p0 is handleId from ADD_SHOCKING_EVENT_FOR_ENTITY\np3 is a collection of entities where max is 15 (in source code), its using itemSet to get them from a volume\nthis count seems to be used to add a task reactions etc to these peds",
         "params": [
             {
                 "type": "ScrHandle",
@@ -21,11 +21,11 @@
             },
             {
                 "type": "float",
-                "name": "p4"
+                "name": "radius"
             },
             {
                 "type": "int*",
-                "name": "p5"
+                "name": "entities"
             }
         ],
         "return_type": "int",

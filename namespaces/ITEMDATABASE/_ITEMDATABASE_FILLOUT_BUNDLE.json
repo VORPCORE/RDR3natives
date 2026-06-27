@@ -9,7 +9,7 @@
             },
             {
                 "type": "Hash",
-                "name": "costtype"
+                "name": "cost"
             },
             {
                 "type": "int",
@@ -22,7 +22,12 @@
         ],
         "return_type": "BOOL",
         "build": "1232",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "struct Cost {\n  Hash currency;\n  int amount;\n};"
+            }
+        ],
         "apiset": ""
     }
 }

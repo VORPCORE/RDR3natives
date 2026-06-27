@@ -1,15 +1,15 @@
 {
     "0xDFC2B226D56D85F6": {
-        "name": "_0xDFC2B226D56D85F6",
-        "comment": "",
+        "name": "_GET_ENTITY_COLLISION_INTENSITY",
+        "comment": "Returns a float that appears to represent the collision impact intensity between two entities.\n\nBased on observed usage, this value becomes large when entity1 hits entity2 with enough force. In the example below, if the returned value is greater than 500.0f, the first entity is moving, the second entity is nearly stationary, and the second entity is not already ragdolled, then SET_PED_TO_RAGDOLL is triggered.",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Entity",
+                "name": "entiy2"
             }
         ],
         "return_type": "float",

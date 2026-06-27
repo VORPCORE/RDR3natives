@@ -1,7 +1,7 @@
 {
     "0x9945A3E2528A02E8": {
-        "name": "_0x9945A3E2528A02E8",
-        "comment": "",
+        "name": "_HAS_PLAYER_BEEN_FOUND_BY_LAW_ACTIVE_SEARCH",
+        "comment": "returns true when law finds player after searching for player for the first time , false when player evades or dies.Note: must use SET_LAW_REGION for law to get aware of crimes.",
         "params": [
             {
                 "type": "Player",

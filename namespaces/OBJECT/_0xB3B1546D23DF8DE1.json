@@ -1,27 +1,27 @@
 {
     "0xB3B1546D23DF8DE1": {
-        "name": "_0xB3B1546D23DF8DE1",
-        "comment": "",
+        "name": "_DOOR_SYSTEM_SWING_OPEN",
+        "comment": "swing door open between 2 points\nRequires DOOR_SYSTEM_SET_DOOR_STATE(hash, 0) beforehand\n- If door is locked (state=1), the impulse is ignored",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "doorHash"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "float",
+                "name": "dirX"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "float",
+                "name": "dirY"
             },
             {
-                "type": "Any",
-                "name": "p3"
+                "type": "float",
+                "name": "dirZ"
             },
             {
-                "type": "Any",
-                "name": "p4"
+                "type": "BOOL",
+                "name": "reverse"
             }
         ],
         "return_type": "void",

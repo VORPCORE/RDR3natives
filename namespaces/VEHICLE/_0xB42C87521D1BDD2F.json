@@ -1,7 +1,7 @@
 {
     "0xB42C87521D1BDD2F": {
-        "name": "_0xB42C87521D1BDD2F",
-        "comment": "",
+        "name": "_SET_BALLOON_FACE_DIRECTION_THIS_FRAME",
+        "comment": "Makes the balloon face the specified direction to fly towards it must be called every frame until it reaches destination",
         "params": [
             {
                 "type": "Vehicle",

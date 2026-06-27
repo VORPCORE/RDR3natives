@@ -1,7 +1,7 @@
 {
     "0x0B9F7A01EC50448D": {
-        "name": "_0x0B9F7A01EC50448D",
-        "comment": "",
+        "name": "_INVERSE_KINEMATICS_POINT_AT",
+        "comment": "Make the ped point at with arms, must be called every frame.",
         "params": [
             {
                 "type": "Ped",
@@ -9,12 +9,17 @@
             },
             {
                 "type": "Any*",
-                "name": "args"
+                "name": "parameters"
             }
         ],
         "return_type": "void",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "struct parameters {\n  bool isRightHand;\n  Vector3 offset;\n  Entity entity;\n  int boneIndex;\n  int flags; // (1 << 22) makes attach to point at\n  int unk1; // 1-5\n  int unk2; // 1-2\n}"
+            }
+        ],
         "apiset": ""
     }
 }

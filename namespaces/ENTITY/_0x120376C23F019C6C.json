@@ -1,14 +1,14 @@
 {
     "0x120376C23F019C6C": {
-        "name": "_GET_PELT_TEXTURE_BY_CARRIABLE",
-        "comment": "returns the albedo hash by carriable hash, use Citizen.pointerValueInt() as last parameter",
+        "name": "_GET_ENTITY_ALBEDO",
+        "comment": "returns the albedo hash by carriable hash, use Citizen.pointerValueInt() as last parameter \nthis native writes an albedo-related hash to the output pointer and returns whether the entity already has a valid albedo/material entry assigned if not it loads it and applies it using 0xDD03FC2089AD093C",
         "params": [
             {
-                "type": "Hash",
-                "name": "carriableHash"
+                "type": "Entity",
+                "name": "entity"
             },
             {
-                "type": "Hash*",
+                "type": "Any*",
                 "name": "albedoHash"
             }
         ],

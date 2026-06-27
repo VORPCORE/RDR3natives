@@ -1,6 +1,6 @@
 {
     "0x1FC92BDBA1106BD2": {
-        "name": "_0x1FC92BDBA1106BD2",
+        "name": "_ROPE_FORCE_LENGHT",
         "comment": "",
         "params": [
             {
@@ -9,7 +9,7 @@
             },
             {
                 "type": "float",
-                "name": "p1"
+                "name": "length"
             }
         ],
         "return_type": "void",

@@ -1,20 +1,25 @@
 {
     "0x4823F13A21F51964": {
-        "name": "_0x4823F13A21F51964",
-        "comment": "",
+        "name": "_GET_PED_WEAPON_AMMO_FROM_GUID",
+        "comment": "returns the full amount of ammo that the ped has for the weapon by guid",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Ped",
+                "name": "ped"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Any*",
+                "name": "itemGuid"
             }
         ],
-        "return_type": "Any",
+        "return_type": "int",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "local function inventoryGetGuidFromItemid(item, pGuid, slotId)\n    local outGuid = DataView.ArrayBuffer(8 * 13)\n    local result = Citizen.InvokeNative(0x886DFD3E185C8A89, 1, pGuid, item, slotId, outGuid:Buffer(), Citizen.ResultAsInteger());\n    if result ~= 1 then return nil end\n    return outGuid:Buffer();\nend\n\nRegisterCommand(\"getammo\", function()\n    local characterGuid = inventoryGetGuidFromItemid(`CHARACTER`, 0, `SLOTID_NONE`)\n    if not characterGuid then return end\n\n    local weaponGuid = inventoryGetGuidFromItemid(`CARRIED_WEAPONS`, characterGuid, `SLOTID_CARRIED_WEAPONS`)\n    if not weaponGuid then return end\n\n    local itemGuid = inventoryGetGuidFromItemid(`WEAPON_SNIPERRIFLE_CARCANO`, weaponGuid, `SLOTID_WEAPON_0`)\n    if not itemGuid then return end\n\n    local ammo = Citizen.InvokeNative(0x4823F13A21F51964, PlayerPedId(), itemGuid)\n    print(\"ammo: \" .. ammo)\nend, false)"
+            }
+        ],
         "apiset": ""
     }
 }

@@ -1,7 +1,7 @@
 {
     "0x388088BFF3681189": {
-        "name": "_0x388088BFF3681189",
-        "comment": "",
+        "name": "_ITEMDATABASE_GET_BUNDLE_ACQUIRE_COSTS_COUNT_FROM_COST",
+        "comment": "Return the number of currencies available for a bundle. To use with _ITEMDATABASE_FILLOUT_BUNDLE\nbundle: Hash — e.g: BUNDLE_CLOTHING_ITEM_F_OFFHAND_000_TINT_001\ncost: Hash — e.g: COST_GOLD, COST_CRAFTING_MP...",
         "params": [
             {
                 "type": "Hash",
@@ -9,7 +9,7 @@
             },
             {
                 "type": "Hash",
-                "name": "costtype"
+                "name": "cost"
             }
         ],
         "return_type": "int",

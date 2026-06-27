@@ -1,7 +1,7 @@
 {
     "0xFA8C10DCE0706D43": {
-        "name": "_0xFA8C10DCE0706D43",
-        "comment": "_HAS_PED_*",
+        "name": "_HAS_PED_KNOCKED_ON_DOOR",
+        "comment": "Checks whether the specified ped has performed a door knocking interaction\nThis is typically used together with SET_DOOR_KNOCKING_WHEN_LOCKED.\nIf a door is configured to use knocking behavior when locked, and the player interacts\nwith it, this native returns true AFTER the knocking interaction/animation has completed ",
         "params": [
             {
                 "type": "Ped",

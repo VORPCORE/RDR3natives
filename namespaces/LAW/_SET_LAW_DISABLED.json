@@ -1,7 +1,7 @@
 {
     "0x8DE82BC774F3B862": {
         "name": "_SET_LAW_DISABLED",
-        "comment": "",
+        "comment": "This native is what temporary disables the dispatch, even if witnesses report it the lawman will not come also disables temporarily the GetCrimeDispatchTypeForPlayer native from returning any crime dispatch\nif you enable it at any time , when before a report was done by witness, the dispatch will resume ,lawman will be looking for you.",
         "params": [
             {
                 "type": "BOOL",

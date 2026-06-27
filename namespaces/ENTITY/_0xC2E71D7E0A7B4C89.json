@@ -1,14 +1,14 @@
 {
     "0xC2E71D7E0A7B4C89": {
-        "name": "_0xC2E71D7E0A7B4C89",
-        "comment": "",
+        "name": "_IS_TRAIN_INTERIOR_LOADED",
+        "comment": "Checks whether the entity's interior is currently loaded by the game engine.\nThis is mainly used for train carriages. When the player is far away or not standing on the train, the game unloads interiors of distant carriages as an optimization. If the interior of the entity is currently loaded, this native returns true",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

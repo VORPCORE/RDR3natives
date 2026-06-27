@@ -1,7 +1,7 @@
 {
     "0xF46108C50A22B029": {
-        "name": "_0xF46108C50A22B029",
-        "comment": "",
+        "name": "_IS_LAW_SEARCH_ACTIVE",
+        "comment": "returns true if law is searching player",
         "params": [],
         "return_type": "BOOL",
         "build": "1207",

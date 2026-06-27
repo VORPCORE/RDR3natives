@@ -1,15 +1,15 @@
 {
     "0x6835AFEA10E186F4": {
-        "name": "_0x6835AFEA10E186F4",
-        "comment": "",
+        "name": "_SET_OARS_ROWING_SPEED",
+        "comment": "3 speeds (1-3), higher it is faster it will be",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Vehicle",
+                "name": "vehicle"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "int",
+                "name": "speed"
             }
         ],
         "return_type": "void",

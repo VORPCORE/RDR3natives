@@ -1,11 +1,11 @@
 {
     "0x3F08C6163A4AB1D6": {
-        "name": "_0x3F08C6163A4AB1D6",
-        "comment": "",
+        "name": "_REQUEST_ENTITY_VISIBILITY_TRACKING",
+        "comment": "Enables visibility tracking for the specified entity\nFor peds, calling this makes PED::_IS_PED_VISIBILITY_TRACKED(ped) return true.\nFor vehicles, calling this makes VEHICLE::IS_VEHICLE_VISIBLE(vehicle) return true in the tracked/visible state context observed from scripts",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Entity",
+                "name": "entity"
             }
         ],
         "return_type": "void",

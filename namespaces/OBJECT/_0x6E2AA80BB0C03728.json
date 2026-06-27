@@ -1,18 +1,18 @@
 {
     "0x6E2AA80BB0C03728": {
-        "name": "_0x6E2AA80BB0C03728",
-        "comment": "",
+        "name": "_DOOR_SYSTEM_CHECK_ACTION_FLAG",
+        "comment": "Checks whether a specific door action/state flag is active for the given door hash.\n- flag 32: returns true while the door is being kicked\n- flag 23: returns true after the door has been opened by kicking\n- flag 8:  returns true when trying to open a locked door",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Hash",
+                "name": "doorHash"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "int",
+                "name": "flag"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""

@@ -10,7 +10,12 @@
         ],
         "return_type": "void",
         "build": "1207",
-        "examples": [],
+        "examples": [
+            {
+                "lang": "lua",
+                "code": "struct FireSingleBulletArgs\n{\n  float xStart;\n  float yStart;\n  float zStart;\n  float xEnd;\n  float yEnd;\n  float zEnd;\n  Hash weaponHash;\n  float damage;\n  float p8;\n  Entity instigator;\n  Entity entity2;\n  Entity entity3;\n  BOOL p12;\n  BOOL p13;\n  BOOL p14;\n  BOOL p15;\n  BOOL p16;\n  Any p17;\n  BOOL p18;\n  BOOL p19;\n}"
+            }
+        ],
         "apiset": ""
     }
 }

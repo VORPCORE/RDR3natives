@@ -1,22 +1,22 @@
 {
     "0x877EA24EB1614495": {
-        "name": "_0x877EA24EB1614495",
-        "comment": "",
+        "name": "_DETERMINE_VEHICLE_COMPARTMENT_STATE",
+        "comment": " Determines the interaction/storage state of a vehicle rear compartment or storage area.\nReturns whether the query was successful and writes a state value to outState\nObserved states:\n* 1  = Compartment available / unopened\n* 57 = Vehicle has no valid compartment/storage\n* 72 = Compartment opened, resolved or depleted",
         "params": [
             {
-                "type": "Any",
-                "name": "p0"
+                "type": "Any*",
+                "name": "outState"
             },
             {
-                "type": "Any",
-                "name": "p1"
+                "type": "Vehicle",
+                "name": "vehicle"
             },
             {
-                "type": "Any",
-                "name": "p2"
+                "type": "Ped",
+                "name": "ped"
             }
         ],
-        "return_type": "Any",
+        "return_type": "BOOL",
         "build": "1207",
         "examples": [],
         "apiset": ""
