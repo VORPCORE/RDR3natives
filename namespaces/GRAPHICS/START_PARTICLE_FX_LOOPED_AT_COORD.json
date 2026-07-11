@@ -4,7 +4,7 @@
         "comment": "https://github.com/femga/rdr3_discoveries/blob/master/graphics/ptfx/ptfx_assets_looped.lua",
         "params": [
             {
-                "type": "const char*",
+                "type": "char*",
                 "name": "effectName"
             },
             {
