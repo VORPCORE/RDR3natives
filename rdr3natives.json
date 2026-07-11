@@ -32208,7 +32208,7 @@
             "comment": "",
             "params": [
                 {
-                    "type": "const char*",
+                    "type": "char*",
                     "name": "effectName"
                 },
                 {
